@@ -373,41 +373,41 @@
 "weapons/countermeasure_split_launcher_jet";"ECM Dispensers: Сountermeasures";;
 "weapons/countermeasure_split_launcher_jet/short";"ECM Dispensers: Countermeasures";;
 #
-"weapons/countermeasure_launcher_jet_bol_pod";"ECM Dispensers (BOL Pods): Countermeasures";;
-"weapons/countermeasure_launcher_jet_bol_pod/short";"ECM Dispensers (BOL Pods): Countermeasures";;
-"weapons/countermeasure_split_launcher_jet_bol";"ECM Dispensers (BOL Pods): Countermeasures";;
-"weapons/countermeasure_split_launcher_jet_bol/short";"ECM Dispensers (BOL Pods): Countermeasures";;
-"weapons/countermeasure_split_launcher_jet_bol_pod";"ECM Dispensers (BOL Pods): Countermeasures";;
-"weapons/countermeasure_split_launcher_jet_bol_pod/short";"ECM Dispensers (BOL Pods): Countermeasures";;
-"weapons/countermeasure_split_launcher_jet_bol";"ECM Dispensers (BOL Pods): Сountermeasures";;
-"weapons/countermeasure_split_launcher_jet_bol/short";"ECM Dispensers (BOL Pods): Countermeasures";;
-"weapons/countermeasure_launcher_jet_bol_pod_aim9m";"ECM Dispensers (BOL Pods): Countermeasures";;
-"weapons/countermeasure_launcher_jet_bol_pod_aim9m/short";"ECM Dispensers (BOL Pods): Countermeasures";;
-"weapons/countermeasure_launcher_jet_bol_pod_aim9l";"ECM Dispensers (BOL Pods): Countermeasures";;
-"weapons/countermeasure_launcher_jet_bol_pod_aim9l/short";"ECM Dispensers (BOL Pods): Countermeasures";;
-"weapons/countermeasure_split_launcher_jet_maw_bol_pod";"ECM Dispensers (MAWS-linked BOL Pods): Countermeasures";;
-"weapons/countermeasure_split_launcher_jet_maw_bol_pod/short";"ECM Dispensers (MAWS-linked BOL Pods): Countermeasures";;
-"weapons/countermeasure_split_launcher_jet_bol_pod_aim9l";"ECM Dispensers (BOL Pods): Countermeasures";;
-"weapons/countermeasure_split_launcher_jet_bol_pod_aim9l/short";"ECM Dispensers (BOL Pods): Countermeasures";;
-"weapons/countermeasure_split_launcher_jet_bol_pod_aim9m";"ECM Dispensers (BOL Pods): Countermeasures";;
-"weapons/countermeasure_split_launcher_jet_bol_pod_aim9m/short";"ECM Dispensers (BOL Pods): Countermeasures";;
-"weapons/countermeasure_split_launcher_jet_bol_pod";"ECM Dispensers (BOL Pods): Сountermeasures";;
-"weapons/countermeasure_split_launcher_jet_bol_pod/short";"ECM Dispensers (BOL Pods): Countermeasures";;
+"weapons/countermeasure_launcher_jet_bol_pod";"BOL Rail ECM Dispensers: Countermeasures";;
+"weapons/countermeasure_launcher_jet_bol_pod/short";"BOL Rail ECM Dispensers: Countermeasures";;
+"weapons/countermeasure_split_launcher_jet_bol";"BOL Rail ECM Dispensers: Countermeasures";;
+"weapons/countermeasure_split_launcher_jet_bol/short";"BOL Rail ECM Dispensers: Countermeasures";;
+"weapons/countermeasure_split_launcher_jet_bol_pod";"BOL Rail ECM Dispensers: Countermeasures";;
+"weapons/countermeasure_split_launcher_jet_bol_pod/short";"BOL Rail ECM Dispensers: Countermeasures";;
+"weapons/countermeasure_split_launcher_jet_bol";"BOL Rail ECM Dispensers: Сountermeasures";;
+"weapons/countermeasure_split_launcher_jet_bol/short";"BOL Rail ECM Dispensers: Countermeasures";;
+"weapons/countermeasure_launcher_jet_bol_pod_aim9m";"BOL Rail ECM Dispensers: Countermeasures";;
+"weapons/countermeasure_launcher_jet_bol_pod_aim9m/short";"BOL Rail ECM Dispensers: Countermeasures";;
+"weapons/countermeasure_launcher_jet_bol_pod_aim9l";"BOL Rail ECM Dispensers: Countermeasures";;
+"weapons/countermeasure_launcher_jet_bol_pod_aim9l/short";"BOL Rail ECM Dispensers: Countermeasures";;
+"weapons/countermeasure_split_launcher_jet_maw_bol_pod";"MAWS BOL Rail ECM Dispensers: Countermeasures";;
+"weapons/countermeasure_split_launcher_jet_maw_bol_pod/short";"MAWS BOL Rail ECM Dispensers: Countermeasures";;
+"weapons/countermeasure_split_launcher_jet_bol_pod_aim9l";"BOL Rail ECM Dispensers: Countermeasures";;
+"weapons/countermeasure_split_launcher_jet_bol_pod_aim9l/short";"BOL Rail ECM Dispensers: Countermeasures";;
+"weapons/countermeasure_split_launcher_jet_bol_pod_aim9m";"BOL Rail ECM Dispensers: Countermeasures";;
+"weapons/countermeasure_split_launcher_jet_bol_pod_aim9m/short";"BOL Rail ECM Dispensers: Countermeasures";;
+"weapons/countermeasure_split_launcher_jet_bol_pod";"BOL Rail ECM Dispensers: Сountermeasures";;
+"weapons/countermeasure_split_launcher_jet_bol_pod/short";"BOL Rail ECM Dispensers: Countermeasures";;
 #
 "weapons/countermeasure_split_launcher_jet_add_pod";"ECM Pods: Сountermeasures";;
 "weapons/countermeasure_split_launcher_jet_add_pod/short";"ECM Pods: Countermeasures";;
 "weapons/countermeasure_split_large_launcher_jet_add_pod";"ECM Pods: Large-Caliber Countermeasures";;
 "weapons/countermeasure_split_large_launcher_jet_add_pod/short";"ECM Pods: Large-Caliber Countermeasures";;
 #
-"weapons/countermeasure_large_split_launcher_jet_maw";"ECM Dispensers (MAWS-linked): Large-Caliber Countermeasures";;
-"weapons/countermeasure_large_split_launcher_jet_maw/short";"ECM Dispensers (MAWS-linked): Countermeasures";;
-"weapons/countermeasure_split_launcher_jet_maw";"ECM Dispensers (MAWS-linked): Сountermeasures";;
-"weapons/countermeasure_split_launcher_jet_maw/short";"ECM Dispensers (MAWS-linked): Countermeasures";;
-"weapons/countermeasure_split_large_launcher_jet_maw";"ECM Dispensers (MAWS-linked): Large-Caliber Countermeasures";;
-"weapons/countermeasure_split_large_launcher_jet_maw/short";"ECM Dispensers (MAWS-linked): Large-Caliber Countermeasures";;
+"weapons/countermeasure_large_split_launcher_jet_maw";"MAWS ECM Dispensers: Large-Caliber Countermeasures";;
+"weapons/countermeasure_large_split_launcher_jet_maw/short";"MAWS ECM Dispensers: Countermeasures";;
+"weapons/countermeasure_split_launcher_jet_maw";"MAWS ECM Dispensers: Сountermeasures";;
+"weapons/countermeasure_split_launcher_jet_maw/short";"MAWS ECM Dispensers: Countermeasures";;
+"weapons/countermeasure_split_large_launcher_jet_maw";"MAWS ECM Dispensers: Large-Caliber Countermeasures";;
+"weapons/countermeasure_split_large_launcher_jet_maw/short";"MAWS ECM Dispensers: Large-Caliber Countermeasures";;
 #
-"weapons/countermeasure_split_launcher_jet_pids";"ECM Dispensers (PIDS-linked): Сountermeasures";;
-"weapons/countermeasure_split_launcher_jet_pids/short";"ECM Dispensers (PIDS-linked): Countermeasures";;
+"weapons/countermeasure_split_launcher_jet_pids";"PIDS ECM Dispensers: Сountermeasures";;
+"weapons/countermeasure_split_launcher_jet_pids/short";"PIDS ECM Dispensers: Countermeasures";;
 #
 #/Guns, USA
 "weapons/gunBrowning50_M3_underwing";"Browning M2 12.7mm Heavy Machine Gun (Secondary)";;
@@ -1052,6 +1052,20 @@ weapons/us_aim7p_sparrow_fa_18/short;AIM-7P-2 Sparrow;;
 "weapons/us_aim4f_falcon_default";"AIM-4F Super Falcon Air-to-Air Missiles";;
 "weapons/us_aim4f_falcon_default/short";"AIM-4F Super Falcon";;
 #
+weapons/us_agm_179_mr_ir;AGM-179 Infrared-Guided Joint Air-to-Ground Missiles (Medium-Range);;
+weapons/us_agm_179_mr_ir/short;AGM-179 JAGM-MR [IR];;
+weapons/us_agm_179_mr_sal;AGM-179 Laser-Guided Joint Air-to-Ground Missiles (Medium-Range);;
+weapons/us_agm_179_mr_sal/short;AGM-179 JAGM-MR [SALH];;
+#
+weapons/us_aim92_stinger;AIM-92 Air-To-Air Stinger Air-to-Air Missiles;;
+weapons/us_aim92_stinger/short;AIM-92 ATAS;;
+weapons/us_aim92_stinger_atas_tiger;AIM-92 Air-To-Air Stinger Air-to-Air Missiles;;
+weapons/us_aim92_stinger_atas_tiger/short;AIM-92 ATAS;;
+weapons/us_aim92_stinger_left;AIM-92 Air-To-Air Stinger Air-to-Air Missiles;;
+weapons/us_aim92_stinger_left/short;AIM-92 ATAS;;
+weapons/us_aim92_stinger_right;AIM-92 Air-To-Air Stinger Air-to-Air Missiles;;
+weapons/us_aim92_stinger_right/short;AIM-92 ATAS;;
+#
 #Missiles, Ger
 "weapons/us_aim9b_fgw_2_sidewinder";"AIM-9F Sidewinder Air-to-Air Missiles";;
 "weapons/us_aim9b_fgw_2_sidewinder/short";"AIM-9F Sidewinder";;
@@ -1245,6 +1259,9 @@ weapons/r_darter/short;R-Darter;;
 weapons/r_darter_default;R-Darter Air-to-Air Missiles;;
 weapons/r_darter_default/short;R-Darter;;
 #
+weapons/uk_brimstone_dm;Brimstone 2 Laser-Guided Air-to-Ground Missiles;;
+weapons/uk_brimstone_dm/short;Brimstone 2 [SALH];;
+#
 #Missiles, JP
 "weapons/us_aim9p4_sidewinder";"AIM-9P-4 Sidewinder Air-to-Air Missiles";;
 "weapons/us_aim9p4_sidewinder/short";"AIM-9P-4 Sidewinder";;
@@ -1278,50 +1295,50 @@ weapons/r_darter_default/short;R-Darter;;
 "weapons/jp_asm2/short";"ASM-2";;
 #
 #Missiles, CN
-"weapons/cn_pl12";"Pī Lì-12 Air-to-Air Missiles";;
+"weapons/cn_pl12";"PL-12 Air-to-Air Missiles";;
 "weapons/cn_pl12/short";"PL-12";;
 #
-"weapons/cn_pl12_default";"Pī Lì-12 Air-to-Air Missiles";;
+"weapons/cn_pl12_default";"PL-12 Air-to-Air Missiles";;
 "weapons/cn_pl12_default/short";"PL-12";;
 #
-"weapons/su_pl2";"Pī Lì-2 Atoll-C Air-to-Air Missiles";;
+"weapons/su_pl2";"PL-2 Atoll-C Air-to-Air Missiles";;
 "weapons/su_pl2/short";"PL-2 Atoll-C";;
 #
-"weapons/su_pl2_default";"Pī Lì-2 Atoll-C Air-to-Air Missiles";;
+"weapons/su_pl2_default";"PL-2 Atoll-C Air-to-Air Missiles";;
 "weapons/su_pl2_default/short";"PL-2 Atoll-C";;
 #
-"weapons/su_pl5b";"Pī Lì-5B Atoll-D Air-to-Air Missiles";;
+"weapons/su_pl5b";"PL-5B Atoll-D Air-to-Air Missiles";;
 "weapons/su_pl5b/short";"PL-5B Atoll-D";;
 #
-"weapons/su_pl5b_default";"Pī Lì-5B Atoll-D Air-to-Air Missiles";;
+"weapons/su_pl5b_default";"PL-5B Atoll-D Air-to-Air Missiles";;
 "weapons/su_pl5b_default/short";"PL-5B Atoll-D";;
 #
-"weapons/su_pl5c";"Pī Lì-5C Atoll-E Air-to-Air Missiles";;
+"weapons/su_pl5c";"PL-5C Atoll-E Air-to-Air Missiles";;
 "weapons/su_pl5c/short";"PL-5C Atoll-E";;
 #
-"weapons/su_pl5c_default";"Pī Lì-5C Atoll-E Air-to-Air Missiles";;
+"weapons/su_pl5c_default";"PL-5C Atoll-E Air-to-Air Missiles";;
 "weapons/su_pl5c_default/short";"PL-5C Atoll-E";;
 #
-"weapons/su_pl5e2";"Pī Lì-5EII Atoll-F Air-to-Air Missiles";;
+"weapons/su_pl5e2";"PL-5EII Atoll-F Air-to-Air Missiles";;
 "weapons/su_pl5e2/short";"PL-5EII Atoll-F";;
 #
-"weapons/su_pl5e2_default";"Pī Lì-5EII Atoll-F Air-to-Air Missiles";;
+"weapons/su_pl5e2_default";"PL-5EII Atoll-F Air-to-Air Missiles";;
 "weapons/su_pl5e2_default/short";"PL-5EII Atoll-F";;
 #
-"weapons/cn_pl11";"Pī Lì-11 Air-to-Air Missiles";;
+"weapons/cn_pl11";"PL-11 Air-to-Air Missiles";;
 "weapons/cn_pl11_short";"PL-11";;
 #
-weapons/su_pl7;Pī Lì-7 Air-to-Air Missiles;;
+weapons/su_pl7;PL-7 Air-to-Air Missiles;;
 weapons/su_pl7/short;PL-7;;
 #
-weapons/su_pl8;Pī Lì-8 Air-to-Air Missiles;;
+weapons/su_pl8;PL-8 Air-to-Air Missiles;;
 weapons/su_pl8/short;PL-8;;
-weapons/su_pl8_default;Pī Lì-8 Air-to-Air Missiles;;
+weapons/su_pl8_default;PL-8 Air-to-Air Missiles;;
 weapons/su_pl8_default/short;PL-8;;
 #
-weapons/cn_pl8b;Pī Lì-8B Air-to-Air Missiles;;
+weapons/cn_pl8b;PL-8B Air-to-Air Missiles;;
 weapons/cn_pl8b/short;PL-8B;;
-weapons/cn_pl8b_default;Pī Lì-8B Air-to-Air Missiles;;
+weapons/cn_pl8b_default;PL-8B Air-to-Air Missiles;;
 weapons/cn_pl8b_default/short;PL-8B;;
 #Missiles, IT
 "weapons/it_aspide_1a";"Aspide-1A Air-to-Air Missiles";;
@@ -1641,71 +1658,86 @@ weapons/il_derby_default/short;Derby;;
 "weapons/us_750lb_mk77_mod0/short";"Mk77 INC (750lb.)";;
 #
 #Bombs, GER
-"weapons/de_sc50";"50 kg SC50JA bomb";;
-"weapons/de_sc50_default";"50 kg SC50JA bomb";;
-"weapons/de_sc50_default/short";"SC50";;
+"weapons/de_sc50";"Sprengbombe Cylindrisch 50 JA High-Explosive Bomb [50kg]";;
+weapons/de_sc50/short;SC 50 JA [50kg];;
+"weapons/de_sc50_default";"Sprengbombe Cylindrisch 50 JA High-Explosive Bomb [50kg]";;
+"weapons/de_sc50_default/short";"SC 50 JA [50kg]";;
 #
-"weapons/de_sc250";"250 kg SC250JA bomb";;
-"weapons/de_sc250_default";"250 kg SC250JA bomb";;
-"weapons/de_sc250_default/short";"SC250";;
+"weapons/de_sc250";"Sprengbombe Cylindrisch 250 JA High-Explosive Bomb [250kg]";;
+weapons/de_sc250/short;SC 250 JA [250kg];;
+"weapons/de_sc250_default";"Sprengbombe Cylindrisch 250 JA High-Explosive Bomb [250kg]";;
+"weapons/de_sc250_default/short";"SC 250 JA [250kg]";;
 #
-"weapons/de_sc500";"500 kg SC500K bomb";;
+"weapons/de_sc500";"Sprengbombe Cylindrisch 500 K High-Explosive Bomb [500kg]";;
+weapons/de_sc500/short;SC 500 K [500kg];;
 #
-"weapons/de_sc_ag300";"300 kg SC AG bomb";;
-"weapons/de_sc_ag300/short";"300 kg SC AG";;
+"weapons/de_sc_ag300";"Sprengbombe Cylindrisch AG High-Explosive Bomb [300kg]";;
+"weapons/de_sc_ag300/short";"SC AG [300kg]";;
 #
-"weapons/de_sc250_87";"250 kg SC250JA bomb";;
+"weapons/de_sc250_87";"Sprengbombe Cylindrisch 250 JA High-Explosive Bomb [250kg]";;
+weapons/de_sc250_87/short;SC 250 JA [250kg];;
 #
-"weapons/de_fx1400";"PC 1400 X (Fritz X)";;
+"weapons/de_fx1400";"Panzersprengbombe Cylindrisch ""Fritz X"" Radio-Guided Glide Bomb [1400kg]";;
+weapons/de_fx1400/short;Fritz X [1400kg];;
 #
-"weapons/de_hs_293a1";"HS 293 A-1 guided bomb";;
-"weapons/de_hs_293a1/short";"HS 293 A-1";;
+"weapons/de_hs_293a1";"Hs 293 A-1 Radio-Guided Glide Bomb [1000kg]";;
+"weapons/de_hs_293a1/short";"Hs 293 A-1 [1000kg]";;
 #
-"weapons/de_sc500_87";"500 kg SC500K bomb";;
+"weapons/de_sc500_87";"Sprengbombe Cylindrisch 500 K High-Explosive Bomb [500kg]";;
+weapons/de_sc500_87/short;SC 500 K [500kg];;
 #
-"weapons/de_sc1800b";"1800 kg SC1800B bomb";;
+"weapons/de_sc1800b";"Sprengbombe Cylindrisch 1800 B High-Explosive Bomb [1800kg]";;
+weapons/de_sc1800b/short;SC 1800 B [1800kg];;
 #
-"weapons/de_sc1000";"1000 kg SC1000L2 bomb";;
-"weapons/de_sc1000_default";"1000 kg SC1000L2 bomb";;
-"weapons/de_sc1000_default/short";"SC1000";;
+"weapons/de_sc1000";"Sprengbombe Cylindrisch 1000 L2 High-Explosive Bomb [1000kg]";;
+weapons/de_sc1000/short;SC 1000 L2 [1000kg];;
+"weapons/de_sc1000_default";"Sprengbombe Cylindrisch 1000 L2 High-Explosive Bomb [1000kg]";;
+"weapons/de_sc1000_default/short";"SC 1000 L2 [1000kg]";;
 #
-"weapons/de_sd10a";"10 kg SD10C bomb";;
+"weapons/de_sd10a";"Sprengbombe Dickwandig 10 C High-Explosive Bomb [10kg]";;
+weapons/de_sd10a/short;SD 10 C [10kg];;
 #
-"weapons/de_sd50";"50 kg SD50 bomb";;
-"weapons/de_sd50/short";"SD50";;
+"weapons/de_sd50";"Sprengbombe Dickwandig 50 High-Explosive Bomb [50kg]";;
+"weapons/de_sd50/short";"SD 50 [50kg]";;
 #
-"weapons/de_sd70";"70 kg SD70 bomb";;
-"weapons/de_sd70/short";"SD70";;
+"weapons/de_sd70";"Sprengbombe Dickwandig 70 High-Explosive Bomb [70kg]";;
+"weapons/de_sd70/short";"SD 70 [70kg]";;
 #
-"weapons/de_pc500_ap";"500 kg PC500 armor-piercing bomb";;
-"weapons/de_pc500_ap/short";"PC500";;
+"weapons/de_pc500_ap";"Panzersprengbombe Cylindrisch 500 Armor-Piercing High-Explosive Bomb [500kg]";;
+"weapons/de_pc500_ap/short";"PC 500 [500kg]";;
 #
-"weapons/de_pd500_ap";"500 kg PD500 armor-piercing bomb";;
-"weapons/de_pd500_ap/short";"PD500";;
+"weapons/de_pd500_ap";"Panzersprengbombe Dickwandig 500 Armor-Piercing High-Explosive Bomb [500kg]";;
+"weapons/de_pd500_ap/short";"PD 500 [500kg]";;
 #
-"weapons/de_pc500_rs_ap";"500 kg PC500 RS armor-piercing rocket bomb";;
-"weapons/de_pc500_rs_ap/short";"PC500 RS";;
+"weapons/de_pc500_rs_ap";"Panzersprengbombe Cylindrisch 500 RS Rocket-Assisted Armor-Piercing High-Explosive Bomb [500kg]";;
+"weapons/de_pc500_rs_ap/short";"PC 500 RS [500kg]";;
 #
-"weapons/de_pc1000_ap";"1000 kg PC1000 armor-piercing bomb";;
-"weapons/de_pc1000_ap/short";"PC1000";;
+"weapons/de_pc1000_ap";"Panzersprengbombe Cylindrisch 1000 Armor-Piercing High-Explosive Bomb [1000kg]";;
+"weapons/de_pc1000_ap/short";"PC 1000 [1000kg]";;
 #
-"weapons/de_pc1000_rs_ap";"1000 kg PC1000 RS armor-piercing rocket bomb";;
-"weapons/de_pc1000_rs_ap/short";"PC1000 RS";;
+"weapons/de_pc1000_rs_ap";"Panzersprengbombe Cylindrisch 1000 RS Rocket-Assisted Armor-Piercing High-Explosive Bomb [1000kg]";;
+"weapons/de_pc1000_rs_ap/short";"PC 1000 RS [1000kg]";;
 #
-"weapons/de_pc1600_ap";"1600 kg PC1600 armor-piercing bomb";;
-"weapons/de_pc1600_ap/short";"PC1600";;
+"weapons/de_pc1600_ap";"Panzersprengbombe Cylindrisch 1600 Armor-Piercing High-Explosive Bomb [1600kg]";;
+"weapons/de_pc1600_ap/short";"PC 1600 [1600kg]";;
 #
-"weapons/de_pc1800_rs_ap";"1800 kg PC1800 RS armor-piercing rocket bomb";;
-"weapons/de_pc1800_rs_ap/short";"PC1800 RS";;
+"weapons/de_pc1800_rs_ap";"Panzersprengbombe Cylindrisch 1800 RS Rocket-Assisted Armor-Piercing High-Explosive Bomb [1800kg]";;
+"weapons/de_pc1800_rs_ap/short";"PC 1800 RS [1800kg]";;
 #
 "weapons/de_250_matra_25e";"250 kg Matra 25E bomb";;
 "weapons/de_250_matra_25e/short";"250 kg Matra 25E";;
 #
-"weapons/de_sc2500";"2500 kg SC2500 bomb";;
-"weapons/de_sc2500/short";"SC2500";;
+"weapons/de_sc2500";"Sprengbombe Cylindrisch 2500 High-Explosive Bomb [2500kg]";;
+"weapons/de_sc2500/short";"SC 2500 [2500kg]";;
 #
-"weapons/de_sb2500";"2500 kg SB2500 bomb";;
-"weapons/de_sb2500/short";"SB2500";;
+"weapons/de_sb2500";"Spezialbombe 2500 Aerial Mine [2500kg]";;
+"weapons/de_sb2500/short";"SB 2500 [2500kg]";;
+#
+weapons/de_flam_250;Flammenbombe C 250 Incendiary Bomb [250kg];;
+weapons/de_flam_250/short;FB C 250 [250kg];;
+#
+weapons/de_flam_500;Flammenbombe C 500 Incendiary Bomb [500kg];;
+weapons/de_flam_500/short;FB C 500 [500kg];;
 #
 #Bombs, USSR
 #
@@ -1771,6 +1803,14 @@ weapons/il_derby_default/short;Derby;;
 "weapons/us_hydra_70_m247_default/short";"Hydra 70 WAFAR (M247)";;
 #
 #Rockets, GER
+weapons/de_r4m_pb2_rocket;Panzerblitz 2 Anti-Tank Rockets;;
+weapons/de_r4m_pb2_rocket/short;PB 2;;
+#
+weapons/de_r4m_orkan_rocket;"Rakete 4 Kilogramm Minenkopf ""Orkan"" Air-to-Air Rockets";;
+weapons/de_r4m_orkan_rocket/short;R4M;;
+#
+weapons/de_rz65_rocket;"Rauchzylinder 65 Bordrakete ""Föhn"" Air-to-Air Rockets";;
+weapons/de_rz65_rocket/short;RZ 65 Föhn;;
 #
 #Rockets, USSR
 #

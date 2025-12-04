@@ -690,6 +690,11 @@ mosquito_b_mk16_0;de Havilland Aircraft Company, Ltd. | Mosquito | Bomber, Mk.XV
 mosquito_b_mk16_1;Mosquito B.XVI;;
 mosquito_b_mk16_2;Mosquito B.XVI;;
 #
+f_111c_raaf_shop;▄F-111C Aardvark (1986);;
+f_111c_raaf_0;General Dynamics Corporation | ▄F-111C Aardvark | Pave Tack Modification (1986);;
+f_111c_raaf_1;▄F-111C Aardvark (1986);;
+f_111c_raaf_2;▄F-111C (1986);;
+#
 "shop/group/meteor3_group";"Meteor F.3";;
 "shop/group/meteor4_group";"Meteor F.4";;
 "shop/group/blenheim_group";"Blenheim/Beaufort";;
