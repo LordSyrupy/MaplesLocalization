@@ -136,6 +136,32 @@ Radar Model";;
 "CCRP";"
     <color=@badTextColor>CCRP</color> - <color=@userlogColoredText>Continuously-Calculated Release Point</color>";;
 
+"missile/guidance/ir";"IR | Infrared";;
+"missile/guidance/tv";"TV | Television";;
+"missile/guidance/SARH";"SARH | Semi-Active Radar Homing";;
+"missile/guidance/SARH+IOG";"SARH+INS | Semi-Active Radar Homing + Inertial Navigation";;
+"missile/guidance/SARH+IOG+DL";"SARH+INS+DL | Semi-Active Radar Homing + Inertial Navigation + Radar Datalink";;
+"missile/guidance/ARH";"ARH | Active Radar Homing";;
+"missile/guidance/ARH+IOG";"ARH+INS | Active Radar Homing + Inertial Navigation";;
+"missile/guidance/ARH+IOG+DL";"ARH+INS+DL | Active Radar Homing + Inertial Navigation + Radar Datalink";;
+"missile/guidance/ARH+IOG+GNSS+DL";"ARH+INS+GPS+DL | Active Radar Homing + Inertial Navigation + Satellite Geopositioning + Radar Datalink";;
+"missile/guidance/laser";"SALH | Semi-Active Laser Homing";;
+"missile/guidance/laser+IOG";"SALH+INS | Semi-Active Laser Homing + Inertial Navigation";;
+"missile/guidance/laser+IOG+GNSS";"SALH+INS+GPS | Semi-Active Laser Homing + Inertial Navigation + Satellite Geopositioning";;
+"missile/guidance/ir+IOG+GNSS";"IR+INS+GPS | Infrared + Inertial Navigation + Satellite Geopositioning";;
+"missile/guidance/ir+IOG+GNSS+DL";"IR+INS+GPS+DL | Infrared + Inertial Navigation + Satellite Geopositioning + Radar Datalink";;
+"missile/guidance/ir+IOG+DL";"IR+INS+DL | Infrared + Inertial Navigation + Radar Datalink";;
+"missile/guidance/ir+IOG";"IR+INS | Infrared + Inertial Navigation";;
+"missile/guidance/tv+IOG";"TV+INS | Television + Inertial Navigation";;
+"missile/guidance/tv+IOG+GNSS";"TV+INS+GPS | Television + Inertial Navigation + Satellite Geopositioning";;
+"missile/guidance/sns";"GPS | Satellite Geopositioning";;
+"missile/guidance/mclos";"MCLOS | Manual Command Line-Of-Sight";;
+"missile/guidance/saclos";"SACLOS | Semi-Automatic Command Line-of-Sight";;
+"missile/guidance/beamRiding";"Beam Riding";;
+"missile/aiming/beamRiding";"Beam Riding";;
+"missile/aiming/semiautomatic";"SACLOS | Semi-Automatic Command Line-of-Sight";;
+"missile/aiming/manual";"MCLOS | Manual Command Line-Of-Sight";;
+
 //American Radars
 "sensors/us_sa_radar";"SA";;
 "sensors/us_an_sps_4";"AN-SPS-4";;
