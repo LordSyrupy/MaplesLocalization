@@ -1,13 +1,12 @@
-"<ID|readonly|
-noverify>";"<English>";
-mainmenu/custom_lang_info;<color=@commonTextColor>Lord Syrupy's Localization Mod</color> <color=@goodTextColor>v0.4.1</color>
-mainmenu/custom_lang_info/tooltip;"You have installed Maple's Localization Mod <color=@goodTextColor>v0.4.1</color>. Vehicle, weapon, and modification names may appear different.
+"<ID|readonly|noverify>";"<English>";
+mainmenu/custom_lang_info;<color=@commonTextColor>Maple's Localization Mod</color> <color=@goodTextColor>v0.4.2</color>
+mainmenu/custom_lang_info/tooltip;"You have installed Maple's Localization Mod <color=@goodTextColor>v0.4.2</color>. Vehicle, weapon, and modification names may appear different.
 
 Questions? Comments? Concerns? Join the Discord server: https://discord.gg/zhr3XQaFsj
 
-Additionally, the GitHub repository for Lord Syrupy's Localization Mod can be found here:
+Additionally, the GitHub repository for Maple's Localization Mod can be found here:
 
-https://github.com/LordSyrupy/LordSyrupysLocalization
+https://github.com/LordSyrupy/MaplesLocalization
 
 DEVELOPMENT TEAM
 Maple Syrupy
