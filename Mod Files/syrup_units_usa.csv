@@ -951,6 +951,11 @@ f_111f_killstreak_2;☢F-111F;;
 "b_66b_1";"B-66B Destroyer";;
 "b_66b_2";"B-66B";;
 #
+fa_18e_block_2_shop;F/A-18E-2 Super Hornet;;
+fa_18e_block_2_0;Boeing Defense, Space & Security | F/A-18E-2 Super Hornet | Block 2, Lot 30 (2005);;
+fa_18e_block_2_1;F/A-18E-2 Super Hornet;;
+fa_18e_block_2_2;F/A-18E-2;;
+#
 "shop/group/p-26_group";"P-26 Peashooter";;
 "shop/group/p-36_group";"P-36 Hawk";;
 "shop/group/f2a_group";"F2A Buffalo";;

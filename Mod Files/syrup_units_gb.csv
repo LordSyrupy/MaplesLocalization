@@ -600,10 +600,10 @@
 "f-4jk_1";"▄F-4J Phantom F.3";;
 "f-4jk_2";"▄F-4J F.3";;
 #
-"ef_2000_fgr4_shop";"▄Typhoon FGR.4";;
-"ef_2000_fgr4_0";"Eurofighter Jagdflugzeug GmbH | ▄Typhoon | Fighter/Ground Attack/Reconnaissance, Mk.4";;
-"ef_2000_fgr4_1";"▄Typhoon FGR.4";;
-"ef_2000_fgr4_2";"▄Typhoon FGR.4";;
+"ef_2000_fgr4_shop";"▄Typhoon FGR.4 (2018)";;
+"ef_2000_fgr4_0";"Eurofighter Jagdflugzeug GmbH | ▄Typhoon | Fighter/Ground Attack/Reconnaissance, Mk.4 (2018)";;
+"ef_2000_fgr4_1";"▄Typhoon FGR.4 (2018)";;
+"ef_2000_fgr4_2";"▄Typhoon FGR.4 (2018)";;
 #
 "harrier_gr7_shop";"Harrier GR.7";;
 "harrier_gr7_0";"British Aerospace PLC | Harrier | Ground Attack/Reconnaissance, Mk.7";;
@@ -694,6 +694,11 @@ f_111c_raaf_shop;▄F-111C Aardvark (1986);;
 f_111c_raaf_0;General Dynamics Corporation | ▄F-111C Aardvark | Pave Tack Modification (1986);;
 f_111c_raaf_1;▄F-111C Aardvark (1986);;
 f_111c_raaf_2;▄F-111C (1986);;
+#
+ef_2000_typhoon_aesa_shop;▄Typhoon FGR.4 (2019);;
+ef_2000_typhoon_aesa_0;Eurofighter Jagdflugzeug GmbH | ▄Typhoon | Fighter/Ground Attack/Reconnaissance, Mk.4 (2019);;
+ef_2000_typhoon_aesa_1;▄Typhoon FGR.4 (2019);;
+ef_2000_typhoon_aesa_2;▄Typhoon FGR.4 (2019);;
 #
 "shop/group/meteor3_group";"Meteor F.3";;
 "shop/group/meteor4_group";"Meteor F.4";;

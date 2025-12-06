@@ -1226,14 +1226,36 @@ weapons/us_aim92_stinger_right/short;AIM-92 ATAS;;
 "weapons/su_r_27er1";"R-27ER1 Alamo-C Air-to-Air Missiles";;
 "weapons/su_r_27er1/short";"R-27ER1 Alamo-C";;
 #
+weapons/209mm_9M33A3_launcher_user_cannon;9M33M3 Osa-AKM Surface-to-Air Missiles;;
+209mm_9m33m3;9M33M3 Osa-AKM Surface-to-Air Missiles;;
+weapons/209mm_9m33m3/short;9M33M3 Osa-AKM;;
+#
+weapons/su_r_40rd;R-40RD Acrid-C Air-to-Air Missiles;;
+weapons/su_r_40rd/short;R-40RD Acrid-C;;
+#
+weapons/su_r_40rd_default;R-40RD Acrid-C Air-to-Air Missiles;;
+weapons/su_r_40rd_default/short;R-40RD Acrid-C;;
+#
+weapons/su_r_40td;R-40TD Acrid-D Air-to-Air Missiles;;
+weapons/su_r_40td/short;R-40TD Acrid-D;;
+#
+weapons/su_r_40td_default;R-40TD Acrid-D Air-to-Air Missiles;;
+weapons/su_r_40td_default/short;R-40TD Acrid-D;;
+#
+weapons/su_rvv_sd;RVV-SD Adder-B Air-to-Air Missiles;;
+weapons/su_rvv_sd/short;RVV-SD Adder-B;;
+#
+weapons/su_rvv_sd_default;RVV-SD Adder-B Air-to-Air Missiles;;
+weapons/su_rvv_sd_default/short;RVV-SD Adder-B;;
+#
 #Missiles, GB
-"weapons/uk_skyflash_aim_7";"Skyflash Pre-TEMP Air-to-Air Missiles";;
+"weapons/uk_skyflash_aim_7";"Skyflash Air-to-Air Missiles";;
 "weapons/uk_skyflash_aim_7/short";"Skyflash";;
 #
-"weapons/uk_skyflash_aim_7_dogfight";"Skyflash Pre-TEMP Air-to-Air Missiles";;
+"weapons/uk_skyflash_aim_7_dogfight";"Skyflash Air-to-Air Missiles";;
 "weapons/uk_skyflash_aim_7_dogfight/short";"Skyflash";;
 #
-"weapons/uk_skyflash_aim_7_dogfight_default";"Skyflash Pre-TEMP Air-to-Air Missiles";;
+"weapons/uk_skyflash_aim_7_dogfight_default";"Skyflash Air-to-Air Missiles";;
 "weapons/uk_skyflash_aim_7_dogfight_default/short";"Skyflash";;
 #
 "weapons/uk_skyflash_aim_7_dogfight_tornado";"Skyflash TEMP Air-to-Air Missiles";;

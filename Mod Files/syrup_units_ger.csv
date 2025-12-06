@@ -385,10 +385,10 @@ tornado_ids_de_assta1_killstreak_2;☢IDS-Tornado (ASSTA 1.0);;
 "tornado_ids_de_mfg_1";"◄IDS-Tornado (MFG)";;
 "tornado_ids_de_mfg_2";"◄IDS-Tornado (MFG)";;
 #
-"ef_2000_block_10_shop";"◄EF-2000A Typhoon";;
-"ef_2000_block_10_0";"Eurofighter Jagdflugzeug GmbH | ◄EF-2000A Typhoon | Tranche 2 | Block 10";;
-"ef_2000_block_10_1";"◄EF-2000A Typhoon";;
-"ef_2000_block_10_2";"◄EF-2000A";;
+"ef_2000_block_10_shop";"◄EF-2000 Typhoon T2";;
+"ef_2000_block_10_0";"Eurofighter Jagdflugzeug GmbH | ◄EF-2000 Typhoon | Tranche 2 | Block 10";;
+"ef_2000_block_10_1";"◄EF-2000 Typhoon T2";;
+"ef_2000_block_10_2";"◄EF-2000 T2";;
 #
 "mig_29_9_12_germany_shop";"◊MiG-29A Fulcrum-A";;
 "mig_29_9_12_germany_0";"◊OKB-155 ""Mikoyan"" | MiG-29A Fulcrum-A | Product 9.12A";;
@@ -784,6 +784,11 @@ tornado_ids_de_assta1_killstreak_2;☢IDS-Tornado (ASSTA 1.0);;
 "tornado_ids_de_assta3_sle_0";"Panavia Aircraft GmbH | ◄Tornado | Interdictor/Strike | Service Life Enhancement Program";;
 "tornado_ids_de_assta3_sle_1";"◄IDS-Tornado (SLE)";;
 "tornado_ids_de_assta3_sle_2";"◄IDS-Tornado (SLE)";;
+#
+ef_2000_aesa_shop;◄EF-2000 Typhoon T3A;;
+ef_2000_aesa_0;Eurofighter Jagdflugzeug GmbH | ◄EF-2000 Typhoon | Tranche 3A;;
+ef_2000_aesa_1;◄EF-2000 Typhoon T3A;;
+ef_2000_aesa_2;◄EF-2000 T3A;;
 #
 "shop/group/fw-190a-4_group";"Fw 190 A-4/A-5 Würger";;
 "shop/group/f-86_german_group";"◄CL-13 Sabre";;
