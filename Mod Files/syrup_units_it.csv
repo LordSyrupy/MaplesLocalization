@@ -465,10 +465,10 @@
 "tornado_adv_1";"⛨Tornado ADV";;
 "tornado_adv_2";"⛨Tornado ADV";;
 #
-"ef_2000a_shop";"⛨F-2000A Typhoon";;
-"ef_2000a_0";"Eurofighter Jagdflugzeug GmbH | F-2000A Typhoon | Tranche 2 | Block 10";;
-"ef_2000a_1";"⛨F-2000A Typhoon";;
-"ef_2000a_2";"⛨F-2000A";;
+"ef_2000a_shop";"⛨F-2000A Typhoon T2";;
+"ef_2000a_0";"Eurofighter Jagdflugzeug GmbH | ⛨F-2000A Typhoon | Tranche 2 | Block 10";;
+"ef_2000a_1";"⛨F-2000A Typhoon T2";;
+"ef_2000a_2";"⛨F-2000A T2";;
 #
 "saab_jas39c_hungary_shop";"◔JAS 39EBS Gripen C";;
 "saab_jas39c_hungary_0";"Saab AB | ◔JAS 39EBS Gripen C";;
@@ -489,6 +489,11 @@ tornado_ids_de_assta1_italy_killstreak_shop;☢A-200A Tornado IDS;;
 tornado_ids_de_assta1_italy_killstreak_0;Panavia Aircraft GmbH | ☢A-200A Tornado | Interdictor/Strike;;
 tornado_ids_de_assta1_italy_killstreak_1;☢A-200A Tornado IDS;;
 tornado_ids_de_assta1_italy_killstreak_2;☢A-200A;;
+#
+ef_2000a_aesa_shop;⛨F-2000A Typhoon T3A;;
+ef_2000a_aesa_0;Eurofighter Jagdflugzeug GmbH | ⛨F-2000A Typhoon | Tranche 3A;;
+ef_2000a_aesa_1;⛨F-2000A Typhoon T3A;;
+ef_2000a_aesa_2;⛨F-2000A T3A;;
 #
 "shop/group/mig-21_hungary_group";"◔MiG-21 Fishbed";;
 "shop/group/fiat_g91_group";"G.91 Gina";;
