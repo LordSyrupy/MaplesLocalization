@@ -1681,7 +1681,7 @@ weapons/il_derby_default/short;Derby
 #
 #Bombs, GER
 "weapons/de_sc50";"Sprengbombe Cylindrisch 50 JA High-Explosive Bomb [50kg]"
-weapons/de_sc50/short;SC 50 JA [50kg]
+"weapons/de_sc50/short";"SC 50 JA [50kg]"
 "weapons/de_sc50_default";"Sprengbombe Cylindrisch 50 JA High-Explosive Bomb [50kg]"
 "weapons/de_sc50_default/short";"SC 50 JA [50kg]"
 #
@@ -1700,7 +1700,7 @@ weapons/de_sc500/short;SC 500 K [500kg]
 weapons/de_sc250_87/short;SC 250 JA [250kg]
 #
 "weapons/de_fx1400";"Panzersprengbombe Cylindrisch ""Fritz X"" Radio-Guided Glide Bomb [1400kg]"
-weapons/de_fx1400/short;Fritz X [1400kg]
+"weapons/de_fx1400/short";"Fritz X [1400kg]"
 #
 "weapons/de_hs_293a1";"Hs 293 A-1 Radio-Guided Glide Bomb [1000kg]"
 "weapons/de_hs_293a1/short";"Hs 293 A-1 [1000kg]"
@@ -1795,7 +1795,7 @@ weapons/su_ofab100_120/short;OFAB-100 [100kg]
 weapons/su_ofab_100_120;OFAB-100 High-Explosive Fragmentation Bomb [100kg]
 weapons/su_ofab_100_120/short;OFAB-100 [100kg]
 #
-weapons/cz_ofab_100_110_tu_jupiter;"OFAB-100-110TU ""Jupiter"" Parachute-Retarded High-Explosive Fragmentation Bomb [100kg]"
+"weapons/cz_ofab_100_110_tu_jupiter";"OFAB-100-110TU ""Jupiter"" Parachute-Retarded High-Explosive Fragmentation Bomb [100kg]"
 weapons/cz_ofab_100_110_tu_jupiter/short;OFAB-100-110TU [100kg]
 #
 weapons/cz_ofab_100mb;OFAB-100MB Parachute-Retarded High-Explosive Fragmentation Bomb [100kg]
@@ -1980,6 +1980,21 @@ weapons/su_zb_500/short;ZB-500 [374kg]
 #
 weapons/su_zb_360;ZB-360 Incendiary Tanks [342kg]
 weapons/su_zb_360/short;ZB-360 [342kg]
+#
+weapons/su_kab_500lg_e;500 kg KAB-500LG-E bomb
+weapons/su_kab_500lg_e/short;KAB-500LG-E
+#
+weapons/su_kab_250lg_e;KAB-250LG-E Dual-Mode Laser-Guided Bomb [250kg]
+weapons/su_kab_250lg_e/short;KAB-250LG-E [250kg]
+#
+weapons/su_upab_500b_e;UPAB-500B-E GLONASS-Guided Glide Bomb [500kg]
+weapons/su_upab_500b_e/short;UPAB-500B-E [500kg]
+#
+weapons/su_upab_1500b_e;UPAB-1500B-E GLONASS-Guided Glide Bomb [1500kg]
+weapons/su_upab_1500b_e/short;UPAB-1500B-E [1500kg]
+#
+weapons/su_kab_1500lg_e;KAB-1500LG-E Laser-Guided Bomb [1500kg]
+weapons/su_kab_1500lg_e/short;KAB-1500LG-E [1500kg]
 #
 #Bombs, GB
 "weapons/uk_paveway_iv";"Paveway IV Dual-Mode Laser-Guided Bomb (500lb.)"
