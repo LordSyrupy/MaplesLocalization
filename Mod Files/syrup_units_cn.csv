@@ -3,317 +3,317 @@
 #file formats are gonna be a little jank until i get into each one to fix them up. sorry, addy. -maple (11/13/2025)
 #RANK 1
 "gladiator_mk1_china_shop";"☀Gladiator Mk.I";;
-"gladiator_mk1_china_0";"☀Gloster Aircraft Company | Gladiator Mk. I ""Gé Jī""";;
+"gladiator_mk1_china_0";"Gloster Aircraft Company | ☀Gladiator Mk. I ""Gé Jī""";;
 "gladiator_mk1_china_1";"☀Gladiator Mk.I";;
 "gladiator_mk1_china_2";"☀Gladiator Mk.I";;
 #
 "ki-27_otsu_china_shop";"☀Ki 27 Yi";;
-"ki-27_otsu_china_0";"☀Nakajima Aircraft | Ki 27 Yi | Type 97 Fighter Yi";;
+"ki-27_otsu_china_0";"Nakajima Aircraft | ☀Ki 27 Yi | Type 97 Fighter Yi";;
 "ki-27_otsu_china_1";"☀Ki 27 Yi";;
 "ki-27_otsu_china_2";"☀Ki 27 Yi";;
 #
 "ki_43_3_ko_shop";"☀Ki 43-III Jia";;
-"ki_43_3_ko_0";"☀Nakajima Aircraft Company / Tachikawa Aircraft Company | Ki 43-III | Type 1 Fighter Model 3 Jia";;
+"ki_43_3_ko_0";"Nakajima Aircraft Company / Tachikawa Aircraft Company | ☀Ki 43-III | Type 1 Fighter Model 3 Jia";;
 "ki_43_3_ko_1";"☀Ki 43-III Jia";;
 "ki_43_3_ko_2";"☀Ki 43-III Jia";;
 #
 "cw_21_shop";"☀C.W.21";;
-"cw_21_0";"☀Curtiss-Wright Corporation | C.W.21";;
+"cw_21_0";"Curtiss-Wright Corporation | ☀C.W.21";;
 "cw_21_1";"☀C.W.21";;
 "cw_21_2";"☀C.W.21";;
 #
 "i-15bis_china_shop";"☀E-15bis Qishik";;
-"i-15bis_china_0";"☀TsKB-39 ""Polikarpov"" | E-15bis Qishik | I-15bis";;
+"i-15bis_china_0";"TsKB-39 ""Polikarpov"" | E-15bis Qishik | ☀I-15bis";;
 "i-15bis_china_1";"☀E-15bis Qishik";;
 "i-15bis_china_2";"☀E-15bis";;
 #
 "i-16_type5_1935_china_shop";"☀E-16-5 Ishak";;
-"i-16_type5_1935_china_0";"☀TsKB-39 ""Polikarpov"" | E-16-5 Ishak | I-16 Type 5";;
+"i-16_type5_1935_china_0";"TsKB-39 ""Polikarpov"" | ☀E-16-5 | I-16 Type 5 Ishak";;
 "i-16_type5_1935_china_1";"☀E-16-5 Ishak";;
 "i-16_type5_1935_china_2";"☀E-16-5";;
 #
 "i-16_type10_china_shop";"☀E-16-10 Ishak";;
-"i-16_type10_china_0";"☀TsKB-39 ""Polikarpov"" | E-16-10 Ishak | I-16 Type 10";;
+"i-16_type10_china_0";"TsKB-39 ""Polikarpov"" | ☀E-16-10 | I-16 Type 10  Ishak";;
 "i-16_type10_china_1";"☀E-16-10 Ishak";;
 "i-16_type10_china_2";"☀E-16-10";;
 #
 "i-16_type17_china_shop";"☀E-16-17 Ishak";;
-"i-16_type17_china_0";"☀TsKB-39 ""Polikarpov"" | E-16-17 Ishak | I-16 Type 17";;
+"i-16_type17_china_0";"TsKB-39 ""Polikarpov"" | ☀E-16-17 | I-16 Type 17 Ishak ";;
 "i-16_type17_china_1";"☀E-16-17 Ishak";;
 "i-16_type17_china_2";"☀E-16-17";;
 #
 "i-16_chung_28_shop";"☀Zhōng 28 Jia";;
-"i-16_chung_28_0";"☀TsKB-39 ""Polikarpov"" / Central Aircraft Manufacturing Company | Zhōng 28 Jia";;
+"i-16_chung_28_0";"TsKB-39 ""Polikarpov"" / Central Aircraft Manufacturing Company | ☀Zhōng 28 Jia";;
 "i-16_chung_28_1";"☀Zhōng 28 Jia";;
 "i-16_chung_28_2";"☀Zhōng 28 Jia";;
 #
 "i-153_m62_china_shop";"☀E-153 Qishik";;
-"i-153_m62_china_0";"☀TsKB-39 ""Polikarpov"" | E-153 Qishik | I-153 Chaika (ASh-62)";;
+"i-153_m62_china_0";"TsKB-39 ""Polikarpov"" | ☀E-153 Qishik | I-153 Chaika (ASh-62)";;
 "i-153_m62_china_1";"☀E-153 Qishik";;
 "i-153_m62_china_2";"☀E-153";;
 #
 "v_11g_shop";"☀V-11-G";;
-"v_11g_0";"☀Vultee Aircraft | V-11-G";;
+"v_11g_0";"Vultee Aircraft | ☀V-11-G";;
 "v_11g_1";"☀V-11-G";;
 "v_11g_2";"☀V-11-G";;
 #
 "v_12d_shop";"☀V-12-D";;
-"v_12d_0";"☀Vultee Aircraft | V-12-D";;
+"v_12d_0";"Vultee Aircraft | ☀V-12-D";;
 "v_12d_1";"☀V-12-D";;
 "v_12d_2";"☀V-12-D";;
 #
 "hs-123a-1_china_shop";"☀Hs 123 A-1 Héng Jī";;
-"hs-123a-1_china_0";"☀Henschel Flugzeug-Werke | Hs 123 A-1 Héng Jī";;
+"hs-123a-1_china_0";"Henschel Flugzeug-Werke | ☀Hs 123 A-1 Héng Jī";;
 "hs-123a-1_china_1";"☀Hs 123 A-1 Héng Jī";;
 "hs-123a-1_china_2";"☀Hs 123 A-1";;
 #
 "martin_139wc_shop";"☀Martin 139WC";;
-"martin_139wc_0";"☀Glenn L. Martin Company | Martin Model 139WC";;
+"martin_139wc_0";"Glenn L. Martin Company | ☀Martin Model 139WC";;
 "martin_139wc_1";"☀Martin 139WC";;
 "martin_139wc_2";"☀Martin 139WC";;
 #
 "hawk_iii_shop";"☀Hawk III";;
-"hawk_iii_0";"☀Curtiss-Wright Corporation | Hawk III";;
+"hawk_iii_0";"Curtiss-Wright Corporation | ☀Hawk III";;
 "hawk_iii_1";"☀Hawk III";;
 "hawk_iii_2";"☀Hawk III";;
 #
 "d_510c_shop";"☀D.510C Dì Jī";;
-"d_510c_0";"☀Constructions Aéronautiques Émile Dewoitine | D.510C Dì Jī";;
+"d_510c_0";"XConstructions Aéronautiques Émile Dewoitine | ☀D.510C Dì Jī";;
 "d_510c_1";"☀D.510C Dì Jī";;
 "d_510c_2";"☀D.510C";;
 #
 #RANK 2
 "p-66_shop";"☀P-48-C Vanguard";;
-"p-66_0";"☀Vultee Aircraft | P-48-C Vanguard | P-66 Vanguard";;
+"p-66_0";"Vultee Aircraft | ☀P-48-C | P-66 Vanguard";;
 "p-66_1";"☀P-48-C Vanguard";;
 "p-66_2";"☀P-48-C";;
 #
 "p-40e_china_shop";"☀P-40E Kittyhawk";;
-"p-40e_china_0";"☀Curtiss-Wright Corporation | P-40E Kittyhawk";;
+"p-40e_china_0";"Curtiss-Wright Corporation | ☀P-40E Kittyhawk";;
 "p-40e_china_1";"☀P-40E Kittyhawk";;
 "p-40e_china_2";"☀P-40E";;
 #
 "p-43a-1_china_shop";"☀P-43A-1 Lancer";;
-"p-43a-1_china_0";"☀Republic Aviation Corporation | P-43A-1 Lancer | Block 1";;
+"p-43a-1_china_0";"Republic Aviation Corporation | ☀P-43A-1 Lancer | Block 1";;
 "p-43a-1_china_1";"☀P-43A-1 Lancer";;
 "p-43a-1_china_2";"☀P-43A-1";;
 #
 "a_29_hudson_shop";"☀A-29 Hudson";;
-"a_29_hudson_0";"☀Lockheed Corporation | A-29 Hudson";;
+"a_29_hudson_0";"Lockheed Corporation | ☀A-29 Hudson";;
 "a_29_hudson_1";"☀A-29 Hudson";;
 "a_29_hudson_2";"☀A-29";;
 #
 "db_3a_china_shop";"☀D.B.3";;
-"db_3a_china_0";"☀OKB-39 ""Ilyushin"" | D.B.3 | DB-3A";;
+"db_3a_china_0";"OKB-39 ""Ilyushin"" | ☀D.B.3 | DB-3A";;
 "db_3a_china_1";"☀D.B.3";;
 "db_3a_china_2";"☀D.B.3";;
 #
 "sb_2m_103u_china_shop";"☀C.B. (M-103U)";;
-"sb_2m_103u_china_0";"☀OKB-156 ""Tupolev"" | C.B. (M-103U) | SB (M-103U)";;
+"sb_2m_103u_china_0";"OKB-156 ""Tupolev"" | ☀C.B. (M-103U) | SB (M-103U)";;
 "sb_2m_103u_china_1";"☀C.B. (M-103U)";;
 "sb_2m_103u_china_2";"☀C.B. (M-103U)";;
 #
 "p1y1_mod11_china_shop";"☀P1Y1 Ginga";;
-"p1y1_mod11_china_0";"☀Nakajima Aircraft Company | P1Y1 Ginga | Model 11";;
+"p1y1_mod11_china_0";"Nakajima Aircraft Company | ☀P1Y1 Ginga | Model 11";;
 "p1y1_mod11_china_1";"☀P1Y1 Ginga";;
 "p1y1_mod11_china_2";"☀P1Y1";;
 #
 "p-40c_china_shop";"☀Hawk 81A-3";;
-"p-40c_china_0";"☀Curtiss-Wright Corporation | Hawk Model 81A-3";;
+"p-40c_china_0";"Curtiss-Wright Corporation | ☀Hawk Model 81A-3";;
 "p-40c_china_1";"☀Hawk 81A-3";;
 "p-40c_china_2";"☀Hawk 81A-3";;
 #
 "ki-45_hei_tei_china_shop";"␗Ki 45 Gai Bing";;
-"ki-45_hei_tei_china_0";"␗Kawasaki Aircraft Company | Ki 45 Gai Bing | Type 2 Twin-Seat Fighter | Model 3 Bing | Dīng Equipment";;
+"ki-45_hei_tei_china_0";"Kawasaki Aircraft Company | ␗Ki 45 Gai Bing | Type 2 Twin-Seat Fighter | Model 3 Bing | Dīng Equipment";;
 "ki-45_hei_tei_china_1";"␗Ki 45 Gai Bing (Dīng)";;
 "ki-45_hei_tei_china_2";"␗Ki 45 Gai Bing (Dīng)";;
 #
 #RANK 3
 "p-47d_23_ra_china_rocaf_shop";"☀P-47D-23 Thunderbolt";;
-"p-47d_23_ra_china_rocaf_0";"☀Republic Aviation Corporation | P-47D-23 Thunderbolt | Block 23";;
+"p-47d_23_ra_china_rocaf_0";"Republic Aviation Corporation | ☀P-47D-23 Thunderbolt | Block 23";;
 "p-47d_23_ra_china_rocaf_1";"☀P-47D-23 Thunderbolt";;
 "p-47d_23_ra_china_rocaf_2";"☀P-47D-23";;
 #
 "p-47d_30_china_shop";"☀F-47D-30 Thunderbolt";;
-"p-47d_30_china_0";"☀Republic Aviation Corporatio | F-47D-30 Thunderbolt | Block 30";;
+"p-47d_30_china_0";"Republic Aviation Corporatio | ☀F-47D-30 Thunderbolt | Block 30";;
 "p-47d_30_china_1";"☀F-47D-30 Thunderbolt";;
 "p-47d_30_china_2";"☀F-47D-30";;
 #
 "f_47n_25_re_china_shop";"☀F-47N-25 Thunderbolt";;
-"f_47n_25_re_china_0";"☀Republic Aviation Corporation | F-47N-25 Thunderbolt | Block 25";;
+"f_47n_25_re_china_0";"Republic Aviation Corporation | ☀F-47N-25 Thunderbolt | Block 25";;
 "f_47n_25_re_china_1";"☀F-47N-25 Thunderbolt";;
 "f_47n_25_re_china_2";"☀F-47N-25";;
 #
 "p-51c-11-nt_china_shop";"☀P-51C-11 Yema Jī";;
-"p-51c-11-nt_china_0";"☀North American Aviation | P-51C-11 Mustang ""Yema Jī"" | Block 11";;
+"p-51c-11-nt_china_0";"North American Aviation | ☀P-51C-11 Mustang ""Yema Jī"" | Block 11";;
 "p-51c-11-nt_china_1";"☀P-51C-11 Yema Jī";;
 "p-51c-11-nt_china_2";"☀P-51C-11";;
 #
 "p-51d-20_china_shop";"☀F-51D-20 Yema Jī";;
-"p-51d-20_china_0";"☀North American Aviation | F-51D-20 Mustang ""Yema Jī"" | Block 20";;
+"p-51d-20_china_0";"North American Aviation | ☀F-51D-20 Mustang ""Yema Jī"" | Block 20";;
 "p-51d-20_china_1";"☀F-51D-20 Yema Jī";;
 "p-51d-20_china_2";"☀F-51D-20";;
 #
 "p-51k_shop";"☀F-51K-15 Yema Jī";;
-"p-51k_0";"☀North American Aviation | F-51K-15 Mustang ""Yema Jī"" | Block 15";;
+"p-51k_0";"North American Aviation | ☀F-51K-15 Mustang ""Yema Jī"" | Block 15";;
 "p-51k_1";"☀F-51K-15 Yema Jī";;
 "p-51k_2";"☀F-51K-15";;
 #
 "ki_44_2_hei_china_shop";"☀Ki 44-II Bing";;
-"ki_44_2_hei_china_0";"☀Nakajima Aircraft Company | Ki 44-II ""Zhōngkuí"" | Type 2 Fighter | Model 2 Bing";;
+"ki_44_2_hei_china_0";"Nakajima Aircraft Company | ☀Ki 44-II ""Zhōngkuí"" | Type 2 Fighter | Model 2 Bing";;
 "ki_44_2_hei_china_1";"☀Ki 44-II Bing";;
 "ki_44_2_hei_china_2";"☀Ki 44-II Bing";;
 #
 "ki_61_1a_otsu_china_shop";"☀Ki 61-I Yi";;
-"ki_61_1a_otsu_china_0";"☀Kawasaki Aircraft Company | Ki 61-I ""Fēiyàn"" | Type 3 Fighter | Model 1 Yi";;
+"ki_61_1a_otsu_china_0";"Kawasaki Aircraft Company | ☀Ki 61-I ""Fēiyàn"" | Type 3 Fighter | Model 1 Yi";;
 "ki_61_1a_otsu_china_1";"☀Ki 61-I Yi";;
 "ki_61_1a_otsu_china_2";"☀Ki 61-I Yi";;
 #
 "mosquito_fb_mk26_china_shop";"☀FB-26 Mosquito";;
-"mosquito_fb_mk26_china_0";"☀de Havilland Aircraft Company | Mosquito | Fighter/Bomber, Mk.26 | FB-26";;
+"mosquito_fb_mk26_china_0";"de Havilland Aircraft Company | ☀Mosquito | Fighter/Bomber, Mk.26 | FB-26";;
 "mosquito_fb_mk26_china_1";"☀FB-26 Mosquito";;
 "mosquito_fb_mk26_china_2";"☀FB-26";;
 #
 "p-38l_1_china_rocaf_shop";"☀P-38L-1 Lightning";;
-"p-38l_1_china_rocaf_0";"☀Lockheed Corporation | P-38L-1 Lightning | Block 1";;
+"p-38l_1_china_rocaf_0";"Lockheed Corporation | ☀P-38L-1 Lightning | Block 1";;
 "p-38l_1_china_rocaf_1";"☀P-38L-1 Lightning";;
 "p-38l_1_china_rocaf_2";"☀P-38L-1";;
 #
 "b_25j_30_china_shop";"☀B-25J-30 Mitchell";;
-"b_25j_30_china_0";"☀North American Aviation | B-25J-30 Mitchell | Block 30";;
+"b_25j_30_china_0";"North American Aviation | ☀B-25J-30 Mitchell | Block 30";;
 "b_25j_30_china_1";"☀B-25J-30 Mitchell";;
 "b_25j_30_china_2";"☀B-25J-30";;
 #
 "a6m2_zero_china_shop";"☀A6M2 Líng";;
-"a6m2_zero_china_0";"☀Mitsubishi Heavy Industries | A6M2 ""Líng"" | Type 0 Fighter ""Zero""| Model 21";;
+"a6m2_zero_china_0";"Mitsubishi Heavy Industries | ☀A6M2 ""Líng"" | Type 0 Fighter ""Zero""| Model 21";;
 "a6m2_zero_china_1";"☀A6M2 Líng";;
 "a6m2_zero_china_2";"☀A6M2";;
 #
 #RANK 4
 "la-11_china_shop";"␗La-11 Fang";;
-"la-11_china_0";"␗OKB-301 ""Lavochkin"" | La-11 Fang";;
+"la-11_china_0";"OKB-301 ""Lavochkin"" | ␗La-11 Fang";;
 "la-11_china_1";"␗La-11 Fang";;
 "la-11_china_2";"␗La-11";;
 #
 "la-9_china_shop";"␗La-9 Fritz";;
-"la-9_china_0";"␗OKB-301 ""Lavochkin"" | La-9 Fritz";;
+"la-9_china_0";"OKB-301 ""Lavochkin"" | ␗La-9 Fritz";;
 "la-9_china_1";"␗La-9 Fritz";;
 "la-9_china_2";"␗La-9";;
 #
 "il-10_1946_china_shop";"␗Il-10 Beast (1947)";;
-"il-10_1946_china_0";"␗OKB-39 ""Ilyushin"" | Il-10 Beast (1947)";;
+"il-10_1946_china_0";"OKB-39 ""Ilyushin"" | ␗Il-10 Beast (1947)";;
 "il-10_1946_china_1";"␗Il-10 Beast (1947)";;
 "il-10_1946_china_2";"␗Il-10 (1947)";;
 #
 "pb4y-2_china_shop";"☀P4Y-2 Privateer";;
-"pb4y-2_china_0";"☀Consolidated Aircraft Corporation | P4Y-2 Privateer";;
+"pb4y-2_china_0";"Consolidated Aircraft Corporation | ☀P4Y-2 Privateer";;
 "pb4y-2_china_1";"☀P4Y-2 Privateer";;
 "pb4y-2_china_2";"☀P4Y-2";;
 #
 "tu-2_postwar_china_shop";"␗Tu-2S-44 Bat";;
-"tu-2_postwar_china_0";"␗OKB-156 ""Tupolev"" | Tu-2S Bat | Series 44";;
+"tu-2_postwar_china_0";"OKB-156 ""Tupolev"" | ␗Tu-2S Bat | Series 44";;
 "tu-2_postwar_china_1";"␗Tu-2S-44 Bat";;
 "tu-2_postwar_china_2";"␗Tu-2S-44";;
 #
 "ki_84_ko_china_shop";"☀Ki 84-I Jia";;
-"ki_84_ko_china_0";"☀Nakajima Aircraft Company | Ki 84-I Jia ""Jífēng"" | Type 4 Fighter | Model 1 Jia";;
+"ki_84_ko_china_0";"Nakajima Aircraft Company | ☀Ki 84-I Jia ""Jífēng"" | Type 4 Fighter | Model 1 Jia";;
 "ki_84_ko_china_1";"☀Ki 84-I Jia";;
 "ki_84_ko_china_2";"☀Ki 84-I Jia";;
 #
 #RANK 5
 "f-86f-30_china_shop";"☀F-86F-30 Sabre";;
-"f-86f-30_china_0";"☀North American Aviation | F-86F-30 Sabre | Block 30";;
+"f-86f-30_china_0";"North American Aviation | ☀F-86F-30 Sabre | Block 30";;
 "f-86f-30_china_1";"☀F-86F-30 Sabre";;
 "f-86f-30_china_2";"☀F-86F-30";;
 #
 "f-86f-40_china_shop";"☀F-86F-40 Sabre";;
-"f-86f-40_china_0";"☀North American Aviation | F-86F-40 Sabre | Block 40";;
+"f-86f-40_china_0";"North American Aviation | ☀F-86F-40 Sabre | Block 40";;
 "f-86f-40_china_1";"☀F-86F-40 Sabre";;
 "f-86f-40_china_2";"☀F-86F-40";;
 #
 "mig-9_china_shop";"␗MiG-9 Fargo";;
-"mig-9_china_0";"␗OKB-155 ""Mikoyan i Gurevich"" | MiG-9 Fargo";;
+"mig-9_china_0";"OKB-155 ""Mikoyan i Gurevich"" | ␗MiG-9 Fargo";;
 "mig-9_china_1";"␗MiG-9 Fargo";;
 "mig-9_china_2";"␗MiG-9";;
 #
 "mig-9_late_china_shop";"␗I-307";;
-"mig-9_late_china_0";"␗OKB-155 ""Mikoyan i Gurevich"" | I-307 | Late-Model MiG-9 Prototype (1948)";;
+"mig-9_late_china_0";"OKB-155 ""Mikoyan i Gurevich"" | ␗I-307 | Late-Model MiG-9 Prototype (1948)";;
 "mig-9_late_china_1";"␗I-307";;
 "mig-9_late_china_2";"␗I-307";;
 #
 "mig-15bis_nr23_china_shop";"␗J-2 Fagot-B";;
-"mig-15bis_nr23_china_0";"␗Shenyang Aircraft Corporation | J-2 Fagot-B";;
+"mig-15bis_nr23_china_0";"Shenyang Aircraft Corporation | ␗J-2 Fagot-B";;
 "mig-15bis_nr23_china_1";"␗J-2 Fagot-B";;
 "mig-15bis_nr23_china_2";"␗J-2";;
 #
 "mig-17_china_shop";"␗J-4 Fresco-C";;
-"mig-17_china_0";"␗Shenyang Aircraft Corporation | J-4 Fresco-C";;
+"mig-17_china_0";"Shenyang Aircraft Corporation | ␗J-4 Fresco-C";;
 "mig-17_china_1";"␗J-4 Fresco-C";;
 "mig-17_china_2";"␗J-4";;
 #
 "f-84g_china_shop";"☀F-84G-21 Thunderjet";;
-"f-84g_china_0";"☀Republic Aviation Corporation | F-84G-21 Thunderjet | Block 21";;
+"f-84g_china_0";"Republic Aviation Corporation | ☀F-84G-21 Thunderjet | Block 21";;
 "f-84g_china_1";"☀F-84G-21 Thunderjet";;
 "f-84g_china_2";"☀F-84G-21";;
 #
 "f-84g-31-re_china_shop";"☀F-84G-31 Thunderjet";;
-"f-84g-31-re_china_0";"☀Republic Aviation Corporation | F-84G-31 Thunderjet | Block 31";;
+"f-84g-31-re_china_0";"Republic Aviation Corporation | ☀F-84G-31 Thunderjet | Block 31";;
 "f-84g-31-re_china_1";"☀F-84G-31 Thunderjet";;
 "f-84g-31-re_china_2";"☀F-84G-31";;
 #
 "tu_4_china_shop";"␗Tu-4 Bull";;
-"tu_4_china_0";"␗OKB-156 ""Tupolev"" | Tu-4 Bull";;
+"tu_4_china_0";"OKB-156 ""Tupolev"" | ␗Tu-4 Bull";;
 "tu_4_china_1";"␗Tu-4 Bull";;
 "tu_4_china_2";"␗Tu-4";;
 #
 "il_28_china_shop";"␗Il-28 Beagle";;
-"il_28_china_0";"␗OKB-39 ""Ilyushin"" | Il-28 Beagle";;
+"il_28_china_0";"OKB-39 ""Ilyushin"" | ␗Il-28 Beagle";;
 "il_28_china_1";"␗Il-28 Beagle";;
 "il_28_china_2";"␗Il-28";;
 #
 "mig-17_f5_shop";"␗F-5 Fresco-C";;
-"mig-17_f5_0";"␗Shenyang Aircraft Corporation | F-5 Fresco-C";;
+"mig-17_f5_0";"Shenyang Aircraft Corporation | ␗F-5 Fresco-C";;
 "mig-17_f5_1";"␗F-5 Fresco-C";;
 "mig-17_f5_2";"␗F-5";;
 #
 #RANK 6
 "f-100a_china_shop";"☀F-100A-16 Super Sabre";;
-"f-100a_china_0";"☀North American Aviation | F-100A-16 Super Sabre | Block 16";;
+"f-100a_china_0";"North American Aviation | ☀F-100A-16 Super Sabre | Block 16";;
 "f-100a_china_1";"☀F-100A-16 Super Sabre";;
 "f-100a_china_2";"☀F-100A-16";;
 #
 "f_100f_china_shop";"☀F-100F-6 Super Sabre";;
-"f_100f_china_0";"☀North American Aviation | F-100F-6 Super Sabre | Block 6";;
+"f_100f_china_0";"North American Aviation | ☀F-100F-6 Super Sabre | Block 6";;
 "f_100f_china_1";"☀F-100F-6 Super Sabre";;
 "f_100f_china_2";"☀F-100F-6";;
 #
 "f-104a_china_shop";"☀F-104A-25 Starfighter ";;
-"f-104a_china_0";"☀Lockheed Corporation | F-104A-25 Starfighter | Block 25";;
+"f-104a_china_0";"Lockheed Corporation | ☀F-104A-25 Starfighter | Block 25";;
 "f-104a_china_1";"☀F-104A-25 Starfighter";;
 "f-104a_china_2";"☀F-104A-25";;
 #
 "f-104g_china_shop";"☀F-104G-10 Starfighter";;
-"f-104g_china_0";"☀Lockheed Corporation | F-104G-10 Starfighter | Block 10";;
+"f-104g_china_0";"Lockheed Corporation | ☀F-104G-10 Starfighter | Block 10";;
 "f-104g_china_1";"☀F-104G-10 Starfighter";;
 "f-104g_china_2";"☀F-104G-10";;
 #
 "mig-19j_6a_shop";"␗J-6A Farmer-C";;
-"mig-19j_6a_0";"␗Shenyang Aircraft Corporation | J-6A Farmer-C";;
+"mig-19j_6a_0";"Shenyang Aircraft Corporation | ␗J-6A Farmer-C";;
 "mig-19j_6a_1";"␗J-6A Farmer-C";;
 "mig-19j_6a_2";"␗J-6A";;
 #
 "j_7_mk2_shop";"␗J-7II Fishcan";;
-"j_7_mk2_0";"␗Chengdu Aircraft Corporation | J-7II Fishcan";;
+"j_7_mk2_0";"Chengdu Aircraft Corporation | ␗J-7II Fishcan";;
 "j_7_mk2_1";"␗J-7II Fishcan";;
 "j_7_mk2_2";"␗J-7II";;
 #
 "j_7e_shop";"␗J-7E Fishcan-D";;
-"j_7e_0";"␗Chengdu Aircraft Corporation | J-7E Fishcan-D";;
+"j_7e_0";"Chengdu Aircraft Corporation | ␗J-7E Fishcan-D";;
 "j_7e_1";"␗J-7E Fishcan-D";;
 "j_7e_2";"␗J-7E";;
 #
 "j_7d_shop";"␗J-7D Fishcan-E";;
-"j_7d_0";"␗Chengdu Aircraft Corporation | J-7D Fischan-E";;
+"j_7d_0";"Chengdu Aircraft Corporation | ␗J-7D Fischan-E";;
 "j_7d_1";"␗J-7D Fishcan-E";;
 "j_7d_2";"␗J-7D";;
 #
@@ -334,12 +334,12 @@
 #
 #RANK 7
 "f-5a_china_shop";"☀F-5A-25 Freedom Fighter";;
-"f-5a_china_0";"☀Northrop Corporation | F-5A-25 Freedom Fighter | Block 25";;
+"f-5a_china_0";"Northrop Corporation | ☀F-5A-25 Freedom Fighter | Block 25";;
 "f-5a_china_1";"☀F-5A-25 Freedom Fighter";;
 "f-5a_china_2";"☀F-5A-25";;
 #
 "f-5e_aidc_shop";"☀F-5E Chung Cheng";;
-"f-5e_aidc_0";"☀Aerospace Industrial Development Corporation (AIDC) | F-5E Chung Cheng";;
+"f-5e_aidc_0";"Aerospace Industrial Development Corporation (AIDC) | ☀F-5E Chung Cheng";;
 "f-5e_aidc_1";"☀F-5E Chung Cheng";;
 "f-5e_aidc_2";"☀F-5E";;
 #
@@ -359,13 +359,13 @@
 "j_8f_missile_test_2";"J-8F";;
 #
 "a_5c_shop";"☪A-5C Fantan";;
-"a_5c_0";"☪Nanchang Aircraft Manufacturing Corporation | A-5C Fantan";;
+"a_5c_0";"Nanchang Aircraft Manufacturing Corporation | ☪A-5C Fantan";;
 "a_5c_1";"☪A-5C Fantan";;
 "a_5c_2";"☪A-5C";;
 #
 #RANK 8
 "f_16a_block_20_mlu_shop";"☀F-16A-20 Viper";;
-"f_16a_block_20_mlu_0";"☀General Dynamics Corporation | F-16A-20 Viper | Block 20";;
+"f_16a_block_20_mlu_0";"General Dynamics Corporation | ☀F-16A-20 Viper | Block 20";;
 "f_16a_block_20_mlu_1";"☀F-16A-20 Viper";;
 "f_16a_block_20_mlu_2";"☀F-16A-20";;
 #
@@ -375,22 +375,22 @@
 "j_10a_2";"J-10A";;
 #
 "mirage_2000_5ei_shop";"☀Mirage 2000-5Ei";;
-"mirage_2000_5ei_0";"☀Dassault Aviation SA | Mirage 2000-5Ei";;
+"mirage_2000_5ei_0";"Dassault Aviation SA | ☀Mirage 2000-5Ei";;
 "mirage_2000_5ei_1";"☀Mirage 2000-5Ei";;
 "mirage_2000_5ei_2";"☀Mirage 2000-5Ei";;
 #
 "j_11_shop";"␗J-11 Flanker-B+";;
-"j_11_0";"␗Shenyang Aircraft Corporation | J-11 Flanker-B+ | Su-27SK (2000)";;
+"j_11_0";"Shenyang Aircraft Corporation | ␗J-11 Flanker-B+ | Su-27SK (2000)";;
 "j_11_1";"␗J-11 Flanker-B+";;
 "j_11_2";"␗J-11";;
 #
 "j_11a_shop";"␗J-11A MLU Flanker-B+";;
-"j_11a_0";"␗Shenyang Aircraft Corporation | J-11A Flanker-B+ | Su-27SK | Mid-Life Update (2015)";;
+"j_11a_0";"Shenyang Aircraft Corporation | ␗J-11A Flanker-B+ | Su-27SK | Mid-Life Update (2015)";;
 "j_11a_1";"␗J-11A MLU Flanker-B+";;
 "j_11a_2";"␗J-11A MLU";;
 #
 "j_11b_shop";"␗J-11B Flanker-L";;
-"j_11b_0";"␗Shenyang Aircraft Corporation | J-11B Flanker-L";;
+"j_11b_0";"Shenyang Aircraft Corporation | ␗J-11B Flanker-L";;
 "j_11b_1";"␗J-11B Flanker-L";;
 "j_11b_2";"␗J-11B";;
 #
@@ -418,6 +418,11 @@ j_10c_shop;J-10C Měnglóng;;
 j_10c_0;Chengdu Aircraft Corporation (CAC) | J-10C Měnglóng (Vigorous Dragon);;
 j_10c_1;J-10C Měnglóng;;
 j_10c_2;J-10C;;
+#
+su_30mkk_shop;␗Su-30MKK Flanker-G;;
+su_30mkk_0;"PAO Kompaniya ""Sukhoi"" | ␗Su-30MKK Flanker-G";;
+su_30mkk_1;␗Su-30MKK Flanker-G;;
+su_30mkk_2;␗Su-30MKK;;
 #
 "shop/group/ki_27_group";"☀Ki 27/Ki 43";;
 "shop/group/i-16_china_group";"Zhōng 28/☀E-16";;
