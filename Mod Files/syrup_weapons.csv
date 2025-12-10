@@ -1957,6 +1957,9 @@ weapons/su_grom_1/short;Kh-36 Grom-E1 [600kg]
 weapons/su_grom_2;Kh-36 Grom-E2 GLONASS-Guided Glide Bomb [600kg]
 weapons/su_grom_2/short;Kh-36 Grom-E2 [600kg]
 #
+weapons/su_grom_e2;Kh-36 Grom-E2 GLONASS-Guided Glide Bomb [600kg]
+weapons/su_grom_e2/short;Kh-36 Grom-E2 [600kg]
+#
 weapons/su_fab_1000m_44;FAB-1000 High-Explosive Bomb - Model 1944 [1000kg]
 weapons/su_fab_1000m_44/short;FAB-1000M-44 [1000kg]
 #

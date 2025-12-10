@@ -191,12 +191,12 @@
 "la-9_2";"La-9";;;
 #
 "la-7_shop";"La-7 Fin (1944)";;;
-"la-7_0";"OKB-301 ""Lavochkin"" | La-7 Fin | 1944 Production Standard";;;
+"la-7_0";"OKB-301 ""Lavochkin"" | La-7 Fin | 1944 Izdeliyeion Standard";;;
 "la-7_1";"La-7 Fin (1944)";;;
 "la-7_2";"La-7 (1944)";;;
 #
 "la-7b-20_shop";"La-7 Fin (1945)";;;
-"la-7b-20_0";"OKB-301 ""Lavochkin"" | La-7 | 1945 Production Standard Fin";;;
+"la-7b-20_0";"OKB-301 ""Lavochkin"" | La-7 | 1945 Izdeliyeion Standard Fin";;;
 "la-7b-20_1";"La-7 Fin (1945)";;;
 "la-7b-20_2";"La-7 (1945)";;;
 #
@@ -291,27 +291,27 @@
 "su_33_2";"Su-33";;;
 #
 "mig_23mld_shop";"MiG-23MLD Flogger-K";;;
-"mig_23mld_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-23MLD Flogger-K | Product 23-18";;;
+"mig_23mld_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-23MLD Flogger-K | Izdeliye 23-18";;;
 "mig_23mld_1";"MiG-23MLD Flogger-K";;;
 "mig_23mld_2";"MiG-23MLD";;;
 #
 "mig_23ml_shop";"MiG-23MLA Flogger-G";;;
-"mig_23ml_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-23MLA Flogger-G | Product 23-12A";;;
+"mig_23ml_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-23MLA Flogger-G | Izdeliye 23-12A";;;
 "mig_23ml_1";"MiG-23MLA Flogger-G";;;
 "mig_23ml_2";"MiG-23MLA";;;
 #
 "mig_29_9_13_shop";"MiG-29A Fulcrum-C";;;
-"mig_29_9_13_0";"OKB-155 ""Mikoyan"" | MiG-29A Fulcrum-C | Product 9-13";;;
+"mig_29_9_13_0";"OKB-155 ""Mikoyan"" | MiG-29A Fulcrum-C | Izdeliye 9-13";;;
 "mig_29_9_13_1";"MiG-29A Fulcrum-C";;;
 "mig_29_9_13_2";"MiG-29A";;;
 #
 "mig_29smt_9_19_shop";"MiG-29SMT Fulcrum-E";;;
-"mig_29smt_9_19_0";"RSO Korporatsiya ""MiG"" | MiG-29SMT Fulcrum-E | Product 9-19";;;
+"mig_29smt_9_19_0";"RSO Korporatsiya ""MiG"" | MiG-29SMT Fulcrum-E | Izdeliye 9-19";;;
 "mig_29smt_9_19_1";"MiG-29SMT Fulcrum-E";;;
 "mig_29smt_9_19_2";"MiG-29SMT";;;
 #
 "mig_29smt_9_19_missile_test_shop";"MiG-29SMT Fulcrum-E";;;
-"mig_29smt_9_19_missile_test_0";"RSO Korporatsiya ""MiG"" | MiG-29SMT Fulcrum-E| Product 9-19";;;
+"mig_29smt_9_19_missile_test_0";"RSO Korporatsiya ""MiG"" | MiG-29SMT Fulcrum-E| Izdeliye 9-19";;;
 "mig_29smt_9_19_missile_test_1";"MiG-29SMT Fulcrum-E";;;
 "mig_29smt_9_19_missile_test_2";"MiG-29SMT";;;
 #
@@ -346,27 +346,27 @@
 "su_25sm3_2";"Su-25SM3";;;
 #
 "mig_23m_shop";"MiG-23M Flogger-B";;;
-"mig_23m_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-23M Flogger-B | Product 23-11M";;;
+"mig_23m_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-23M Flogger-B | Izdeliye 23-11M";;;
 "mig_23m_1";"MiG-23M Flogger-B";;;
 "mig_23m_2";"MiG-23M";;;
 #
 "mig-21_smt_shop";"MiG-21SMT Fishbed-K";;;
-"mig-21_smt_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-21SMT Fishbed-K | Product 50";;;
+"mig-21_smt_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-21SMT Fishbed-K | Izdeliye 50";;;
 "mig-21_smt_1";"MiG-21SMT Fishbed-K";;;
 "mig-21_smt_2";"MiG-21SMT";;;
 #
 "mig-21_s_shop";"MiG-21SM Fishbed-J";;;
-"mig-21_s_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-21SM Fishbed-J | Product 95M";;;
+"mig-21_s_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-21SM Fishbed-J | Izdeliye 95M";;;
 "mig-21_s_1";"MiG-21SM Fishbed-J";;;
 "mig-21_s_2";"MiG-21SM";;;
 #
 "mig-21_bis_shop";"MiG-21bis Fishbed-L";;;
-"mig-21_bis_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-21bis Fishbed-L | Product 75A";;;
+"mig-21_bis_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-21bis Fishbed-L | Izdeliye 75A";;;
 "mig-21_bis_1";"MiG-21bis Fishbed-L";;;
 "mig-21_bis_2";"MiG-21bis";;;
 #
 "mig-21_pfm_shop";"MiG-21PFM Fishbed-D";;;
-"mig-21_pfm_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-21PFM Fishbed-D | Product 94";;;
+"mig-21_pfm_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-21PFM Fishbed-D | Izdeliye 94";;;
 "mig-21_pfm_1";"MiG-21PFM Fishbed-D";;;
 "mig-21_pfm_2";"MiG-21PFM";;;
 #
@@ -416,7 +416,7 @@
 "mig-19pt_2";"MiG-19PT";;;
 #
 "mig-21_f13_shop";"MiG-21F-13 Fishbed-C";;;
-"mig-21_f13_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-21F-13 Fishbed-C | Product 74";;;
+"mig-21_f13_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-21F-13 Fishbed-C | Izdeliye 74";;;
 "mig-21_f13_1";"MiG-21F-13 Fishbed-C";;;
 "mig-21_f13_2";"MiG-21F-13";;;
 #
@@ -864,6 +864,11 @@ mig_25pd_shop;MiG-25PD Foxbat-E;;;
 mig_25pd_0;"OKB-155 ""Mikoyan i Gurevich"" | MiG-25PD Foxbat-E";;;
 mig_25pd_1;MiG-25PD Foxbat-E;;;
 mig_25pd_2;MiG-25PD;;;
+#
+su_30sm2_shop;Su-30SM2 Flanker-H;;;
+su_30sm2_0;"PAO Kompaniya ""Sukhoi"" | Su-30SM2 Flanker-H";;;
+su_30sm2_1;Su-30SM2 Flanker-H;;;
+su_30sm2_2;Su-30SM2;;;
 #
 "shop/group/ar_group";"Ar-2/SB-2";;;
 "shop/group/db_3_group";"DB-3B/Il-4 Bob";;;
