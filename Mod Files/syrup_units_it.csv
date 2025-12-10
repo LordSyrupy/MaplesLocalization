@@ -411,17 +411,17 @@
 "su_22m3_hungary_2";"◔Su-22M3";;
 #
 "mig-21_mf_hungary_shop";"◔MiG-21MF Fishbed-J";;
-"mig-21_mf_hungary_0";"OKB-155 ""Mikoyan i Gurevich"" | ◔MiG-21MF Fishbed-J | Product 96F";;
+"mig-21_mf_hungary_0";"OKB-155 ""Mikoyan i Gurevich"" | ◔MiG-21MF Fishbed-J | Izdeliye 96F";;
 "mig-21_mf_hungary_1";"◔MiG-21MF Fishbed-J";;
 "mig-21_mf_hungary_2";"◔MiG-21MF";;
 #
 "mig-21_bis_sau_hungary_shop";"◔MiG-21bis Fishbed-N";;
-"mig-21_bis_sau_hungary_0";"OKB-155 ""Mikoyan i Gurevich"" | ◔MiG-21bis Fishbed-N | Product 75B";;
+"mig-21_bis_sau_hungary_0";"OKB-155 ""Mikoyan i Gurevich"" | ◔MiG-21bis Fishbed-N | Izdeliye 75B";;
 "mig-21_bis_sau_hungary_1";"◔MiG-21bis Fishbed-N";;
 "mig-21_bis_sau_hungary_2";"◔MiG-21bis";;
 #
 "mig_23mf_hungary_shop";"◔MiG-23MF Flogger-B";;
-"mig_23mf_hungary_0";"OKB-155 ""Mikoyan i Gurevich"" | ◔MiG-23MF Flogger-B | Product 23-11M";;
+"mig_23mf_hungary_0";"OKB-155 ""Mikoyan i Gurevich"" | ◔MiG-23MF Flogger-B | Izdeliye 23-11M";;
 "mig_23mf_hungary_1";"◔MiG-23MF Flogger-B";;
 "mig_23mf_hungary_2";"◔MiG-23MF";;
 #
@@ -436,7 +436,7 @@
 "f_16a_block_15_adf_italy_2";"⛨F-16A-15ADF";;
 #
 "mig_29_9_12b_hungary_shop";"◔MiG-29A Fulcrum-A";;
-"mig_29_9_12b_hungary_0";"OKB-155 ""Mikoyan"" | ◔MiG-29A Fulcrum-A | Product 9.12B";;
+"mig_29_9_12b_hungary_0";"OKB-155 ""Mikoyan"" | ◔MiG-29A Fulcrum-A | Izdeliye 9-12B";;
 "mig_29_9_12b_hungary_1";"◔MiG-29A Fulcrum-A";;
 "mig_29_9_12b_hungary_2";"◔MiG-29A";;
 #
@@ -470,13 +470,13 @@
 "ef_2000a_1";"⛨F-2000A Typhoon (P3Ea)";;
 "ef_2000a_2";"⛨F-2000A (P3Ea)";;
 #
-"saab_jas39c_hungary_shop";"◔JAS 39EBS Gripen C";;
-"saab_jas39c_hungary_0";"Saab AB | ◔JAS 39EBS Gripen C";;
-"saab_jas39c_hungary_1";"◔JAS 39EBS Gripen C";;
-"saab_jas39c_hungary_2";"◔JAS 39EBS";;
+"saab_jas39c_hungary_shop";"◔JAS 39C EBS Gripen ";;
+"saab_jas39c_hungary_0";"Saab AB | ◔JAS 39C Gripen | Export Baseline Standard";;
+"saab_jas39c_hungary_1";"◔JAS 39C EBS Gripen";;
+"saab_jas39c_hungary_2";"◔JAS 39C EBS";;
 #
 "mig_29_9_12_sniper_shop";"▄MiG-29A Sniper";;
-"mig_29_9_12_sniper_0";"Aerostar S.A. / DASA / Elbit Systems, Ltd. | ▄MiG-29A Fulcrum-A | Product 9-12A | Sniper Modernization Program (1997)";;
+"mig_29_9_12_sniper_0";"Aerostar S.A. / DASA / Elbit Systems, Ltd. | ▄MiG-29A Fulcrum-A | Izdeliye 9-12A | Sniper Modernization Program (1997)";;
 "mig_29_9_12_sniper_1";"▄MiG-29A Sniper";;
 "mig_29_9_12_sniper_2";"▄MiG-29A Sniper";;
 #
@@ -484,6 +484,11 @@
 "mb_326k_0";"Aermacchi | MB-326K Impala";;
 "mb_326k_1";"MB-326K Impala";;
 "mb_326k_2";"MB-326K";;
+#
+mb_326b_shop;MB-326B Impala;;
+mb_326b_0;Aermacchi | MB-326B Impala;;
+mb_326b_1;MB-326B Impala;;
+mb_326b_2;MB-326B;;
 #
 tornado_ids_de_assta1_italy_killstreak_shop;☢A-200A Tornado IDS;;
 tornado_ids_de_assta1_italy_killstreak_0;Panavia Aircraft GmbH | ☢A-200A Tornado | Interdictor/Strike;;

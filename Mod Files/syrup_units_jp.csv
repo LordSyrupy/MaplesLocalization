@@ -616,7 +616,7 @@
 "f_16a_block_15_ocu_thailand_2";"▄B.Kh.19";;
 #
 "saab_jas39c_thailand_shop";"▄B.Kh.20 Gripen C";;
-"saab_jas39c_thailand_0";"Saab AB | ▄B.Kh.20 | JAS 39C Gripen C";;
+"saab_jas39c_thailand_0";"Saab AB | ▄B.Kh.20 | JAS 39C Gripen";;
 "saab_jas39c_thailand_1";"▄B.Kh.20 Gripen C";;
 "saab_jas39c_thailand_2";"▄B.Kh.20";;
 #
@@ -669,6 +669,11 @@ hawk_209_indonesia_shop;◥Hawk 209;;
 hawk_209_indonesia_0;British Aerospace plc | ◥Hawk 209;;
 hawk_209_indonesia_1;◥Hawk 209;;
 hawk_209_indonesia_2;◥Hawk 209;;
+#
+mig_29n_shop;▄MiG-29N Fulcrum-C;;
+mig_29n_0;"RSO Korporatsiya ""MiG"" | ▄MiG-29N Fulcrum-C | Izdeliye 9-12SD";;
+mig_29n_1;▄MiG-29N Fulcrum-C;;
+mig_29n_2;▄MiG-29N;;
 #
 "shop/group/f-86_japan_group";"▅F-86F Sabre";;
 "shop/group/f-86_japan_group";"▅F-86F Sabre";;

@@ -291,7 +291,7 @@ noverify>";"<English>";;
 "f-84f_germany_2";"◄F-84F";;
 #
 "mig_23bn_shop";"◊MiG-23BN Flogger-H";;
-"mig_23bn_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-23BN Flogger-H | Product 32-24B";;
+"mig_23bn_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-23BN Flogger-H | Izdeliye 32-24B";;
 "mig_23bn_1";"◊MiG-23BN Flogger-H";;
 "mig_23bn_2";"◊MiG-23BN";;
 #
@@ -316,32 +316,32 @@ noverify>";"<English>";;
 "f-4f_late_2";"◄F-4F";;
 #
 "mig-21_mf_shop";"◊MiG-21MF Fishbed-J";;
-"mig-21_mf_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-21MF Fishbed-J | Product 96F";;
+"mig-21_mf_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-21MF Fishbed-J | Izdeliye 96F";;
 "mig-21_mf_1";"◊MiG-21MF Fishbed-J";;
 "mig-21_mf_2";"◊MiG-21MF";;
 #
 "mig-21_sps_k_shop";"◄MiG-21SPS-K Fishbed-F";;
-"mig-21_sps_k_0";"◄OKB-155 ""Mikoyan i Gurevich"" | MiG-21SPS-K Fishbed-F  | Product 94A";;
+"mig-21_sps_k_0";"◄OKB-155 ""Mikoyan i Gurevich"" | MiG-21SPS-K Fishbed-F  | Izdeliye 94A";;
 "mig-21_sps_k_1";"◄MiG-21SPS-K Fishbed-F";;
 "mig-21_sps_k_2";"◄MiG-21SPS-K";;
 #
 "mig-21_bis_sau_shop";"◊MiG-21bis-SAU Fishbed-N";;
-"mig-21_bis_sau_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-21bis-SAU Fishbed-N | Product 75B";;
+"mig-21_bis_sau_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-21bis-SAU Fishbed-N | Izdeliye 75B";;
 "mig-21_bis_sau_1";"◊MiG-21bis-SAU Fishbed-N";;
 "mig-21_bis_sau_2";"◊MiG-21bis-SAU";;
 #
 "mig-21_bis_lazur_shop";"◊MiG-21bis-Lazur Fishbed-L";;
-"mig-21_bis_lazur_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-21bis-Lazur Fishbed-L | Product 75A";;
+"mig-21_bis_lazur_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-21bis-Lazur Fishbed-L | Izdeliye 75A";;
 "mig-21_bis_lazur_1";"◊MiG-21bis-Lazur Fishbed-L";;
 "mig-21_bis_lazur_2";"◊MiG-21bis-Lazur";;
 #
 "mig_23mla_shop";"◊MiG-23MLA Flogger-G";;
-"mig_23mla_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-23MLA Flogger-G | Product 23-12A";;
+"mig_23mla_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-23MLA Flogger-G | Izdeliye 23-12A";;
 "mig_23mla_1";"◊MiG-23MLA Flogger-G";;
 "mig_23mla_2";"◊MiG-23MLA";;
 #
 "mig_23mf_germany_shop";"◊MiG-23MF Flogger-B";;
-"mig_23mf_germany_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-23MF Flogger-B | Product 23-11M";;
+"mig_23mf_germany_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-23MF Flogger-B | Izdeliye 23-11M";;
 "mig_23mf_germany_1";"◊MiG-23MF Flogger-B";;
 "mig_23mf_germany_2";"◊MiG-23MF";;
 #
@@ -391,14 +391,14 @@ tornado_ids_de_assta1_killstreak_2;☢IDS-Tornado (ASSTA 1.0);;
 "ef_2000_block_10_2";"◄EF-2000 (P3Ea)";;
 #
 "mig_29_9_12_germany_shop";"◊MiG-29A Fulcrum-A";;
-"mig_29_9_12_germany_0";"◊OKB-155 ""Mikoyan"" | MiG-29A Fulcrum-A | Product 9.12A";;
+"mig_29_9_12_germany_0";"◊OKB-155 ""Mikoyan"" | MiG-29A Fulcrum-A | Izdeliye 9-12A";;
 "mig_29_9_12_germany_1";"◊MiG-29A Fulcrum-A";;
 "mig_29_9_12_germany_2";"◊MiG-29A";;
 #
-"mig_29_9_12g_shop";"◄MiG-29G Fulcrum-G";;
-"mig_29_9_12g_0";"◄OKB-155 ""Mikoyan"" | MiG-29G Fulcrum-G | Product 9.12A";;
-"mig_29_9_12g_1";"◄MiG-29G Fulcrum-G";;
-"mig_29_9_12g_2";"◄MiG-29G";;
+"mig_29_9_12g_shop";"◄MiG-29G Fulcrum-A";;
+"mig_29_9_12g_0";"◄OKB-155 ""Mikoyan"" | MiG-29G Fulcrum-A | Izdeliye 9-12A";;
+"mig_29_9_12g_1";"◄MiG-29G Fulcrum-A";;
+"mig_29_9_12g_2";"◄MiG-29A";;
 #
 "hunter_f58a_1971_switzerland_shop";"◌Hunter Mk.58A (1971)";;
 "hunter_f58a_1971_switzerland_0";"◌Hawker Aircraft, Ltd. | Hunter Mk.58A (1971)";;
