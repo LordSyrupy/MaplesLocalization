@@ -1,3 +1,648 @@
+VERSION 0.4.3 CHANGELOG
+RELEASE DATE: 12/16/2025
+- Replaced the plural forms of weapons (Missiles, Bombs) with the singular form (Missile, Bomb)
+
+- Changed the names of the following UI elements:
+   - Guidance methods
+     - IR --> IR | Infrared
+     - TV --> TV | Television
+     - SARH --> SARH | Semi-Active Radar Homing
+     - SARH+IOG --> SARH+INS | Semi-Active Radar Homing + Inertial Navigation
+     - SARH+IOG+DL --> SARH+INS+DL | Semi-Active Radar Homing + Inertial Navigation + Radar Datalink
+     - ARH --> ARH | Active Radar Homing
+     - ARH+IOG --> ARH+INS | Active Radar Homing + Inertial Navigation
+     - ARH+IOG+DL --> ARH+INS+DL | Active Radar Homing + Inertial Navigation + Radar Datalink
+     - ARH+IOG+GNSS+DL --> ARH+INS+GPS+DL | Active Radar Homing + Inertial Navigation + Satellite Geopositioning + Radar Datalink
+     - Laser --> SALH | Semi-Active Laser Homing
+     - Laser+IOG --> SALH+INS | Semi-Active Laser Homing + Inertial Navigation
+     - Laser+IOG+GNSS --> SALH+INS+GPS | Semi-Active Laser Homing + Inertial Navigation + Satellite Geopositioning
+     - IR+IOG+GNSS --> IR+INS+GPS | Infrared + Inertial Navigation + Satellite Geopositioning
+     - IR+IOG+GNSS+DL --> IR+INS+GPS+DL | Infrared + Inertial Navigation + Satellite Geopositioning + Radar Datalink
+     - IR+IOG+DL --> IR+INS+DL | Infrared + Inertial Navigation + Radar Datalink
+     - IR+IOG --> IR+INS | Infrared + Inertial Navigation
+     - TV+IOG --> TV+INS | Television + Inertial Navigation
+     - TV+IOG+GNSS --> TV+INS+GPS | Television + Inertial Navigation + Satellite Geopositioning
+     - GNSS --> GPS | Satellite Geopositioning
+     - Manual (MCLOS) --> MCLOS | Manual Command Line-Of-Sight
+     - Semi-Automatic --> SACLOS | Semi-Automatic Command Line-of-Sight
+
+- Changed the names of the following aircraft statcard items:
+   - ECM Dispensers (BOL Pods) --> BOL Rail ECM Dispensers
+   - ECM Dispensers (MAWS-linked) --> MAWS ECM Dispensers
+   - ECM Dispensers (PIDS-linked) --> PIDS ECM Dispensers
+   - ECM Dispensers (MAWS-linked BOL Pods) --> MAWS BOL Rail ECM Dispensers
+
+- Changed the names of the following missiles:
+   - UK
+     - Brimstone (SAL)
+       - Semi-Active Laser mode Brimstone air-to-ground missile --> Brimstone 2 Laser-Guided Air-to-Ground Missiles -- long name
+       - Brimstone (SAL) --> Brimstone 2 [SALH] -- short name
+     - Skyflash
+       - removed "Pre-TEMP" from the long name
+   - USSR
+     - R-40RD
+       - R-40RD air-to-air missiles --> R-40RD Acrid-C Air-to-Air Missiles -- long name
+       - R-40RD --> R-40RD Acrid-C -- short name
+     - R-40TD
+       - R-40TD air-to-air missiles --> R-40TD Acrid-D Air-to-Air Missiles -- long name
+       - R-40TD --> R-40TD Acrid-D -- short name
+     - RVV-SD
+       - RVV-SD air-to-air missiles --> RVV-SD Adder-B Air-to-Air Missiles -- long name
+       - RVV-SD --> RVV-SD Adder-B -- short name
+   - USSR
+     - Kh-23M
+       - Kh-23M missiles --> Kh-23M Grom-M / Kerry-B Radio-Guided MCLOS Air-to-Ground Missile -- long name
+       - Kh-23M --> Kh-23M Grom-M -- short name
+     - Kh-66
+       - Kh-66 missiles --> Kh-66 Grom / Kerry Radio-Guided MCLOS Air-to-Ground Missile -- long name
+       - Kh-66 --> Kh-66 Grom -- short name
+     - Kh-25
+       - Kh-25 missiles --> Kh-25 Karen Laser-Guided Air-to-Ground Missile -- long name
+       - Kh-25 --> Kh-25 Karen -- short name
+     - Kh-25MR
+       - Kh-25MR missiles --> Kh-25MR Karen-G Radio-Guided SACLOS Air-to-Ground Missile -- long name
+       - Kh-25MR --> Kh-25MR Karen-G -- short name
+     - Kh-29L
+       - Kh-29L missiles --> Kh-29L Kedge-A Laser-Guided Air-to-Ground Missile -- long name
+       - Kh-29L --> Kh-29L Kedge-A -- short name
+     - 9M17M Falanga
+       - 9М17М Falanga missiles --> 9M17M Falanga-M / Swatter-B Radio-Guided MCLOS Anti-Tank Guided Missile -- long name
+       - 9М17М Falanga --> 9M17M Falanga-M -- short name
+     - 9M17P
+       - 9М17P Falanga-PV missiles --> 9M17P Falanga-P / Swatter-C Radio-Guided SACLOS Anti-Tank Guided Missile -- long name
+       - 9М17P Falanga --> 9M17P Falanga-P -- short name
+     - 9M114 Shturm
+       - 9M114 Shturm missiles --> 9M114 Shturm / Spiral Radio-Guided MCLOS Anti-Tank Guided Missile -- long name
+     - 9M14M Malyutka
+       - 9M14M Malyutka missiles --> 9M14M Malyutka-M / Sagger-B Wire-Guided MCLOS Anti-Tank Guided Missile -- long name
+       - 9M14M Malyutka --> 9M14M Malyutka-M -- short name
+     - 9M14-2 Malyutka-2
+       - 9M14-2 Malyutka-2 missiles --> 9M14-2 Malyutka-2 / Sagger-D Wire-Guided SACLOS Anti-Tank Guided Missile -- long name
+       - 9M14-2 Malyutka-2 --> 9M14-2 Malyutka-2 -- short name
+     - 9M120 Ataka
+       - 9M120 Ataka missiles --> 9M120 Ataka / Spiral-2 Radio-Guided SACLOS Anti-Tank Guided Missile -- long name
+     - 9M123M Khrizantema-VM
+       - 9M123M Khrizantema-VM missiles --> 9M123M Khrizantema-VM / Springer-B Laser-Guided LOSBR/ACLOS Anti-Tank Guided Missile -- long name
+     - 9M120M Ataka
+       - 9M120 Ataka missiles --> 9M120M Ataka-M / Spiral-2A Radio-Guided SACLOS Anti-Tank Guided Missile -- long name
+       - 9M120 Ataka --> 9M120M Ataka-M -- short name
+     - 9M120-1
+       - 9M120-1 Ataka missiles --> 9M120-1 Ataka-T / Spiral-2B Laser-Guided Anti-Tank Guided Missile -- long name
+       - 9M120-1 Ataka --> 9M120-1 Ataka-T -- short name
+     - 9M39 Igla
+       - 9M39 Igla air-to-air missiles --> 9M39 Igla / Grouse Surface-to-Air Missiles -- long name
+       - 9M39 --> 9M39 Igla -- short name
+     - 9M336 Verba
+       - 9M336 Verba air-to-air missiles --> 9M336 Verba / Gizmo Surface-to-Air Missile -- long name
+       - 9M336 --> 9M336 Verba -- short name
+     - 9M133M-2 ATGM
+       - 9M133M-2 ATGM --> 9M133M-2 Kornet-M / Spriggan-A Laser-Guided LOSBR/SACLOS Anti-Tank Guided Missile -- long name
+       - 9M133M-2 --> 9M133M-2 Kornet-M -- short name
+     - 9M133FM3 ATGM
+       - 9M133FM3 ATGM --> 9M113F-3 Kornet-M / Spriggan-C Laser-Guided LOSBR/SACLOS Anti-Tank Guided Missile -- long name
+       - 9M133FM3 --> 9M113F-3 Kornet-M -- short name 
+     - 9K127 Vikhr
+       - 9K127 Vikhr air-to-ground missiles --> 9M127 Vikhr / Scallion Laser-Guided Anti-Tank Guided Missile -- long name
+       - 9K127 Vikhr --> 9M127 Vikhr -- short name
+     - Kh-25ML
+       - Kh-25ML missiles --> Kh-25ML Karen Laser-Guided Air-to-Ground Missile -- long name
+       - Kh-25ML --> Kh-25ML Karen -- short name
+     - Kh-29T
+       - Kh-29T missiles --> Kh-29T Kedge-B Television-Guided Air-to-Ground Missile -- long name
+       - Kh-29T --> Kh-29T Kedge-B -- short name
+     - Kh-29TD
+       - Kh-29TD missiles --> Kh-29TD Kedge-B Television-Guided Air-to-Ground Missile -- long name
+       - Kh-29TD --> Kh-29TD Kedge-B -- short name
+     - Kh-29TE
+       - Kh-29TE missiles --> Kh-29TE Kedge-B Television-Guided Air-to-Ground Missile -- long name
+       - Kh-29TE --> Kh-29TE Kedge-B -- short name
+     - Kh-59M
+       - Kh-59M missiles --> Kh-59M Ovod-M / Kazoo Land Attack Cruise Missile -- long name
+       - Kh-59M --> Kh-59M Ovod-M -- short name
+     - Kh-59ME
+       - Kh-59ME missiles --> Kh-59ME Ovod-M / Kazoo Land-Attack Cruise Missile -- long name
+       - Kh-59ME --> Kh-59ME Ovod-M -- short name
+     - Kh-38ML
+       - Kh-38ML missiles --> Kh-38ML Laser-Guided Air-to-Ground Missile -- long name
+     - Kh-38MT
+       - Kh-38MT missiles --> Kh-38MT Infrared-Guided Air-to-Ground Missile -- long name
+     - Kh-38MLE
+       - Kh-38MLE missiles --> Kh-38MLE Laser-Guided Air-to-Ground Missile -- long name
+     - Kh-38MTE
+       - Kh-38MTE missiles --> Kh-38MTE Infrared-Guided Air-to-Ground Missile -- long name
+     - LMUR
+       - LMUR "Izdeliye 305" missiles --> Kh-39 «Legkaya Mnogotselevaya Upravlyayemaya Raketa» Infrared-Guided Air-to-Ground Missile -- long name
+       - LMUR --> Kh-39 LMUR -- short name
+   - China
+     - PL-2, PL-5B/C/EII, PL-7, PL-12
+       - reverted "Pī Lì" to "PL"
+   - USA
+     - AGM-179 JAGM-MR (IR)
+       - AGM-179 JAGM-MR (IR) air-to-ground missiles --> AGM-179 Infrared-Guided Joint Air-to-Ground Missiles (Medium-Range) -- long name
+       - AGM-179 JAGM-MR (IR) --> AGM-179 JAGM-MR [IR] -- short name
+     - AGM-179 JAGM-MR (SAL)
+       - AGM-179 JAGM-MR (SAL) air-to-ground missiles --> AGM-179 Laser-Guided Joint Air-to-Ground Missiles (Medium-Range) -- long name
+       - AGM-179 JAGM-MR (SAL) --> AGM-179 JAGM-MR [SALH]
+     - ATAS (AIM-92)
+       - ATAS (AIM-92) missiles --> AIM-92 Air-To-Air Stinger Air-to-Air Missiles -- long name
+       - ATAS --> AIM-92 ATAS -- short name
+
+- Changed the names of the following bombs:
+   - Germany
+     - SC50
+       - 50 kg SC50JA bomb --> Sprengbombe Cylindrisch 50 JA High-Explosive Bomb [50kg] -- long name
+       - SC50 --> SC 50 JA [50kg] -- short name
+     - SC250
+       - 250 kg SC250JA bomb --> Sprengbombe Cylindrisch 250 JA High-Explosive Bomb [250kg] -- long name
+       - SC250 --> SC 250 JA [250kg] -- short name
+     - SC500K
+       - 500 kg SC500K bomb --> Sprengbombe Cylindrisch 500 K High-Explosive Bomb [500kg] -- long name
+     - SC AG
+       - 300 kg SC AG bomb --> Sprengbombe Cylindrisch AG High-Explosive Bomb [300kg] -- long name
+       - 300 kg SC AG --> SC AG [300kg] -- short name
+     - PC 1400 X
+       - PC 1400 X (Fritz X) --> Panzersprengbombe Cylindrisch 1400 "Fritz X" Radio-Guided Glide Bomb [1400kg] -- long name
+     - HS 293 A-1
+       - HS 293 A-1 guided bomb --> Hs 293 A-1 Radio-Guided Glide Bomb [1000kg] -- long name
+       - HS 293 A-1 --> Hs 293 A-1 [1000kg] -- short name
+     - SC1800B
+       - 1800 kg SC1800B bomb --> Sprengbombe Cylindrisch 1800 B High-Explosive Bomb [1800kg] -- long name
+     - SC1000L2
+       - 1000 kg SC1000L2 bomb --> Sprengbombe Cylindrisch 1000 L2 High-Explosive Bomb [1000kg] -- long name
+       - SC1000 --> SC 1000 L2 [1000kg] -- short name
+     - SD10C
+       - 10 kg SD10C bomb --> Sprengbombe Dickwandig 10 C High-Explosive Bomb [10kg] -- long name
+     - SD50
+       - 50 kg SD50 bomb --> Sprengbombe Dickwandig 50 High-Explosive Bomb [50kg] -- long name
+       - SD50 --> SD 50 [50kg] -- short name
+     - SD70
+       - 70 kg SD70 bomb --> Sprengbombe Dickwandig 70 High-Explosive Bomb [70kg] -- long name
+       - SD70 --> SD 70 [70kg] -- short name
+     - PC500
+       - 500 kg PC500 armor-piercing bomb --> Panzersprengbombe Cylindrisch 500 Armor-Piercing High-Explosive Bomb [500kg] -- long name
+       - PC500 --> PC 500 [500kg] -- short name
+     - PD500
+       - 500 kg PD500 armor-piercing bomb --> Panzersprengbombe Dickwandig 500 Armor-Piercing High-Explosive Bomb [500kg] -- long name
+       - PD500 --> PD 500 [500kg] -- short name
+     - PC500 RS
+       - 500 kg PC500 RS armor-piercing rocket bomb --> Panzersprengbombe Cylindrisch 500 RS Rocket-Assisted Armor-Piercing High-Explosive Bomb [500kg] -- long name
+       - PC500 RS --> PC 500 RS [500kg] -- short name
+     - PC1000
+       - 1000 kg PC1000 armor-piercing bomb --> Panzersprengbombe Cylindrisch 1000 Armor-Piercing High-Explosive Bomb [1000kg] -- long name
+       - PC1000 --> PC 1000 [1000kg] -- short name
+     - PC1000 RS
+       - 1000 kg PC1000 RS armor-piercing rocket bomb --> Panzersprengbombe Cylindrisch 1000 RS Rocket-Assisted Armor-Piercing High-Explosive Bomb [1000kg] -- long name
+       - PC1000 RS --> PC 1000 RS [1000kg] -- short name
+     - PC1600
+       - 1600 kg PC1600 armor-piercing bomb --> Panzersprengbombe Cylindrisch 1600 Armor-Piercing High-Explosive Bomb [1600kg] -- long name
+       - PC1600 --> PC 1600 [1600kg] -- short name
+     - PC1800 RS
+       - 1800 kg PC1800 RS armor-piercing rocket bomb --> Panzersprengbombe Cylindrisch 1800 RS Rocket-Assisted Armor-Piercing High-Explosive Bomb [1800kg] -- long name
+       - PC1800 RS --> PC 1800 RS [1800kg] -- short name
+     - SC2500
+       - 2500 kg SC2500 bomb --> Sprengbombe Cylindrisch 2500 High-Explosive Bomb [2500kg] -- long name
+       - SC2500 --> SC 2500 [2500kg] -- short name
+     - SB2500
+       - 2500 kg SB2500 bomb --> Spezialbombe 2500 Aerial Mine [2500kg] -- long name
+       - SB2500 --> SB 2500 [2500kg] -- short name
+     - Flam C 250
+       - Flam C 250 incendiary bomb --> Flammenbombe C 250 Incendiary Bomb [250kg] -- long name
+       - C 250 --> FB C 250 [250kg] -- short name
+     - Flam C 500
+       - Flam C 500 incendiary bomb --> Flammenbombe C 500 Incendiary Bomb [500kg] -- long name
+       - C 500 --> FB C 500 [500kg] -- short name
+     - SC500K
+       - SC500 --> SC 500 K [500kg] -- short name
+     - PC 1400 X
+       - PC 1400 X --> Fritz X [1400kg] -- short name
+     - SC1800B
+       - SC1800 --> SC 1800 B [1800kg] -- short name
+     - SD10C
+       - SD10 --> SD 10 C [10kg] -- short name
+   - USSR
+     - AO-25M-1
+       - 25 kg AO-25M-1 bomb --> AO-25M-1 High-Explosive Bombs [25kg] -- long name
+       - AO-25M-1 --> AO-25M-1 [25kg] -- short name 
+     - FAB-50sv
+       - 50 kg FAB-50sv bomb --> Fugasnaya Sviatsionnaya Bomba FAB-50SV High-Explosive Bombs [50kg]
+       - FAB-50sv --> FAB-50SV [50kg] -- short name
+     - ZAB-50FP
+       - ZAB-50FP incendiary bomb --> ZAB-50FP Incendiary Bombs [50kg] -- long name
+       - ZAB-50FP --> ZAB-50FP [50kg] -- short name
+     - FAB-100sv (forged)
+       - 100 kg FAB-100sv (forged) bomb --> FAB-100SV High-Explosive Bombs [100kg] -- long name
+     - FAB-100sv
+       - 100 kg FAB-100sv bomb -->  FAB-100SV High-Explosive Bombs [100kg] -- long name
+       - FAB-100sv --> FAB-100SV [100kg] -- short name
+     - OFAB-100
+       - 100 kg OFAB-100 bomb --> OFAB-100 High-Explosive Fragmentation Bombs [100kg] -- long name
+       - OFAB-100 --> OFAB-100 [100kg] -- short name
+     - OFAB-100-110TU
+       - 100 kg OFAB-100-110TU bomb --> OFAB-100-110TU "Jupiter" High-Explosive Fragmentation Bombs [100kg] -- long name
+       - OFAB-100-110TU --> OFAB-100-110TU [100kg] -- short name
+     - OFAB-100MB
+       - 100 kg OFAB-100MB bomb --> OFAB-100MB High-Explosive Fragmentation Bombs [100kg] -- long name
+       - OFAB-100MB --> OFAB-100MB [100kg] -- short name
+     - FAB-100M-43
+       - 100 kg FAB-100M-43 bomb --> FAB-100 High-Explosive Bombs - Model 1943 [100kg] -- long name
+       - FAB-100M-43 --> FAB-100M-43 [100kg] -- short name
+     - BRAB-220
+       - 220 kg BRAB-220 (1930) armor-piercing bomb --> BRAB-220 Armor-Piercing Bombs - Model 1930 [220kg] -- long name
+       - BRAB-220 (1930) --> BRAB-220M-30 [220kg] -- short name
+     - FAB-250M-44
+       - 250 kg FAB-250M-44 bomb --> FAB-250 High-Explosive Bombs - Model 1944 [250kg] -- long name
+       - FAB-250M-44 --> FAB-250M-44 [250kg] -- short name
+     - FAB-250M-43
+       - 250 kg FAB-250M-43 bomb --> FAB-250 High-Explosive Bombs - Model 1943 [250kg] -- long name
+       - FAB-250M-43 --> FAB-250M-43 [250kg] -- short name
+     - FAB-100M-43
+       - 100 kg FAB-100M-43 bomb --> FAB-100 High-Explosive Bombs - Model 1943 [100kg] -- long name
+       - FAB-100M-43 --> FAB-100M-43 [100kg] -- short name
+     - FAB-250M-46
+       - 250 kg FAB-250M-46 bomb --> FAB-250 High-Explosive Bombs - Model 1946 [250kg] -- long name
+       - FAB-250M-46 --> FAB-250M-46 [250kg] -- short name
+     - FAB-500M-46
+       - 500 kg FAB-500M-46 bomb --> FAB-500 High-Explosive Bombs - Model 1946 [500kg] -- long name
+       - FAB-500M-46 --> FAB-500M-46 [500kg] -- short name
+     - FAB-1000
+       - 1000 kg FAB-1000 (welded) bomb --> FAB-1000 High-Explosive Bombs [1000kg] -- long name
+       - FAB-1000 --> FAB-1000 [1000kg] -- short name
+     - FAB-250SV
+       - 250 kg FAB-250sv bomb --> FAB-250 High-Explosive Bombs [250kg] -- long name
+       - FAB-250 --> FAB-250 [250kg] -- short name
+     - FAB-250sv
+       - 250 kg FAB-250sv bomb --> FAB-250SV High-Explosive Bombs [250kg] -- long name
+       - FAB-250sv --> FAB-250SV [250kg] -- short name
+     - FAB-500sv
+       - 500 kg FAB-500sv bomb --> FAB-500SV High-Explosive Bombs [500kg] -- long name
+       - FAB-500sv --> FAB-500SV [500kg] -- short name
+     - FAB-1000sv
+       - 1000 kg FAB-1000sv bomb --> FAB-1000SV High-Explosive Bombs [1000kg] -- long name
+       - FAB-1000sv --> FAB-1000SV [1000kg] -- short name
+     - FAB-500M-54
+       - 500 kg FAB-500M-54 bomb --> FAB-500 High-Explosive Bombs - Model 1954 [500kg] -- long name
+       - FAB-500M-54 --> FAB-500M-54 [500kg] -- short name
+     - FAB-250M-54
+       - 250 kg FAB-250M-54 bomb --> FAB-250 High-Explosive Bombs - Model 1954 [250kg] -- long name
+       - FAB-250M-54 --> FAB-250M-54 [250kg] -- short name
+     - OFAB-250-270
+       - 250 kg OFAB-250-270 bomb --> OFAB-250-270 High-Explosive Fragmentation Bombs [250kg] -- long name
+       - OFAB-250-270 --> OFAB-250-270 [250kg] -- short name
+     - FAB-250M-62
+       - 250 kg FAB-250M-62 bomb --> FAB-250 High-Explosive Bombs - Model 1962 [250kg] -- long name
+       - FAB-250M-62 --> FAB-250M-62 [250kg] -- short name
+     - BRAB-250
+       - 250 kg BRAB-250 armor-piercing bomb --> BRAB-250 Armor-Piercing Bombs [250kg] -- long name
+       - BRAB-250 --> BRAB-250 [250kg] -- short name
+     - BRAB-500
+       - 500 kg BRAB-500 armor-piercing bomb --> BRAB-500 Armor-Piercing Bombs [500kg] -- long name
+       - BRAB-500 --> BRAB-500 [500kg] -- short name
+     - BRAB-1000
+       - 1000 kg BRAB-1000 armor-piercing bomb --> BRAB-1000 Armor-Piercing Bombs [1000kg] -- long name
+       - BRAB-1000--> BRAB-1000 [1000kg] -- short name
+     - FAB-500M-62
+       - 500 kg FAB-500M-62 bomb --> FAB-500 High-Explosive Bombs - Model 1962 [500kg] -- long name
+       - FAB-500M-62 --> FAB-500M-62 [500kg] -- short name
+     - FAB-500M-54
+       - 500 kg FAB-500M-54 bomb --> FAB-500 High-Explosive Bombs - Model 1954 [500kg] -- long name
+       - FAB-500M-54 --> FAB-500M-54 [500kg] -- short name
+     - OFAB-100M
+       - 100 kg OFAB-100M bomb --> OFAB-100M High-Explosive Fragmentation Bombs [100kg] -- long name
+       - OFAB-100M --> OFAB-100M [100kg] -- short name
+     - OFAB-250sv
+       - 250 kg OFAB-250sv bomb --> OFAB-250SV High-Explosive Fragmentation Bombs [250kg] -- long name
+       - OFAB-250 --> OFAB-250SV [250kg] -- short name
+     - FAB-500sv
+       - 500 kg FAB-500sv (welded) bomb --> FAB-500SV High-Explosive Bombs [500kg] -- long name
+       - FAB-500sv --> FAB-500SV [500kg] -- short name
+     - FAB-1500M-46
+       - 1500 kg FAB-1500M-46 bomb --> FAB-1500 High-Explosive Bombs - Model 1946 [1500kg] -- long name
+       - FAB-1500M-46 --> FAB-1500M-46 [1500kg] -- short name
+     - FAB-3000M-46
+       - 3000 kg FAB-3000M-46 bomb --> FAB-3000 High-Explosive Bombs - Model 1946 [3000kg] -- long name
+       - FAB-3000M-46 --> FAB-3000M-46 [3000kg] --short name
+     - FAB-5000
+       - 5000 kg bomb FAB-5000 --> FAB-5000 High-Explosive Bomb [5000kg] -- long name
+       - FAB-5000 --> FAB-5000 [5000kg] -- short name
+     - FAB-500Sh
+       - 500 kg FAB-500Sh parachute retarded bomb --> FAB-500Sh Parachute-Retarded High-Explosive Bombs [500kg] -- long name
+       - FAB-500Sh --> FAB-500Sh [500kg] -- short name
+     - OFAB-250Sh
+       - 250 kg OFAB-250Sh parachute retarded bomb --> OFAB-250Sh Parachute-Retarded High-Explosive Fragmentation Bombs [250kg] -- long name
+       - OFAB-250Sh --> OFAB-250Sh [250kg] -- short name
+     - BRAB-500 (1938)
+       - 500 kg BRAB-500 (1938) armor-piercing bomb --> BRAB-500 Armor-Piercing Bombs - Model 1938 [500kg] -- long name
+       - BRAB-500 (1938) --> BRAB-500M-38 [500kg] -- short name
+     - BRAB-1000 (1938)
+       - 1000 kg BRAB-1000 (1938) armor-piercing bomb --> BRAB-1000 Armor-Piercing Bombs [1000kg] -- long name
+       - BRAB-1000 (1938) --> BRAB-1000M-38 [1000kg] -- short name
+     - KAB-50TV
+       - 50 kg KAB-50TV bomb --> KAB-50TV Television-Guided Bombs [50kg] -- long name
+       - KAB-50TV --> KAB-50TV [50kg] -- short name
+     - KAB-50S
+       - 50 kg KAB-50S bomb --> KAB-50S GLONASS-Guided Bombs [50kg] -- long name
+       - KAB-50S --> KAB-50S [50kg] -- short name
+     - KAB-50L
+       - 50 kg KAB-50L bomb --> KAB-50L Laser-Guided Bombs [50kg] -- long name
+       - KAB-50L --> KAB-50L [50kg] -- short name
+     - KAB-500Kr
+       - 500 kg KAB-500Kr bomb --> KAB-500Kr Television-Guided Bombs [500kg] -- long name
+       - KAB-500Kr --> KAB-500Kr [500kg] -- short name
+     - KAB-500Kr-M
+       - 500 kg KAB-500Kr-M bomb --> KAB-500Kr-M Television-Guided Bombs [500kg] -- long name
+       - KAB-500Kr-M --> KAB-500Kr-M [500kg] -- short name
+     - KAB-500Kr-E
+       - 500 kg KAB-500Kr-E bomb --> KAB-500Kr-E Television-Guided Bombs [500kg] -- long name
+       - KAB-500Kr-E --> KAB-500Kr-E [500kg] -- short name
+     - KAB-500S
+       - 500 kg KAB-500S bomb --> KAB-500S GLONASS-Guided Bombs [500kg] -- long name
+       - KAB-500S --> KAB-500S [500kg] -- short name
+     - KAB-500L
+       - 500 kg KAB-500L bomb --> KAB-500L Laser-Guided Bombs [500kg] -- long name
+       - KAB-500L--> KAB-500L [500kg] -- short name
+     - KAB-500LG
+       - 500 kg KAB-500LG bomb --> KAB-500LG Laser-Guided Bombs [500kg] -- long name
+       - KAB-500LG --> KAB-500LG [500kg] -- short name
+     - KAB-250LG
+       - 250 kg KAB-250LG bomb --> KAB-250LG Dual-Mode Laser-Guided Bombs [250kg] -- long name
+       - KAB-250LG --> KAB-250LG [250kg] -- short name
+     - KAB-1500Kr
+       - 1500 kg KAB-1500Kr bomb --> KAB-1500Kr Television-Guided Bombs [1500kg] -- long name
+       - KAB-1500Kr --> KAB-1500Kr [1500kg] -- short name
+     - UPAB-500B
+       - 500 kg UPAB-500B bomb --> UPAB-500B GLONASS-Guided Glide Bombs [500kg] -- long name
+       - UPAB-500B --> UPAB-500B [500kg] -- short name
+     - UPAB-1500B
+       - 1500 kg UPAB-1500B bomb --> UPAB-1500B GLONASS-Guided Glide Bombs [1500kg] -- long name
+       - UPAB-1500B --> UPAB-1500B [1500kg] -- short name
+     - KAB-1500L
+       - 1500 kg KAB-1500L bomb --> KAB-1500L Laser-Guided Bombs [1500kg] -- long name
+       - KAB-1500L --> KAB-1500L [1500kg] -- short name
+     - KAB-1500LG
+       - 1500 kg KAB-1500LG bomb --> KAB-1500LG Laser-Guided Bombs [1500kg] -- long name
+       - KAB-1500LG --> KAB-1500LG [1500kg] -- short name
+     - FAB-3000 UMPK
+       - 3000 kg FAB-3000 UMPK bomb --> Unifitsirovannyy Modul' Planirovaniya i Korrektsii GLONASS-Guided Glide Bomb - FAB-3000 [3000kg] -- long name
+       - FAB-3000 UMPK --> FAB-3000 UMPK [3000kg] -- short name
+     - FAB-500 UMPK
+       - 500 kg FAB-500M-62 UMPK bomb --> Unifitsirovannyy Modul' Planirovaniya i Korrektsii GLONASS-Guided Glide Bombs - FAB-500M-62 [500kg] -- long name
+       - FAB-500 UMPK --> FAB-500M-62 UMPK [500kg] -- short name
+     - Grom-1
+       - Grom-1 missile --> Kh-36 Grom-E1 Rocket-Assisted GLONASS-Guided Glide Bombs [600kg] -- long name
+       - Grom-1 --> Kh-36 Grom-E1 [600kg] -- short name
+     - Grom-2
+       - Grom-2 guided bomb --> Kh-36 Grom-E2 GLONASS-Guided Glide Bombs [600kg] -- long name
+       - Grom-2 --> Kh-36 Grom-E2 [600kg] -- short name
+     - FAB-1000M-44
+       - 1000 kg FAB-1000M-44 bomb --> FAB-1000 High-Explosive Bombs - Model 1944 [1000kg] -- long name
+       - FAB-1000M-44 --> FAB-1000M-44 [1000kg] -- short name
+     - FAB-1000M-43
+       - 1000 kg FAB-1000M-43 bomb --> FAB-1000 High-Explosive Bombs - Model 1943 [1000kg] -- long name
+       - FAB-1000M-43 --> FAB-1000M-43[1000kg] -- short name
+     - FAB-500M-44
+       - 500 kg FAB-500M-44 bomb --> FAB-500 High-Explosive Bombs -- Model 1944 [500kg] -- long name
+       - FAB-500M-44 --> FAB-500M-44 [500kg] -- short name
+     - FAB-500M-43
+       - 500 kg FAB-500M-43 bomb --> FAB-500 High-Explosive Bombs - Model 1943 [500kg] -- long name
+       - FAB-500M-43 --> FAB-500M-43 [500kg] -- short name
+     - FAB-1500M-54
+       - 1500 kg FAB-1500M-54 bomb --> FAB-1500 High-Explosive Bombs - Model 1954 [1500kg] -- long name
+       - FAB-1500M-54 --> FAB-1500M-54 [1500kg] -- short name
+     - FAB-3000M-54
+       - 3000 kg FAB-3000M-54 bomb --> FAB-3000 High-Explosive Bombs - Model 1954 [3000kg] -- long name
+       - FAB-3000M-54 --> FAB-3000M-54 [3000kg] -- short name
+     - ZB-500
+       - ZB-500 incendiary bomb --> ZB-500 Incendiary Tanks [374kg] -- long name
+       - ZB-500 --> ZB-500 [374kg] -- short name
+     - ZB-360
+       - ZB-360 incendiary bomb --> ZB-360 Incendiary Tanks [342kg] -- long name
+       - ZB-360 --> ZB-360 [342kg] -- short name
+     - KAB-500LG-E
+       - 500 kg KAB-500LG-E bomb --> KAB-500LG-E Laser-Guided Bomb [500kg] -- long name
+       - KAB-500LG-E --> KAB-500LG-E [500kg] -- short name
+     - KAB-250LG-E
+       - 250 kg KAB-250LG-E bomb --> KAB-250LG-E Dual-Mode Laser-Guided Bomb [250kg] -- long name
+       - KAB-250LG-E --> KAB-250LG-E [250kg] -- short name
+     - UPAB-500B-E
+       - 500 kg UPAB-500B-E bomb --> UPAB-500B-E GLONASS-Guided Glide Bomb [500kg] -- long name
+       - UPAB-500B-E --> UPAB-500B-E [500kg] -- short name
+     - UPAB-1500B-E
+       - 1500 kg UPAB-1500B-E bomb --> UPAB-1500B-E GLONASS-Guided Glide Bomb [1500kg] -- long name
+       - UPAB-1500B-E --> UPAB-1500B-E [1500kg] -- short name
+     - KAB-1500LG-E
+       - 1500 kg KAB-1500LG-E bomb --> KAB-1500LG-E Laser-Guided Bomb [1500kg] -- long name
+       - KAB-1500LG-E --> KAB-1500LG-E [1500kg] -- short name
+   - Grom-E2
+     - Grom-E2 guided bomb --> Kh-36 Grom-E2 GLONASS-Guided Glide Bomb [600kg] -- long name
+     - Grom-E2 --> Kh-36 Grom-E2 [600kg] -- short name
+
+- Changed the names of the following rockets:
+   - Germany
+     - Pb2
+       - Pb2 rockets --> Panzerblitz II Anti-Tank Rockets -- long name
+       - Pb2 --> Pb II -- short name
+     - R4M
+       - R4M rockets --> Rakete 4 Kilogramm Minenkopf "Orkan" Air-to-Air Rockets -- long name
+     - RZ.65
+       - RZ.65 rockets --> Rauchzylinder 65 Bordrakete "Föhn" Air-to-Air Rockets -- long name
+       - RZ 65 --> RZ 65 Föhn -- short name
+   - USSR
+     - RBS-132
+       - RBS-132 rockets --> RBS-132 132mm Semi Armor-Piercing High-Explosive Rocket -- long name
+       - RBS-132 --> RBS-132 [SAP-HE] -- short name
+     - RBS-82
+       - RBS-82 rockets --> RBS-82 82mm Semi Armor-Piercing High-Explosive Rocket -- long name
+       - RBS-82 --> RBS-82 [SAP-HE] -- short name
+     - S-5K
+       - S-5K rockets --> S-5K 55mm High-Explosive Anti-Tank Rocket -- long name
+       - S-5K --> S-5K [HEAT] -- short name
+     - S-5M
+       - S-5M rockets --> S-5M 55mm High-Explosive Rocket -- long name
+       - S-5M --> S-5M [HE] -- short name
+     - S-5KP
+       - S-5KP rockets --> S-5KP 55mm High-Explosive Anti-Tank Rocket -- long name
+       - S-5KP --> S-5KP [HEAT] -- short ma,e
+     - S-3K
+       - S-3K rockets --> S-3K Strela 127mm High-Explosive Anti-Tank Rocket -- long name
+       - S-3K --> S-3K Strela [HEAT] -- short name
+     - S-21
+       - S-21 rockets --> S-21 Orel 212mm High-Explosive Rocket -- long name
+       - S-21 --> S-21 Orel [HE] -- short name
+     - S-24
+       - S-24 rockets --> S-24 Buran 240mm High-Explosive Rocket -- long name
+       - S-24 --> S-24 Buran [HE] -- short name
+     - S-24B
+       - S-24B rockets --> S-24B 240mm High-Explosive Rocket -- long name
+       - S-24B --> S-24B [HE] -- short name
+     - ROS-82
+       - ROS-82 rockets --> ROS-82 82mm High-Explosive Rocket -- long name
+       - ROS-82 --> ROS-82 [HE]
+     - ROS-132
+       - ROS-132 rockets --> ROS-132 132mm High-Explosive Rocket -- long name
+       - ROS-132 --> ROS-132 [HE] -- short name
+     - M-8
+       - M-8 rockets --> M-8 82mm High-Explosive Rocket -- long name
+       - M-8 --> M-8 [HE] -- short name
+     - ROFS-132
+       - ROFS-132 rockets --> ROFS-132 132mm High-Explosive Rocket -- long name
+       - ROFS-132 --> ROFS-132 [HE] -- short name
+     - M-13UK
+       - M-13UK rockets --> M-13UK 132mm High-Explosive Rocket -- long name
+       - M-13UK --> M-13UK [HE] -- short name
+     - S-8KO
+       - S-8KO rockets --> S-8KO 80mm High-Explosive Anti-Tank Rocket -- long name
+       - S-8KO --> S-8KO [HEAT] -- short name
+     - S-8M
+       - S-8M rockets --> S-8M 80mm High-Explosive Rocket -- long name
+       - S-8M --> S-8M [HE] -- short name
+     - S-1of
+       - S-1of rockets --> S-1OF 212mm High-Explosive Rocket -- long name
+       - S-1of --> S-1OF [HE] -- short name
+     - S-13DF
+       - S-13DF rockets --> S-13DF 122mm Thermobaric Rocket -- long name
+       - S-13DF --> S-13DF [THERM] -- short name
+     - S-13OF
+       - S-13OF rockets --> S-13OF 122mm High-Explosive Rocket -- long name
+       - S-13OF --> S-13OF [HE] -- short name
+     - S-25L
+       - S-25L missiles --> S-25L 340mm Laser-Guided High-Explosive Rocket -- long name
+       - S-25L --> S-25L [HE] -- short name
+     - S-25LD
+       - S-25LD missiles --> S-25LD 340mm Laser-Guided High-Explosive Rocket -- long name
+       - S-25LD --> S-25LD [HE] -- short name
+     - S-25OFM
+       - S-25OFM rockets --> S-25OFM 340mm High-Explosive Rocket -- long name
+       - S-25OFM --> S-25OFM [HE] -- short name
+     - S-25OF
+       - S-25OF rockets --> S-25OF 340mm High-Explosive Rocket -- long name
+       - S-25OF --> S-25OF [HE] -- short name
+     - S-25O
+       - S-25O rockets --> S-25O 420mm High-Explosive Rocket -- long name
+       - S-25O --> S-25O [HE] -- short name
+     - S-8KOM
+       - 80 mm S-8KOM rocket --> S-8KOM 80mm High-Explosive Rocket -- long name
+
+- Changed the names of the following aircraft:
+   - USSR, Germany, Italy
+     - replaced all instances of the word "Product" with "Izdeliye" on Soviet/Russian-origin airframes
+   - USA
+     - F/A-18E --> F/A-18E-2 Super Hornet -- in shop
+     - F/A-18E (Block 2) Super Hornet --> Boeing Defense, Space & Security | F/A-18E-2 Super Hornet | Block 2, Lot 30 (2005)
+     - F/A-18E --> F/A-18E-2 Super Hornet -- at medium distance
+     - F/A-18E --> F/A-18E-2 -- at long distance
+   - Germany
+     - EF-2000 (AESA)
+       - EF-2000 (AESA) --> EF-2000 Typhoon (P3Ec1) -- in shop
+       - EF-2000 (AESA) --> Eurofighter Jagdflugzeug GmbH | EF-2000 Typhoon | Tranche 3A | Phase 3, Enhancement C, Step 1 -- on statcard
+       - EF-2000 --> EF-2000 Typhoon (P3Ec1) -- at medium distance
+       - EF-2000 --> EF-2000 (P3Ec1) -- at long distance
+     - EF-2000A Typhoon
+       - EF-2000A Typhoon --> EF-2000 Typhoon (P3Ea) -- in shop
+       - Eurofighter Jagdflugzeug GmbH | EF-2000A Typhoon | Tranche 2 | Block 10 --> Eurofighter Jagdflugzeug GmbH | EF-2000 Typhoon | Tranche 2 | Block 10 | Phase 3, Enhancement A -- on statcard
+       - EF-2000A Typhoon --> EF-2000 Typhoon (P3Ea) -- at medium distance
+       - EF-2000A --> EF-2000 (P3Ea) -- at long distance
+     - MiG-29G Fulcrum-G
+       - Fulcrum-G --> Fulcrum-A -- on all names
+   - USSR
+     - MiG-25PD
+       - MiG-25PD --> MiG-25PD Foxbat-E -- in shop
+       - MiG-25PD --> OKB-155 "Mikoyan i Gurevich" | MiG-25PD Foxbat-E -- on statcard
+       - MiG-25PD --> MiG-25PD Foxbat-E -- at medium distance
+       - MiG-25 --> MiG-25PD -- at long distance
+     - Su-30MK2
+       - Su-30MK2 --> Su-30MKV -- all names
+       - changed the roundel to be the same roundel shared by the Kfir COA and A-1A Ghibli
+     - Su-30SM2
+       - Su-30SM2 --> Su-30SM2 Flanker-H -- in shop
+       - Su-30SM2 --> PAO Kompaniya "Sukhoi" | Su-30SM2 Flanker-H -- on statcard
+       - Su-30SM2 --> Su-30SM2 Flanker-H -- at medium distance
+       - Su-30 --> Su-30SM2 -- at long distance
+   - UK
+     - F-111C Aardvark (courtesy of Oasis/Mirage)
+       - F-111C --> F-111C Aardvark (1986)
+       - F-111C Aardvark --> General Dynamics Corporation | F-111C Aardvark | Pave Tack Modification (1986)
+       - F-111C --> F-111C Aardvark (1986)
+       - F-111 --> F-111C (1986)
+     - Typhoon (AESA)
+       - Typhoon (AESA) --> Typhoon FGR.4 (ZK355) -- in shop
+       - EF-2000 Typhoon (AESA) --> Eurofighter Jagdflugzeug GmbH | Typhoon | Fighter/Ground Attack/Reconnaissance, Mk.4 | ZK355 Testbed (2019) -- on statcard
+       - Typhoon --> Typhoon FGR.4 (ZK355) -- at medium distance
+       - Typhoon --> Typhoon FGR.4 (ZK355) -- at long distance
+     - Typhoon FGR.4
+       - Typhoon FGR.4 --> Typhoon FGR.4 (C2) -- in shop
+       - Eurofighter Jagdflugzeug GmbH | Typhoon | Fighter/Ground Attack/Reconnaissance, Mk.4 --> Eurofighter Jagdflugzeug GmbH | Typhoon | Fighter/Ground Attack/Reconnaissance, Mk.4 | Centurion Phase 2 (2018) -- on statcard
+       - Typhoon FGR.4 --> Typhoon FGR.4 (C2) -- at medium distance
+       - Typhoon FGR.4 --> Typhoon FGR.4 (C2) -- at long distance
+   - Japan
+     - F/A-18D
+       - F/A-18D Late --> F/A-18D-52 Hornet -- in shop
+       - F/A-18D (Late) Hornet --> McDonnell Douglas Corporation | F/A-18D-52 Hornet | Block 52, Lot 20 (1992)-- on statcard
+       - F/A-18D Late --> F/A-18D-52 Hornet -- at medium distance
+       - F/A-18D --> F/A-18D-52 -- at long distance
+     - Su-30MKM
+       - Su-30MKM --> Su-30MKM Flanker-H -- in shop
+       - Su-30MKM --> PAO Kompaniya "Sukhoi" | Su-30MKM Flanker-H -- on statcard
+       - Su-30MKM --> Su-30MKM Flanker-H -- at medium distance
+       - Su-30 --> Su-30MKM -- at long distance
+       - gave it a roundel
+     - Hawk 209
+       - Hawk 209 --> British Aerospace plc | Hawk 209 -- on statcard
+       - Hawk --> Hawk 209 -- at long distance
+     - B.Kh.20 Gripen C
+       - JAS 39C Gripen C --> JAS 39C Gripen -- on statcard
+     - MiG-29N
+       - MiG-29N --> MiG-29N Fulcrum-C -- in shop
+       - MiG-29 (9-12СД) --> RSO Korporatsiya "MiG" | MiG-29N Fulcrum-C | Izdeliye 9-12SD -- on statcard
+       - MiG-29N --> MiG-29N Fulcrum-C -- at medium distance
+       - MiG-29 --> MiG-29N -- at long distance
+   - China
+     - J-10C
+       - J-10C --> J-10C Měnglóng -- in shop
+       - J-10C --> Chengdu Aircraft Corporation (CAC) | J-10C Měnglóng (Vigorous Dragon) -- on statcard
+       - J-10C --> J-10C Měnglóng -- at medium distance
+       - J-10 --> J-10C -- at long distance
+     - Su-30MKK
+       - Su-30MKK --> Su-30MKK Flanker-G -- in shop
+       - Su-30MKM --> PAO Kompaniya "Sukhoi" | Su-30MKK Flanker-G -- on statcard
+       - Su-30MKM --> Su-30MKK Flanker-G -- at medium distance
+       - Su-30 --> Su-30MKK -- at long distance
+     - on all aircraft that had one, moved the roundel on the statcard to be in front of the aircraft instead of being in front of the manufacturer
+     - slightly tweaked statcard formatting to line up with naming convention precedents set elsewhere in the mod
+   - Italy
+     - F-2000A (AESA)
+       - F-2000A (AESA) --> F-2000A Typhoon (ECRS Mk2) -- in shop
+       - F-2000A (AESA) Typhoon --> Eurofighter Jagdflugzeug GmbH | F-2000A Typhoon | Tranche 3A | European Common Radar System, Mk2 -- on statcard
+       - F-2000A --> F-2000A Typhoon (ECRS Mk2) -- at medium distance
+       - F-2000A --> F-2000A (ECRS Mk2) -- at long distance
+     - F-2000A Typhoon
+       - F-2000A Typhoon --> F-2000A Typhoon T2 -- in shop/at medium distance
+       - F-2000A --> F-2000A T2 -- at long distance
+     - JAS 39EBS
+       - JAS 39EBS Gripen C --> JAS 39C EBS Gripen -- in shop
+       - Saab AB | JAS 39EBS Gripen C --> Saab AB | JAS 39C Gripen | Export Baseline Standard -- on statcard
+       - JAS 39EBS Gripen C --> JAS 39C EBS Gripen -- at medium distance
+       - JAS 39EBS --> JAS 39C EBS -- at long distance
+     - MB-326B
+       - MB-326B --> MB-326B Impala -- in shop
+       - MB-326B --> Aermacchi | MB-326B Impala -- on statcard
+       - MB-326B --> MB-326B Impala -- at medium distance
+   - France
+     - Rafale M F3-R
+       - Rafale M F3-R --> Rafale M F3R -- in shop
+       - Rafale M F3-R --> Dassault Aviation SA | Rafale Marine F3R -- on statcard
+       - Rafale M --> Rafale M F3R -- at medium distance
+       - Rafale --> Rafale M F3R -- at long distance
+   - Sweden
+     - JAS 39A Gripen A
+       - JAS 39A Gripen A --> JAS 39A Gripen -- on all names
+     - JAS 39C Gripen C
+       - JAS 39C Gripen C --> JAS 39C Gripen -- on all names
+     - JAS39E
+       - JAS39E --> JAS 39E Gripen -- in shop
+       - JAS39E Gripen --> Saab AB | JAS 39E Gripen -- on statcard
+       - JAS39E --> JAS 39E Gripen -- at medium distance
+       - JAS39 --> JAS 39E -- at long distance
+
 VERSION 0.4 CHANGELOG
 RELEASE DATE: 09/14/2025
 - Removed reworks for ground vehicles added in the Leviathans update
