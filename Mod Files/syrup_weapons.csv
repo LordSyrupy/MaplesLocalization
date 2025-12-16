@@ -1248,6 +1248,117 @@ weapons/su_rvv_sd/short;RVV-SD Adder-B
 weapons/su_rvv_sd_default;RVV-SD Adder-B Air-to-Air Missile
 weapons/su_rvv_sd_default/short;RVV-SD Adder-B
 #
+weapons/su_kh_23m;Kh-23M Grom-M / Kerry-B Radio-Guided MCLOS Air-to-Ground Missile
+weapons/su_kh_23m/short;Kh-23M Grom-M
+#
+weapons/su_kh_66;Kh-66 Grom / Kerry Radio-Guided MCLOS Air-to-Ground Missile
+weapons/su_kh_66/short;Kh-66 Grom
+#
+weapons/su_kh_25;Kh-25 Karen Laser-Guided Air-to-Ground Missile
+weapons/su_kh_25/short;Kh-25 Karen
+#
+weapons/su_kh_25_haslaserchannel;Kh-25 Karen Laser-Guided Air-to-Ground Missile
+weapons/su_kh_25_haslaserchannel/short;Kh-25 Karen
+#
+weapons/su_kh_29l;Kh-29L Kedge-A Laser-Guided Air-to-Ground Missile
+weapons/su_kh_29l/short;Kh-29L Kedge-A
+#
+weapons/su_kh_25mr;Kh-25MR Karen-G Radio-Guided SACLOS Air-to-Ground Missile
+weapons/su_kh_25mr/short;Kh-25MR Karen-G
+#
+weapons/su_kh_29l_notlaserchannel;Kh-29L Kedge-A Laser-Guided Air-to-Ground Missile
+weapons/su_kh_29l_notlaserchannel/short;Kh-29L Kedge-A
+#
+weapons/su_9M17M;9M17M Falanga-M / Swatter-B Radio-Guided MCLOS Anti-Tank Guided Missile
+weapons/su_9M17M/short;9M17M Falanga-M
+#
+weapons/su_9m17m_default;9M17M Falanga-M / Swatter-B Radio-Guided MCLOS Anti-Tank Guided Missile
+weapons/su_9m17m_default/short;9M17M Falanga-M 
+#
+weapons/su_9M17P;9M17P Falanga-P / Swatter-C Radio-Guided SACLOS Anti-Tank Guided Missile
+weapons/su_9M17P/short;9M17P Falanga-P
+#
+weapons/su_9M114;9M114 Shturm / Spiral Radio-Guided MCLOS Anti-Tank Guided Missile
+weapons/su_9M114/short;9M114 Shturm
+#
+weapons/su_9M114_default;9M114 Shturm / Spiral Radio-Guided MCLOS Anti-Tank Guided Missile
+weapons/su_9M114_default/short;9M114 Shturm
+#
+weapons/su_9M14M;9M14M Malyutka-M / Sagger-B Wire-Guided MCLOS Anti-Tank Guided Missile
+weapons/su_9M14M/short;9M14M Malyutka-M
+#
+weapons/su_9m14m_default;9M14M Malyutka-M / Sagger-B Wire-Guided MCLOS Anti-Tank Guided Missile
+weapons/su_9m14m_default/short;9M14M Malyutka-M
+#
+weapons/su_9M14-2;9M14-2 Malyutka-2 / Sagger-D Wire-Guided SACLOS Anti-Tank Guided Missile
+weapons/su_9M14-2/short;9M14-2 Malyutka-2 
+#
+weapons/su_9M120;9M120 Ataka / Spiral-2 Radio-Guided SACLOS Anti-Tank Guided Missile
+weapons/su_9M120/short;9M120 Ataka
+#
+weapons/su_9M123;9M123M Khrizantema-VM / Springer-B Laser-Guided LOSBR/ACLOS Anti-Tank Guided Missile
+weapons/su_9M123/short;9M123M Khrizantema-VM
+#
+weapons/su_9M120M;9M120M Ataka-M / Spiral-2A Radio-Guided SACLOS Anti-Tank Guided Missile
+weapons/su_9M120M/short;9M120M Ataka-M
+#
+weapons/su_9M120M_laser_guided;9M120-1 Ataka-T / Spiral-2B Laser-Guided Anti-Tank Guided Missile
+weapons/su_9M120M_laser_guided/short;9M120-1 Ataka-T
+#
+weapons/su_9M120M_laser_guided_default;9M120-1 Ataka-T / Spiral-2B Laser-Guided Anti-Tank Guided Missile
+weapons/su_9M120M_laser_guided_default/short;9M120-1 Ataka-T
+#
+weapons/su_9M39;9M39 Igla / Grouse Surface-to-Air Missiles
+weapons/su_9M39/short;9M39 Igla
+#
+weapons/su_9M336;9M336 Verba / Gizmo Surface-to-Air Missile
+weapons/su_9M336/short;9M336 Verba
+#
+weapons/su_9m133_kornet;9M133M-2 Kornet-M / Spriggan-A Laser-Guided LOSBR/SACLOS Anti-Tank Guided Missile
+weapons/su_9m133_kornet/short;9M133M-2 Kornet-M
+#
+weapons/su_9m133fm3_kornet;9M113F-3 Kornet-M / Spriggan-C Laser-Guided LOSBR/SACLOS Anti-Tank Guided Missile
+weapons/su_9m133fm3_kornet/short;9M113F-3 Kornet-M
+#
+weapons/su_9M127;9M127 Vikhr / Scallion Laser-Guided Anti-Tank Guided Missile
+weapons/su_9M127/short;9M127 Vikhr
+#
+weapons/su_9m127_1;9M127 Vikhr / Scallion Laser-Guided Anti-Tank Guided Missile
+weapons/su_9m127_1/short;9M127 Vikhr
+#
+weapons/su_kh_25ml;Kh-25ML Karen-A Laser-Guided Air-to-Ground Missile
+weapons/su_kh_25ml/short;Kh-25ML Karen-A
+#
+weapons/su_kh_29t;Kh-29T Kedge-B Television-Guided Air-to-Ground Missile
+weapons/su_kh_29t/short;Kh-29T Kedge-B
+#
+weapons/su_kh_29td;Kh-29TD Kedge-B Television-Guided Air-to-Ground Missile
+weapons/su_kh_29td/short;Kh-29TD Kedge-B
+#
+weapons/su_kh_29te;Kh-29TE Kedge-B Television-Guided Air-to-Ground Missile
+weapons/su_kh_29te/short;Kh-29TE Kedge-B
+#
+weapons/su_kh_59m;Kh-59M Ovod-M / Kazoo Land Attack Cruise Missile
+weapons/su_kh_59m/short;Kh-59M Ovod-M
+#
+weapons/su_kh_59me;Kh-59ME Ovod-M / Kazoo Land-Attack Cruise Missile
+weapons/su_kh_59me/short;Kh-59ME Ovod-M
+#
+weapons/su_kh_38ml;Kh-38ML Laser-Guided Air-to-Ground Missile
+weapons/su_kh_38ml/short;Kh-38ML
+#
+weapons/su_kh_38mt;Kh-38MT Infrared-Guided Air-to-Ground Missile
+weapons/su_kh_38mt/short;Kh-38MT
+#
+weapons/su_kh_38mle;Kh-38MLE Laser-Guided Air-to-Ground Missile
+weapons/su_kh_38mle/short;Kh-38MLE
+#
+weapons/su_kh_38mte;Kh-38MTE Infrared-Guided Air-to-Ground Missile
+weapons/su_kh_38mte/short;Kh-38MTE
+#
+weapons/su_lmur;"Kh-39 «Legkaya Mnogotselevaya Upravlyayemaya Raketa» Infrared-Guided Air-to-Ground Missile"
+weapons/su_lmur/short;Kh-39 LMUR
+#
 #Missiles, GB
 "weapons/uk_skyflash_aim_7";"Skyflash Air-to-Air Missile"
 "weapons/uk_skyflash_aim_7/short";"Skyflash"
@@ -1945,17 +2056,17 @@ weapons/su_kab_1500l/short;KAB-1500L [1500kg]
 weapons/su_kab_1500lg;KAB-1500LG Laser-Guided Bomb [1500kg]
 weapons/su_kab_1500lg/short;KAB-1500LG [1500kg]
 #
-weapons/su_umpk_3000;Unifitsirovannyy Modul' Planirovaniya i Korrektsii GLONASS-Guided Glide Bomb - FAB-3000M-54 [3000kg]
+weapons/su_umpk_3000;«Unifitsirovannyy Modul' Planirovaniya i Korrektsii» GLONASS-Guided Glide Bomb - FAB-3000M-54 [3000kg]
 weapons/su_umpk_3000/short;FAB-3000M-54 UMPK [3000kg]
 #
-weapons/su_umpk_500m62;Unifitsirovannyy Modul' Planirovaniya i Korrektsii GLONASS-Guided Glide Bomb - FAB-500M-62 [500kg]
+weapons/su_umpk_500m62;«Unifitsirovannyy Modul' Planirovaniya i Korrektsii» GLONASS-Guided Glide Bomb - FAB-500M-62 [500kg]
 weapons/su_umpk_500m62/short;FAB-500M-62 UMPK [500kg]
 #
-weapons/su_grom_1;Kh-36 Grom-E1 Rocket-Assisted GLONASS-Guided Glide Bomb [600kg]
-weapons/su_grom_1/short;Kh-36 Grom-E1 [600kg]
+weapons/su_grom_1;Kh-36 Grom-1 Rocket-Assisted GLONASS-Guided Glide Bomb [600kg]
+weapons/su_grom_1/short;Kh-36 Grom-1 [600kg]
 #
-weapons/su_grom_2;Kh-36 Grom-E2 GLONASS-Guided Glide Bomb [600kg]
-weapons/su_grom_2/short;Kh-36 Grom-E2 [600kg]
+weapons/su_grom_2;Kh-36 Grom-2 GLONASS-Guided Glide Bomb [600kg]
+weapons/su_grom_2/short;Kh-36 Grom-2 [600kg]
 #
 weapons/su_grom_e2;Kh-36 Grom-E2 GLONASS-Guided Glide Bomb [600kg]
 weapons/su_grom_e2/short;Kh-36 Grom-E2 [600kg]
@@ -1978,14 +2089,14 @@ weapons/su_fab_1500m_54/short;FAB-1500M-54 [1500kg]
 weapons/su_fab_3000m_54;FAB-3000 High-Explosive Bomb - Model 1954 [3000kg]
 weapons/su_fab_3000m_54/short;FAB-3000M-54 [3000kg]
 #
-weapons/su_zb_500;ZB-500 Incendiary Tanks [374kg] 
+weapons/su_zb_500;ZB-500 Incendiary Tank [374kg] 
 weapons/su_zb_500/short;ZB-500 [374kg]
 #
-weapons/su_zb_360;ZB-360 Incendiary Tanks [342kg]
+weapons/su_zb_360;ZB-360 Incendiary Tank [342kg]
 weapons/su_zb_360/short;ZB-360 [342kg]
 #
-weapons/su_kab_500lg_e;500 kg KAB-500LG-E bomb
-weapons/su_kab_500lg_e/short;KAB-500LG-E
+weapons/su_kab_500lg_e;KAB-500LG-E Laser-Guided Bomb [500kg]
+weapons/su_kab_500lg_e/short;KAB-500LG-E [500kg]
 #
 weapons/su_kab_250lg_e;KAB-250LG-E Dual-Mode Laser-Guided Bomb [250kg]
 weapons/su_kab_250lg_e/short;KAB-250LG-E [250kg]
@@ -2004,7 +2115,7 @@ weapons/su_kab_1500lg_e/short;KAB-1500LG-E [1500kg]
 "weapons/uk_paveway_iv/short";"Paveway IV (500lb.)"
 #
 #Bombs, JP
-"weapons/us_750lb_m117_cone_45_japan";"JM117 Low-Drag Demolition Bomb, Cone 45 (750lb.)"
+"weapons/us_750lb_m117_cone_45_japan";"JM117 Low-Drag Demolition Bomb - Cone 45 (750lb.)"
 "weapons/us_750lb_m117_cone_45_japan/short";"JM117 (750lb.)"
 #
 #Bombs, CN
@@ -2017,74 +2128,160 @@ weapons/su_kab_1500lg_e/short;KAB-1500LG-E [1500kg]
 #
 #Bombs, ISR
 #
-#Rockets, USA
-"weapons/us_2_75_in_ffar_mighty_mouse";"Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rockets"
+#Rocket, USA
+"weapons/us_2_75_in_ffar_mighty_mouse";"Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rocket"
 "weapons/us_2_75_in_ffar_mighty_mouse/short";"Mk4 FFAR"
 #
-"weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p";"Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rockets"
+"weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p";"Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rocket"
 "weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p/short";"Mk4 FFAR"
 #
-"weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p_cwp";"Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rockets"
+"weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p_cwp";"Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rocket"
 "weapons/us_2_75_in_ffar_mighty_mouse_fn_m3p_cwp/short";"Mk4 FFAR"
 #
-"weapons/us_2_75_in_ffar_mighty_mouse_default";"Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rockets"
+"weapons/us_2_75_in_ffar_mighty_mouse_default";"Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rocket"
 "weapons/us_2_75_in_ffar_mighty_mouse_default/short";"Mk4 FFAR"
 #
-"weapons/us_zuni_wafar_mk32";"Mk32 Mod 0 ""Zuni"" Anti-Tank/Anti-Personnel Rockets"
+"weapons/us_zuni_wafar_mk32";"Mk32 Mod 0 ""Zuni"" Anti-Tank/Anti-Personnel High-Explosive Rocket"
 "weapons/us_zuni_wafar_mk32/short";"Mk32 Mod 0 ATAP"
 #
-"weapons/us_zuni_wafar_mk32_cwp";"Mk32 Mod 0 ""Zuni"" Anti-Tank/Anti-Personnel Rockets"
+"weapons/us_zuni_wafar_mk32_cwp";"Mk32 Mod 0 ""Zuni"" Anti-Tank/Anti-Personnel High-Explosive Rocket"
 "weapons/us_zuni_wafar_mk32_cwp/short";"Mk32 Mod 0 ATAP"
 #
-"weapons/us_zuni_wafar_mk32_left";"Mk32 Mod 0 ""Zuni"" Anti-Tank/Anti-Personnel Rockets"
+"weapons/us_zuni_wafar_mk32_left";"Mk32 Mod 0 ""Zuni"" Anti-Tank/Anti-Personnel High-Explosive Rocket"
 "weapons/us_zuni_wafar_mk32_left/short";"Mk32 Mod 0 ATAP"
 #
-"weapons/us_zuni_wafar_mk32_right";"Mk32 Mod 0 ""Zuni"" Anti-Tank/Anti-Personnel Rockets"
+"weapons/us_zuni_wafar_mk32_right";"Mk32 Mod 0 ""Zuni"" Anti-Tank/Anti-Personnel High-Explosive Rocket"
 "weapons/us_zuni_wafar_mk32_right/short";"Mk32 Mod 0 ATAP"
 #
-"weapons/us_zuni_wafar_mk34";"Mk34 ""Zuni"" Smoke Rockets"
+"weapons/us_zuni_wafar_mk34";"Mk34 ""Zuni"" Smoke Rocket"
 "weapons/us_zuni_wafar_mk34/short";"Mk34 [SMOKE]"
 #
-"weapons/us_apkws_m151";"AGR-20A Advanced Precision Kill Weapon System II Guided Rockets (M151 HEDP)"
-"weapons/us_apkws_m151/short";"AGR-20A APKWS II (M151)"
+"weapons/us_apkws_m151";"AGR-20A Advanced Precision Kill Weapon System II Laser-Guided Rocket - M151 High-Explosive Dual-Purpose Warhead"
+"weapons/us_apkws_m151/short";"AGR-20A APKWS II [HEDP]"
 #
-"weapons/us_apkws_m282";"AGR-20B Advanced Precision Kill Weapon System II Guided Rockets (M282 SAP-HE)"
-"weapons/us_apkws_m282/short";"AGR-20B APKWS II (M282)"
+"weapons/us_apkws_m282";"AGR-20B Advanced Precision Kill Weapon System II Laser-Guided Rocket - M282 Semi Armor-Piercing High-Explosive Warhead"
+"weapons/us_apkws_m282/short";"AGR-20B APKWS II [SAP-HE]"
 #
-"weapons/us_2_75_in_wafar_hydra";"Hydra 70 Wrap-Around Fin Aerial Rockets"
+"weapons/us_2_75_in_wafar_hydra";"Hydra 70 Wrap-Around Fin Aerial Rocket"
 "weapons/us_2_75_in_wafar_hydra/short";"Hydra 70 WAFAR"
 #
-"weapons/us_hydra_70_m247";"Hydra 70 Wrap-Around Fin Aerial Rockets (M247 HEDP)"
-"weapons/us_hydra_70_m247/short";"Hydra 70 WAFAR (M247)"
+"weapons/us_hydra_70_m247";"Hydra 70 Wrap-Around Fin Aerial Rocket - M247 High-Explosive Dual-Purpose Warhead"
+"weapons/us_hydra_70_m247/short";"Hydra 70 WAFAR [HEDP]"
 #
-"weapons/us_hydra_70_m247_default";"Hydra 70 Wrap-Around Fin Aerial Rockets (M247 HEDP)"
-"weapons/us_hydra_70_m247_default/short";"Hydra 70 WAFAR (M247)"
+"weapons/us_hydra_70_m247_default";"Hydra 70 Wrap-Around Fin Aerial Rocket - M247 High-Explosive Dual-Purpose Warhead"
+"weapons/us_hydra_70_m247_default/short";"Hydra 70 WAFAR [HEDP]"
 #
-#Rockets, GER
-weapons/de_r4m_pb2_rocket;Panzerblitz 2 Anti-Tank Rockets
+#Rocket, GER
+weapons/de_r4m_pb2_rocket;Panzerblitz 2 Anti-Tank Rocket
 weapons/de_r4m_pb2_rocket/short;PB 2
 #
-weapons/de_r4m_orkan_rocket;"Rakete 4 Kilogramm Minenkopf ""Orkan"" Air-to-Air Rockets"
+weapons/de_r4m_orkan_rocket;"Rakete 4 Kilogramm Minenkopf ""Orkan"" Air-to-Air Rocket"
 weapons/de_r4m_orkan_rocket/short;R4M
 #
-weapons/de_rz65_rocket;"Rauchzylinder 65 Bordrakete ""Föhn"" Air-to-Air Rockets"
+weapons/de_rz65_rocket;"Rauchzylinder 65 Bordrakete ""Föhn"" Air-to-Air Rocket"
 weapons/de_rz65_rocket/short;RZ 65 Föhn
 #
-#Rockets, USSR
+#Rocket, USSR
+weapons/su_rbs132;RBS-132 132mm Semi Armor-Piercing High-Explosive Rocket
+weapons/su_rbs132/short;RBS-132 [SAP-HE]
 #
-#Rockets, GB
+weapons/su_rbs82;RBS-82 82mm Semi Armor-Piercing High-Explosive Rocket
+weapons/su_rbs82/short;RBS-82 [SAP-HE]
 #
-#Rockets, JP
+weapons/su_s_5k_rocket;S-5K 55mm High-Explosive Anti-Tank Rocket
+weapons/su_s_5k_rocket/short;S-5K [HEAT]
 #
-#Rockets, CN
+weapons/su_s_5k_rocket_ub16;S-5K 55mm High-Explosive Anti-Tank Rocket
+weapons/su_s_5k_rocket_ub16/short;S-5K [HEAT]
 #
-#Rockets, IT
+weapons/su_s_5m_rocket;S-5M 55mm High-Explosive Rocket
+weapons/su_s_5m_rocket/short;S-5M [HE]
 #
-#Rockets, FR
+weapons/su_s_5kp_rocket;S-5KP 55mm High-Explosive Anti-Tank Rocket
+weapons/su_s_5kp_rocket/short;S-5KP [HEAT]
 #
-#Rockets, SWE
+weapons/su_s_3k_rocket;S-3K Strela 127mm High-Explosive Anti-Tank Rocket
+weapons/su_s_3k_rocket/short;S-3K Strela [HEAT]
 #
-#Rockets, ISR
+weapons/su_s_21_rocket;S-21 Orel 212mm High-Explosive Rocket
+weapons/su_s_21_rocket/short;S-21 Orel [HE]
+#
+weapons/su_s_24_rocket;S-24 Buran 240mm High-Explosive Rocket
+weapons/su_s_24_rocket/short;S-24 Buran [HE]
+#
+weapons/su_s_24b_rocket;S-24B 240mm High-Explosive Rocket
+weapons/su_s_24b_rocket/short;S-24B [HE]
+#
+weapons/su_ros_82;ROS-82 82mm High-Explosive Rocket
+weapons/su_ros_82/short;ROS-82 [HE]
+weapons/su_ros_82op_event/short;ROS-82-OP
+#
+weapons/su_ros132;ROS-132 132mm High-Explosive Rocket
+weapons/su_ros132/short;ROS-132 [HE]
+#
+weapons/su_m8;M-8 82mm High-Explosive Rocket
+weapons/su_m8/short;M-8 [HE]
+#
+weapons/su_rofs132;ROFS-132 132mm High-Explosive Rocket
+weapons/su_rofs132/short;ROFS-132 [HE]
+#
+weapons/su_m13uk;M-13UK 132mm High-Explosive Rocket
+weapons/su_m13uk/short;M-13UK [HE]
+#
+weapons/su_s8_ko_rocket;S-8KO 80mm High-Explosive Anti-Tank Rocket
+weapons/su_s8_ko_rocket/short;S-8KO [HEAT]
+#
+weapons/su_s_8m_rocket;S-8M 80mm High-Explosive Rocket
+weapons/su_s_8m_rocket/short;S-8M [HE]
+#
+weapons/su_c1of_rocket;S-1OF 212mm High-Explosive Rocket
+weapons/su_c1of_rocket/short;S-1OF [HE]
+#
+weapons/su_s_8ko_rocket;S-8KO 80mm High-Explosive Anti-Tank Rocket
+weapons/su_s_8ko_rocket/short;S-8KO [HEAT]
+#
+weapons/su_s_13df_rocket;S-13DF 122mm Thermobaric Rocket
+weapons/su_s_13df_rocket/short;S-13DF [THERM]
+#
+weapons/su_s_13of_rocket;S-13OF 122mm High-Explosive Rocket
+weapons/su_s_13of_rocket/short;S-13OF [HE]
+#
+weapons/su_s_25l_rocket;S-25L 340mm Laser-Guided High-Explosive Rocket
+weapons/su_s_25l_rocket/short;S-25L [HE]
+#
+weapons/su_s_25ld;S-25LD 340mm Laser-Guided High-Explosive Rocket
+weapons/su_s_25ld/short;S-25LD [HE]
+#
+weapons/su_s_25ofm_rocket;S-25OFM 340mm High-Explosive Rocket
+weapons/su_s_25ofm_rocket/short;S-25OFM [HE]
+#
+weapons/su_s_25of_rocket;S-25OF 340mm High-Explosive Rocket
+weapons/su_s_25of_rocket/short;S-25OF [HE]
+#
+weapons/su_s_25o_rocket;S-25O 420mm High-Explosive Rocket
+weapons/su_s_25o_rocket/short;S-25O [HE]
+#
+weapons/su_rs132;RS-132 132mm High-Explosive Rocket
+weapons/su_rs132/short;RS-132 [HE]
+#
+weapons/su_rs82;RS-82 82mm High-Explosive Rocket
+weapons/su_rs82/short;RS-82 [HE]
+#
+weapons/su_s_8kom_rocket;S-8KOM 80mm High-Explosive Rocket
+#
+#Rocket, GB
+#
+#Rocket, JP
+#
+#Rocket, CN
+#
+#Rocket, IT
+#
+#Rocket, FR
+#
+#Rocket, SWE
+#
+#Rocket, ISR
 #
 #Sensors, USA
 "weapons/us_sniper_atp_targeting_pod";"AN/AAQ-33 Sniper Advanced Targeting Pod"
