@@ -315,6 +315,11 @@
 "f_16am_block_20_mlu_norway_1";"◢F-16AM-20 Viper";;
 "f_16am_block_20_mlu_norway_2";"◢F-16AM-20";;
 #
+saab_jas39e_shop;JAS 39E Gripen;;
+saab_jas39e_0;Saab AB | JAS 39E Gripen;;
+saab_jas39e_1;JAS 39E Gripen;;
+saab_jas39e_2;JAS 39E;;
+#
 tornado_ids_de_assta1_sweden_killstreak_shop;☢Tornado IDS (ASSTA 1.0);;
 tornado_ids_de_assta1_sweden_killstreak_0;Panavia Aircraft GmbH | ☢Tornado | Interdictor/Strike | Avionics System Software Tornado in Ada, Version 1.0;;
 tornado_ids_de_assta1_sweden_killstreak_1;☢Tornado IDS (ASSTA 1.0);;
