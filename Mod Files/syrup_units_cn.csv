@@ -370,7 +370,7 @@
 "f_16a_block_20_mlu_2";"☀F-16A-20";;
 #
 "j_10a_shop";"J-10A Měnglóng";;
-"j_10a_0";"Chengdu Aircraft Corporation (CAC) | J-10A Měnglóng (Vigorous Dragon)";;
+"j_10a_0";"Chengdu Aircraft Corporation (CAC) | J-10A Měnglóng (Vigorous Dragon) / Firebird";;
 "j_10a_1";"J-10A Měnglóng";;
 "j_10a_2";"J-10A";;
 #
@@ -379,23 +379,23 @@
 "mirage_2000_5ei_1";"☀Mirage 2000-5Ei";;
 "mirage_2000_5ei_2";"☀Mirage 2000-5Ei";;
 #
-"j_11_shop";"␗J-11 Flanker-B+";;
-"j_11_0";"Shenyang Aircraft Corporation | ␗J-11 Flanker-B+ | Su-27SK (2000)";;
-"j_11_1";"␗J-11 Flanker-B+";;
+"j_11_shop";"␗J-11 Yìnglóng";;
+"j_11_0";"Shenyang Aircraft Corporation | ␗J-11 Yìnglóng (Responsive Dragon) | Su-27SK Flanker-B+ (2000)";;
+"j_11_1";"␗J-11 Yìnglóng";;
 "j_11_2";"␗J-11";;
 #
-"j_11a_shop";"␗J-11A MLU Flanker-B+";;
-"j_11a_0";"Shenyang Aircraft Corporation | ␗J-11A Flanker-B+ | Su-27SK | Mid-Life Update (2015)";;
-"j_11a_1";"␗J-11A MLU Flanker-B+";;
+"j_11a_shop";"␗J-11A MLU Yìnglóng";;
+"j_11a_0";"Shenyang Aircraft Corporation | ␗J-11A Yìnglóng (Responsive Dragon) | Su-27SK Flanker-B+ | Mid-Life Update (2015)";;
+"j_11a_1";"␗J-11A MLU Yìnglóng";;
 "j_11a_2";"␗J-11A MLU";;
 #
-"j_11b_shop";"␗J-11B Flanker-L";;
-"j_11b_0";"Shenyang Aircraft Corporation | ␗J-11B Flanker-L";;
-"j_11b_1";"␗J-11B Flanker-L";;
+"j_11b_shop";"␗J-11B Yìnglóng";;
+"j_11b_0";"Shenyang Aircraft Corporation | ␗J-11B Yìnglóng (Responsive Dragon) / Flanker-L";;
+"j_11b_1";"J-11B Yìnglóng";;
 "j_11b_2";"␗J-11B";;
 #
 "jh_7a_shop";"JH-7A Fēi Bào";;
-"jh_7a_0";"Xi'an Aircraft Industrial Corporation (XAC) | JH-7A Fēi Bào (Flying Leopard)";;
+"jh_7a_0";"Xi'an Aircraft Industrial Corporation (XAC) | JH-7A Fēi Bào (Flying Leopard) / Flounder";;
 "jh_7a_1";"JH-7A Fēi Bào";;
 "jh_7a_2";"JH-7A";;
 #
@@ -405,17 +405,17 @@
 "jf_17_2";"JF-17A";;
 #
 "jh_7_shop";"JH-7 Fēi Bào";;
-"jh_7_0";"Xi'an Aircraft Industrial Corporation (XAC) | JH-7 Fēi Bào (Flying Leopard) | Block 02";;
+"jh_7_0";"Xi'an Aircraft Industrial Corporation (XAC) | JH-7 Fēi Bào (Flying Leopard) / Flounder | Block 02";;
 "jh_7_1";"JH-7 Fēi Bào";;
 "jh_7_2";"JH-7";;
 #
 "jh_7a_prototype_shop";"JH-7A Fēi Bào (811)";;
-"jh_7a_prototype_0";"Xi'an Aircraft Industrial Corporation (XAC) | JH-7A Fēi Bào (Flying Leopard) | Prototype 811";;
+"jh_7a_prototype_0";"Xi'an Aircraft Industrial Corporation (XAC) | JH-7A Fēi Bào (Flying Leopard) / Flounder | Prototype 811 -- on statcard";;
 "jh_7a_prototype_1";"JH-7A Fēi Bào (811)";;
 "jh_7a_prototype_2";"JH-7A (811)";;
 #
 j_10c_shop;J-10C Měnglóng;;
-j_10c_0;Chengdu Aircraft Corporation (CAC) | J-10C Měnglóng (Vigorous Dragon);;
+j_10c_0;Chengdu Aircraft Corporation (CAC) | J-10C Měnglóng (Vigorous Dragon) / Firebird;;
 j_10c_1;J-10C Měnglóng;;
 j_10c_2;J-10C;;
 #

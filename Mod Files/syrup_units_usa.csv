@@ -597,7 +597,7 @@
 "f-86f-25_2";"F-86F-25";;
 #
 "f2h-2_shop";"F2H-2 Banshee";;
-"f2h-2_0";"McDonnell F2H-2 Banshee";;
+"f2h-2_0";"McDonnell Aircraft Corporation | F2H-2 Banshee";;
 "f2h-2_1";"F2H-2 Banshee";;
 "f2h-2_2";"F2H-2";;
 #
@@ -816,20 +816,20 @@ f_111f_killstreak_2;☢F-111F;;
 "a_7k_1";"A-7K Corsair II";;
 "a_7k_2";"A-7K";;
 #
-"a_6e_tram_shop";"A-6E TRAM Intruder";;
-"a_6e_tram_0";"Grumman Aerospace Corporation | A-6E TRAM Intruder";;
-"a_6e_tram_1";"A-6E TRAM Intruder";;
-"a_6e_tram_2";"A-6E TRAM";;
+"a_6e_tram_shop";"A-6E Intruder (TRAM)";;
+"a_6e_tram_0";"Grumman Aerospace Corporation | A-6E Intruder | Target Recognition and Attack Multi-Sensor System (1979)";;
+"a_6e_tram_1";"A-6E Intruder (TRAM)";;
+"a_6e_tram_2";"A-6E (TRAM)";;
 #
 "av_8b_na_shop";"AV-8B Harrier II (NA)";;
 "av_8b_na_0";"McDonnell Douglas Corporation | AV-8B Harrier II | Night Attack";;
 "av_8b_na_1";"AV-8B Harrier II (NA)";;
 "av_8b_na_2";"AV-8B (NA)";;
 #
-"f_15c_msip2_shop";"F-15C-40 MSIP II Eagle";;
+"f_15c_msip2_shop";"F-15C-40 Eagle (MSIP II)";;
 "f_15c_msip2_0";"Boeing Defense, Space & Security | F-15C-40 Eagle | Block 40 | Multi-Stage Improvement Program Configuration II (2000)";;
-"f_15c_msip2_1";"F-15C-40 MSIP II Eagle";;
-"f_15c_msip2_2";"F-15C-40";;
+"f_15c_msip2_1";"F-15C-40 Eagle (MSIP II)";;
+"f_15c_msip2_2";"F-15C-40 (MSIP II)";;
 #
 "f_15e_shop";"F-15E-43 Strike Eagle";;
 "f_15e_0";"McDonnell Douglas Corporation | F-15E-43 Strike Eagle | Block 43";;
@@ -886,10 +886,10 @@ f_111f_killstreak_2;☢F-111F;;
 "f_14b_1";"F-14B-150 Tomcat";;
 "f_14b_2";"F-14B-150";;
 #
-"f_15a_shop";"F-15A-20 MSIP I Eagle";;
+"f_15a_shop";"F-15A-20 Eagle (MSIP I)";;
 "f_15a_0";"McDonnell Douglas Corporation | F-15A-20 Eagle | Block 20 | Multi-Stage Improvement Program Configuration I (1983)";;
-"f_15a_1";"F-15A-20 MSIP I Eagle";;
-"f_15a_2";"F-15A-20 MSIP I";;
+"f_15a_1";"F-15A-20 Eagle (MSIP I)";;
+"f_15a_2";"F-15A-20 (MSIP I)";;
 #
 "av_8b_plus_shop";"AV-8B+ Harrier II";;
 "av_8b_plus_0";"McDonnell Douglas Corporation | AV-8B+ Harrier II";;
@@ -931,15 +931,15 @@ f_111f_killstreak_2;☢F-111F;;
 "p-40c_1";"P-40C Warhawk";;
 "p-40c_2";"P-40C";;
 #
-"f_106a_1972_shop";"F-106A-100 Delta Dart (1975)";;
+"f_106a_1972_shop";"F-106A-100 Delta Dart";;
 "f_106a_1972_0";"General Dynamics Convair Division | F-106A-100 Delta Dart | Block 100 | Project Six Shooter | Polhemus Director FCS Integration and Test (1975)";;
-"f_106a_1972_1";"F-106A-100 Delta Dart (1975)";;
-"f_106a_1972_2";"F-106A-100 (1975)";;
+"f_106a_1972_1";"F-106A-100 Delta Dart";;
+"f_106a_1972_2";"F-106A-100";;
 #
-"f_15c_golden_eagle_shop";"F-15C-33 RIP/PASS Golden Eagle";;
-"f_15c_golden_eagle_0";"Boeing Defense, Space & Security | F-15C-33 Golden Eagle | Radar Improvement Program | Passive Attack Sensor System";;
-"f_15c_golden_eagle_1";"F-15C-33 RIP/PASS Golden Eagle";;
-"f_15c_golden_eagle_2";"F-15C-33 RIP/PASS";;
+"f_15c_golden_eagle_shop";"F-15C-33 Golden Eagle (RIP/PASS)";;
+"f_15c_golden_eagle_0";"Boeing Defense, Space & Security | F-15C-33 Golden Eagle | Block 33 | Radar Improvement Program | Passive Attack Sensor System";;
+"f_15c_golden_eagle_1";"F-15C-33 Golden Eagle (RIP/PASS)";;
+"f_15c_golden_eagle_2";"F-15C-33 (RIP/PASS)";;
 #
 "xf5u_1_shop";"XF5U-1 Flying Flapjack";;
 "xf5u_1_0";"Vought-Sikorsky Aircraft | XF5U-1 Flying Flapjack";;

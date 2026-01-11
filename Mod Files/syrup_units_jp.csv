@@ -510,20 +510,20 @@
 "p-51c-11-nt_japan_1";"▅P-51C-11 Mustang";;
 "p-51c-11-nt_japan_2";"▅P-51C-11";;
 #
-"sb2c_5_thailand_shop";"▄B.J.3 Helldiver";;
-"sb2c_5_thailand_0";"Curtiss-Wright Corporation | ▄B.J.3 | SB2C-5 Helldiver";;
-"sb2c_5_thailand_1";"▄B.J.3 Helldiver";;
-"sb2c_5_thailand_2";"▄B.J.3";;
+"sb2c_5_thailand_shop";"▄SB2C-5 Helldiver";;
+"sb2c_5_thailand_0";"Curtiss-Wright Corporation | ▄SB2C-5 Helldiver / B.J.3";;
+"sb2c_5_thailand_1";"▄SB2C-5 Helldiver";;
+"sb2c_5_thailand_2";"▄SB2C-5";;
 #
 "b-17e_japan_shop";"▅B-17E Flying Fortress";;
 "b-17e_japan_0";"▅Boeing Airplane Company | B-17E Flying Fortress";;
 "b-17e_japan_1";"▅B-17E Flying Fortress";;
 "b-17e_japan_2";"▅B-17E";;
 #
-"f-84g_thailand_shop";"▄B.Kh.16 Thunderjet";;
-"f-84g_thailand_0";"Republic Aviation Corporation | ▄B.Kh.16 | F-84G-21 Thunderjet";;
-"f-84g_thailand_1";"▄B.Kh.16 Thunderjet";;
-"f-84g_thailand_2";"▄B.Kh.16";;
+"f-84g_thailand_shop";"▄F-84G-21 Thunderjet";;
+"f-84g_thailand_0";"Republic Aviation Corporation | ▄F-84G-21 Thunderjet / B.Kh.16";;
+"f-84g_thailand_1";"▄F-84G-21 Thunderjet";;
+"f-84g_thailand_2";"▄F-84G-21";;
 #
 "f-86f-30_japan_shop";"▅F-86F-30 Sabre";;
 "f-86f-30_japan_0";"North American Aviation | ▅F-86F-30 Sabre | Block 30";;
@@ -540,20 +540,20 @@
 "f-86f-40_japan_blue_impulse_1";"▅F-86F-40 Sabre (6 SQN)";;
 "f-86f-40_japan_blue_impulse_2";"▅F-86F-40 (6 SQN)";;
 #
-"alpha_jet_a_thailand_shop";"▄B.J.7 Alpha Jet (1999)";;
-"alpha_jet_a_thailand_0";"Dassault/Dornier | ▄B.J.7 | Alpha Jet A (1999)";;
-"alpha_jet_a_thailand_1";"▄B.J.7 Alpha Jet (1999)";;
-"alpha_jet_a_thailand_2";"▄B.J.7 (1999)";;
+"alpha_jet_a_thailand_shop";"▄Alpha Jet A (1999)";;
+"alpha_jet_a_thailand_0";"Dassault/Dornier | ▄Alpha Jet A / B.J.7 (1999)";;
+"alpha_jet_a_thailand_1";"▄Alpha Jet A (1999)";;
+"alpha_jet_a_thailand_2";"▄Alpha Jet A (1999)";;
 #
-"alpha_jet_th_phase_1_shop";"▄B.J.7 Alpha Jet (2004)";;
-"alpha_jet_th_phase_1_0";"Dassault/Dornier | ▄B.J.7 | Alpha Jet TH, Phase 1 (2004)";;
-"alpha_jet_th_phase_1_1";"▄B.J.7 Alpha Jet (2004)";;
-"alpha_jet_th_phase_1_2";"▄B.J.7 (2004)";;
+"alpha_jet_th_phase_1_shop";"▄Alpha Jet TH";;
+"alpha_jet_th_phase_1_0";"Dassault/Dornier | ▄Alpha Jet TH / B.J.7 | Phase 1 (2004)";;
+"alpha_jet_th_phase_1_1";"▄Alpha Jet TH";;
+"alpha_jet_th_phase_1_2";"▄Alpha Jet TH";;
 #
-"av_8s_thailand_shop";"▄B.KhL.1 Matador (1973)";;
-"av_8s_thailand_0";"Hawker Siddeley Group, Ltd. | ▄B.KhL.1 | AV-8S Matador (1973)";;
-"av_8s_thailand_1";"▄B.KhL.1 Matador (1973)";;
-"av_8s_thailand_2";"▄B.KhL.1 (1973)";;
+"av_8s_thailand_shop";"▄AV-8S Matador (1973)";;
+"av_8s_thailand_0";"Hawker Siddeley Group, Ltd. | ▄AV-8S Matador / B.KhL.1 (1973)";;
+"av_8s_thailand_1";"▄AV-8S Matador (1973)";;
+"av_8s_thailand_2";"▄AV-8S (1973)";;
 #
 "t2_early_shop";"T-2 (1975)";;
 "t2_early_0";"Mitsubishi Heavy Industries, Ltd. | T-2 | Zenki-gata (1975)";;
@@ -575,30 +575,30 @@
 "f-104j_1";"▅F-104J Starfighter";;
 "f-104j_2";"▅F-104J";;
 #
-"a_7e_thailand_shop";"▄B.HT.1 Corsair II";;
-"a_7e_thailand_0";"LTV Aerospace Corporation | ▄B.HT.1 | A-7E Corsair II";;
-"a_7e_thailand_1";"▄B.HT.1 Corsair II";;
-"a_7e_thailand_2";"▄B.HT.1";;
+"a_7e_thailand_shop";"▄A-7E Corsair II";;
+"a_7e_thailand_0";"LTV Aerospace Corporation | ▄A-7E Corsair II / B.HT.1";;
+"a_7e_thailand_1";"▄A-7E Corsair II";;
+"a_7e_thailand_2";"▄A-7E";;
 #
-"f-5a_thailand_shop";"▄B.Kh.18 Freedom Fighter";;
-"f-5a_thailand_0";"Northrop Corporation | ▄B.Kh.18 | F-5A Freedom Fighter";;
-"f-5a_thailand_1";"▄B.Kh.18 Freedom Fighter";;
-"f-5a_thailand_2";"▄B.Kh.18";;
+"f-5a_thailand_shop";"▄F-5A Freedom Fighter";;
+"f-5a_thailand_0";"Northrop Corporation  | ▄F-5A Freedom Fighter / B.Kh.18";;
+"f-5a_thailand_1";"▄F-5A Freedom Fighter";;
+"f-5a_thailand_2";"▄F-5A";;
 #
-"f-5e_fcu_thailand_shop";"▄B.Kh.18Kh Tigris (1988)";;
-"f-5e_fcu_thailand_0";"Northrop Corporation | ▄B.Kh.18Kh | F-5T Tigris | First Capability Upgrade (1988)";;
-"f-5e_fcu_thailand_1";"▄B.Kh.18Kh Tigris (1988)";;
-"f-5e_fcu_thailand_2";"▄B.Kh.18Kh (1988)";;
+"f-5e_fcu_thailand_shop";"▄F-5T Tigris (1988)";;
+"f-5e_fcu_thailand_0";"Northrop Corporation  | ▄F-5T Tigris / B.Kh.18Kh | First Capability Upgrade (1988)";;
+"f-5e_fcu_thailand_1";"▄F-5T Tigris (1988)";;
+"f-5e_fcu_thailand_2";"▄F-5T (1988)";;
 #
-"f-5t_thailand_shop";"▄B.Kh.18Kh Tigris (2003)";;
-"f-5t_thailand_0";"Northrop Corporation | ▄B.Kh.18Kh | F-5T Tigris | Second Capability Upgrade (2003)";;
-"f-5t_thailand_1";"▄B.Kh.18Kh Tigris (2003)";;
-"f-5t_thailand_2";"▄B.Kh.18Kh (2003)";;
+"f-5t_thailand_shop";"▄F-5T Tigris (2003)";;
+"f-5t_thailand_0";"Northrop Corporation | ▄F-5T Tigris / B.Kh.18Kh | Second Capability Upgrade (2003)";;
+"f-5t_thailand_1";"▄F-5T Tigris (2003)";;
+"f-5t_thailand_2";"▄F-5T (2003)";;
 #
-"av_8s_late_thailand_shop";"▄B.KhL.1 Matador (1998)";;
-"av_8s_late_thailand_0";"Hawker Siddeley Group, Ltd. | ▄B.KhL.1 | AV-8S Matador (1998)";;
-"av_8s_late_thailand_1";"▄B.KhL.1 Matador (1998)";;
-"av_8s_late_thailand_2";"▄B.KhL.1 (1998)";;
+"av_8s_late_thailand_shop";"▄AV-8S Matador (1998)";;
+"av_8s_late_thailand_0";"Hawker Siddeley Group, Ltd. | ▄AV-8S Matador / B.KhL.1 (1998)";;
+"av_8s_late_thailand_1";"▄AV-8S Matador (1998)";;
+"av_8s_late_thailand_2";"▄AV-8S (1998)";;
 #
 "f-4ej_shop";"▅F-4EJ Phantom II";;
 "f-4ej_0";"Mitsubishi Heavy Industries, Ltd. | ▅F-4EJ Phantom II";;
@@ -610,15 +610,15 @@
 "f-4ej_adtw_1";"▅F-4EJ Phantom II (ADTW)";;
 "f-4ej_adtw_2";"▅F-4EJ (ADTW)";;
 #
-"f_16a_block_15_ocu_thailand_shop";"▄B.Kh.19 Viper";;
-"f_16a_block_15_ocu_thailand_0";"General Dynamics Corporation | ▄B.Kh.19 | F-16A-15OCU Viper | Mid-Life Update (2010)";;
-"f_16a_block_15_ocu_thailand_1";"▄B.Kh.19 Viper";;
-"f_16a_block_15_ocu_thailand_2";"▄B.Kh.19";;
+"f_16a_block_15_ocu_thailand_shop";"▄F-16A-15OCU Viper (2010)";;
+"f_16a_block_15_ocu_thailand_0";"General Dynamics Corporation | ▄F-16A-15OCU Viper / B.Kh.19 | Mid-Life Update (2010)";;
+"f_16a_block_15_ocu_thailand_1";"▄F-16A-15OCU Viper (2010)";;
+"f_16a_block_15_ocu_thailand_2";"▄F-16A-15OCU (2010)";;
 #
-"saab_jas39c_thailand_shop";"▄B.Kh.20 Gripen C";;
-"saab_jas39c_thailand_0";"Saab AB | ▄B.Kh.20 | JAS 39C Gripen";;
-"saab_jas39c_thailand_1";"▄B.Kh.20 Gripen C";;
-"saab_jas39c_thailand_2";"▄B.Kh.20";;
+"saab_jas39c_thailand_shop";"▄JAS 39C Gripen";;
+"saab_jas39c_thailand_0";"Saab AB | ▄JAS 39C Gripen / B.Kh.20";;
+"saab_jas39c_thailand_1";"▄JAS 39C Gripen";;
+"saab_jas39c_thailand_2";"▄JAS 39C";;
 #
 "f-4ej_kai_shop";"▅F-4EJ Kai Phantom II";;
 "f-4ej_kai_0";"Mitsubishi Heavy Industries, Ltd. | ▅F-4EJ Kai Phantom II";;
@@ -650,10 +650,10 @@
 "f_2a_adtw_1";"XF-2A Viper Zero";;
 "f_2a_adtw_2";"XF-2A";;
 #
-"f-5th_thailand_shop";"▄B.Kh.18Kh Super Tigris (2014)";;
-"f-5th_thailand_0";"Northrop Corporation | ▄B.Kh.18Kh | F-5TH Super Tigris | Third Capability Upgrade (2014)";;
-"f-5th_thailand_1";"▄B.Kh.18Kh Super Tigris (2014)";;
-"f-5th_thailand_2";"▄B.Kh.18Kh (2014)";;
+"f-5th_thailand_shop";"▄F-5TH Super Tigris";;
+"f-5th_thailand_0";"Northrop Corporation | ▄F-5TH Super Tigris / B.Kh.18Kh | Third Capability Upgrade (2014)";;
+"f-5th_thailand_1";"▄F-5TH Super Tigris";;
+"f-5th_thailand_2";"▄F-5TH";;
 #
 fa_18d_late_malaysia_shop;▄F/A-18D-52 Hornet;;
 fa_18d_late_malaysia_0;McDonnell Douglas Corporation | ▄F/A-18D-52 Hornet | Block 52, Lot 20 (1992);;

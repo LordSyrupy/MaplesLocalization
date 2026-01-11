@@ -1,0 +1,728 @@
+"<ID|readonly|noverify>";"<English>"
+hotkeys/ID_HUMAN_JUMP;Jump
+hotkeys/ID_HUMAN_SPRINT;Fast run
+hotkeys/ID_HUMAN_FIRE_HEADER;Weaponry
+hotkeys/ID_FIRE_HUMAN;Fire from the main calibre gun
+hotkeys/ID_FIRE_HUMAN_SECONDARY_GUN;Fire from secondary guns
+hotkeys/ID_FIRE_HUMAN_MACHINE_GUN;Fire from the underbarrel grenade launcher
+hotkeys/ID_FIRE_HUMAN_SPECIAL_GUN;Fire from special guns
+hotkeys/ID_SELECT_HUMAN_GUN_RESET;Reset weapon selection
+hotkeys/ID_SELECT_HUMAN_GUN_MACHINEGUN;Select the machine gun
+hotkeys/ID_SELECT_HUMAN_GUN_PRIMARY;Select the primary weapon
+hotkeys/ID_SELECT_HUMAN_GUN_SECONDARY;Select the secondary weapon
+hotkeys/ID_HUMAN_SMOKE_GRENADE;Smoke grenades
+hotkeys/ID_WEAPON_LOCK_HUMAN;Weapon lock
+hotkeys/ID_SENSOR_SWITCH_HUMAN;Switch Radar/IRST search on/off
+hotkeys/ID_SENSOR_TARGET_SWITCH_HUMAN;Select the Radar/IRST target to lock
+hotkeys/ID_SENSOR_TARGET_LOCK_HUMAN;Lock the Radar/IRST on the target
+hotkeys/ID_HUMAN_NIGHT_VISION;Night vision mode
+hotkeys/ID_HUMAN_THERMAL_WHITE_IS_HOT;Changing the color scheme of the thermal sight
+hotkeys/ID_HUMAN_TOGGLE_RANGEFINDER;Rangefinder
+hotkeys/ID_HUMAN_VIEW_HEADER;Camera control
+hotkeys/ID_TOGGLE_VIEW_HUMAN;Sniper mode
+hotkeys/ID_TARGETING_HOLD_HUMAN;Target tracking
+hotkeys/ID_HUMAN_OTHER_HEADER;Miscellaneous
+hotkeys/ID_START_SUPPORT_PLANE_HUMAN;UAV Launch
+hotkeys/ID_SUPPORT_PLANE_ORBITING_HUMAN;Hover
+hotkeys/ID_SUBMARINE_SWITCH_FUSE_MODE;Switch fuze mode
+hotkeys/ID_SHIP_SWITCH_ACTIVE_SONAR;Sonar mode on/off
+hotkeys/ID_SHIPS_TOGGLE_HYDROPHONE_MODE;Hydrophone mode on/off
+hotkeys/ID_ENABLE_TARGET_TRACKING_TANK;Enable ATT
+hotkeys/ID_HUMAN_ORDERS_MENU;Squad orders menu
+hotkeys/ID_HUMAN_WEAPON_MENU;Weapon control menu: switching fire modes, using modules (underbarrel weapon, laser sight, flashlight)
+hotkeys/ID_HUMAN_MAIN_WEAPON;Switching between main weapon and module
+hotkeys/ID_HUMAN_SELECT_PREV_SOLDIER;Select previos soldier
+hotkeys/ID_HUMAN_SELECT_NEXT_SOLDIER;Select next soldier
+hotkeys/ID_HUMAN_CONTEXT_COMMAND_NEXT_SOLDIER;Select next soldier
+hotkeys/ID_HUMAN_CONTEXT_COMMAND_NEXT_POSE;Change selected soldier pose
+hotkeys/ID_HUMAN_CONTEXT_COMMAND;(hold the button) choose the location of the soldier. Order will be given if you release the button.
+hotkeys/ID_CREW_SWITCH_CONTROL_NEXT;Switch member
+hotkeys/ID_GRENADE_THROW_HEADER;Throw grenade
+hotkeys/ID_HUMAN_WEAP_MOD_TOGGLE;Underbarrel grenade launcher mode on/off
+hotkeys/ID_HUMAN_LASER_TOGGLE;Laser mode on/off
+hotkeys/ID_HUMAN_FLASH_LIGHT_TOGGLE;Flashlight mode on/off
+hotkeys/ID_HUMAN_FIRING_MOD_NEXT;Switch fire modes
+hotkeys/ID_TARGET_CAMERA_HUMAN_DRONE;Tracking Camera: Enemy
+hotkeys/ID_HUMAN_SHOOT;Shooting or using
+hotkeys/ID_HUMAN_AIM;Aiming or capturing
+hotkeys/ID_HUMAN_CROUCH;Sit down
+hotkeys/ID_HUMAN_CRAWL;Lie down
+hotkeys/ID_HUMAN_RELOAD;Reload gun
+hotkeys/ID_HUMAN_HOLD_BREATH;Hold breath
+hotkeys/ID_HUMAN_BIPODTOGGLE;Mount on bipod
+hotkeys/ID_HUMAN_NEXT_ZOOM;Change zoom
+hotkeys/ID_HUMAN_THROW;Throw grenade
+hotkeys/ID_HUMAN_WEAP_AMMO_TOGGLE;Change ammunition
+hotkeys/ID_CONTROL_MODE_HUMAN_UAV;Hover mode
+hotkeys/ID_LOCK_TARGETING_AT_POINT_HUMAN_UAV;Sight stabilization
+hotkeys/ID_UNLOCK_TARGETING_AT_POINT_HUMAN_UAV;Disable sight stabilization
+hotkeys/ID_HUMAN_UAV;UAV
+hotkeys/ID_TOGGLE_VIEW_HUMAN_UAV;Toggle View
+hotkeys/ID_HUMAN_NEXT_AFTER_DEATH;Switch to next
+hotkeys/ID_REPAIR_HUMAN;Repair
+hotkeys/ID_HUMAN_SHOOT_MELEE;Melee strike
+hotkeys/ID_HUMAN_USE_MEDKIT;Use medkit
+controls/human_wheelmenu_x;Radial menu navigation (X-axis)
+controls/human_wheelmenu_y;Radial menu navigation (Y-axis)
+controls/hold_button_for_fast_sprint;Hold for fast run
+controls/aim_time_nonlinearity_human;Gamepad aim acceleration
+controls/aim_acceleration_delay_human;Aim acceleration delay
+controls/help/human_move;The direction of movement
+controls/help/squad_info;Under your command, you have up to 5 soldiers who follow you unless you give them another order.
+controls/help/controlledHuman;Soldier under direct control
+controls/help/humanForOrder;Soldier chosen for the order
+controls/help/humanSlotInfo;"Above: a special weapon or item carried by a soldier.
+Bottom: type of explosive.
+You can give an order to use them."
+controls/help/changeHumanPose;Changes the soldier's turn
+controls/help/humanChangeInfo;Switch to soldier (1 ... 5) in the squad.
+controls/help/humanHoldPosition;A soldier holding a position effectively controls the specified direction.
+controls/human_mouse_aim_x;Infantryman aiming (X-axis)
+controls/human_mouse_aim_y;Infantryman aiming (Y-axis)
+controls/ID_HUMAN_UAV;Drone Control
+controls/human_uav_roll;Roll axis
+controls/human_uav_pitch;Pitch axis
+controls/human_uav_yaw;Yaw axis
+controls/human_uav_throttle;Throttle axis
+controls/human_uav_climb;Hover height
+controls/ID_CONTROL_MODE_HUMAN_UAV;Hover mode
+hotkeys/human_mouse_aim_x;Infantryman aiming (X-axis)
+hotkeys/human_mouse_aim_y;Infantryman aiming (Y-axis)
+controls/human_camx;View in battle - Infantry (X-axis)
+controls/human_camy;View in battle - Infantry (Y-axis)
+hotkeys/ID_HUMAN_MOVE_HEADER;Movement
+hotkeys/ID_HUMAN_CONTROL_HEADER;Infantry
+controls/human_walk;Move axis
+controls/human_strafe;Strafe axis
+infantry_camouflage;Soldiers camouflage
+exp_reasons/kill_human;Infantry neutralized
+unit_type/human;Infantry
+flightmenu/btnBailoutHuman;Get rid of the soldier
+flightmenu/questionBailoutHuman;Are you sure you want to get rid of the soldier?
+mainmenu/firearms;Firearms
+mainmenu/type_human;Firearm
+crew/vision;Attentiveness
+crew/mobility;Mobility
+crew/weapon_handling;Weapon handling
+crew/hpMult;Vitality
+crew/enduranceMult;Endurance
+crew/longerBreathHolding;Breath holding
+crew/medkitHealingPowerMult;Medical skills
+crew/visionSpottingDistanceMultiplier;Target detection
+crew/visionSpottingMultiplier;Target identification
+crew/runSpeedMult;Run speed
+crew/aimSpeedMult;Aim speed
+crew/bombPlantSpeedMult;Bomb planting speed
+crew/weaponChangeSpeedMult;Weapon change speed
+crew/poseChangeSpeedMult;Pose change speed
+crew/reloadSpeedMult;Reload speed
+crew/horizontalRecoilMult;Horizontal recoil resistance
+crew/verticalRecoilMult;Vertical recoil resistance
+crew/weaponTurningSpeedMult;Weapon turning speed
+crew/weaponSwayForceMult;Weapon stability
+crew/squadAdditionalSoldierCount;Soldier count
+crew/vitality/hpMult/tooltip;
+crew/vitality/enduranceMult/tooltip;
+crew/vitality/longerBreathHolding/tooltip;
+crew/vitality/medkitHealingPowerMult/tooltip;
+crew/vision/visionSpottingDistanceMultiplier/tooltip;
+crew/vision/visionSpottingMultiplier/tooltip;
+crew/mobility/runSpeedMult/tooltip;
+crew/mobility/aimSpeedMult/tooltip;
+crew/mobility/bombPlantSpeedMult/tooltip;
+crew/mobility/weaponChangeSpeedMult/tooltip;
+crew/mobility/poseChangeSpeedMult/tooltip;
+crew/weapon_handling/reloadSpeedMult/tooltip;
+crew/weapon_handling/horizontalRecoilMult/tooltip;
+crew/weapon_handling/verticalRecoilMult/tooltip;
+crew/weapon_handling/weaponTurningSpeedMult/tooltip;
+crew/weapon_handling/weaponSwayForceMult/tooltip;
+crew/groundService/squadAdditionalSoldierCount/tooltip;
+multiplayer/human_kills;Infantry Neutralized
+expEventScore/killHuman;Neutralization of infantry
+msgbox/applyToAllInfantrySkins;"Are you sure you want to apply camouflage
+ {skin} for BR({br}) {location}, {team}
+ to all firearms?"
+mainmenu/changeFirearm;Change Firearm
+hint/humanPickUpWeaponAmmo;Retrieve Ammo
+hint/humanUse;Use
+hint/humanPickUp;Pick Up
+hint/humanThrowBack;Throw grenade back
+hint/humanSwitchWeapons;Switch Weapons
+hint/humanOpenDoor;Open Door
+hint/humanCloseDoor;Close Door
+hint/humanOpenWindow;Open Window
+hint/humanCloseWindow;Close Window
+hints/drone/cooldown_for_launch;Cooldown: {seconds} seconds
+hints/drone_switch_control_mode;Deactivate Hover
+hint/medkitUsage;{{ID_HUMAN_USE_MEDKIT}} Use Medkit
+hint/bleeding_tip;Stop Bleeding
+hint/burning_tip;Extinguish Fire
+hint/soldier_switch_already_under_control;This soldier is already under your control.
+hint/soldier_switch_not_active;This soldier is not active anymore.
+hint/soldier_switch_wrong_index;You only have {numSoldiers} soldiers in your squad.
+hint/context_command/no_alive_squadmates;No active soldiers in squad.
+hint/context_command/all_orders_canceled;All orders cancelled.
+hint/context_command/personal_order_canceled;Personal order cancelled.
+hint/squad_orders/soldier_reports_failed_to_throw_grenade;The soldier failed to throw a grenade to the specified point.
+hint/squad_orders/no_way_to_throw_grenade_nobody_can_reach;The soldier cannot throw a grenade to the specified point.
+hint/squad_orders/soldier_reports_failed_to_attack_vehicle;The soldier cannot attack the specified vehicle.
+hint/personal_context_command_canceled/too_far;Personal order cancelled. You are too far from your squadmate.
+hint/squad/next_soldier_after_death;Next Soldier
+hint/hold_breath_to_aim;{{ID_HUMAN_HOLD_BREATH}} Hold Breath
+hint/next_variable_zoom_tip;Change Magnification
+squad_orders/frag_grenade;Frag
+squad_orders/smoke_grenade;Smoke
+squad_orders/flash_grenade;Flash
+squad_orders/cancel_mate_order;Cancel Order
+squad_orders/cancel_orders;Cancel All Orders
+squad_orders/orders_menu;Squad Actions...
+squad_orders/attack_vehicle;Attack Vehicle
+squad_orders/select_specific_soldier;Take Control Of Soldier
+weapon_menu/human/header;Weapon Menu
+weapon_menu/fire_mods/title;Fire Modes
+weapon_menu/fire_mods/switch;Switch Fire Mode
+weapon_menu/fire_mods/bolt_action;Manual
+weapon_menu/fire_mods/full_auto;Auto
+weapon_menu/fire_mods/full_auto_slow;Auto (Low RPM)
+weapon_menu/fire_mods/semi_auto;Semi
+weapon_menu/fire_mods/semi_auto_2_shots;Burst [2]
+weapon_menu/fire_mods/semi_auto_3_shots;Burst [3]
+weapon_menu/fire_mods/no_fire_mods;No Alternate Fire Modes
+weapon_menu/unbarrel/activate_unbarrel_gun;Select Underbarrel Grenade Launcher
+weapon_menu/unbarrel/deactivate_unbarrel_gun;Deselect Underbarrel Grenade Launcher
+weapon_menu/unbarrel/no_unbarrel_mode;No Underbarrel
+weapon_menu/laser/activate;Laser On
+weapon_menu/laser/deactivate;Laser Off
+weapon_menu/laser/no_laser_mod;No Laser Sight
+weapon_menu/flashlight/activate;Flashlight On
+weapon_menu/flashlight/deactivate;Flashlight Off
+weapon_menu/flashlight/no_flashlight_mod;No Flashlight
+death/bulletHit;Bullet Hit
+death/headshotHit;Headshot Hit
+death/meleeHit;Melee Hit
+death/bleedOut;Bleeding
+death/fallDmg;Fall Damage
+death/ranOver;Roadkill
+death/nearbyExplosion;Explosion
+death/humanDrown;Drowned
+death/mapArea;Left The Battlefield
+hint/miningWall;Mine Wall
+hint/reassemblingWall;Reassemble Wall
+hints/gun_needs_bipod;Bipod Required
+hints/place_bipod;Mount Weapon
+hints/drone/respawn_is_missing;No valid drone spawnpoint.
+hints/drone/bleeding_warning;Operator Injured
+hints/drone/not_availble_in_mission;Not available in the mission.
+hints/drone/lost_signal;Signal Lost
+hints/drone/out_of_area;Out of Signal Range
+hints/drone/near_area_border;Signal Range Boundary
+hints/drone/weak_signal;Weak Signal
+hints/resupply/medkit_box_refill;Refill Medkits
+hints/resupply/medkit_box_item_is_full;Maximum Medkits
+hints/resupply/useful_box_empty;The box is empty.
+hints/resupply/enemy_crate;Enemy Box
+hints/resupply/explosive_box_refill;Refill Explosives
+hints/resupply/ammo_box_refill;Refill Ammo
+hints/resupply/armor_box_refill;Restore Armor
+hints/resupply/ammo_full;Maximum Ammo
+modification/scope_aimpoint_pro_red_dot;Aimpoint Pro
+modification/scope_aimpoint_pro_red_dot/desc;Installs an Aimpoint Pro red dot sight on the main weapon.
+modification/scope_trijicon_rmr_red_dot;Trijicon RMR
+modification/scope_trijicon_rmr_red_dot/desc;Installs a Trijicon RMR micro red dot sight on the main weapon.
+modification/scope_vzor_red_dot;Vzor
+modification/scope_vzor_red_dot/desc;Installs a Vzor red dot sight on the main weapon.
+modification/scope_aimpoint_acro_p2_red_dot;Aimpoint Acro P-2
+modification/scope_aimpoint_acro_p2_red_dot/desc;Installs an Aimpoint Acro P-2 red dot sight on the main weapon.
+modification/scope_m68_cco;M68 CCO
+modification/scope_m68_cco/desc;Installs an M68 Close Combat Optic on the main weapon.
+modification/scope_1p63;1P63
+modification/scope_1p63/desc;Installs a 1P63 red dot sight on the main weapon.
+modification/scope_ekp_8_18_cobra;EKP-8-18
+modification/scope_ekp_8_18_cobra/desc;"Installs an EKP-8-18 ""Kobra"" red dot sight on the main weapon."
+modification/scope_exps3;EXPS3
+modification/scope_exps3/desc;Installs an EXPS3 holographic sight on the main weapon.
+modification/scope_1p87;1P87
+modification/scope_1p87/desc;Installs a 1P87 holographic sight on the main weapon.
+modification/scope_scp_t4iecdq;Leapers UTG Accushot
+modification/scope_scp_t4iecdq/desc;Installs a Leapers UTG AccuShot 4x scope on the main weapon.
+modification/scope_pso1_ak_4x;PSO-1
+modification/scope_pso1_ak_4x/desc;Installs a PSO-1 4x scope on the main weapon.
+modification/scope_acog_ta31;TA31 ACOG
+modification/scope_acog_ta31/desc;Installs a TA31 Advanced Combat Optical Gunsight on the main weapon.
+modification/scope_vortex_lpvo;Vortex LPVO
+modification/scope_vortex_lpvo/desc;Installs a Vortex Low-Power Variable Optic on the main weapon.
+modification/scope_sig_tango6_x6;Sig Tango6T
+modification/scope_sig_tango6_x6/desc;Installs a Sig Tango6T low-power variable optic on the main weapon.
+modification/scope_an_pas;AN/PAS-13
+modification/scope_an_pas/desc;Installs an AN/PAS-13 thermal imaging sight on the main weapon.
+modification/scope_scotopia_s350f;Scotopia PTRS
+modification/scope_scotopia_s350f/desc;Installs a Scotopia Precision Thermal Rifle Scope on the main weapon.
+modification/scope_shakhin;Cyclone Shakhin
+modification/scope_shakhin/desc;Installs a Cyclone Shakhin thermal imaging sight on the main weapon.
+modification/tactical_flashlight;Flashlight
+modification/tactical_flashlight/desc;Installs a tactical flashlight on the main weapon.
+modification/tactical_laser_us;Laser
+modification/tactical_laser_us/desc;Installs a tactical laser pointer on the main weapon.
+modification/tactical_laser_ussr;Laser
+modification/tactical_laser_ussr/desc;Installs a tactical laser pointer on the main weapon.
+modification/tactical_block_us;Advanced Target Pointer
+modification/tactical_block_us/desc;Installs an advanced target pointer on the main weapon.
+modification/tactical_block_ussr;Advanced Target Pointer
+modification/tactical_block_ussr/desc;Installs an advanced target pointer on the main weapon.
+modification/muzzle_223cb_compensator;223CB
+modification/muzzle_223cb_compensator/desc;Installs a 223CB muzzle brake on the main weapon.
+modification/muzzle_m11_sd_compensator;M11-SD
+modification/muzzle_m11_sd_compensator/desc;Installs an M11 Severe-Duty muzzle brake on the main weapon.
+modification/muzzle_vector_vr_13_compensator;Vector VR-13
+modification/muzzle_vector_vr_13_compensator/desc;Installs a Vector VR-13 muzzle brake on the main weapon.
+modification/muzzle_zenith_dtk_3_compensator;Zenith DTK-3
+modification/muzzle_zenith_dtk_3_compensator/desc;Installs a Zenith DTK-3 muzzle brake on the main weapon.
+modification/muzzle_socom556_suppressor;Suppressor
+modification/muzzle_socom556_suppressor/desc;Installs a suppressor on the main weapon.
+modification/muzzle_xm5_suppressor;Suppressor
+modification/muzzle_xm5_suppressor/desc;Installs a suppressor on the main weapon.
+modification/muzzle_m110a1_suppressor;Suppressor
+modification/muzzle_m110a1_suppressor/desc;Installs a suppressor on the main weapon.
+modification/muzzle_gls_mac_supressor;Suppressor
+modification/muzzle_gls_mac_supressor/desc;Installs a muzzle brake on the main weapon.
+modification/muzzle_hexagon_suppressor;Suppressor
+modification/muzzle_hexagon_suppressor/desc;Installs a suppressor on the main weapon.
+modification/muzzle_rotor43_svdm_suppressor;Suppressor
+modification/muzzle_rotor43_svdm_suppressor/desc;Installs a suppressor on the main weapon.
+modification/muzzle_pp_19_suppressor;Suppressor
+modification/muzzle_pp_19_suppressor/desc;Installs a suppressor on the main weapon.
+modification/grip_vertical_tangodown;TangoDown M-LOK
+modification/grip_vertical_tangodown/desc;Installs a TangoDown M-LOK vertical front grip on the main weapon.
+modification/grip_vertical_utg_5_position;UTG-5
+modification/grip_vertical_utg_5_position/desc;Installs a UTG-5 vertical front grip on the main weapon.
+modification/grip_vertical_rk2;ZenitCo RK-2
+modification/grip_vertical_rk2/desc;Installs a ZenitCo RK-2 vertical front grip on the main weapon.
+modification/grip_vertical_utg_qd;UTG QD
+modification/grip_vertical_utg_qd/desc;Installs a UTG QD vertical front grip on the main weapon.
+modification/grip_vertical_molot;Molot
+modification/grip_vertical_molot/desc;Installs a Molot vertical front grip on the main weapon.
+modification/grip_angled_magpul;Magpul AFG
+modification/grip_angled_magpul/desc;Installs a Magpul AFG angled front grip on the main weapon.
+modification/grenade_launcher_m320;M320
+modification/grenade_launcher_m320/desc;Installs an M320 underbarrel grenade launcher on the main weapon.
+modification/grenade_launcher_gp_34;GP-34
+modification/grenade_launcher_gp_34/desc;Installs a GP-34 grenade launcher on the main weapon.
+modification/5_56mm_tracer_ammo_belt;Tracers
+modification/5_56mm_tracer_ammo_belt/desc;Loads magazines with additional tracer cartridges.
+modification/5_56mm_ap_ammo_belt;Armor-Piercing
+modification/5_56mm_ap_ammo_belt/desc;Loads magazines with additional armor-piercing cartridges.
+modification/magazine_magpul_pmag_30_round;Magpul PMAG 30
+modification/magazine_magpul_pmag_30_round/desc;Installs the Magpul PMAG 30 30-round light plastic magazine on the main weapon.
+modification/magazine_magpul_pmag_40_round;Magpul PMAG 40
+modification/magazine_magpul_pmag_40_round/desc;Installs a Magpul PMAG 40 40-round light plastic magazine on the main weapon.
+modification/magazine_magpul_pmag_60_round;Magpul PMAG 60
+modification/magazine_magpul_pmag_60_round/desc;Installs a Magpul PMAG 60 60-round light plastic magazine on the main weapon.
+modification/shotgun_mossberg_590;Mossberg 590
+modification/shotgun_mossberg_590/desc;Allows you to additionally arm one of the soldiers in your squad with a shotgun.
+modification/shotgun_ks_p;KS-P 18.5
+modification/shotgun_ks_p/desc;Allows you to additionally arm one of the soldiers in your squad with a shotgun.
+modification/machinegun_m240;M240B
+modification/machinegun_m240/desc;Allows you to additionally arm one of the soldiers in your squad with a general purpose machine gun.
+modification/machinegun_reapr;REAPR
+modification/machinegun_reapr/desc;Allows you to additionally arm one of the soldiers in your squad with a general purpose machine gun.
+modification/machinegun_pkp_pecheneg;PKP Pecheneg
+modification/machinegun_pkp_pecheneg/desc;Allows you to additionally arm one of the soldiers in your squad with a general purpose machine gun.
+modification/at_laucher_rpg_7;RPG-7
+modification/at_laucher_rpg_7/desc;Allows you to additionally arm one of the soldiers in your squad with an anti-tank grenade launcher.
+modification/at_laucher_at_4;AT-4
+modification/at_laucher_at_4/desc;Allows you to additionally arm one of the soldiers in your squad with an anti-tank grenade launcher.
+modification/mpads_igla;9K38 Igla
+modification/mpads_igla/desc;Allows you to additionally arm one of the soldiers in your squad with a man-portable air-defence system.
+modification/mpads_stinger;FIM-92A
+modification/mpads_stinger/desc;Allows you to additionally arm one of the soldiers in your squad with a man-portable air-defence system.
+modification/strike_drone;Loitering Munition
+modification/strike_drone/desc;Allows you to additionally arm one of the soldiers in your squad with a kamikaze drone.
+modification/fpv_drone;FPV Drone
+modification/fpv_drone/desc;Allows you to additionally arm one of the soldiers in your squad with a FPV drone.
+modification/stun_grenade;Stun Grenade
+modification/stun_grenade/desc;Allows you to equip soldiers in your squad with stun grenades.
+modification/smoke_grenade;Smoke Grenade
+modification/smoke_grenade/desc;Allows you to equip soldiers in your squad with smoke grenades.
+modification/explosive_charge;Explosive Charge
+modification/explosive_charge/desc;Allows you to equip soldiers in your squad with remote detonation charges.
+modification/sidearms_pistol_mp_443;Sidearms
+modification/sidearms_pistol_mp_443/desc;Adds pistols to the soldiers' equipment.
+modification/sidearms_pistol_beretta_m9;Sidearms
+modification/sidearms_pistol_beretta_m9/desc;Adds pistols to the soldiers' equipment.
+modification/human_medkit;Extra Medkit
+modification/human_medkit/desc;Increases the number of individual first aid kits for each soldier in the squad.
+modification/bulletproof_vest_empty;No Armor
+modification/bulletproof_vest_default;Default Armor
+modification/bulletproof_vest_default/desc;
+modification/bulletproof_vest_light;Light Armor
+modification/bulletproof_vest_light_ghillie;Ghillie Suit
+modification/bulletproof_vest_medium;Medium Armor
+modification/bulletproof_vest_heavy;Heavy Armor
+modification/category/equipment_grenade;Grenades
+modification/category/equipment_special;Special
+modification/category/equipment_common;Equipment
+modification/item__weight;{value} to weight
+modification/gun__adsSpeedMult;{value} to aiming speed
+modification/gun__recoilAmount;{value} to recoil impulse
+modification/gun__recoilDirAmount;{value} to recoil predictability
+modification/gun__recoilControlMult;{value} to recoil control
+modification/weap__sprintLerpFactor;{value} to speed up running
+armor_parameters/composition;Armor Composition and Parameters
+armor_parameters/weight;Armor Weight
+armorSegment/helmet/name;Helmet
+armorSegment/body/name;Torso Protection
+armorSegment/rear_plate/name;Rear Plate
+armorSegment/front_plate/name;Front Plate
+armorSegment/side_plate_L/name;Left Side Plate
+armorSegment/side_plate_R/name;Right Side Plate
+armorSegment/groin/name;Groin Protection
+armorSegment/groin_plate/name;Groin Protection Plate
+armorSegment/vest/name;Vest
+armorSegment/neck/name;Neck
+armorSegment/shoulder_L/name;Left Shoulder
+armorSegment/shoulder_R/name;Right Shoulder
+streaks/heroic_human;Marksman Elite
+streaks/heroic_human/other;
+streaks/heroic_human/desc;Destroyed the most enemy infantry.
+streaks/heroic_human_survivor;Predator
+streaks/heroic_human_survivor/other;
+streaks/heroic_human_survivor/desc;Hasn't lost a single infantry fireteam or a single vehicle (whether tank or aircraft) while destroying more enemy infantry than any other player on either team.
+streaks/heroic_human_punisher;Against All Odds
+streaks/heroic_human_punisher/other;
+streaks/heroic_human_punisher/desc;Destroyed the most enemy infantry that are by 1.0 battle rating higher than your own.
+streaks/trophy_near_human;Marksman
+streaks/trophy_near_human/other;
+streaks/trophy_near_human/desc;Destroyed the most enemy infantry. If several players have equal number of destroyed targets, the award is given to the one with a bigger score.
+streaks/human_bullseye;Bullseye: x%d
+streaks/human_bullseye/other;
+streaks/human_bullseye/desc;Reward for neutralizing enemy infantry from a long distance.
+streaks/human_bullseye/multiple;Bullseye
+streaks/human_row_melee_kill;Close and Personal: x%d
+streaks/human_row_melee_kill/multiple;Close and Personal
+streaks/human_row_melee_kill/other;
+streaks/human_row_melee_kill/desc;Reward for neutralizing 5 enemy infantrymen with melee weapons without losing your own fireteam.
+streaks/human_row_ai_members_kill;Commander: x%d
+streaks/human_row_ai_members_kill/multiple;Commander
+streaks/human_row_ai_members_kill/other;
+streaks/human_row_ai_members_kill/desc;Reward for neutralizing enemy infantry with AI-controlled soldiers of your fireteam without losing it.
+streaks/human_kill_entire_squad_rapid;Rapid Fire: x%d
+streaks/human_kill_entire_squad_rapid/multiple;Rapid Fire
+streaks/human_kill_entire_squad_rapid/other;
+streaks/human_kill_entire_squad_rapid/desc;Reward for quickly neutralizing an entire enemy fireteam using only your own fireteam.
+streaks/multi_kill_human;Multistrike x%d!
+streaks/multi_kill_human/other;
+streaks/multi_kill_human/desc;Neutralized %d infantrymen in a row.
+streaks/multi_kill_human/multiple/desc;Neutralized several infantrymen in a row.
+streaks/multi_kill_human/multiple;Multistrike!
+icon/mpstats/humanKills;╞
+icon/hud_msg_mp_dmg/kill_h_h;▒
+icon/hud_msg_mp_dmg/kill_t_h;▔
+icon/hud_msg_mp_dmg/kill_a_h;▦
+icon/hud_msg_mp_dmg/kill_h_a;▣
+icon/hud_msg_mp_dmg/kill_h_t;▣
+options/infantry_presets;Equipment Presets
+modGroup/scope;Scope
+modGroup/stock;Stock
+modGroup/magazine;Magazine
+modGroup/underbarrel;Underbarrel
+modGroup/tactical;Tactical
+modGroup/grip;Grip
+modGroup/muzzle;Muzzle
+unit/squadFeaturesHeader;Additional Equipment
+unit/bulletCaliber;Caliber
+unit/bulletSpeed;Bullet Velocity
+unit/bulletMass;Bullet Mass
+unit/bulletEnergy;Bullet Energy
+unit/bulletArmorPower;Armor Power
+unit/weaponShotFreq;Rate of Fire
+unit/weaponWeight;Weight (empty)
+unit/weaponRecoil;Recoil Impulse
+unit/weaponAmmoHolders;Ammunition
+location/hvg_granitograd;Granitograd
+location/hvg_training_ground;Training Ground
+missions/testRun;Test Mission
+missions/granitograd_infdom;Granitograd
+ak_12_shop;AK-12
+ak_12_0;AO Kontsern Kalashnikov | AK-12
+ak_12_1;AK-12
+ak_12_2;AK-12
+ak_15_shop;AO Kontsern Kalashnikov | AK-15
+ak_15_0;AK-15
+ak_15_1;AK-15
+ak_15_2;AK-15
+ak_74m_shop;AK-74M
+ak_74m_0;AO Kontsern Kalashnikov | AK-74M
+ak_74m_1;AK-74M
+ak_74m_2;AK-74M
+akm_47_shop;AKM
+akm_47_0;Izhévsky mashinostroítelny Zavod (IZhMASh) | AKM
+akm_47_1;AKM
+akm_47_2;AKM
+aksu_74_shop;AKS-74U
+aksu_74_0;AKS-74U
+aksu_74_1;AKS-74U
+aksu_74_2;Assault rifle
+asm_val_shop;ASM Val
+asm_val_0;ASM Val
+asm_val_1;AS Val
+asm_val_2;Assault rifle
+colt_9_mm_smg_shop;Colt 9mm SMG
+colt_9_mm_smg_0;Colt 9mm SMG
+colt_9_mm_smg_1;Colt 9mm
+colt_9_mm_smg_2;SMG
+kord_6p68_shop;Kord 6P68
+kord_6p68_0;Kord 6P68
+kord_6p68_1;6P68
+kord_6p68_2;Assault rifle
+m110a1_sdmr_shop;M110 SDMR
+m110a1_sdmr_0;M110 SDMR
+m110a1_sdmr_1;M110
+m110a1_sdmr_2;DMR
+m16a1_shop;M16A1
+m16a1_0;M16A1
+m16a1_1;M16
+m16a1_2;Assault rifle
+m16a4_shop;M16A4
+m16a4_0;M16A4
+m16a4_1;M16
+m16a4_2;Assault rifle
+m249_para_shop;M249 Para
+m249_para_0;M249 Para
+m249_para_1;Minimi
+m249_para_2;LMG
+m4a1_shop;M4A1
+m4a1_0;M4A1
+m4a1_1;M4
+m4a1_2;Assault rifle
+mac_11_shop;MAC-11 PDW
+mac_11_0;MAC-11 PDW
+mac_11_1;MAC-11
+mac_11_2;SMG
+mcmillan_tac_50_shop;TAC-50
+mcmillan_tac_50_0;TAC-50
+mcmillan_tac_50_1;TAC-50
+mcmillan_tac_50_2;AMR
+mk_14_ebr_shop;Mk 14 EBR
+mk_14_ebr_0;Mk 14 EBR
+mk_14_ebr_1;M14
+mk_14_ebr_2;BR
+mk_48_shop;Mk 48
+mk_48_0;Mk 48
+mk_48_1;Minimi
+mk_48_2;LMG
+pp_19_bizon_shop;PP-19
+pp_19_bizon_0;PP-19 Bizon
+pp_19_bizon_1;ПП-19
+pp_19_bizon_2;SMG
+pp_19_vityaz_shop;PP-19 Vityaz
+pp_19_vityaz_0;PP-19 Vityaz
+pp_19_vityaz_1;ПП-19
+pp_19_vityaz_2;SMG
+pp_2000_shop;PP-2000
+pp_2000_0;PP-2000
+pp_2000_1;PP-2000
+pp_2000_2;SMG
+rpk_16_shop;RPK-16
+rpk_16_0;RPK-16
+rpk_16_1;RPK
+rpk_16_2;LMG
+rpk_74m_shop;RPK-74M
+rpk_74m_0;RPK-74M
+rpk_74m_1;RPK
+rpk_74m_2;LMG
+sig_xm250_shop;M250
+sig_xm250_0;M250
+sig_xm250_1;M250
+sig_xm250_2;LMG
+sig_xm5_shop;XM5
+sig_xm5_0;XM5
+sig_xm5_1;XM5
+sig_xm5_2;BR
+svd_shop;SVD
+svd_0;SVD
+svd_1;SVD
+svd_2;DMR
+svd_m_shop;SVDM
+svd_m_0;SVDM
+svd_m_1;SVD
+svd_m_2;DMR
+vssm_vintorez_shop;VSSM Vintorez
+vssm_vintorez_0;VSSM Vintorez
+vssm_vintorez_1;VSS Vintorez
+vssm_vintorez_2;Assault rifle
+uav_inf_fpv_strike_drone_shop;"Strike UAV type ""FPV"""
+uav_inf_fpv_strike_drone_0;"Strike UAV type ""FPV"""
+uav_inf_fpv_strike_drone_1;"Strike UAV type ""FPV"""
+uav_inf_fpv_strike_drone_2;FPV
+uav_inf_strike_drone_shop;"Strike UAV type ""Wing"""
+uav_inf_strike_drone_0;"Strike UAV type ""Wing"""
+uav_inf_strike_drone_1;"Strike UAV type ""Wing"""
+uav_inf_strike_drone_2;WING
+uav_inf_recon_drone_shop;Reconnaissance UAV
+uav_inf_recon_drone_0;Reconnaissance UAV
+uav_inf_recon_drone_1;Reconnaissance UAV
+uav_inf_recon_drone_2;Scout
+infantry/squad/member;Soldier
+infantry/squad/member_inactive_advice;train your crew
+infantry/squad/member_inactive;Inactive
+infantry/squad/members;Soldiers
+weapons/infantry_empty;Empty
+weapons/ammo_box;Ammo box
+ammo_box;Ammo box
+weapons/ammo_box/desc;Allows all allies to refill ammo in battle. Ammo is limited.
+weapons/explosives_box_item;Explosives box
+explosives_box_item;Explosives box
+weapons/explosives_box_item/desc;Allows all allies to refill explosives in battle. Refills are limited.
+weapons/frag_grenade;Frag grenade
+frag_grenade;Frag grenade
+weapons/frag_grenade/desc;An explosive munition designed to destroy infantry.
+weapons/ks_p;18,5 KS-P shotgun
+ks_p;18,5 KS-P shotgun
+weapons/ks_p/desc;A shotgun is effective against drones. It is not recommended to use it against armored infantry.
+weapons/m136_at4;M136 AT4 anti-tank rocket launcher
+m136_at4;M136 AT4 anti-tank rocket launcher
+weapons/m136_at4/desc;A hand-held anti-tank rocket launcher for destroying armoured vehicles.
+weapons/medic_box;Medkits Box
+medic_box;Medkits Box
+weapons/medic_box/desc;Allows all allies to refill medkits in battle. Refills are limited.
+weapons/mossberg_590;Mossberg 590 shotgun
+mossberg_590;Mossberg 590 shotgun
+weapons/mossberg_590/desc;A shotgun is effective against drones. It is not recommended to use it against armored infantry.
+weapons/mpads_igla;9K38 Igla MANPADS
+mpads_igla;9K38 Igla MANPADS
+weapons/mpads_igla/desc;Man-portable air-defense systems for destroying low-flying air targets.
+weapons/mpads_stinger;FIM-92 Stinger MANPADS
+mpads_stinger;FIM-92 Stinger MANPADS
+weapons/mpads_stinger/desc;Man-portable air-defense systems for destroying low-flying air targets.
+weapons/pkp_pecheneg;PKP Pecheneg machine gun 
+pkp_pecheneg;PKP Pecheneg machine gun 
+weapons/pkp_pecheneg/desc;A general purpose machine gun for destroying infantry. It is recommended to use it after installing it on bipods.
+weapons/pslr_1_default;PSRL-1 rocket launcher
+pslr_1_default;PSRL-1 rocket launcher
+weapons/pslr_1_default/desc;A hand-held anti-tank grenade launcher for destroying armoured vehicles.
+weapons/reapr;REAPR machine gun 
+reapr;REAPR machine gun 
+weapons/reapr/desc;A machine gun for destroying infantry. It is recommended to use it after installing it on bipods.
+weapons/rpg_7;RPG-7 rocket launcher
+rpg_7;RPG-7 rocket launcher
+weapons/rpg_7/desc;A hand-held anti-tank rocket launcher for destroying armoured vehicles.
+weapons/rpg_7_default;RPG-7 rocket launcher
+rpg_7_default;RPG-7 rocket launcher
+weapons/rpg_7_default/desc;A hand-held anti-tank rocket launcher for destroying armoured vehicles.
+weapons/smoke_grenade;Smoke grenade
+smoke_grenade;Smoke grenade
+weapons/smoke_grenade/desc;A pyrotechnic device designed to create smoke zones for camouflage purposes.
+weapons/stun_grenade;Stun grenade
+stun_grenade;Stun grenade
+weapons/stun_grenade/desc;A non-lethal weapon designed to provide light and sound effects on an enemy to temporarily incapacitate them.
+weapons/usa_fpv_drone;FPV drone
+usa_fpv_drone;FPV drone
+weapons/usa_fpv_drone/desc;A quadcopter with an attached ammo from a hand-held anti-tank rocket launcher. Use against ground vehicles.
+weapons/usa_kamikaze_drone;Loitering munition
+usa_kamikaze_drone;Loitering munition
+weapons/usa_kamikaze_drone/desc;An unmanned aerial vehicle with a warhead. Use against ground vehicles.
+weapons/usa_recon_drone;Reconnaissance drone
+usa_recon_drone;Reconnaissance drone
+weapons/usa_recon_drone/desc;A quadcopter with software for automatic enemy recognition.
+weapons/ussr_fpv_drone;FPV drone
+ussr_fpv_drone;FPV drone
+weapons/ussr_fpv_drone/desc;A quadcopter with an attached ammo from a hand-held anti-tank rocket launcher. Use against ground vehicles.
+weapons/ussr_kamikaze_drone;Loitering munition
+ussr_kamikaze_drone;Loitering munition
+weapons/ussr_kamikaze_drone/desc;An unmanned aerial vehicle with a warhead. Use against ground vehicles.
+weapons/ussr_recon_drone;Reconnaissance drone
+ussr_recon_drone;Reconnaissance drone
+weapons/ussr_recon_drone/desc;A quadcopter with software for automatic enemy recognition.
+userlog/human_player_offender;player
+userlog/human_squad_member_offender;fireteam member
+skin_infantry/random_not_default/name;Random not default
+options/infantry_skin;Camouflage
+skin_infantry/granit_team1_highbr_camo1/name;Camouflage 2
+skin_infantry/granit_team1_lowbr_camo1/name;Camouflage 1
+skin_infantry/granit_team2_highbr_camo1/name;Camouflage 2
+skin_infantry/granit_team2_lowbr_camo1/name;Camouflage 1
+45acp_m1911_fmj;.45 ACP M1911
+45acp_m26_fmj_t;.45 ACP M26
+45acp_jhp;.45 АСР P+ JHP
+12_7mm_sn;12.7 mm 7N34
+12_7mm_b32;12.7 mm B-32
+12_7mm_bs41;12.7mm BS-41
+12_7mm_m20;.50 M20 API
+14_5mm_bs41;14.5 mm BS-41
+7_62mm_m2_ball;.30-06 М2
+7_62mm_ap;.30-06 AP
+7_62mm_tracer;.30-06 T
+4_6mm_ap_sx;4.6 mm AP SX
+5_45mm_7n24_ap;5.45 mm 7N24
+5_45mm_7n39_ap;5.45 mm 7N39
+5_45mm_7n6_gp;5.45 mm 7N6
+5_45mm_7n6m_ep;5.45 mm 7N6M
+5_45mm_7n10_ep;5.45 mm 7N10
+5_45mm_7n22_ep;5.45 mm 7N22
+5_45mm_7t3_tracer;5.45 mm 7T3
+5_56mm_m995_ap;5.56 mm M995
+5_56mm_m193_ball;5.56 mm M193
+5_56mm_m196_tracer;5.56 mm M196
+5_56mm_m855_ep;5.56 mm M855
+5_56mm_m855a1_ep;5.56 mm M855A1
+5_56mm_m856_tracer;5.56 mm M856
+5_8mm_dbp_87_gp;5.8 mm DBP-87
+6_8mm_m1186_gp;6.8 mm M1186
+6_8mm_m1184_ap;6.8 mm M1184
+6_8mm_m1187_t;6.8 mm M1187
+7_62mm_tt;7.62 mm 57-N-134
+7_62mm_57n134s;7.62 mm 57-N-134S
+7_62mm_bz_ap;7.62 mm 57-BZ-231
+7_62mm_m1943_gp;7.62 mm M43
+7_62mm_57n231_gp;7.62 mm 57-N-231
+7_62mm_57n231_ep;7.62 mm 57-N-231M
+7_62mm_7n23_ap;7.62 mm 7N23
+7_62mm_57t231_tracer;7.62 mm 57-T-231
+7_62mm_m993_ap;7.62 mm M993
+7_62mm_m118_ball;7.62 mm M118
+7_62mm_m80_ball;7.62 mm M80
+7_62mm_m59_ball;7.62 mm M59
+7_62mm_m61_ap;7.62 mm M61
+7_62mm_m62_tracer;7.62 mm M62
+7_62mm_57n223s_gp;7.62 mm LPS
+7_62mm_57n223s_st_m2_ep;7.62 mm ST-M2
+7_62mm_57n223_gp;7.62 mm L
+7_62mm_57b222;7.62 mm B-30
+7_62mm_57bz322;7.62 mm B-32
+7_62mm_57bzt322;7.62 mm BZT
+7_62mm_bs_40;7.62 mm BS-40
+7_62mm_7n1;7.62 mm 7N1
+7_62mm_7n13_ap;7.62 mm 7N13
+7_62mm_7n14_ap;7.62 mm 7N14
+7_62mm_7n26_ap;7.62 mm 7N26
+7_62mm_7n37_hc;7.62 mm 7N37
+7_62mm_7bt1_tracer;7.62 mm 7BT1
+7_62mm_7t2_tracer;7.62 mm 7T2
+7_62mm_t_30;7.62 mm 57-T-322
+7_62mm_t_46;7.62 mm 57-T-322
+9mm_57n181_fmj;9 mm 57-N-181
+9mm_57n181s_sc;9 mm 57-N-181S
+9mm_57t181_sc_t;9 mm 57-T-181
+9mm_7n16_ap;9 mm 7N16
+9mm_7n25_ap;9 mm 7N25
+9mm_ppe_jhp;9 mm PPE
+9mm_7n31_ap;9 mm 7N31
+9mm_7n21_ap;9 mm 7N21
+9mm_m882_fmj;9 mm M882
+9mm_m1152_fmj;9 mm M1152
+9mm_m1153_jhp;9 mm M1153SP
+9mm_ppatr08;9 mm Patr. 08
+9mm_sp10_ap;9 mm SP-10
+9mm_sp11_ball;9 mm 7N28
+9mm_sp12_hp;9 mm SP-12
+9mm_sp13_ap;9 mm SP-13
+9mm_sp5_ball;9 mm SP-5
+9mm_sp6_ap;9 mm SP-6
+9mm_pab_9_ap;9 mm PAB-9
+9mm_bp_ap;9 mm BP
+9mm_spp_ap;9 mm SPP
+su_9M39;9M39 Igla SAM
+rpg_2_rocket;RPG-2
+93mm_pg_7vl;RPG-7
+84mm_at4;AT4
