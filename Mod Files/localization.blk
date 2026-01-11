@@ -1,4 +1,5 @@
 ps4override:t="%lang/ps4_specific.csv"
+ps5override:t="%lang/ps5_specific.csv"
 xboxOneoverride:t="%lang/xboxOne_specific.csv"
 regional:t="%langRegional/special_events.csv"
 regional:t="%langRegional/tournaments.csv"
@@ -66,6 +67,7 @@ locTable{
   file:t="%lang/_missing.csv"
   file:t="%lang/_online.csv"
   file:t="%lang/pc_UiMessages.csv"
+  file:t="%lang/inf.csv"
   file:t="%lang/modded/syrup_units_usa.csv"
   file:t="%lang/modded/syrup_units_ussr.csv"
   file:t="%lang/modded/syrup_units_it.csv"
@@ -84,7 +86,7 @@ locTable{
   file:t="%lang/modded/syrup_version.csv"
   file:t="%lang/modded/syrup_sensors.csv"
   file:t="%lang/modded/syrup_ui.csv"
-
+  file:t="%lang/modded/syrup_infantry.csv"
 }
 
 locTableFull{
@@ -92,6 +94,10 @@ locTableFull{
   file:t="%lang/_common_languages.csv"
   file:t="%lang/missions_versus.csv"
   file:t="%lang/missions_locations.csv"
+  file:t="%lang/ui.csv"
+  file:t="%lang/pc_UiMessages.csv"
+  file:t="%lang/units_weaponry.csv"
+  file:t="%lang/menu.csv"
 }
 
 full_translation{
@@ -261,6 +267,8 @@ text_translation{
     lang:t="Turkish"
     lang:t="Chinese"
     lang:t="Korean"
+    lang:t="Ukrainian"
+    lang:t="Vietnamese"
   }
 
   ps5{
@@ -278,6 +286,8 @@ text_translation{
     lang:t="Turkish"
     lang:t="Chinese"
     lang:t="Korean"
+    lang:t="Ukrainian"
+    lang:t="Vietnamese"
   }
 }
 

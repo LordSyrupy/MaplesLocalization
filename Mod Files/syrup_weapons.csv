@@ -1070,10 +1070,10 @@ weapons/us_aim92_stinger_right/short;AIM-92 ATAS
 "weapons/us_aim9b_fgw_2_sidewinder";"AIM-9F Sidewinder Air-to-Air Missile"
 "weapons/us_aim9b_fgw_2_sidewinder/short";"AIM-9F Sidewinder"
 #
-"us_iris_t_sl";"IRIS-T (Surface-Launched, Medium-Range)"
+"us_iris_t_sl";"IRIS-T SLM"
 "weapons/us_iris_t_sl/short";"IRIS-T SLM"
 #
-"weapons/180mm_IRIS_T_SL_user_cannon";"IRIS-T SLM"
+"weapons/180mm_IRIS_T_SL_user_cannon";"IRIS-T (Surface-Launched, Medium-Range)"
 #
 "weapons/sws_flz_lwf_63_80";"Flugzeug Lenkwaffe Luft-Luft 63/80 Air-to-Air Missile"
 "weapons/sws_flz_lwf_63_80/short";"Flz Lwf LL 63/80"
@@ -1227,7 +1227,7 @@ weapons/us_aim92_stinger_right/short;AIM-92 ATAS
 "weapons/su_r_27er1/short";"R-27ER1 Alamo-C"
 #
 weapons/209mm_9M33A3_launcher_user_cannon;9M33M3 Osa-AKM Surface-to-Air Missile
-209mm_9m33m3;9M33M3 Osa-AKM Surface-to-Air Missile
+209mm_9m33m3;9M33M3 Osa-AKM
 weapons/209mm_9m33m3/short;9M33M3 Osa-AKM
 #
 weapons/su_r_40rd;R-40RD Acrid-C Air-to-Air Missile
@@ -1395,6 +1395,24 @@ weapons/r_darter_default/short;R-Darter
 weapons/uk_brimstone_dm;Brimstone 2 Laser-Guided Air-to-Ground Missile
 weapons/uk_brimstone_dm/short;Brimstone 2 [SALH]
 #
+weapons/uk_sea_eagle;MBDA Sea Eagle missile
+weapons/uk_sea_eagle/short;MBDA Sea Eagle
+#
+weapons/uk_sea_eagle_wo_radar_designation;MBDA Sea Eagle missile
+weapons/uk_sea_eagle_wo_radar_designation/short;MBDA Sea Eagle
+#
+weapons/uk_firestreak;Firestreak air-to-air missiles
+weapons/uk_firestreak/short;Firestreak
+#
+weapons/uk_firestreak_default;Firestreak air-to-air missiles
+weapons/uk_firestreak_default/short;Firestreak
+#
+weapons/uk_firestreak_Javelin;Firestreak air-to-air missiles
+weapons/uk_firestreak_Javelin/short;Firestreak
+#
+weapons/uk_redtop;Red Top air-to-air missiles
+weapons/uk_redtop/short;Red Top
+#
 #Missiles, JP
 "weapons/us_aim9p4_sidewinder";"AIM-9P-4 Sidewinder Air-to-Air Missile"
 "weapons/us_aim9p4_sidewinder/short";"AIM-9P-4 Sidewinder"
@@ -1402,12 +1420,12 @@ weapons/uk_brimstone_dm/short;Brimstone 2 [SALH]
 "weapons/us_aim9p4_sidewinder_default";"AIM-9P-4 Sidewinder Air-to-Air Missile"
 "weapons/us_aim9p4_sidewinder_default/short";"AIM-9P-4 Sidewinder"
 #
-"160mm_sam_1c";"Type 81 Short-Range Surface-to-Air Missile, Model C (IR)"
-"160mm_sam_arh_1c";"Type 81 Short-Range Surface-to-Air Missile, Model C (ARH)"
+"160mm_sam_1c";"SAM-1C (IR)"
+"160mm_sam_arh_1c";"SAM-1C (ARH)"
 "weapons/160mm_sam_1c/short";"SAM-1C"
 #
-"weapons/160mm_sam_1c_launcher_user_cannon";"SAM-1C"
-"weapons/160mm_sam_1c_slave_launcher_user_cannon";"SAM-1C"
+"weapons/160mm_sam_1c_launcher_user_cannon";"Type 81 Short-Range Surface-to-Air Missile, Model C"
+"weapons/160mm_sam_1c_slave_launcher_user_cannon";"Type 81 Short-Range Surface-to-Air Missile, Model C"
 #
 "weapons/jp_aam3";"Type 90 Air-to-Air Guided Missile"
 "weapons/jp_aam3/short";"AAM-3"
@@ -1428,11 +1446,11 @@ weapons/uk_brimstone_dm/short;Brimstone 2 [SALH]
 "weapons/jp_asm2/short";"ASM-2"
 #
 #Missiles, CN
-"weapons/cn_pl12";"PL-12 Air-to-Air Missile"
-"weapons/cn_pl12/short";"PL-12"
+"weapons/cn_pl12";"PL-12 Adze Air-to-Air Missile"
+"weapons/cn_pl12/short";"PL-12 Adze"
 #
-"weapons/cn_pl12_default";"PL-12 Air-to-Air Missile"
-"weapons/cn_pl12_default/short";"PL-12"
+"weapons/cn_pl12_default";"PL-12 Adze Air-to-Air Missile"
+"weapons/cn_pl12_default/short";"PL-12 Adze"
 #
 "weapons/su_pl2";"PL-2 Atoll-C Air-to-Air Missile"
 "weapons/su_pl2/short";"PL-2 Atoll-C"
@@ -2114,6 +2132,97 @@ weapons/su_kab_1500lg_e/short;KAB-1500LG-E [1500kg]
 "weapons/uk_paveway_iv";"Paveway IV Dual-Mode Laser-Guided Bomb (500lb.)"
 "weapons/uk_paveway_iv/short";"Paveway IV (500lb.)"
 #
+weapons/uk_pgm_500;PGM 500 guided bomb
+weapons/uk_pgm_500/short;PGM 500
+#
+weapons/uk_pgm_2000;PGM 2000 guided bomb
+weapons/uk_pgm_2000/short;PGM 2000
+#
+weapons/uk_pgm_500_iir;PGM 500/3 guided bomb
+weapons/uk_pgm_500_iir/short;PGM 500/3
+#
+weapons/uk_pgm_2000_iir;PGM 2000/3 guided bomb
+weapons/uk_pgm_2000_iir/short;PGM 2000/3
+#
+weapons/uk_paveway_iv;Paveway IV guided bomb
+weapons/uk_paveway_iv/short;Paveway IV
+#
+weapons/uk_250lbs_late;G.P. 250 lb Mk.IV bomb
+weapons/uk_500lbs_43;G.P. 500 lb Mk.IV bomb
+#
+weapons/uk_250lbs_mc_mk1_mk2_bomb;M.C. 250 lb Mk.I bomb
+weapons/uk_250lbs_mc_mk1_mk2_bomb/short;M.C. 250 lb
+weapons/uk_250lbs_mc_mk1_mk2_bomb_default;M.C. 250 lb Mk.I bomb
+weapons/uk_250lbs_mc_mk1_mk2_bomb_default/short;M.C. 250 lb
+#
+weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb;M.C. 500 lb Mk.I bomb
+weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb/short;M.C. 500 lb
+#
+weapons/uk_1000lbs_mc_mk1_mk2_bomb;M.C. 1000 lb Mk.I bomb
+weapons/uk_1000lbs_mc_mk1_mk2_bomb/short;1000 lb
+#
+weapons/uk_520lb_herl_mk_1_n;HERL 520 lb Mk.IN bomb
+weapons/uk_520lb_herl_mk_1_n/short;HERL 520 lb Mk.IN
+#
+weapons/uk_1650lb_sn_he;1650 lb SNHE bomb
+weapons/uk_1650lb_sn_he/short;1650 lb SNHE
+#
+weapons/uk_250lbs/short;G.P. 250 lb
+weapons/uk_250lbs_43/short;G.P. 250 lb
+weapons/uk_250lbs_late/short;G.P. 250 lb
+#
+weapons/uk_500lbs/short;G.P. 500 lb
+weapons/uk_500lbs_43/short;G.P. 500 lb
+#
+weapons/uk_1000lbs_gp/short;G.P. 1000 lb
+weapons/uk_1000lbs_gp_mk1/short;G.P. 1000 lb
+weapons/uk_1000lbs_mc_mk1/short;M.C. 1000 lb
+#
+weapons/uk_mk2_cookie/short;H.C. 4000 lb
+#
+weapons/uk_12000lb_hc_mkI_n52_bomb;12000 lb H.C Mk.I bomb
+weapons/uk_12000lb_hc_mkI_n52_bomb/short;H.C. 12000 lb
+#
+weapons/uk_12000lb_hc_mkI_n33_bomb;12000 lb H.C Mk.I bomb
+weapons/uk_12000lb_hc_mkI_n33_bomb/short;H.C. 12000 lb
+#
+weapons/uk_8000lb_hc_mkI_n52_bomb;8000 lb H.C. Mk.II bomb
+weapons/uk_8000lb_hc_mkI_n52_bomb/short;H.C. 8000 lb
+#
+weapons/uk_8000lb_hc_mkI_n33_bomb;8000 lb H.C. Mk.II bomb
+weapons/uk_8000lb_hc_mkI_n33_bomb/short;H.C. 8000 lb
+#
+weapons/uk_4000lb_mc_mk1_mk2_bomb;4000 lb H.C. Mk.II bomb
+weapons/uk_4000lb_mc_mk1_mk2_bomb/short;H.C. 4000 lb
+#
+weapons/uk_4000lb_hc_mk4_bomb;4000 lb H.C. Mk.IV bomb
+weapons/uk_4000lb_hc_mk4_bomb/short;H.C. 4000 lb
+#
+weapons/uk_4000lb_hc_mk3_bomb;4000 lb H.C. Mk.III bomb
+weapons/uk_4000lb_hc_mk3_bomb/short;H.C. 4000 lb
+#
+weapons/uk_4000lb_hc_mk2_bomb;4000 lb H.C. Mk.II bomb
+weapons/uk_4000lb_hc_mk2_bomb/short;H.C. 4000 lb
+#
+weapons/uk_4000lb_hc_mk1_bomb;4000 lb H.C. Mk.I bomb
+weapons/uk_4000lb_hc_mk1_bomb/short;H.C. 4000 lb
+#
+weapons/uk_4000lb_gp_mk1_mk2_bomb;4000 lb H.C. Mk.II bomb
+weapons/uk_4000lb_gp_mk1_mk2_bomb/short;H.C. 4000 lb
+#
+weapons/uk_250lbs/short;G.P. 250 lb
+weapons/uk_250lbs_43/short;G.P. 250 lb
+weapons/uk_250lbs_late/short;G.P. 250 lb
+#
+weapons/uk_500lbs/short;G.P. 500 lb
+weapons/uk_500lbs_43/short;G.P. 500 lb
+#
+weapons/uk_1000lbs_gp/short;G.P. 1000 lb
+weapons/uk_1000lbs_gp_mk1/short;G.P. 1000 lb
+weapons/uk_1000lbs_mc_mk1/short;M.C. 1000 lb
+#
+weapons/uk_mk2_cookie/short;H.C. 4000 lb
+#
 #Bombs, JP
 "weapons/us_750lb_m117_cone_45_japan";"JM117 Low-Drag Demolition Bomb - Cone 45 (750lb.)"
 "weapons/us_750lb_m117_cone_45_japan/short";"JM117 (750lb.)"
@@ -2271,6 +2380,81 @@ weapons/su_s_8kom_rocket;S-8KOM 80mm High-Explosive Rocket
 #
 #Rocket, GB
 #
+weapons/uk_2_inch_rocket;RP rockets
+weapons/uk_2_inch_rocket/short;RP
+weapons/uk_2_inch_rocket_expo;RP rockets
+weapons/uk_2_inch_rocket_expo/short;RP
+#
+weapons/uk_180lb_triplex;Triplex R.P. rockets
+weapons/uk_180lb_triplex/short;Triplex R.P.
+#
+weapons/uk_uncle_tom_a;Uncle Tom rockets
+weapons/uk_uncle_tom_a/short;Uncle Tom
+weapons/uk_uncle_tom_b;Uncle Tom rockets
+weapons/uk_uncle_tom_b/short;Uncle Tom
+#
+weapons/uk_1000lb_ap_redangel;Red Angel rockets
+weapons/uk_1000lb_ap_redangel/short;Red Angel
+#
+weapons/uk_hvar;HVAR rockets
+weapons/uk_rocket;rocket
+#
+weapons/uk_rp3;RP-3 rockets
+weapons/uk_rp3_2;RP-3 rockets
+weapons/uk_rp3_3;RP-3 rockets
+#
+weapons/uk_rp3_4a;RP-3 rockets
+weapons/uk_rp3_4a_late;RP-3 rockets
+weapons/uk_rp3_4a_late/short;RP-3
+#
+weapons/uk_rp3_4a_default;RP-3 rockets
+weapons/uk_rp3_4a_default/short;RP-3
+#
+weapons/uk_rp3_4b;RP-3 rockets
+weapons/uk_rp3_4b_late;RP-3 rockets
+weapons/uk_rp3_4b_late/short;RP-3
+#
+weapons/uk_rp3_2_late;RP-3 rockets
+weapons/uk_rp3_2_late/short;RP-3
+#
+weapons/uk_rp3_late;RP-3 rockets
+weapons/uk_rp3_late/short;RP-3
+#
+weapons/uk_25lb_ap_mk1;AP Mk I rockets
+weapons/uk_25lb_ap_mk1_1;AP Mk I rockets
+weapons/uk_25lb_ap_mk1_1/short;AP Mk I
+#
+weapons/uk_25lb_ap_mk1_2;AP Mk I rockets
+weapons/uk_25lb_ap_mk1_3;AP Mk I rockets
+weapons/uk_25lb_ap_mk1_4a;AP Mk I rockets
+weapons/uk_25lb_ap_mk1_4b;AP Mk I rockets
+#
+weapons/uk_25lb_ap_mk2;AP Mk II rockets
+weapons/uk_25lb_ap_mk2_late/short;AP Mk II
+weapons/uk_25lb_ap_mk2_late;AP Mk II rockets
+weapons/uk_25lb_ap_mk2_2;AP Mk II rockets
+weapons/uk_25lb_ap_mk2_3;AP Mk II rockets
+weapons/uk_25lb_ap_mk2_4a;AP Mk II rockets
+weapons/uk_25lb_ap_mk2_4b;AP Mk II rockets
+#
+weapons/uk_25lb_ap_mk1/short;AP Mk I
+weapons/uk_25lb_ap_mk1_2/short;AP Mk I
+weapons/uk_25lb_ap_mk1_3/short;AP Mk I
+weapons/uk_25lb_ap_mk1_4a/short;AP Mk I
+weapons/uk_25lb_ap_mk1_4b/short;AP Mk I
+#
+weapons/uk_25lb_ap_mk2/short;AP Mk II
+weapons/uk_25lb_ap_mk2_2/short;AP Mk II
+weapons/uk_25lb_ap_mk2_3/short;AP Mk II
+weapons/uk_25lb_ap_mk2_4a/short;AP Mk II
+weapons/uk_25lb_ap_mk2_4b/short;AP Mk II
+#
+weapons/uk_25lb_ap_mk1_4a_default;AP Mk I rockets
+weapons/uk_25lb_ap_mk1_4a_default/short;AP Mk I
+#
+weapons/uk_CRV7_m247;70 mm CRV7 M247 rocket
+weapons/uk_CRV7_m247/short;CRV7 M247
+#
 #Rocket, JP
 #
 #Rocket, CN
@@ -2363,4 +2547,57 @@ weapons/su_s_8kom_rocket;S-8KOM 80mm High-Explosive Rocket
 "weapons/us_750_gal_fastpack_f_15c_right";"Fuel And Sensor Tactical Pack"
 "weapons/us_750_gal_fastpack_f_15c_right/short";"FAST Pack"
 #
-
+#Torpedoes, UK
+weapons/uk_mk12_torpedo;18 inch Mark XII torpedo (1548 lbs)
+#
+weapons/uk_mk15_torpedo;18 inch Mark XV torpedo (1801 lbs)
+weapons/uk_mk15_torpedo_no_stab;18 inch Mark XV torpedo (1801 lbs)
+weapons/uk_mk15_torpedo_no_stab/short;Mark XV
+#
+weapons/uk_spearfish_torpedo;533 mm Spearfish torpedo
+weapons/uk_spearfish_torpedo/short;533 mm Spearfish
+#
+weapons/uk_450mm_18in_mk15_torpedo;450 mm Mk XV torpedo
+weapons/uk_450mm_18in_mk15_torpedo/short;Mk XV
+#
+weapons/uk_533mm_21in_mk8_torpedo;533 mm Mk.VIII torpedo
+weapons/uk_533mm_21in_mk8_torpedo/short;Mk.VIII
+#
+weapons/uk_533mm_21in_mk19_torpedo;533 mm Mk.IX torpedo
+weapons/uk_533mm_21in_mk19_torpedo/short;Mk.IX
+#
+weapons/uk_533mm_21in_mk5_torpedo;533 mm steam turbined Mk.V torpedo
+weapons/uk_533mm_21in_mk5_torpedo/short;Mk.V
+#
+weapons/uk_622mm_24_5in_mk1_torpedo;622 mm Mk.I torpedo
+weapons/uk_622mm_24_5in_mk1_torpedo/short;Mk.I
+#
+weapons/uk_450mm_18in_mk12_torpedo;18 inch Mk.XII torpedo
+weapons/uk_450mm_18in_mk12_torpedo/short;Mk.XII
+#
+weapons/uk_533mm_21in_mk9_torpedo;533 mm Mk.IX wet-heater torpedo
+weapons/uk_533mm_21in_mk9_torpedo/short;Mk.IX
+#
+weapons/uk_mine_type_a_mk1;1500 lbs Type A Mark I aircraft laid magnetic mine
+weapons/uk_mine_type_a_mk1/short;Type A Mk I
+#
+weapons/uk_mine_type_m_mk1;1123/1323 lbs Type M Mark I moored contact mine
+weapons/uk_mine_type_m_mk1/short;Type M Mk I
+#
+weapons/uk_mine_type_m_mk2;1760 lbs Type M Mark II magnetic ground mine
+weapons/uk_mine_type_m_mk2/short;Type M Mk II
+#
+weapons/uk_450mm_18in_rgf_mark6_hbh_torpedo;450 mm R.G.F. Mark VI** torpedo
+weapons/uk_450mm_18in_rgf_mark6_hbh_torpedo/short;450 mm Mark VI**
+#
+weapons/uk_533mm_21in_mk1_torpedo;21 inch Mark I torpedo
+weapons/uk_533mm_21in_mk1_torpedo/short;21 inch Mk.I
+#
+weapons/uk_533mm_21in_mk20e_bidder_torpedo;21 inch Mk.20 Bidder torpedo
+weapons/uk_533mm_21in_mk20e_bidder_torpedo/short;21 inch Mk.20
+#
+weapons/uk_533mm_21in_mk4_torpedo;533 mm Mk.IV torpedo
+weapons/uk_533mm_21in_mk4_torpedo/short;533 mm Mk.IV
+#
+weapons/uk_533mm_21in_mk9b_torpedo;533 mm Mk.IX** torpedo
+weapons/uk_533mm_21in_mk9b_torpedo/short;533 mm Mk.IX**
