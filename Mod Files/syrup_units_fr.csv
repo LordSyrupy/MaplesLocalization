@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "<ID|readonly|noverify>";"<English>";;
 #
 "md_450b_barougan_shop";"Barougan";;
@@ -558,3 +559,565 @@ ah_64e_netherlands_shop;◘AH-64E Guardian Apache (v6);;
 ah_64e_netherlands_0;Boeing Defense, Space & Security | ◘Helicopter, Attack, AH-64E Guardian Apache | Capability Version 6;;
 ah_64e_netherlands_1;◘AH-64E Guardian Apache (v6);;
 ah_64e_netherlands_2;◘AH-64E (v6);;
+=======
+"<ID|readonly|noverify>";"<English>";;
+#
+"md_450b_barougan_shop";"Barougan";;
+"md_450b_barougan_0";"Société des Avions Marcel Dassault | M.D.450B Barougan";;
+"md_450b_barougan_1";"Barougan";;
+"md_450b_barougan_2";"Barougan";;
+#
+"md_450b_ouragan_shop";"Ouragan";;
+"md_450b_ouragan_0";"Société des Avions Marcel Dassault | M.D.450B Ouragan";;
+"md_450b_ouragan_1";"Ouragan";;
+"md_450b_ouragan_2";"Ouragan";;
+#
+"lancaster_mr7_france_shop";"▄Lancaster Mk.VII WU";;
+"lancaster_mr7_france_0";"A.V. Roe and Company  | ▄Lancaster | Medium-Range Bomber, Mk.VII Western Union";;
+"lancaster_mr7_france_1";"▄Lancaster Mk.VII WU";;
+"lancaster_mr7_france_2";"▄Lancaster Mk.VII WU";;
+#
+"so_8000_narval_shop";"S.O.8000 Narval";;
+"so_8000_narval_0";"Société Nationale des Société Nationale des Constructions Aéronautiques du Sud-Ouest (SNCASO) | S.O.8000 Narval  | 1949 Prototype";;
+"so_8000_narval_1";"S.O.8000 Narval";;
+"so_8000_narval_2";"S.O.8000";;
+#
+"vb_10_02_shop";"VB.10-02";;
+"vb_10_02_0";"Arsenal de l'Aéronautique | VB.10-02 | Second Prototype (1946)";;
+"vb_10_02_1";"VB.10-02";;
+"vb_10_02_2";"VB.10-02";;
+#
+"vb_10c1_shop";"VB.10C-01";;
+"vb_10c1_0";"Arsenal de l'Aéronautique | VB.10C-01 | First Prototype (1945)";;
+"vb_10c1_1";"VB.10C-01";;
+"vb_10c1_2";"VB.10C-01";;
+#
+"mb_157_shop";"M.B.157";;
+"mb_157_0";"Société Nationale des Société Nationale des Constructions Aéronautiques du Sud-Ouest (SNCASO) | M.B.157 | 1942 Prototype";;
+"mb_157_1";"M.B.157";;
+"mb_157_2";"M.B.157";;
+#
+"mb_162_shop";"M.B.162.01";;
+"mb_162_0";"Société Nationale des Société Nationale des Constructions Aéronautiques du Sud-Ouest (SNCASO) | M.B.162.01 | 1940 Prototype";;
+"mb_162_1";"M.B.162.01";;
+"mb_162_2";"M.B.162.01";;
+#
+"firefly_mk4_netherlands_shop";"◘Firefly Mk.IV";;
+"firefly_mk4_netherlands_0";"Fairey Aviation Company, Ltd. | ◘Firefly | Fighter, Mk.IV";;
+"firefly_mk4_netherlands_1";"◘Firefly Mk.IV";;
+"firefly_mk4_netherlands_2";"◘Firefly Mk.IV";;
+#
+"yak-9t_france_shop";"▄Yak-9T [Challe]";;
+"yak-9t_france_0";"OKB-115 ""Yakovlev"" | ▄Challe's Yak-9T";;
+"yak-9t_france_1";"▄Yak-9T [Challe]";;
+"yak-9t_france_2";"▄Yak-9T [Challe]";;
+#
+"yak-3_france_shop";"▄Yak-3 (1944)";;
+"yak-3_france_0";"OKB-115 ""Yakovlev"" | ▄Yak-3 (1944)";;
+"yak-3_france_1";"▄Yak-3 (1944)";;
+"yak-3_france_2";"▄Yak-3 (1944)";;
+#
+"vg_33_shop";"V.G.33C-1";;
+"vg_33_0";"Arsenal de l'Aéronautique | V.G.33C-1 (1939)";;
+"vg_33_1";"V.G.33C-1";;
+"vg_33_2";"V.G.33C-1";;
+#
+"d_520_france_shop";"D.520";;
+"d_520_france_0";"Société Nationale des Constructions Aéronautiques du Midi (SNCAM) / Société Nationale des Constructions Aéronautiques du Sud-Estu Center (SNCASE) | Dewoitine D.520 ";;
+"d_520_france_1";"D.520";;
+"d_520_france_2";"D.520";;
+#
+"ms_410c1_shop";"M.S.410";;
+"ms_410c1_0";"Aéroplanes Morane-Saulnier | M.S.410";;
+"ms_410c1_1";"M.S.410";;
+"ms_410c1_2";"M.S.410";;
+#
+"potez_630_shop";"Potez 630";;
+"potez_630_0";"Société Nationale des Constructions Aéronautiques du Nord (SNCAN) | Potez 630";;
+"potez_630_1";"Potez 630";;
+"potez_630_2";"Potez 630";;
+#
+"potez_631_shop";"Potez 631";;
+"potez_631_0";"Société Nationale des Constructions Aéronautiques du Nord (SNCAN) | Potez 631";;
+"potez_631_1";"Potez 631";;
+"potez_631_2";"Potez 631";;
+#
+"a-35b_shop";"▄A-35B Vengenace ";;
+"a-35b_0";"Vultee Aircraft, Inc. | ▄A-35B Vengeance";;
+"a-35b_1";"▄A-35B Vengenace ";;
+"a-35b_2";"▄A-35B";;
+#
+"mb_175t_shop";"M.B.175T";;
+"mb_175t_0";"Société Nationale des Constructions Aéronautiques du Sud-Ouest (SNCASO) | M.B 175T";;
+"mb_175t_1";"M.B.175T";;
+"mb_175t_2";"M.B.175T";;
+#
+"nc_223_3_shop";"N.C.223.3";;
+"nc_223_3_0";"Societe Nationale de Constructions Aeronautiques du Center (SNCAC) | N.C.223.3";;
+"nc_223_3_1";"N.C.223.3";;
+"nc_223_3_2";"N.C.223.3";;
+#
+"leo_451_late_shop";"LeO 451 (1939)";;
+"leo_451_late_0";"Société Nationale des Constructions Aéronautiques du Sud-Estu Center (SNCASE) / Société Nationale des Constructions Aéronautiques de l'Ouest (SNCAO) | LeO 451 (1939)";;
+"leo_451_late_1";"LeO 451 (1939)";;
+"leo_451_late_2";"LeO 451 (1939)";;
+#
+"leo_451_early_shop";"LeO 451 (1937)";;
+"leo_451_early_0";"Société Nationale des Constructions Aéronautiques du Sud-Estu Center (SNCASE) / Société Nationale des Constructions Aéronautiques de l'Ouest (SNCAO) | LeO 451 (1937)";;
+"leo_451_early_1";"LeO 451 (1937)";;
+"leo_451_early_2";"LeO 451 (1937)";;
+#
+"fokker_g1a_shop";"◗Fokker G.IA";;
+"fokker_g1a_0";"N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | ◗G.IA Mercury";;
+"fokker_g1a_1";"◗Fokker G.IA";;
+"fokker_g1a_2";"◗Fokker G.IA";;
+#
+"mb_152c1_shop";"M.B.152C1";;
+"mb_152c1_0";"Société Nationale des Constructions Aéronautiques du Sud-Ouest (SNCASO) | M.B.152C1";;
+"mb_152c1_1";"M.B.152C1";;
+"mb_152c1_2";"M.B.152C1";;
+#
+"ms_405c1_shop";"M.S.405C1";;
+"ms_405c1_0";"Aéroplanes Morane-Saulnier | M.S.405C1";;
+"ms_405c1_1";"M.S.405C1";;
+"ms_405c1_2";"M.S.405C1";;
+#
+"ms_406c1_shop";"M.S.406C1";;
+"ms_406c1_0";"Aéroplanes Morane-Saulnier | M.S.406C1";;
+"ms_406c1_1";"M.S.406C1";;
+"ms_406c1_2";"M.S.406C1";;
+#
+"caudron_cr714_shop";"C.R.714";;
+"caudron_cr714_0";"Société des Avions Caudron | C.R.714";;
+"caudron_cr714_1";"C.R.714";;
+"caudron_cr714_2";"C.R.714";;
+#
+"d_371_shop";"D.371";;
+"d_371_0";"Constructions Aéronautiques Émile Dewoitine | D.371";;
+"d_371_1";"D.371";;
+"d_371_2";"D.371";;
+#
+"d_373_shop";"D.373";;
+"d_373_0";"Constructions Aéronautiques Émile Dewoitine | D.373";;
+"d_373_1";"D.373";;
+"d_373_2";"D.373";;
+#
+"h-75a-1_france_shop";"▄H-75A-1";;
+"h-75a-1_france_0";"Curtiss-Wright Corporation | ▄Hawk Model 75A-1";;
+"h-75a-1_france_1";"▄H-75A-1";;
+"h-75a-1_france_2";"▄H-75A-1";;
+#
+"h-75a-4_france_shop";"▄H-75A-4";;
+"h-75a-4_france_0";"Curtiss-Wright Corporation | ▄Hawk Model 75A-4";;
+"h-75a-4_france_1";"▄H-75A-4";;
+"h-75a-4_france_2";"▄H-75A-4";;
+#
+"br_693_ab2_shop";"Br.693AB2";;
+"br_693_ab2_0";"Société Nationale de Constructions Aéronautiques du Centre (SNCAC) | Br.693AB2";;
+"br_693_ab2_1";"Br.693AB2";;
+"br_693_ab2_2";"Br.693AB2";;
+#
+"v_156_f_shop";"▄V-156-F Vindicator";;
+"v_156_f_0";"Chance Vought Corporation | ▄V-156-F Vindicator";;
+"v_156_f_1";"▄V-156-F Vindicator";;
+"v_156_f_2";"▄V-156-F";;
+#
+"maryland_mk1_france_shop";"▄Martin 167-A3";;
+"maryland_mk1_france_0";"Glenn L. Martin Company | ▄Martin 167-A3";;
+"maryland_mk1_france_1";"▄Martin 167-A3";;
+"maryland_mk1_france_2";"▄Martin 167-A3";;
+#
+"mb_174_a3_shop";"M.B.174A-3";;
+"mb_174_a3_0";"Société des Avions Marcel Bloch | M.B.174A-3";;
+"mb_174_a3_1";"M.B.174A-3";;
+"mb_174_a3_2";"M.B.174A-3";;
+#
+"f_222_2_shop";"F.222.2";;
+"f_222_2_0";"Farman Aviation Works | F.222.2";;
+"f_222_2_1";"F.222.2";;
+"f_222_2_2";"F.222.2";;
+#
+"fokker_d21_netherlands_shop";"◗Fokker D.XXI-2";;
+"fokker_d21_netherlands_0";"N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | ◗D.XXI-2";;
+"fokker_d21_netherlands_1";"◗Fokker D.XXI-2";;
+"fokker_d21_netherlands_2";"◗Fokker D.XXI-2";;
+#
+"gladiator_mk1_belgium_shop";"▄Gladiator Mk.I";;
+"gladiator_mk1_belgium_0";"Gloster Aircraft Company | ▄Gladiator | Mk.I";;
+"gladiator_mk1_belgium_1";"▄Gladiator Mk.I";;
+"gladiator_mk1_belgium_2";"▄Gladiator Mk.I";;
+#
+"d_510_shop";"D.510 [Pallier]";;
+"d_510_0";"Constructions Aéronautiques Émile Dewoitine | Pallier's D.510";;
+"d_510_1";"D.510 [Pallier]";;
+"d_510_2";"D.510 [Pallier]";;
+#
+"mb_151c1_shop";"M.B.151C.1";;
+"mb_151c1_0";"Société Nationale des Constructions Aéronautiques du Sud-Ouest (SNCASO) | M.B.151C.1";;
+"mb_151c1_1";"M.B.151C.1";;
+"mb_151c1_2";"M.B.151C.1";;
+#
+"d_500_shop";"D.500";;
+"d_500_0";"Constructions Aéronautiques Émile Dewoitine | D.500";;
+"d_500_1";"D.500";;
+"d_500_2";"D.500";;
+#
+"d_501_shop";"D.501";;
+"d_501_0";"Constructions Aéronautiques Émile Dewoitine | D.501";;
+"d_501_1";"D.501";;
+"d_501_2";"D.501";;
+#
+"pby-5a_late_france_shop";"⚜PBY-5A Catalina (1941)";;
+"pby-5a_late_france_0";"Consolidated Aircraft Corporation | ⚜PBY-5A Catalina (1941)";;
+"pby-5a_late_france_1";"⚜PBY-5A Catalina (1941)";;
+"pby-5a_late_france_2";"⚜PBY-5A (1941)";;
+#
+"p-40f-5_france_ep_shop";"⚜P-40F-5 Lafayette";;
+"p-40f-5_france_ep_0";"Curtiss-Wright Corporation | ⚜P-40F-5 Lafayette | Block 5";;
+"p-40f-5_france_ep_1";"⚜P-40F-5 Lafayette";;
+"p-40f-5_france_ep_2";"⚜P-40F-5";;
+#
+"sbd-5_france_shop";"⚜SBD-5 Dauntless";;
+"sbd-5_france_0";"Curtiss-Wright Corporation | ⚜SBD-5 Dauntless";;
+"sbd-5_france_1";"⚜SBD-5 Dauntless";;
+"sbd-5_france_2";"⚜SBD-5";;
+#
+"f6f-5_france_shop";"⚜F6F-5 Hellcat";;
+"f6f-5_france_0";"Grumman Aircraft Engineering Corporation | ⚜F6F-5 Hellcat";;
+"f6f-5_france_1";"⚜F6F-5 Hellcat";;
+"f6f-5_france_2";"⚜F6F-5";;
+#
+"sb2c_5_france_shop";"⚜SB2C-5 Helldiver";;
+"sb2c_5_france_0";"Curtiss-Wright Corporation | ⚜SB2C-5 Helldiver | Block 5";;
+"sb2c_5_france_1";"⚜SB2C-5 Helldiver";;
+"sb2c_5_france_2";"⚜SB2C-5";;
+#
+"p-47d_22_re_france_shop";"⚜P-47D-22 Thunderbolt";;
+"p-47d_22_re_france_0";"Republic Aviation Corporation | ⚜P-47D-22 Thunderbolt | Block 22";;
+"p-47d_22_re_france_1";"⚜P-47D-22 Thunderbolt";;
+"p-47d_22_re_france_2";"⚜P-47D-22";;
+#
+"p-39q_25_france_shop";"⚜P-39Q-25 Airacobra";;
+"p-39q_25_france_0";"Bell Aircraft Corporation | ⚜P-39Q-25 Airacobra | Block 25";;
+"p-39q_25_france_1";"⚜P-39Q-25 Airacobra";;
+"p-39q_25_france_2";"⚜P-39Q-25";;
+#
+"p-51c-10_france_shop";"⚜F-6C-10 Mustang";;
+"p-51c-10_france_0";"North American Aviation | ⚜F-6C-10 Mustang | Block 10";;
+"p-51c-10_france_1";"⚜F-6C-10 Mustang";;
+"p-51c-10_france_2";"⚜F-6C-10";;
+#
+"p-63c-5_france_shop";"⚜P-63C-5 Kingcobra";;
+"p-63c-5_france_0";"Bell Aircraft Corporation | ⚜P-63C-5 Kingcobra | Block 5";;
+"p-63c-5_france_1";"⚜P-63C-5 Kingcobra";;
+"p-63c-5_france_2";"⚜P-63C-5";;
+#
+"b_26c_france_shop";"⚜B-26C Marauder";;
+"b_26c_france_0";"⚜Martin Company | B-26C Marauder";;
+"b_26c_france_1";"⚜B-26C Marauder";;
+"b_26c_france_2";"⚜B-26C";;
+#
+"pb4y-2_france_shop";"⚜PB4Y-2 Privateer";;
+"pb4y-2_france_0";"Consolidated Aircraft Corporation | ⚜PB4Y-2 Privateer";;
+"pb4y-2_france_1";"⚜PB4Y-2 Privateer";;
+"pb4y-2_france_2";"⚜PB4Y-2";;
+#
+"seafire_mk3_france_shop";"⚜Seafire Mk.III";;
+"seafire_mk3_france_0";"Supermarine Aviation Works | ⚜Seafire | Low-Altitude Fighter, Mk.III";;
+"seafire_mk3_france_1";"⚜Seafire Mk.III";;
+"seafire_mk3_france_2";"⚜Seafire Mk.III";;
+#
+"sea_fury_fb51_shop";"◘Sea Fury Mk.51";;
+"sea_fury_fb51_0";"Hawker Aircraft, Ltd. | ◘Sea Fury | Fighter-Bomber, Mk.51";;
+"sea_fury_fb51_1";"◘Sea Fury Mk.51";;
+"sea_fury_fb51_2";"◘Sea Fury Mk.51";;
+#
+"f4u-7_shop";"⚜F4U-7 Corsair";;
+"f4u-7_0";"Chance Vought Corporation | ⚜F4U-7 Corsair";;
+"f4u-7_1";"⚜F4U-7 Corsair";;
+"f4u-7_2";"⚜F4U-7";;
+#
+"spitfire_fr_mk14e_belgium_shop";"▄Spitfire Mk.XIVe";;
+"spitfire_fr_mk14e_belgium_0";"Supermarine Aviation Works | ▄Spitfire | Fighter/Reconnaissance, Mk.XIVe";;
+"spitfire_fr_mk14e_belgium_1";"▄Spitfire Mk.XIVe";;
+"spitfire_fr_mk14e_belgium_2";"▄Spitfire Mk.XIVe";;
+#
+"f6f-5n_france_shop";"⚜F6F-5N Hellcat";;
+"f6f-5n_france_0";"Grumman Aircraft Engineering Corporation | ⚜F6F-5N Hellcat";;
+"f6f-5n_france_1";"⚜F6F-5N Hellcat";;
+"f6f-5n_france_2";"⚜F6F-5N";;
+#
+"f8f1b_france_shop";"⚜F8F-1B Bearcat";;
+"f8f1b_france_0";"Grumman Aircraft Engineering Corporation | ⚜F8F-1B Bearcat";;
+"f8f1b_france_1";"⚜F8F-1B Bearcat";;
+"f8f1b_france_2";"⚜F8F-1B";;
+#
+"douglas_ad_4_france_shop";"⚜AD-4 Skyraider";;
+"douglas_ad_4_france_0";"Douglas Aircraft Company | ⚜AD-4 Skyraider";;
+"douglas_ad_4_france_1";"⚜AD-4 Skyraider";;
+"douglas_ad_4_france_2";"⚜AD-4";;
+#
+"douglas_ad_4na_france_shop";"⚜AD-4NA Skyraider";;
+"douglas_ad_4na_france_0";"Douglas Aircraft Company | ⚜AD-4NA Skyraider";;
+"douglas_ad_4na_france_1";"⚜AD-4NA SKyraider";;
+"douglas_ad_4na_france_2";"⚜AD-4NA";;
+#
+"meteor_fmk8_belgium_shop";"▄Meteor Mk.8";;
+"meteor_fmk8_belgium_0";"Gloster Aircraft Company, Ltd. | ▄Meteor | Fighter, Mk.8";;
+"meteor_fmk8_belgium_1";"▄Meteor Mk.8";;
+"meteor_fmk8_belgium_2";"▄Meteor Mk.8";;
+#
+"sea_hawk_fga50_netherlands_shop";"◘Sea Hawk Mk.50";;
+"sea_hawk_fga50_netherlands_0";"Hawker Aircraft, Ltd. | ◘Sea Hawk Mk.50";;
+"sea_hawk_fga50_netherlands_1";"◘Sea Hawk Mk.50";;
+"sea_hawk_fga50_netherlands_2";"◘Sea Hawk Mk.50";;
+#
+"so_4050_vautour_2n_shop";"Vautour IIN";;
+"so_4050_vautour_2n_0";"Société Nationale des Constructions Aéronautiques du Sud-Ouest (SNCASO) | S.O.4050 Vautour IIN";;
+"so_4050_vautour_2n_1";"Vautour IIN";;
+"so_4050_vautour_2n_2";"Vautour IIN";;
+#
+"so_4050_vautour_2n_late_shop";"Vautour IIN (1973)";;
+"so_4050_vautour_2n_late_0";"Société Nationale des Constructions Aéronautiques du Sud-Ouest (SNCASO) | S.O.4050 Vautour IIN (1973)";;
+"so_4050_vautour_2n_late_1";"Vautour IIN (1973)";;
+"so_4050_vautour_2n_late_2";"Vautour IIN (1973)";;
+#
+"md_452_mystere_2a_shop";"Mystère IIA";;
+"md_452_mystere_2a_0";"Société des Avions Marcel Dassault | M.D.452 Mystère IIA";;
+"md_452_mystere_2a_1";"Mystère IIA";;
+"md_452_mystere_2a_2";"Mystère IIA";;
+#
+"md_452_mystere_2c_preproduction_shop";"M.D.452 Mystère IIC (Preserie)";;
+"md_452_mystere_2c_preproduction_0";"Société des Avions Marcel Dassault | M.D.452 Mystère IIC (Preserie)";;
+"md_452_mystere_2c_preproduction_1";"M.D.452 Mystère IIC (Preserie)";;
+"md_452_mystere_2c_preproduction_2";"M.D.452 IIC";;
+#
+"md_454_mystere_4a_shop";"Mystère IVA";;
+"md_454_mystere_4a_0";"Société des Avions Marcel Dassault | M.D.454 Mystère IVA";;
+"md_454_mystere_4a_1";"Mystère IVA";;
+"md_454_mystere_4a_2";"Mystère IVA";;
+#
+"md_460_shop";"Super Mystère B2";;
+"md_460_0";"Société des Avions Marcel Dassault | M.D.460 Super Mystère B2";;
+"md_460_1";"Super Mystère B2";;
+"md_460_2";"Super Mystère B2";;
+#
+"md_460_yt_cup_2019_shop";"␙Super Mystère B2";;
+"md_460_yt_cup_2019_0";"Société des Avions Marcel Dassault | ␙M.D.460 Super Mystère B2";;
+"md_460_yt_cup_2019_1";"␙Super Mystère B2";;
+"md_460_yt_cup_2019_2";"␙Super Mystère B2";;
+#
+"f-86k_late_shop";"⚜F-86K Sabre";;
+"f-86k_late_0";"North American Aviation | ⚜F-86K Sabre";;
+"f-86k_late_1";"⚜F-86K Sabre";;
+"f-86k_late_2";"⚜F-86K";;
+#
+"alpha_jet_e_shop";"⚜Alpha Jet E";;
+"alpha_jet_e_0";"Dassault/Dornier | ⚜Alpha Jet E";;
+"alpha_jet_e_1";"⚜Alpha Jet E";;
+"alpha_jet_e_2";"⚜Alpha Jet E";;
+#
+"f-84g_france_shop";"⚜F-84G-26 Thunderjet";;
+"f-84g_france_0";"Republic Aviation Corporation | ⚜F-84G-26 Thunderjet | Block 26";;
+"f-84g_france_1";"⚜F-84G-26 Thunderjet";;
+"f-84g_france_2";"⚜F-84G-26";;
+#
+"f-84f_france_shop";"⚜F-84F Thunderstreak";;
+"f-84f_france_0";"Republic Aviation Corporation | ⚜F-84F Thunderstreak";;
+"f-84f_france_1";"⚜F-84F Thunderstreak";;
+"f-84f_france_2";"⚜F-84F";;
+#
+"f-100d_france_shop";"⚜F-100D Super Sabre";;
+"f-100d_france_0";"North American Aviation | ⚜F-100D Super Sabre";;
+"f-100d_france_1";"⚜F-100D Super Sabre";;
+"f-100d_france_2";"⚜F-100D";;
+#
+"so_4050_vautour_2a_shop";"Vautour IIA";;
+"so_4050_vautour_2a_0";"Société Nationale des Constructions Aéronautiques du Sud-Ouest (SNCASO) | S.O.4050 Vautour IIA";;
+"so_4050_vautour_2a_1";"Vautour IIA";;
+"so_4050_vautour_2a_2";"Vautour IIA";;
+#
+"so_4050_vautour_2a_iaf_shop";"Vautour IIA";;
+"so_4050_vautour_2a_iaf_0";"Société Nationale des Constructions Aéronautiques du Sud-Ouest (SNCASO) | S.O.4050 Vautour IIA";;
+"so_4050_vautour_2a_iaf_1";"Vautour IIA";;
+"so_4050_vautour_2a_iaf_2";"Vautour IIA";;
+#
+"so_4050_vautour_2b_shop";"Vautour IIB";;
+"so_4050_vautour_2b_0";"Société Nationale des Constructions Aéronautiques du Sud-Ouest (SNCASO) | S.O.4050 Vautour IIB";;
+"so_4050_vautour_2b_1";"Vautour IIB";;
+"so_4050_vautour_2b_2";"Vautour IIB";;
+#
+"hunter_f6_holland_shop";"◘Hunter Mk.6";;
+"hunter_f6_holland_0";"Hawker Aircraft, Ltd. | ◘Hunter | Fighter, Mk.6";;
+"hunter_f6_holland_1";"◘Hunter Mk.6";;
+"hunter_f6_holland_2";"◘Hunter Mk.6";;
+#
+"mirage_milan_shop";"Milan S 01";;
+"mirage_milan_0";"Société des Avions Marcel Dassault | Milan S 01";;
+"mirage_milan_1";"Milan S 01";;
+"mirage_milan_2";"Milan S 01";;
+#
+"etndard_4m_shop";"Etendard IV M";;
+"etndard_4m_0";"Société des Avions Marcel Dassault | Etendard IV M";;
+"etndard_4m_1";"Etendard IV M";;
+"etndard_4m_2";"Etendard IV M";;
+#
+"mirage_3c_shop";"Mirage III C";;
+"mirage_3c_0";"Société des Avions Marcel Dassault | Mirage III C";;
+"mirage_3c_1";"Mirage III C";;
+"mirage_3c_2";"Mirage III C";;
+#
+"mirage_3e_shop";"Mirage III E";;
+"mirage_3e_0";"Société des Avions Marcel Dassault | Mirage III E";;
+"mirage_3e_1";"Mirage III E";;
+"mirage_3e_2";"Mirage III E";;
+#
+"f-8e_fn_shop";"⚜F-8E(FN) Crusader II";;
+"f-8e_fn_0";"Chance Vought Corporation | ⚜F-8E(FN) Crusader II";;
+"f-8e_fn_1";"⚜F-8E(FN) Crusader II";;
+"f-8e_fn_2";"⚜F-8E(FN)";;
+#
+"mirage_5f_shop";"Mirage 5 F";;
+"mirage_5f_0";"Société des Avions Marcel Dassault | Mirage 5 F";;
+"mirage_5f_1";"Mirage 5 F";;
+"mirage_5f_2";"Mirage 5 F";;
+#
+"mirage_5ba_shop";"▄Mirage 5 BA";;
+"mirage_5ba_0";"Sociétés Anonyme Belge de Constructions Aéronautiques (SABCA) | ▄Mirage 5 BA";;
+"mirage_5ba_1";"▄Mirage 5 BA";;
+"mirage_5ba_2";"▄Mirage 5 BA";;
+#
+"super_etendard_97_shop";"Super Etendard Modernisé (1997)";;
+"super_etendard_97_0";"Société des Avions Marcel Dassault-Breguet | Super Etendard Modernisé (1997)";;
+"super_etendard_97_1";"Super Etendard Modernisé (1997)";;
+"super_etendard_97_2";"Super Etendard";;
+#
+"jaguar_a_shop";"⚜Jaguar A";;
+"jaguar_a_0";"Société Européenne de Production de l'avion Ecole de Combat et d'Appui Tactique (SEPECAT) | ⚜Jaguar A";;
+"jaguar_a_1";"⚜Jaguar A";;
+"jaguar_a_2";"⚜Jaguar A";;
+#
+"jaguar_e_shop";"⚜Jaguar E";;
+"jaguar_e_0";"Société Européenne de Production de l'avion Ecole de Combat et d'Appui Tactique (SEPECAT) | ⚜Jaguar E";;
+"jaguar_e_1";"⚜Jaguar E";;
+"jaguar_e_2";"⚜Jaguar E";;
+#
+"f-104g_belgium_shop";"▄F-104G Starfighter";;
+"f-104g_belgium_0";"Sociétés Anonyme Belge de Constructions Aéronautiques (SABCA) | ▄F-104G Starfighter";;
+"f-104g_belgium_1";"▄F-104G Starfighter";;
+"f-104g_belgium_2";"▄F-104G";;
+#
+"mirage_f1c_200_shop";"Mirage F1 C-200";;
+"mirage_f1c_200_0";"Société des Avions Marcel Dassault | Mirage F1 C-200";;
+"mirage_f1c_200_1";"Mirage F1 C-200";;
+"mirage_f1c_200_2";"Mirage F1 C-200";;
+#
+"mirage_f1c_shop";"Mirage F1 C";;
+"mirage_f1c_0";"Société des Avions Marcel Dassault | Mirage F1 C";;
+"mirage_f1c_1";"Mirage F1 C";;
+"mirage_f1c_2";"Mirage F1 C";;
+#
+"mirage_f1ct_shop";"Mirage F1 CT";;
+"mirage_f1ct_0";"Société des Avions Marcel Dassault | Mirage F1 CT";;
+"mirage_f1ct_1";"Mirage F1 CT";;
+"mirage_f1ct_2";"Mirage F1 CT";;
+#
+"mirage_2000c_s4_shop";"Mirage 2000 C-S4";;
+"mirage_2000c_s4_0";"Société des Avions Marcel Dassault | Mirage 2000 C-S4";;
+"mirage_2000c_s4_1";"Mirage 2000 C-S4";;
+"mirage_2000c_s4_2";"Mirage 2000 C-S4";;
+#
+"mirage_2000c_s5_shop";"Mirage 2000 C-S5";;
+"mirage_2000c_s5_0";"Société des Avions Marcel Dassault | Mirage 2000 C-S5";;
+"mirage_2000c_s5_1";"Mirage 2000 C-S5";;
+"mirage_2000c_s5_2";"Mirage 2000 C-S5";;
+#
+"f_16a_block_15_belgium_shop";"▄F-16A-15 Viper";;
+"f_16a_block_15_belgium_0";"Sociétés Anonyme Belge de Constructions Aéronautiques (SABCA) | ▄F-16A-15 Viper | Block 15";;
+"f_16a_block_15_belgium_1";"▄F-16A-15 Viper";;
+"f_16a_block_15_belgium_2";"▄F-16A-15";;
+#
+"f_16am_block_15_mlu_belgium_shop";"▄F-16AM-15 Viper";;
+"f_16am_block_15_mlu_belgium_0";"Sociétés Anonyme Belge de Constructions Aéronautiques (SABCA) | ▄F-16AM-15 Viper | Block 15 | Mid-Life Update (2000)";;
+"f_16am_block_15_mlu_belgium_1";"▄F-16AM-15 Viper";;
+"f_16am_block_15_mlu_belgium_2";"▄F-16AM-15";;
+#
+"mirage_2000_5f_shop";"Mirage 2000-5F";;
+"mirage_2000_5f_0";"Société des Avions Marcel Dassault | Mirage 2000-5F";;
+"mirage_2000_5f_1";"Mirage 2000-5F";;
+"mirage_2000_5f_2";"Mirage 2000-5F";;
+#
+"mirage_2000_5f_missile_test_shop";"Mirage 2000-5F";;
+"mirage_2000_5f_missile_test_0";"Dassault Aviation SA | Mirage 2000-5F";;
+"mirage_2000_5f_missile_test_1";"Mirage 2000-5F";;
+"mirage_2000_5f_missile_test_2";"Mirage 2000-5F";;
+#
+"mirage_2000d_r1_shop";"Mirage 2000 D-R1";;
+"mirage_2000d_r1_0";"Dassault Aviation SA | Mirage 2000 D-R1";;
+"mirage_2000d_r1_1";"Mirage 2000 D-R1";;
+"mirage_2000d_r1_2";"Mirage 2000 D-R1";;
+#
+"mirage_2000d_rmv_shop";"Mirage 2000 D-RMV";;
+"mirage_2000d_rmv_0";"Dassault Aviation SA | Mirage 2000 D Rénovation Mi-Vie";;
+"mirage_2000d_rmv_1";"Mirage 2000 D-RMV";;
+"mirage_2000d_rmv_2";"Mirage 2000 D-RMV";;
+#
+"mirage_4000_shop";"Mirage 4000";;
+"mirage_4000_0";"Société des Avions Marcel Dassault | Mirage 4000";;
+"mirage_4000_1";"Mirage 4000";;
+"mirage_4000_2";"Mirage 4000";;
+#
+"rafale_c_f3_shop";"Rafale C F3R";;
+"rafale_c_f3_0";"Dassault Aviation SA | Rafale Chasseur F3R";;
+"rafale_c_f3_1";"Rafale C F3R";;
+"rafale_c_f3_2";"Rafale C F3R";;
+#
+"nf_5a_netherlands_shop";"◘NF-5A Freedom Fighter";;
+"nf_5a_netherlands_0";"Canadair, Ltd. | ◘NF-5A Freedom Fighter";;
+"nf_5a_netherlands_1";"◘NF-5A Freedom Fighter";;
+"nf_5a_netherlands_2";"◘NF-5A";;
+#
+"f_16a_block_15_ocu_belgium_shop";"▄F-16A-15OCU Viper";;
+"f_16a_block_15_ocu_belgium_0";"Sociétés Anonyme Belge de Constructions Aéronautiques (SABCA) | ▄F-16A-15OCU Viper | Block 15 | Operational Capability Upgrade (1988)";;
+"f_16a_block_15_ocu_belgium_1";"▄F-16A-15OCU Viper";;
+"f_16a_block_15_ocu_belgium";"▄F-16A-15OCU";;
+#
+"fokker_d23_shop";"◗Fokker D.XXIII";;
+"fokker_d23_0";"N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker | ◗Fokker D.XXIII";;
+"fokker_d23_1";"◗Fokker D.XXIII";;
+"fokker_d23_2";"◗Fokker D.XXIII";;
+#
+tornado_ids_de_assta1_france_killstreak_shop;☢Tornado IDS (ASSTA 1.0);;
+tornado_ids_de_assta1_france_killstreak_0;Panavia Aircraft GmbH | ☢Tornado | Interdictor/Strike | Avionics System Software Tornado in Ada, Version 1.0;;
+tornado_ids_de_assta1_france_killstreak_1;☢Tornado IDS (ASSTA 1.0);;
+tornado_ids_de_assta1_france_killstreak_2;☢Tornado IDS (ASSTA 1.0);;
+#
+rafale_m_f3r_shop;Rafale M F3R;;
+rafale_m_f3r_0;Dassault Aviation SA | Rafale Marine F3R;;
+rafale_m_f3r_1;Rafale M F3R;;
+rafale_m_f3r_2;Rafale M F3R;;
+#
+f_16a_block_5_netherlands_shop;◘F-16A-5 Viper;;
+f_16a_block_5_netherlands_0;General Dynamics Corporation | ◘F-16A-5 Viper | Block 5;;
+f_16a_block_5_netherlands_1;◘F-16A-5 Viper;;
+f_16a_block_5_netherlands_2;◘F-16A-5;;
+#
+"shop/group/md_452_group";"M.D.452 Mystere II";;
+"shop/group/md_454_group";"Mystère/Super Mystère";;
+"shop/group/so_4050_vautour_group";"S.O.4050 Vautour II";;
+"shop/group/mirage_3_group";"Mirage III";;
+"shop/group/vg_33_group";"V.G.33C/D.520";;
+"shop/group/leo_451_group";"LeO 451";;
+"shop/group/potez_group";"Potez";;
+"shop/group/ms_405_406_group";"M.S.405/406";;
+"shop/group/h-75_france_group";"H-75";;
+"shop/group/d_500_group";"D.500";;
+"shop/group/maryland_group";"Martin 167/M.B.174A";;
+#
+#helicopters
+#RANK 7
+ah_64e_netherlands_shop;◘AH-64E Guardian Apache (v6);;
+ah_64e_netherlands_0;Boeing Defense, Space & Security | ◘Helicopter, Attack, AH-64E Guardian Apache | Capability Version 6;;
+ah_64e_netherlands_1;◘AH-64E Guardian Apache (v6);;
+ah_64e_netherlands_2;◘AH-64E (v6);;
+>>>>>>> 67a3f2363a2f4821cba17220f54e12e4546ba95a
