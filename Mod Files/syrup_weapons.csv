@@ -2144,25 +2144,25 @@ weapons/uk_pgm_500_iir/short;PGM-500/3 [500kg]
 weapons/uk_pgm_2000_iir;PGM-2000/3 Infrared-Guided Bomb [2000kg]
 weapons/uk_pgm_2000_iir/short;PGM-2000/3 [2000kg]
 #
-weapons/uk_250lbs_late;G.P. 250 lb Mk.IV bomb
-weapons/uk_500lbs_43;G.P. 500 lb Mk.IV bomb
+weapons/uk_250lbs_late;G.P. Mk.IV General-Purpose High-Explosive Bomb [250lbs.]
+weapons/uk_500lbs_43;G.P. Mk.IV General-Purpose High-Explosive Bomb [500lbs.]
 #
-weapons/uk_250lbs_mc_mk1_mk2_bomb;M.C. 250 lb Mk.I bomb
-weapons/uk_250lbs_mc_mk1_mk2_bomb/short;M.C. 250 lb
-weapons/uk_250lbs_mc_mk1_mk2_bomb_default;M.C. 250 lb Mk.I bomb
-weapons/uk_250lbs_mc_mk1_mk2_bomb_default/short;M.C. 250 lb
+weapons/uk_250lbs_mc_mk1_mk2_bomb;Bomb, Medium Capacity, Mk.I [250lbs.]
+weapons/uk_250lbs_mc_mk1_mk2_bomb/short;M.C. Mk.I [250lbs.]
+weapons/uk_250lbs_mc_mk1_mk2_bomb_default;Bomb, Medium Capacity, Mk.I [250lbs.]
+weapons/uk_250lbs_mc_mk1_mk2_bomb_default/short;M.C. Mk.I [250lbs.]
 #
-weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb;M.C. 500 lb Mk.I bomb
-weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb/short;M.C. 500 lb
+weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb;Bomb, Medium Capacity, Mk.I [500lbs.]
+weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb/short;M.C. Mk.I [500lbs.]
 #
-weapons/uk_1000lbs_mc_mk1_mk2_bomb;M.C. 1000 lb Mk.I bomb
-weapons/uk_1000lbs_mc_mk1_mk2_bomb/short;1000 lb
+weapons/uk_1000lbs_mc_mk1_mk2_bomb;Bomb, Medium Capacity, Mk.I [1,000lbs.]
+weapons/uk_1000lbs_mc_mk1_mk2_bomb/short;M.C. Mk.I [1,000lbs.]
 #
-weapons/uk_520lb_herl_mk_1_n;HERL 520 lb Mk.IN bomb
-weapons/uk_520lb_herl_mk_1_n/short;HERL 520 lb Mk.IN
+weapons/uk_520lb_herl_mk_1_n;Bomb, High Explosive, Royal Laboratories, Mk.IN [520lbs.]
+weapons/uk_520lb_herl_mk_1_n/short;HERL Mk.IN [520lbs.]
 #
-weapons/uk_1650lb_sn_he;1650 lb SNHE bomb
-weapons/uk_1650lb_sn_he/short;1650 lb SNHE
+weapons/uk_1650lb_sn_he;Bomb, Essen, High Explosive [1,650lbs.]
+weapons/uk_1650lb_sn_he/short;SNHE [1,650lbs.]
 #
 weapons/uk_250lbs/short;G.P. 250 lb
 weapons/uk_250lbs_43/short;G.P. 250 lb
