@@ -700,6 +700,11 @@ ef_2000_typhoon_aesa_0;Eurofighter Jagdflugzeug GmbH | ▄Typhoon | Fighter/Grou
 ef_2000_typhoon_aesa_1;▄Typhoon FGR.4 (ZK355);;
 ef_2000_typhoon_aesa_2;▄Typhoon FGR.4 (ZK355);;
 #
+fa_18f_block_2_raaf_shop;▄F/A-18F-2 Super Hornet;;
+fa_18f_block_2_raaf_0;Boeing Defense, Space & Security | ▄F/A-18F-2 Super Hornet | Block 2;;
+fa_18f_block_2_raaf_1;▄F/A-18F-2 Super Hornet;;
+fa_18f_block_2_raaf_2;▄F/A-18F-2;;
+#
 "shop/group/meteor3_group";"Meteor F.3";;
 "shop/group/meteor4_group";"Meteor F.4";;
 "shop/group/blenheim_group";"Blenheim/Beaufort";;
@@ -720,6 +725,7 @@ ef_2000_typhoon_aesa_2;▄Typhoon FGR.4 (ZK355);;
 "shop/group/seafire_group";"Seafire";;
 "shop/group/spitfire_griffon_group";"Spitfire F.22/24";;
 "shop/group/hawk_200_group";"Hawk 200/200 (RDA)";;
+shop/group/fa_18a_raaf_group;▄F/A-18A Hornet;;
 #
 #helicopters
 "ah_64e_britain_shop";"▄Apache AH.2";;

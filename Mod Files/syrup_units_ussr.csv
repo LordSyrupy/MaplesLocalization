@@ -256,167 +256,233 @@
 "bi_2";"BI-1"
 #
 "tu_4_shop";"Tu-4 Bull"
-"tu_4_0";"OKB-156 ""Tupolev"" | Tu-4 Bull"
+"tu_4_0";"OKB-156 ""Tupolev""
+Tu-4
+NATO Designation: Bull"
 "tu_4_1";"Tu-4 Bull"
 "tu_4_2";"Tu-4"
 #
 "tu_4_killstreak_shop";"☢Tu-4 Bull"
-"tu_4_killstreak_0";"☢OKB-156 ""Tupolev"" | Tu-4 Bull"
+"tu_4_killstreak_0";"OKB-156 ""Tupolev""
+☢Tu-4
+NATO Designation: Bull"
 "tu_4_killstreak_1";"☢Tu-4 Bull"
 "tu_4_killstreak_2";"☢Tu-4"
 #
 "tu_14t_shop";"Tu-14T Bosun"
-"tu_14t_0";"OKB-156 ""Tupolev"" | Tu-14T Bosun"
+"tu_14t_0";"OKB-156 ""Tupolev""
+Tu-14T
+NATO Designation: Bosun"
 "tu_14t_1";"Tu-14T Bosun"
 "tu_14t_2";"Tu-14T"
 #
 "su_27_shop";"Su-27S Flanker-B"
-"su_27_0";"OKB-51 ""Sukhoi"" | Su-27S Flanker-B"
+"su_27_0";"OKB-51 ""Sukhoi""
+Su-27S
+NATO Designation: Flanker-B"
 "su_27_1";"Su-27S Flanker-B"
 "su_27_2";"Su-27S"
 #
-"su_27sm_shop";"Su-27SM3 Flanker-J"
-"su_27sm_0";"PAO Kompaniya ""Sukhoi"" | Su-27SM3 Flanker-J"
-"su_27sm_1";"Su-27SM3 Flanker-J"
-"su_27sm_2";"Su-27SM3"
+"su_27sm_shop";"Su-27SM1 Flanker-J"
+"su_27sm_0";"PAO Kompaniya ""Sukhoi""
+Su-27SM1
+NATO Designation: Flanker-J"
+"su_27sm_1";"Su-27SM1 Flanker-J"
+"su_27sm_2";"Su-27SM1"
 #
 "su_30sm_shop";"Su-30SM Flanker-H"
-"su_30sm_0";"PAO Kompaniya ""Sukhoi"" | Su-30SM Flanker-H"
+"su_30sm_0";"PAO Kompaniya ""Sukhoi""
+Su-30SM
+NATO Designation: Flanker-H"
 "su_30sm_1";"Su-30SM Flanker-H"
 "su_30sm_2";"Su-30SM"
 #
 "su_33_shop";"Su-33 Flanker-D"
-"su_33_0";"PAO Kompaniya ""Sukhoi"" | Su-33 Flanker-D"
+"su_33_0";"PAO Kompaniya ""Sukhoi""
+Su-33
+NATO Designation: Flanker-D"
 "su_33_1";"Su-33 Flanker-D"
 "su_33_2";"Su-33"
 #
 "mig_23mld_shop";"MiG-23MLD Flogger-K"
-"mig_23mld_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-23MLD Flogger-K | Izdeliye 23-18"
+"mig_23mld_0";"OKB-155 ""A.I. Mikoyana""
+MiG-23MLD | Izdeliye 23-18
+NATO Designation: Flogger-K "
 "mig_23mld_1";"MiG-23MLD Flogger-K"
 "mig_23mld_2";"MiG-23MLD"
 #
 "mig_23ml_shop";"MiG-23MLA Flogger-G"
-"mig_23ml_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-23MLA Flogger-G | Izdeliye 23-12A"
+"mig_23ml_0";"OKB-155 ""A.I. Mikoyana""
+MiG-23MLA | Izdeliye 23-12A
+NATO Designation: Flogger-G "
 "mig_23ml_1";"MiG-23MLA Flogger-G"
 "mig_23ml_2";"MiG-23MLA"
 #
 "mig_29_9_13_shop";"MiG-29A Fulcrum-C"
-"mig_29_9_13_0";"OKB-155 ""Mikoyan"" | MiG-29A Fulcrum-C | Izdeliye 9-13"
+"mig_29_9_13_0";"OKB-155 ""A.I. Mikoyana""
+MiG-29A | Izdeliye 9-13
+NATO Designation: Fulcrum-C "
 "mig_29_9_13_1";"MiG-29A Fulcrum-C"
 "mig_29_9_13_2";"MiG-29A"
 #
 "mig_29smt_9_19_shop";"MiG-29SMT Fulcrum-E"
-"mig_29smt_9_19_0";"RSO Korporatsiya ""MiG"" | MiG-29SMT Fulcrum-E | Izdeliye 9-19"
+"mig_29smt_9_19_0";"RSO Korporatsiya ""MiG""
+MiG-29SMT | Izdeliye 9-19
+NATO Designation: Fulcrum-E "
 "mig_29smt_9_19_1";"MiG-29SMT Fulcrum-E"
 "mig_29smt_9_19_2";"MiG-29SMT"
 #
 "mig_29smt_9_19_missile_test_shop";"MiG-29SMT Fulcrum-E"
-"mig_29smt_9_19_missile_test_0";"RSO Korporatsiya ""MiG"" | MiG-29SMT Fulcrum-E| Izdeliye 9-19"
+"mig_29smt_9_19_missile_test_0";"RSO Korporatsiya ""MiG""
+MiG-29SMT | Izdeliye 9-19
+NATO Designation: Fulcrum-E"
 "mig_29smt_9_19_missile_test_1";"MiG-29SMT Fulcrum-E"
 "mig_29smt_9_19_missile_test_2";"MiG-29SMT"
 #
 "su_25_shop";"Su-25 Grach"
-"su_25_0";"OKB-51 ""Sukhoi"" | Su-25 Grach / Frogfoot"
+"su_25_0";"OKB-51 ""Sukhoi""
+Su-25 Grach
+NATO Designation: Frogfoot"
 "su_25_1";"Su-25 Grach"
 "su_25_2";"Su-25"
 #
 "su_25k_shop";"Su-25K Grach"
-"su_25k_0";"OKB-51 ""Sukhoi"" | Su-25K Grach / Frogfoot"
+"su_25k_0";"OKB-51 ""Sukhoi""
+Su-25K Grach
+NATO Designation: Frogfoot"
 "su_25k_1";"Su-25K Grach"
 "su_25k_2";"Su-25K"
 #
 "su_25t_shop";"Su-25T Grach"
-"su_25t_0";"OKB-51 ""Sukhoi"" | Su-25T Grach / Frogfoot"
+"su_25t_0";"OKB-51 ""Sukhoi""
+Su-25T Grach
+NATO Designation: Frogfoot"
 "su_25t_1";"Su-25T Grach"
 "su_25t_2";"Su-25T"
 #
 "su_25tm_shop";"Su-25TM Grach"
-"su_25tm_0";"PAO Kompaniya ""Sukhoi"" | Su-25TM Grach / Frogfoot"
+"su_25tm_0";"PAO Kompaniya ""Sukhoi""
+Su-25TM Grach
+NATO Designation: Frogfoot"
 "su_25tm_1";"Su-25TM Grach"
 "su_25tm_2";"Su-25TM"
 #
 "su_25_558arz_shop";"Su-25BM Grach"
-"su_25_558arz_0";"OAO 558 Aviaremontnyy Zavod | Su-25BM Grach / Frogfoot"
+"su_25_558arz_0";"OAO 558 Aviaremontnyy Zavod
+Su-25BM Grach
+NATO Designation: Frogfoot"
 "su_25_558arz_1";"Su-25BM Grach"
 "su_25_558arz_2";"Su-25BM"
 #
 "su_25sm3_shop";"Su-25SM3 Grach"
-"su_25sm3_0";"PAO Kompaniya ""Sukhoi"" | Su-25SM3 Grach / Frogfoot"
+"su_25sm3_0";"PAO Kompaniya ""Sukhoi""
+Su-25SM3 Grach
+NATO Designation: Frogfoot"
 "su_25sm3_1";"Su-25SM3 Grach"
 "su_25sm3_2";"Su-25SM3"
 #
 "mig_23m_shop";"MiG-23M Flogger-B"
-"mig_23m_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-23M Flogger-B | Izdeliye 23-11M"
+"mig_23m_0";"OKB-155 ""A.I. Mikoyana""
+MiG-23M | Izdeliye 23-11M
+NATO Designation: Flogger-B"
 "mig_23m_1";"MiG-23M Flogger-B"
 "mig_23m_2";"MiG-23M"
 #
 "mig-21_smt_shop";"MiG-21SMT Fishbed-K"
-"mig-21_smt_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-21SMT Fishbed-K | Izdeliye 50"
+"mig-21_smt_0";"OKB-155 ""A.I. Mikoyana""
+MiG-21SMT | Izdeliye 50
+NATO Designation: Fishbed-K "
 "mig-21_smt_1";"MiG-21SMT Fishbed-K"
 "mig-21_smt_2";"MiG-21SMT"
 #
 "mig-21_s_shop";"MiG-21SM Fishbed-J"
-"mig-21_s_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-21SM Fishbed-J | Izdeliye 95M"
+"mig-21_s_0";"OKB-155 ""A.I. Mikoyana""
+MiG-21SM | Izdeliye 95M
+NATO Designation: Fishbed-J"
 "mig-21_s_1";"MiG-21SM Fishbed-J"
 "mig-21_s_2";"MiG-21SM"
 #
 "mig-21_bis_shop";"MiG-21bis Fishbed-L"
-"mig-21_bis_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-21bis Fishbed-L | Izdeliye 75A"
+"mig-21_bis_0";"OKB-155 ""A.I. Mikoyana""
+MiG-21bis | Izdeliye 75A
+NATO Designation: Fishbed-L"
 "mig-21_bis_1";"MiG-21bis Fishbed-L"
 "mig-21_bis_2";"MiG-21bis"
 #
 "mig-21_pfm_shop";"MiG-21PFM Fishbed-D"
-"mig-21_pfm_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-21PFM Fishbed-D | Izdeliye 94"
+"mig-21_pfm_0";"OKB-155 ""A.I. Mikoyana""
+MiG-21PFM | Izdeliye 94
+NATO Designation: Fishbed-D"
 "mig-21_pfm_1";"MiG-21PFM Fishbed-D"
 "mig-21_pfm_2";"MiG-21PFM"
 #
 "su-7b_shop";"Su-7B Fitter-A"
-"su-7b_0";"OKB-51 ""Sukhoi"" | Su-7B Fitter-A"
+"su-7b_0";"OKB-51 ""Sukhoi""
+Su-7B
+NATO Designation: Fitter-A"
 "su-7b_1";"Su-7B Fitter-A"
 "su-7b_2";"Su-7B"
 #
 "su-7bkl_shop";"Su-7BKL Fitter-A"
-"su-7bkl_0";"OKB-51 ""Sukhoi"" | Su-7BKL Fitter-A"
+"su-7bkl_0";"OKB-51 ""Sukhoi""
+Su-7BKL
+NATO Designation: Fitter-A"
 "su-7bkl_1";"Su-7BKL Fitter-A"
 "su-7bkl_2";"Su-7BKL"
 #
 "su-7bmk_shop";"Su-7BMK Fitter-A"
-"su-7bmk_0";"OKB-51 ""Sukhoi"" | Su-7BMK Fitter-A"
+"su-7bmk_0";"OKB-51 ""Sukhoi""
+Su-7BMK
+NATO Designation: Fitter-A"
 "su-7bmk_1";"Su-7BMK Fitter-A"
 "su-7bmk_2";"Su-7BMK"
 #
 "su_17m2_shop";"Su-17M2 Fitter-D"
-"su_17m2_0";"OKB-51 ""Sukhoi"" | Su-17M2 Fitter-D"
+"su_17m2_0";"OKB-51 ""Sukhoi""
+Su-17M2
+NATO Designation: Fitter-D"
 "su_17m2_1";"Su-17M2 Fitter-D"
 "su_17m2_2";"Su-17M2"
 #
 "su_17m4_shop";"Su-17M4 Fitter-K"
-"su_17m4_0";"OKB-51 ""Sukhoi"" | Su-17M4 Fitter-K"
+"su_17m4_0";"OKB-51 ""Sukhoi""
+Su-17M4
+NATO Designation: Fitter-K"
 "su_17m4_1";"Su-17M4 Fitter-K"
 "su_17m4_2";"Su-17M4"
 #
 "su_22m3_shop";"Su-22M3 Fitter-G"
-"su_22m3_0";"OKB-51 ""Sukhoi"" | Su-22M3 Fitter-G"
+"su_22m3_0";"OKB-51 ""Sukhoi""
+Su-22M3
+NATO Designation: Fitter-G"
 "su_22m3_1";"Su-22M3 Fitter-G"
 "su_22m3_2";"Su-22M3"
 #
 "su_24m_shop";"Su-24M Fencer-D"
-"su_24m_0";"PAO Kompaniya ""Sukhoi"" | Su-24M Fencer-D"
+"su_24m_0";"PAO Kompaniya ""Sukhoi""
+Su-24M
+NATO Designation: Fencer-D"
 "su_24m_1";"Su-24M Fencer-D"
 "su_24m_2";"Su-24M"
 #
 "su_34_shop";"Su-34NVO Utenok"
-"su_34_0";"PAO Kompaniya ""Sukhoi"" | Su-34NVO Utenok / Fullback"
+"su_34_0";"PAO Kompaniya ""Sukhoi""
+Su-34NVO Utenok
+NATO Designation: Fullback"
 "su_34_1";"Su-34NVO Utenok"
 "su_34_2";"Su-34NVO"
 #
 "mig-19pt_shop";"MiG-19PT Farmer-B"
-"mig-19pt_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-19PT Farmer-B"
+"mig-19pt_0";"OKB-155
+MiG-19PT
+NATO Designation: Farmer-B"
 "mig-19pt_1";"MiG-19PT Farmer-B"
 "mig-19pt_2";"MiG-19PT"
 #
 "mig-21_f13_shop";"MiG-21F-13 Fishbed-C"
-"mig-21_f13_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-21F-13 Fishbed-C | Izdeliye 74"
+"mig-21_f13_0";"OKB-155
+MiG-21F-13 | Izdeliye 74
+NATO Designation: Fishbed-C "
 "mig-21_f13_1";"MiG-21F-13 Fishbed-C"
 "mig-21_f13_2";"MiG-21F-13"
 #
@@ -426,102 +492,141 @@
 "yak-30d_2";"Yak-30D"
 #
 "yak-38_shop";"Yak-38 Forger"
-"yak-38_0";"OKB-115 ""Yakovlev"" | Yak-38 Forger"
+"yak-38_0";"OKB-115 ""Yakovlev""
+Yak-38
+NATO Designation: Forger"
 "yak-38_1";"Yak-38 Forger"
 "yak-38_2";"Yak-38"
 #
 "yak-38m_shop";"Yak-38M Forger-A"
-"yak-38m_0";"OKB-115 ""Yakovlev"" | Yak-38M Forger-A"
+"yak-38m_0";"OKB-115 ""Yakovlev""
+Yak-38M
+NATO Designation: Forger-A"
 "yak-38m_1";"Yak-38M Forger-A"
 "yak-38m_2";"Yak-38M"
 #
 "yak-28b_shop";"Yak-28B Brewer-A"
-"yak-28b_0";"OKB-115 ""Yakovlev"" | Yak-28B Brewer-A"
+"yak-28b_0";"OKB-115 ""Yakovlev""
+Yak-28B
+NATO Designation: Brewer-A"
 "yak-28b_1";"Yak-28B Brewer-A"
 "yak-28b_2";"Yak-28B"
 #
 "yak_141_shop";"Yak-141 Freestyle"
-"yak_141_0";"OKB-115 ""Yakovlev"" | Yak-141 Freestyle"
+"yak_141_0";"OKB-115 ""Yakovlev""
+Yak-141
+NATO Designation: Freestyle"
 "yak_141_1";"Yak-141 Freestyle"
 "yak_141_2";"Yak-141"
 #
 "mig-17_shop";"MiG-17 Fresco-A"
-"mig-17_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-17 Fresco-A"
+"mig-17_0";"OKB-155
+MiG-17
+NATO Designation: Fresco-A"
 "mig-17_1";"MiG-17 Fresco-A"
 "mig-17_2";"MiG-17"
 #
 "mig-17_cuba_shop";"MiG-17AS Fresco-A"
-"mig-17_cuba_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-17AS Fresco-A"
+"mig-17_cuba_0";"OKB-155
+MiG-17AS
+NATO Designation: Fresco-A"
 "mig-17_cuba_1";"MiG-17AS Fresco-A"
 "mig-17_cuba_2";"MiG-17AS"
 #
 "mig-15_ns23_shop";"MiG-15 Fagot-A"
-"mig-15_ns23_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-15 Fagot-A"
+"mig-15_ns23_0";"OKB-155
+MiG-15
+NATO Designation: Fagot-A"
 "mig-15_ns23_1";"MiG-15 Fagot-A"
 "mig-15_ns23_2";"MiG-15"
 #
 "mig-15_shop";"MiG-15bis Fagot-B"
-"mig-15_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-15bis Fagot-B"
+"mig-15_0";"OKB-155
+MiG-15bis
+NATO Designation: Fagot-B"
 "mig-15_1";"MiG-15bis Fagot-B"
 "mig-15_2";"MiG-15bis"
 #
 "mig-15bis_ish_shop";"MiG-15ISh Fagot-B"
-"mig-15bis_ish_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-15ISh Fagot-B"
+"mig-15bis_ish_0";"OKB-155
+MiG-15ISh
+NATO Designation: Fagot-B"
 "mig-15bis_ish_1";"MiG-15ISh Fagot-B"
 "mig-15bis_ish_2";"MiG-15ISh"
 #
 "yak-23_shop";"Yak-23 Flora"
-"yak-23_0";"OKB-115 ""Yakovlev"" | Yak-23 Flora"
+"yak-23_0";"OKB-115 ""Yakovlev""
+Yak-23
+NATO Designation: Flora"
 "yak-23_1";"Yak-23 Flora"
 "yak-23_2";"Yak-23"
 #
 "yak-15_shop";"Yak-15 Feather"
-"yak-15_0";"OKB-115 ""Yakovlev"" | Yak-15 Feather"
+"yak-15_0";"OKB-115 ""Yakovlev""
+Yak-15
+NATO Designation: Feather"
 "yak-15_1";"Yak-15 Feather"
 "yak-15_2";"Yak-15"
 #
 "yak-15_early_shop";"Yak-15-RD10 Feather"
-"yak-15_early_0";"OKB-115 ""Yakovlev"" | Yak-15-RD10 Feather"
+"yak-15_early_0";"OKB-115 ""Yakovlev""
+Yak-15 | RD10 Engines
+NATO Designation: Feather"
 "yak-15_early_1";"Yak-15-RD10 Feather"
 "yak-15_early_2";"Yak-15-RD10"
 #
 "yak-17_shop";"Yak-17 Feather"
-"yak-17_0";"OKB-115 ""Yakovlev"" | Yak-17 Feather"
+"yak-17_0";"OKB-115 ""Yakovlev""
+Yak-17
+NATO Designation: Feather"
 "yak-17_1";"Yak-17 Feather"
 "yak-17_2";"Yak-17"
 #
 "mig-9_shop";"MiG-9 Fargo"
-"mig-9_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-9 Fargo"
+"mig-9_0";"OKB-155
+MiG-9
+NATO Designation: Fargo"
 "mig-9_1";"MiG-9 Fargo"
 "mig-9_2";"MiG-9"
 #
 "mig-9_ussr_shop";"MiG-9 Fargo (1948)"
-"mig-9_ussr_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-9 Fargo (1948)"
+"mig-9_ussr_0";"OKB-155
+MiG-9 | Obrazets 1948
+NATO Designation: Fargo"
 "mig-9_ussr_1";"MiG-9 Fargo (1948)"
 "mig-9_ussr_2";"MiG-9 (1948)"
 #
-"la_200_toriy_shop";"La-200 Toriy"
-"la_200_toriy_0";"OKB-301 ""Lavochkin"" | La-200 Toriy"
-"la_200_toriy_1";"La-200 Toriy"
+"la_200_toriy_shop";"La-200"
+"la_200_toriy_0";"OKB-301 ""Lavochkin""
+La-200"
+"la_200_toriy_1";"La-200"
 "la_200_toriy_2";"La-200"
 #
 "la-15_shop";"La-15 Fantail"
-"la-15_0";"OKB-301 ""Lavochkin"" | La-15 Fantail"
+"la-15_0";"OKB-301 ""Lavochkin""
+La-15
+NATO Designation: Fantail"
 "la-15_1";"La-15 Fantail"
 "la-15_2";"La-15"
 #
 "la_174_shop";"La-174 Fantail"
-"la_174_0";"OKB-301 ""Lavochkin"" | La-174 Fantail"
+"la_174_0";"OKB-301 ""Lavochkin""
+La-174
+NATO Designation: Fantail"
 "la_174_1";"La-174 Fantail"
 "la_174_2";"La-174"
 #
 "il_28_shop";"Il-28 Beagle-A"
-"il_28_0";"OKB-39 ""Ilyushin"" | Il-28 Beagle-A"
+"il_28_0";"OKB-39 ""Ilyushin""
+Il-28
+NATO Designation: Beagle-A"
 "il_28_1";"Il-28 Beagle-A"
 "il_28_2";"Il-28"
 #
 "il_28sh_shop";"Il-28Sh Beagle-B"
-"il_28sh_0";"OKB-39 ""Ilyushin"" | Il-28Sh Beagle-B"
+"il_28sh_0";"OKB-39 ""Ilyushin""
+Il-28Sh
+NATO Designation: Beagle-B"
 "il_28sh_1";"Il-28Sh Beagle-B"
 "il_28sh_2";"Il-28Sh"
 #
@@ -541,12 +646,16 @@
 "l_39za_2";"▂L-39ZA"
 #
 "mig_27m_shop";"MiG-27M Flogger-J"
-"mig_27m_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-27M Flogger-J"
+"mig_27m_0";"OKB-155 ""A.I. Mikoyana""
+MiG-27M
+NATO Designation: Flogger-J"
 "mig_27m_1";"MiG-27M Flogger-J"
 "mig_27m_2";"MiG-27M"
 #
 "mig_27k_shop";"MiG-27K Flogger-J2"
-"mig_27k_0";"OKB-155 ""Mikoyan i Gurevich"" | MiG-27K Flogger-J2"
+"mig_27k_0";"OKB-155 ""A.I. Mikoyana""
+MiG-27K
+NATO Designation: Flogger-J2"
 "mig_27k_1";"MiG-27K Flogger-J2"
 "mig_27k_2";"MiG-27K"
 #
@@ -851,24 +960,45 @@
 "pe-2-1_2";"Pe-2-1"
 #
 "su_30mk2v_venezuela_shop";"◡Su-30MK2 Flanker-G+"
-"su_30mk2v_venezuela_0";"PAO Kompaniya ""Sukhoi"" | ◡Su-30MK2 Flanker-G+"
+"su_30mk2v_venezuela_0";"<color=@linkTextHoverColorLight>PAO Kompaniya ""Sukhoi""</color>
+<color=@userlogColoredText>◡Su-30MK2</color>
+<color=@commonTextColor>NATO Designation</color>: Flanker-G+"
 "su_30mk2v_venezuela_1";"◡Su-30MK2 Flanker-G+"
 "su_30mk2v_venezuela_2";"◡Su-30MK2"
 #
 "yak_1_litvyak_shop";"Yak-1 [Litvyak]"
-"yak_1_litvyak_0";"OKB-115 | S. A. Yakovlev | Litvyak's Yak-1"
+"yak_1_litvyak_0";"OKB-115 S. A. Yakovlev
+Litvyak's Yak-1"
 "yak_1_litvyak_1";"Yak-1 [Litvyak]"
 "yak_1_litvyak_2";"Yak-1 [Litvyak]"
 #
 mig_25pd_shop;MiG-25PD Foxbat-E
-mig_25pd_0;"OKB-155 ""Mikoyan i Gurevich"" | MiG-25PD Foxbat-E"
+mig_25pd_0;"<color=@linkTextHoverColorLight>OKB-155 ""A.I. Mikoyana""</color>
+<color=@userlogColoredText>MiG-25PD</color>
+<color=@commonTextColor>NATO Designation</color>: Foxbat-E"
 mig_25pd_1;MiG-25PD Foxbat-E
 mig_25pd_2;MiG-25PD
 #
 su_30sm2_shop;Su-30SM2 Flanker-H
-su_30sm2_0;"PAO Kompaniya ""Sukhoi"" | Su-30SM2 Flanker-H"
+su_30sm2_0;"<color=@linkTextHoverColorLight>PAO Kompaniya ""Sukhoi""</color>
+<color=@userlogColoredText>Su-30SM2</color>
+<color=@commonTextColor>NATO Designation</color>: Flanker-H"
 su_30sm2_1;Su-30SM2 Flanker-H
 su_30sm2_2;Su-30SM2
+#
+mig_29_9_12_shop;MiG-29 Fulcrum-A
+mig_29_9_12_0;"<color=@linkTextHoverColorLight>OKB-155 ""A.I. Mikoyana""</color>
+<color=@userlogColoredText>MiG-29</color> | Izdeliye 9-12
+<color=@commonTextColor>NATO Designation</color>: Fulcrum-A"
+mig_29_9_12_1;MiG-29 Fulcrum-A
+mig_29_9_12_2;MiG-29
+#
+mig_29m_9_15_shop;MiG-29M Fulcrum-E
+mig_29m_9_15_0;"<color=@linkTextHoverColorLight>RSO Korporatsiya ""MiG""</color>
+<color=@userlogColoredText>MiG-29M</color> | Izdeliye 9-15
+<color=@commonTextColor>NATO Designation</color>: Fulcrum-E"
+mig_29m_9_15_1;MiG-29M Fulcrum-E
+mig_29m_9_15_2;MiG-29M
 #
 "shop/group/ar_group";"Ar-2/SB-2"
 "shop/group/db_3_group";"DB-3B/Il-4 Bob"

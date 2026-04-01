@@ -343,14 +343,14 @@
 "f-5e_aidc_1";"☀F-5E Chung Cheng";;
 "f-5e_aidc_2";"☀F-5E";;
 #
-"j_8b_shop";"J-8B Finback";;
-"j_8b_0";"Shenyang Aircraft Corporation | J-8B Finback";;
-"j_8b_1";"J-8B Finback";;
+"j_8b_shop";"J-8B Finback-B";;
+"j_8b_0";"Shenyang Aircraft Corporation | J-8B Finback-B";;
+"j_8b_1";"J-8B Finback-B";;
 "j_8b_2";"J-8B";;
 #
-"j_8f_shop";"J-8F Finback";;
-"j_8f_0";"Shenyang Aircraft Corporation | J-8F Finback";;
-"j_8f_1";"J-8F Finback";;
+"j_8f_shop";"J-8F Finback-D";;
+"j_8f_0";"Shenyang Aircraft Corporation | J-8F Finback-D";;
+"j_8f_1";"J-8F Finback-D";;
 "j_8f_2";"J-8F";;
 #
 "j_8f_missile_test_shop";"J-8F Finback";;
@@ -414,15 +414,20 @@
 "jh_7a_prototype_1";"JH-7A Fēi Bào (811)";;
 "jh_7a_prototype_2";"JH-7A (811)";;
 #
-j_10c_shop;J-10C Měnglóng;;
-j_10c_0;Chengdu Aircraft Corporation (CAC) | J-10C Měnglóng (Vigorous Dragon) / Firebird;;
-j_10c_1;J-10C Měnglóng;;
-j_10c_2;J-10C;;
+j_10c_shop;J-10CE Měnglóng;;
+j_10c_0;Chengdu Aircraft Corporation (CAC) | J-10CE Měnglóng (Vigorous Dragon) / Firebird;;
+j_10c_1;J-10CE Měnglóng;;
+j_10c_2;J-10CE;;
 #
 su_30mkk_shop;␗Su-30MKK Flanker-G;;
 su_30mkk_0;"PAO Kompaniya ""Sukhoi"" | ␗Su-30MKK Flanker-G";;
 su_30mkk_1;␗Su-30MKK Flanker-G;;
 su_30mkk_2;␗Su-30MKK;;
+#
+j_15t_shop;␗J-15T Feisha;;
+j_15t_0;Shenyang Aircraft Corporation | ␗J-15T Feisha (Flying Shark) / Flanker-X2;;
+j_15t_1;␗J-15T Feisha;;
+j_15t_2;␗J-15T;;
 #
 "shop/group/ki_27_group";"☀Ki 27/Ki 43";;
 "shop/group/i-16_china_group";"Zhōng 28/☀E-16";;
