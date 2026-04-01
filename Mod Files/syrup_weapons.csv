@@ -1066,6 +1066,11 @@ weapons/us_aim92_stinger_left/short;AIM-92 ATAS
 weapons/us_aim92_stinger_right;AIM-92 Air-To-Air Stinger Air-to-Air Missile
 weapons/us_aim92_stinger_right/short;AIM-92 ATAS
 #
+weapons/us_aim_120d;AIM-120D Advanced Medium-Range Air-to-Air Missile
+weapons/us_aim_120d/short;AIM-120D AMRAAM
+weapons/us_aim_120d_default;AIM-120D Advanced Medium-Range Air-to-Air Missile
+weapons/us_aim_120d_default/short;AIM-120D AMRAAM
+#
 #Missiles, Ger
 "weapons/us_aim9b_fgw_2_sidewinder";"AIM-9F Sidewinder Air-to-Air Missile"
 "weapons/us_aim9b_fgw_2_sidewinder/short";"AIM-9F Sidewinder"
@@ -1098,6 +1103,9 @@ weapons/us_aim92_stinger_right/short;AIM-92 ATAS
 #
 "weapons/us_aim_120c_5_default_switzerland";"Flugzeug Lenkwaffe Luft-Luft 97 AMRAAM 120 C-5 Air-to-Air Missile"
 "weapons/us_aim_120c_5_default_switzerland/short";"Flz Lwf LL 97 AMRAAM 120 C-5"
+#
+weapons/us_agm_84h_slam_er;AGM-84H Standoff Land Attack Missile (Extended Response) Air-to-Ground Missile
+weapons/us_agm_84h_slam_er/short;AGM-84H SLAM-ER
 #
 "weapons/sws_flz_lwf_lb_82";"Flugzeug Lenkwaffe Luft-Boden 82 Air-to-Ground Missile"
 "weapons/sws_flz_lwf_lb_82/short";"Flz Lwf LB 82"
@@ -1491,6 +1499,12 @@ weapons/cn_pl8b;PL-8B Air-to-Air Missile
 weapons/cn_pl8b/short;PL-8B
 weapons/cn_pl8b_default;PL-8B Air-to-Air Missile
 weapons/cn_pl8b_default/short;PL-8B
+#
+weapons/cn_pl12a;PL-12AE Adze-A Air-to-Air Missile
+weapons/cn_pl12a/short;PL-12AE Adze-A
+weapons/cn_pl12a_default;PL-12AE Adze-A Air-to-Air Missile
+weapons/cn_pl12a_default/short;PL-12AE Adze-A
+#
 #Missiles, IT
 "weapons/it_aspide_1a";"Aspide-1A Air-to-Air Missile"
 "weapons/it_aspide_1a/short";"Aspide-1A"
@@ -1808,6 +1822,9 @@ weapons/il_derby_default/short;Derby
 "weapons/us_750lb_mk77_mod0";"Mark 77 Mod 0 Incendiary Napalm Bomb (750lb.)"
 "weapons/us_750lb_mk77_mod0/short";"Mk77 INC (750lb.)"
 #
+weapons/us_agm_154a1_jsow;AGM-154A-1 Joint Standoff Weapon GPS-Guided Bomb [1,000lbs.]
+weapons/us_agm_154a1_jsow/short;AGM-154A-1 JSOW [1.000lbs.]
+#
 #Bombs, GER
 "weapons/de_sc50";"Sprengbombe Cylindrisch 50 JA High-Explosive Bomb [50kg]"
 "weapons/de_sc50/short";"SC 50 JA [50kg]"
@@ -1952,7 +1969,7 @@ weapons/su_fab_500m_46;FAB-500 High-Explosive Bomb - Model 1946 [500kg]
 weapons/su_fab_500m_46/short;FAB-500M-46 [500kg]
 #
 weapons/su_fab1000;FAB-1000 High-Explosive Bomb [1000kg]
-weapons/su_fab1000/short;FAB-1000
+weapons/su_fab1000/short;FAB-1000 [1000kg]
 #
 weapons/su_fab250;FAB-250SV High-Explosive Bomb [250kg]
 weapons/su_fab250/short;FAB-250SV [250kg]
@@ -2144,81 +2161,130 @@ weapons/uk_pgm_500_iir/short;PGM-500/3 [500kg]
 weapons/uk_pgm_2000_iir;PGM-2000/3 Infrared-Guided Bomb [2000kg]
 weapons/uk_pgm_2000_iir/short;PGM-2000/3 [2000kg]
 #
-weapons/uk_250lbs_late;G.P. Mk.IV General-Purpose High-Explosive Bomb [250lbs.]
-weapons/uk_500lbs_43;G.P. Mk.IV General-Purpose High-Explosive Bomb [500lbs.]
+weapons/uk_250lbs_late;Bomb, General Purpose, 250lb. Mk.IV
+weapons/uk_500lbs_43;Bomb, General Purpose, 250lb. Mk.IV
 #
-weapons/uk_250lbs_mc_mk1_mk2_bomb;Bomb, Medium Capacity, Mk.I [250lbs.]
-weapons/uk_250lbs_mc_mk1_mk2_bomb/short;M.C. Mk.I [250lbs.]
-weapons/uk_250lbs_mc_mk1_mk2_bomb_default;Bomb, Medium Capacity, Mk.I [250lbs.]
-weapons/uk_250lbs_mc_mk1_mk2_bomb_default/short;M.C. Mk.I [250lbs.]
+weapons/uk_250lbs_mc_mk1_mk2_bomb;Bomb, Medium Capacity, 250lb. Mk.I
+weapons/uk_250lbs_mc_mk1_mk2_bomb/short;M.C. 250lb. Mk.I
+weapons/uk_250lbs_mc_mk1_mk2_bomb_default;Bomb, Medium Capacity, 250lb. Mk.I
+weapons/uk_250lbs_mc_mk1_mk2_bomb_default/short;M.C. 250lb. Mk.I
 #
-weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb;Bomb, Medium Capacity, Mk.I [500lbs.]
-weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb/short;M.C. Mk.I [500lbs.]
+weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb;Bomb, Medium Capacity, 500lb. Mk.I
+weapons/uk_500lb_mc_mk1_mk4_long_tail_bomb/short;M.C. 500lb. Mk.I
 #
-weapons/uk_1000lbs_mc_mk1_mk2_bomb;Bomb, Medium Capacity, Mk.I [1,000lbs.]
-weapons/uk_1000lbs_mc_mk1_mk2_bomb/short;M.C. Mk.I [1,000lbs.]
+weapons/uk_1000lbs_mc_mk1_mk2_bomb;Bomb, Medium Capacity, 1,000lb. Mk.I
+weapons/uk_1000lbs_mc_mk1_mk2_bomb/short;M.C. 1,000lb. Mk.I
 #
-weapons/uk_520lb_herl_mk_1_n;Bomb, High Explosive, Royal Laboratories, Mk.IN [520lbs.]
-weapons/uk_520lb_herl_mk_1_n/short;HERL Mk.IN [520lbs.]
+weapons/uk_520lb_herl_mk_1_n;Bomb, High Explosive, Royal Laboratories, 520lb. Mk.IN
+weapons/uk_520lb_herl_mk_1_n/short;HERL 520lb. Mk.IN
 #
-weapons/uk_1650lb_sn_he;Bomb, Essen, High Explosive [1,650lbs.]
-weapons/uk_1650lb_sn_he/short;SNHE [1,650lbs.]
+weapons/uk_1650lb_sn_he;Bomb, Essen, High Explosive, 1,650lb. 
+weapons/uk_1650lb_sn_he/short;SNHE 1,650lb.
 #
-weapons/uk_250lbs/short;G.P. 250 lb
-weapons/uk_250lbs_43/short;G.P. 250 lb
-weapons/uk_250lbs_late/short;G.P. 250 lb
+weapons/uk_250lbs/short;G.P. 250lb. Mk.IV
+weapons/uk_250lbs_43/short;G.P. 250lb. Mk.IV
+weapons/uk_250lbs_late/short;G.P. 250lb. Mk.IV
 #
-weapons/uk_500lbs/short;G.P. 500 lb
-weapons/uk_500lbs_43/short;G.P. 500 lb
+weapons/uk_500lbs/short;G.P. 500lb. Mk.IV
+weapons/uk_500lbs_43/short;G.P. 500lb. Mk.IV
 #
-weapons/uk_1000lbs_gp/short;G.P. 1000 lb
-weapons/uk_1000lbs_gp_mk1/short;G.P. 1000 lb
-weapons/uk_1000lbs_mc_mk1/short;M.C. 1000 lb
+weapons/uk_1000lbs_gp/short;G.P. 1,000lb. Mk.II
+weapons/uk_1000lbs_gp_mk1/short;G.P. 1,000lb. Mk.II
+weapons/uk_1000lbs_mc_mk1/short;M.C. 1,000lb. Mk.I
 #
-weapons/uk_mk2_cookie/short;H.C. 4000 lb
+weapons/uk_mk2_cookie;Bomb, High Capacity, 4,000lb. Mk.II
+weapons/uk_mk2_cookie/short;H.C. 4,000lb. Mk.II
 #
-weapons/uk_12000lb_hc_mkI_n52_bomb;12000 lb H.C Mk.I bomb
-weapons/uk_12000lb_hc_mkI_n52_bomb/short;H.C. 12000 lb
+weapons/uk_12000lb_hc_mkI_n52_bomb;"Bomb, High Capacity, 12,000lb. Mk.I ""Blockbuster"""
+weapons/uk_12000lb_hc_mkI_n52_bomb/short;H.C. 12,000lb. Mk.I
 #
-weapons/uk_12000lb_hc_mkI_n33_bomb;12000 lb H.C Mk.I bomb
-weapons/uk_12000lb_hc_mkI_n33_bomb/short;H.C. 12000 lb
+weapons/uk_12000lb_hc_mkI_n33_bomb;"Bomb, High Capacity, 12,000lb. Mk.I ""Blockbuster"""
+weapons/uk_12000lb_hc_mkI_n33_bomb/short;H.C. 12,000lb. Mk.I
 #
-weapons/uk_8000lb_hc_mkI_n52_bomb;8000 lb H.C. Mk.II bomb
-weapons/uk_8000lb_hc_mkI_n52_bomb/short;H.C. 8000 lb
+weapons/uk_8000lb_hc_mkI_n52_bomb;"Bomb, High Capacity, 8,000lb. Mk.II ""Blockbuster"""
+weapons/uk_8000lb_hc_mkI_n52_bomb/short;H.C. 8,000lb. Mk.II
 #
-weapons/uk_8000lb_hc_mkI_n33_bomb;8000 lb H.C. Mk.II bomb
-weapons/uk_8000lb_hc_mkI_n33_bomb/short;H.C. 8000 lb
+weapons/uk_8000lb_hc_mkI_n33_bomb;"Bomb, High Capacity, 8,000lb. Mk.II ""Blockbuster"""
+weapons/uk_8000lb_hc_mkI_n33_bomb/short;H.C. 8,000lb. Mk.II
 #
-weapons/uk_4000lb_mc_mk1_mk2_bomb;4000 lb H.C. Mk.II bomb
-weapons/uk_4000lb_mc_mk1_mk2_bomb/short;H.C. 4000 lb
+weapons/uk_4000lb_mc_mk1_mk2_bomb;Bomb, Medium Capacity, 4,000lb. Mk.II
+weapons/uk_4000lb_mc_mk1_mk2_bomb/short;M.C. 4,000lb. Mk.II
 #
-weapons/uk_4000lb_hc_mk4_bomb;4000 lb H.C. Mk.IV bomb
-weapons/uk_4000lb_hc_mk4_bomb/short;H.C. 4000 lb
+weapons/uk_4000lb_hc_mk4_bomb;"Bomb, High Capacity, 4,000lb. Mk.IV ""Blockbuster"""
+weapons/uk_4000lb_hc_mk4_bomb/short;H.C. 4,000lb. Mk.IV
 #
-weapons/uk_4000lb_hc_mk3_bomb;4000 lb H.C. Mk.III bomb
-weapons/uk_4000lb_hc_mk3_bomb/short;H.C. 4000 lb
+weapons/uk_4000lb_hc_mk3_bomb;"Bomb, High Capacity, 4,000lb. Mk.III ""Blockbuster"""
+weapons/uk_4000lb_hc_mk3_bomb/short;H.C. 4,000lb. Mk.III
 #
-weapons/uk_4000lb_hc_mk2_bomb;4000 lb H.C. Mk.II bomb
-weapons/uk_4000lb_hc_mk2_bomb/short;H.C. 4000 lb
+weapons/uk_4000lb_hc_mk2_bomb;"Bomb, High Capacity, 4,000lb. Mk.II ""Blockbuster"""
+weapons/uk_4000lb_hc_mk2_bomb/short;H.C. 4,000lb. Mk.II
 #
-weapons/uk_4000lb_hc_mk1_bomb;4000 lb H.C. Mk.I bomb
-weapons/uk_4000lb_hc_mk1_bomb/short;H.C. 4000 lb
+weapons/uk_4000lb_hc_mk1_bomb;"Bomb, High Capacity, 4,000lb. Mk.I ""Blockbuster"""
+weapons/uk_4000lb_hc_mk1_bomb/short;H.C. 4,000lb. Mk.I
 #
-weapons/uk_4000lb_gp_mk1_mk2_bomb;4000 lb H.C. Mk.II bomb
-weapons/uk_4000lb_gp_mk1_mk2_bomb/short;H.C. 4000 lb
+weapons/uk_4000lb_gp_mk1_mk2_bomb;Bomb, General Purpose, 4,000lb. Mk.II
+weapons/uk_4000lb_gp_mk1_mk2_bomb/short;G.P. 4,000lb Mk.II
 #
-weapons/uk_250lbs/short;G.P. 250 lb
-weapons/uk_250lbs_43/short;G.P. 250 lb
-weapons/uk_250lbs_late/short;G.P. 250 lb
+weapons/uk_250lbs/short;G.P. 250lb. Mk.I
+weapons/uk_250lbs_43/short;G.P. 250lb. Mk.I
+weapons/uk_250lbs_late/short;G.P. 250lb. Mk.I
 #
-weapons/uk_500lbs/short;G.P. 500 lb
-weapons/uk_500lbs_43/short;G.P. 500 lb
+weapons/uk_500lbs/short;G.P. 500lb. Mk.I
+weapons/uk_500lbs_43/short;G.P. 500lb. Mk.I
 #
-weapons/uk_1000lbs_gp/short;G.P. 1000 lb
-weapons/uk_1000lbs_gp_mk1/short;G.P. 1000 lb
-weapons/uk_1000lbs_mc_mk1/short;M.C. 1000 lb
+weapons/uk_1000lbs_gp/short;G.P. 1,000lb. Mk.I
+weapons/uk_1000lbs_gp_mk1/short;G.P. 1,000lb. Mk.I
+weapons/uk_1000lbs_mc_mk1/short;M.C. 1,000lb. Mk.I
 #
-weapons/uk_mk2_cookie/short;H.C. 4000 lb
+weapons/uk_mk2_cookie/short;H.C. 4,000lb. Mk.II
+#
+weapons/uk_230lbs;Bomb, High Explosive, Royal Flying Corps, 230lb. Mk.III
+weapons/uk_230lbs/short;H.E. R.F.C. 230lb. Mk.III
+#
+weapons/uk_250lbs;Bomb, General Purpose, 250lb. Mk.IV
+weapons/uk_250lbs_43;Bomb, General Purpose, 250lb. Mk.IV
+#
+weapons/uk_500lbs;Bomb, General Purpose, 500lb. Mk.IV
+weapons/uk_500lbs_default;Bomb, General Purpose, 500lb. Mk.IV
+weapons/uk_500lbs_default/short;G.P. 500lb. Mk.IV
+#
+weapons/uk_500lb_as_mk4;Bomb, Anti-Submarine, 500lb. MK.IV
+weapons/uk_500lb_as_mk4/short;A.S. 500lb. Mk.IV
+#
+weapons/uk_540lbs;Bomb, High Explosive, Medium Capacity, 540lb. Mk.M2
+weapons/uk_540lbs/short;H.E. M.C. 540lb. Mk.M2
+#
+weapons/uk_540lb_mc_mk2_retarded;Bomb, High Explosive, Medium Capacity, 540lb. Mk.M2 (N°118 Air-Retarded Tailfin)
+weapons/uk_540lb_mc_mk2_retarded/short;H.E. M.C. 540lb. Mk.M2 (N°118)
+#
+weapons/uk_250lbs_default;Bomb, General Purpose, 250lb. Mk.IV
+weapons/uk_250lbs_default/short;G.P. 250lb. Mk.IV
+#
+weapons/uk_500lbs_43_default;Bomb, General Purpose, 500lb. Mk.IV
+weapons/uk_500lbs_43_default/short;G.P. 500lb. Mk.IV
+#
+weapons/uk_500lb_sap_mkII_ap;Bomb, Semi-Armour Piercing, 500lb. Mk.II
+weapons/uk_500lb_sap_mkII_ap/short;S.A.P. 500lb. Mk.II
+#
+weapons/uk_2000lb_ap_mkI;Bomb, Armour Piercing, 2,000lb. Mk.I
+weapons/uk_2000lb_ap_mkI/short;A.P. 2,000lb. Mk.I
+#
+weapons/uk_1000lb_ld_he_mc_mk_1;Bomb, Low-Drag, High-Explosive, Medium Capacity, 1,000lb. Mk.1
+weapons/uk_1000lb_ld_he_mc_mk_1/short;L.D. H.E. M.C. 1,000lb. Mk.1
+#
+weapons/uk_1000lbs_gp;Bomb, High Explosive, Medium Capacity, 1,000lb. Mk.13
+weapons/uk_1000lbs_gp_mk1;Bomb, General Purpose, 1,000lb. Mk.I
+#
+weapons/uk_1000lbs_gp_default;Bomb, General Purpose, 1,000lb. Mk.I
+weapons/uk_1000lbs_gp_default/short;G.P. 1,000lb. Mk.I
+#
+weapons/uk_1000lbs_gp_n117;Bomb, High-Explosive, Medium Capacity, 1,000lb. Mk.13 (N°117 High-Drag Retarded Tailfin)
+weapons/uk_1000lbs_gp_n117/short;H.E. M.C. 1,000lb. Mk.13 [N°117]
+#
+weapons/uk_1000lbs_mc_mk1;M.C. 1,000lb. Mk.I
+#
+weapons/uk_500lb_he_mc_mk2;Bomb, High-Explosive, Medium Capacity, 500lb. Mk.II
+weapons/uk_500lb_he_mc_mk2/short;H.E. M.C. 500lb. Mk.II
 #
 #Bombs, JP
 "weapons/us_750lb_m117_cone_45_japan";"JM117 Low-Drag Demolition Bomb - Cone 45 (750lb.)"
@@ -2377,21 +2443,21 @@ weapons/su_s_8kom_rocket;S-8KOM 80mm High-Explosive Rocket
 #
 #Rocket, GB
 #
-weapons/uk_2_inch_rocket;RP rockets
-weapons/uk_2_inch_rocket/short;RP
-weapons/uk_2_inch_rocket_expo;RP rockets
-weapons/uk_2_inch_rocket_expo/short;RP
+weapons/uk_2_inch_rocket;RP-2 2in High-Explosive Rocket
+weapons/uk_2_inch_rocket/short;RP-2 [HE]
+weapons/uk_2_inch_rocket_expo;RP-2 2in High-Explosive Rocket
+weapons/uk_2_inch_rocket_expo/short;RP-2 [HE]
 #
-weapons/uk_180lb_triplex;Triplex R.P. rockets
-weapons/uk_180lb_triplex/short;Triplex R.P.
+weapons/uk_180lb_triplex;Triplex RP 7.2in High-Explosive Rocket
+weapons/uk_180lb_triplex/short;Triplex RP [HE]
 #
-weapons/uk_uncle_tom_a;Uncle Tom rockets
-weapons/uk_uncle_tom_a/short;Uncle Tom
-weapons/uk_uncle_tom_b;Uncle Tom rockets
-weapons/uk_uncle_tom_b/short;Uncle Tom
+weapons/uk_uncle_tom_a;Uncle Tom 11.5in High-Explosive Rocket
+weapons/uk_uncle_tom_a/short;Uncle Tom [HE]
+weapons/uk_uncle_tom_b;Uncle Tom 11.5in High-Explosive Rocket
+weapons/uk_uncle_tom_b/short;Uncle Tom [HE]
 #
-weapons/uk_1000lb_ap_redangel;Red Angel rockets
-weapons/uk_1000lb_ap_redangel/short;Red Angel
+weapons/uk_1000lb_ap_redangel;Red Angel 11.25in Armour-Piercing Rocket
+weapons/uk_1000lb_ap_redangel/short;Red Angel [AP]
 #
 weapons/uk_hvar;HVAR rockets
 weapons/uk_rocket;rocket

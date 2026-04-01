@@ -790,6 +790,11 @@ ef_2000_aesa_0;Eurofighter Jagdflugzeug GmbH | ◄EF-2000 Typhoon | Tranche 3A |
 ef_2000_aesa_1;◄EF-2000 Typhoon (P3Ec1);;
 ef_2000_aesa_2;◄EF-2000 (P3Ec1);;
 #
+alpha_jet_a_jabog41_shop;◄Alpha Jet A (JaboG 41);;
+alpha_jet_a_jabog41_0;Dassault / Dornier | ◄Alpha Jet A | Jagdbombergeschwader 41;;
+alpha_jet_a_jabog41_1;◄Alpha Jet A (JaboG 41);;
+alpha_jet_a_jabog41_2;◄Alpha Jet A (JaboG 41);;
+#
 "shop/group/fw-190a-4_group";"Fw 190 A-4/A-5 Würger";;
 "shop/group/f-86_german_group";"◄CL-13 Sabre";;
 "shop/group/mig_21_germany_group";"◊MiG-21 Fishbed";;

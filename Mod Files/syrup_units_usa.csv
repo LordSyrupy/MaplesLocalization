@@ -956,6 +956,11 @@ fa_18e_block_2_0;Boeing Defense, Space & Security | F/A-18E-2 Super Hornet | Blo
 fa_18e_block_2_1;F/A-18E-2 Super Hornet;;
 fa_18e_block_2_2;F/A-18E-2;;
 #
+f_16c_block_52_aesa_shop;F-16C-52 Viper (PoBIT);;
+f_16c_block_52_aesa_0;General Dynamics Corporation | F-16C-52 Viper | Block 52 | Post Block Integration Team (2022);;
+f_16c_block_52_aesa_1;F-16C-52 Viper (PoBIT);;
+f_16c_block_52_aesa_2;F-16C-52 (PoBIT);;
+#
 "shop/group/p-26_group";"P-26 Peashooter";;
 "shop/group/p-36_group";"P-36 Hawk";;
 "shop/group/f2a_group";"F2A Buffalo";;
@@ -992,6 +997,7 @@ fa_18e_block_2_2;F/A-18E-2;;
 "shop/group/f_86_group";"F-86 Sabre";;
 "shop/group/p-39_group";"P-39 Airacobra";;
 "shop/group/f4u_group";"F4U Corsair";;
+shop/group/f_18_group;F/A-18 Hornet;;
 #
 #helicopters
 "ah_64e_shop";"AH-64E Guardian Apache (v6)";;

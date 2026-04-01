@@ -163,6 +163,18 @@ Radar Model"
 "missile/aiming/beamRiding";"Beam Riding"
 "missile/aiming/semiautomatic";"SACLOS | Semi-Automatic Command Line-of-Sight"
 "missile/aiming/manual";"MCLOS | Manual Command Line-Of-Sight"
+avionics_sensor_radar/desc;<color=@linkTextHoverColorLight>Radar</color>
+avionics_sensor_irst/desc;<color=@linkTextHoverColorLight>IRST</color> - <color=@userlogColoredText>Infrared Search & Track</color>
+avionics_sensor_radar_irst/desc;<color=@linkTextHoverColorLight>Radar/IRST</color> - <color=@userlogColoredText>Radar w/ Infrared Search-and-Track Sensor</color>
+avionics_sensor_rwr/desc;<color=@badTextColor>RWR</color> - <color=@userlogColoredText>Radar Warning Receiver</color>
+avionics_sensor_lws/desc;<color=@badTextColor>LWR</color> - <color=@userlogColoredText>Laser Warning Receiver
+avionics_sensor_mlws/des;<color=@badTextColor>MAWS</color> - <color=@userlogColoredText>Missile Approach Warning System</color>
+avionics_aim_spi/desc;<color=@badTextColor>SPI</color> - <color=@userlogColoredText>Sensors Point of Interest</color>
+avionics_hmd/desc;<color=@badTextColor>HMS</color> - <color=@userlogColoredText>Helmet-Mounted Sight</color>
+avionics_aim_laser_designator/desc;<color=@badTextColor>LDR</color> - <color=@userlogColoredText>Laser Designator/Rangefinder</color>
+CCIP/desc;<color=@badTextColor>CCIP</color> - <color=@userlogColoredText>Continuously-Calculated Impact Point</color>
+sight_AUTO/desc;<color=@badTextColor>EEGS</color> - <color=@userlogColoredText>Enhanced-Envelope Gunsight</color>
+CCRP/desc;<color=@badTextColor>CCRP</color> - <color=@userlogColoredText>Continuously-Calculated Release Point</color>
 //American Radars;
 "sensors/us_sa_radar";"SA"
 "sensors/us_an_sps_4";"AN-SPS-4"
