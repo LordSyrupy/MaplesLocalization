@@ -305,9 +305,9 @@ NATO Designation: Flanker-D"
 "su_33_2";"Su-33"
 #
 "mig_23mld_shop";"MiG-23MLD Flogger-K"
-"mig_23mld_0";"OKB-155 ""A.I. Mikoyana""
-MiG-23MLD | Izdeliye 23-18
-NATO Designation: Flogger-K "
+"mig_23mld_0";"<color=@linkTextHoverColorLight>OKB-155 ""A.I. Mikoyana""</color>
+<color=@userlogColoredText>MiG-23MLD</color> | Izdeliye 23-18
+<color=@commonTextColor>NATO Designation</color>: Flogger-K "
 "mig_23mld_1";"MiG-23MLD Flogger-K"
 "mig_23mld_2";"MiG-23MLD"
 #
@@ -459,9 +459,9 @@ NATO Designation: Fitter-G"
 "su_22m3_2";"Su-22M3"
 #
 "su_24m_shop";"Su-24M Fencer-D"
-"su_24m_0";"PAO Kompaniya ""Sukhoi""
-Su-24M
-NATO Designation: Fencer-D"
+"su_24m_0";"<color=@linkTextHoverColorLight>PAO Kompaniya ""Sukhoi""</color>
+<color=@userlogColoredText>Su-24M</color>
+<color=@commonTextColor>NATO Designation</color>: Fencer-D"
 "su_24m_1";"Su-24M Fencer-D"
 "su_24m_2";"Su-24M"
 #
@@ -999,6 +999,41 @@ mig_29m_9_15_0;"<color=@linkTextHoverColorLight>RSO Korporatsiya ""MiG""</color>
 <color=@commonTextColor>NATO Designation</color>: Fulcrum-E"
 mig_29m_9_15_1;MiG-29M Fulcrum-E
 mig_29m_9_15_2;MiG-29M
+#
+tu_95m_shop;Tu-95M Bear-A
+tu_95m_0;"<color=@linkTextHoverColorLight>OKB-156 ""A.N. Tupolev""</color>
+<color=@userlogColoredText>Tu-95M</color>
+<color=@commonTextColor>NATO Designation</color>: Bear-A"
+tu_95m_1;Tu-95M Bear-A
+tu_95m_2;Tu-95M
+#
+nt_tu_95m_shop;Tu-95M Bear-A
+nt_tu_95m_0;"<color=@linkTextHoverColorLight>OKB-156 ""A.N. Tupolev""</color>
+<color=@userlogColoredText>Tu-95M</color>
+<color=@commonTextColor>NATO Designation</color>: Bear-A"
+nt_tu_95m_1;Tu-95M Bear-A
+nt_tu_95m_2;Tu-95M
+#
+nt_mig_23mld_shop;MiG-23MLD Flogger-K
+nt_mig_23mld_0;"<color=@linkTextHoverColorLight>OKB-155 ""A.I. Mikoyana""</color>
+<color=@userlogColoredText>MiG-23MLD</color> | Izdeliye 23-18
+<color=@commonTextColor>NATO Designation</color>: Flogger-K "
+nt_mig_23mld_1;MiG-23MLD Flogger-K
+nt_mig_23mld_2;MiG-23MLD
+#
+nt_su_24m_shop;Su-24M Fencer-D
+nt_su_24m_0;"<color=@linkTextHoverColorLight>PAO Kompaniya ""Sukhoi""</color>
+<color=@userlogColoredText>Su-24M</color>
+<color=@commonTextColor>NATO Designation</color>: Fencer-D"
+nt_su_24m_1;Su-24M Fencer-D
+nt_su_24m_2;Su-24M
+#
+nt_su_25t_shop;Su-25T Grach
+nt_su_25t_0;"<color=@linkTextHoverColorLight>OKB-51 ""P.O. Sukhoi""</color>
+<color=@userlogColoredText>Su-25T Grach</color>
+<color=@commonTextColor>NATO Designation</color>: Frogfoot"
+nt_su_25t_1;Su-25T Grach
+nt_su_25t_2;Su-25T
 #
 "shop/group/ar_group";"Ar-2/SB-2"
 "shop/group/db_3_group";"DB-3B/Il-4 Bob"
