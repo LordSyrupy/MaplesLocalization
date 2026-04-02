@@ -961,6 +961,31 @@ f_16c_block_52_aesa_0;General Dynamics Corporation | F-16C-52 Viper | Block 52 |
 f_16c_block_52_aesa_1;F-16C-52 Viper (PoBIT);;
 f_16c_block_52_aesa_2;F-16C-52 (PoBIT);;
 #
+b_52h_shop;B-52H Stratofortress;;
+b_52h_0;Boeing Airplane Company | B-52H Stratofortress;;
+b_52h_1;B-52H Stratofortress;;
+b_52h_2;B-52H;;
+#
+nt_b_52h_shop;B-52H Stratofortress;;
+nt_b_52h_0;Boeing Airplane Company | ☢B-52H Stratofortress;;
+nt_b_52h_1;B-52H Stratofortress;;
+nt_b_52h_2;B-52H;;
+#
+nt_f_4e_shop;F-4E-48 Phantom II;;
+nt_f_4e_0;McDonnell Douglas Corporation | F-4E-48 Phantom II | Block 48;;
+nt_f_4e_1;F-4E-48 Phantom II;;
+nt_f_4e_2;F-4E-48;;
+#
+nt_a_7e_shop;A-7E-4 Corsair II;;
+nt_a_7e_0;LTV Aerospace Corporation | A-7E-4 Corsair II | Block 4;;
+nt_a_7e_1;A-7E-4 Corsair II;;
+nt_a_7e_2;A-7E-4;;
+#
+nt_a_6e_tram_shop;A-6E Intruder (TRAM);;
+nt_a_6e_tram_0;Grumman Aerospace Corporation | A-6E Intruder | Target Recognition and Attack Multi-Sensor System (1979);;
+nt_a_6e_tram_1;A-6E Intruder (TRAM);;
+nt_a_6e_tram_2;A-6E (TRAM);;
+#
 "shop/group/p-26_group";"P-26 Peashooter";;
 "shop/group/p-36_group";"P-36 Hawk";;
 "shop/group/f2a_group";"F2A Buffalo";;
