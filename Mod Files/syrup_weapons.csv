@@ -517,14 +517,14 @@
 "weapons/cannon_mauser_bk_27";"BK 27 | Bordkanone 27 27mm Autocannon"
 "weapons/cannon_mauser_bk_27/short";"BK 27"
 #
-"weapons/cannonM61A2_switzerland";"Flugzeug Kanone 92 20mm Rotary Autocannon"
-"weapons/cannonM61A2_switzerland/short";"Flz Kan 92"
+"weapons/cannonFlzKan_76";"Flz.Kan. 76 | 20mm Flugzeug Kanone 76"
+"weapons/cannonFlzKan_76/short";"Flz.Kan. 76"
 #
-"weapons/cannonFlzKan_76";"Flugzeug Kanone 76 20mm Autocannon"
-"weapons/cannonFlzKan_76/short";"Flz Kan 76"
+"weapons/cannonM61A2_switzerland";"Flz.Kan. 92 | 20mm Flugzeug Kanone 92"
+"weapons/cannonM61A2_switzerland/short";"Flz.Kan. 92"
 #
-"weapons/cannonDEFA552A_switzerland";"Flugzeug Kanone 65 30mm Autocannon"
-"weapons/cannonDEFA552A_switzerland/short";"Flz Kan 65"
+"weapons/cannonDEFA552A_switzerland";"Flz.Kan. 65 | 30mm Flugzeug Kanone 65"
+"weapons/cannonDEFA552A_switzerland/short";"Flz.Kan. 65"
 #
 "weapons/cannonMK108";"MG 108 | Maschinenkanone 108 30mm Autocannon"
 "weapons/cannonMK108_underwing";"MG 108 | Maschinenkanone 108 30mm Autocannon"
@@ -566,17 +566,17 @@
 #
 "weapons/cannonBK75";"BK 7.5 | Bordkanone 7.5 75mm Autocannon"
 #
-"weapons/cannon_ff_k_45";"FF-K 45 | Flugzeugflügelkanone 45 20mm Autocannon"
-"weapons/cannon_ff_k_45/short";"FF-K 45"
+"weapons/cannon_ff_k_45";"FF.-K. 45 | 20mm Flugzeugflügel-Kanone 45"
+"weapons/cannon_ff_k_45/short";"FF.-K. 45"
 #
-"weapons/cannon_fm_k_45";"FM-K 45 | Flugzeugmotorkanone 45 20mm Autocannon"
-"weapons/cannon_fm_k_45/short";"FM-K 45"
+"weapons/cannon_fm_k_45";"FM.-K. 45 | 20mm Flugzeugmotor-Kanone 45"
+"weapons/cannon_fm_k_45/short";"FM.-K. 45"
 #
-"weapons/gun_fl_mg_27";"MG 29 | Maschinengewehr 29 7.45mm Machine Gun"
-"weapons/gun_fl_mg_27/short";"MG 29"
+"weapons/gun_fl_mg_27";"Fl.-Mg. 29 | 7.5mm Flugzeug-Maschinengewehr 29"
+"weapons/gun_fl_mg_27/short";"Fl.-Mg. 29"
 #
-"weapons/gun_mg_29_turret";"MG 29 | Maschinengewehr 29 7.5mm Machine Gun"
-"weapons/gun_mg_29_turret/short";"MG 29"
+"weapons/gun_mg_29_turret";"Beob.-D.-Mg. 29 | 7.5mm Beobachter-Doppel-Maschinengewehr 29"
+"weapons/gun_mg_29_turret/short";"Beob.-D.-Mg. 29"
 #
 #Guns, USSR
 "weapons/cannonNR23";"Nudelman-Rikhter NR-23 23mm Autocannon"
@@ -1057,6 +1057,9 @@ weapons/us_agm_179_mr_ir/short;AGM-179 JAGM-MR [IR]
 weapons/us_agm_179_mr_sal;AGM-179 Laser-Guided Joint Air-to-Ground Missile (Medium-Range)
 weapons/us_agm_179_mr_sal/short;AGM-179 JAGM-MR [SALH]
 #
+weapons/us_agm_84h_slam_er;AGM-84H-1 Standoff Land Attack Missile Extended Response Air-to-Ground Missile
+weapons/us_agm_84h_slam_er/short;AGM-84H-1 SLAM-ER
+#
 weapons/us_aim92_stinger;AIM-92 Air-To-Air Stinger Air-to-Air Missile
 weapons/us_aim92_stinger/short;AIM-92 ATAS
 weapons/us_aim92_stinger_atas_tiger;AIM-92 Air-To-Air Stinger Air-to-Air Missile
@@ -1080,38 +1083,35 @@ weapons/us_aim_120d_default/short;AIM-120D AMRAAM
 #
 "weapons/180mm_IRIS_T_SL_user_cannon";"IRIS-T (Surface-Launched, Medium-Range)"
 #
-"weapons/sws_flz_lwf_63_80";"Flugzeug Lenkwaffe Luft-Luft 63/80 Air-to-Air Missile"
-"weapons/sws_flz_lwf_63_80/short";"Flz Lwf LL 63/80"
+"weapons/sws_flz_lwf_63_80";"Flugzeug Lenkwaffe Luft-Luft 63/80 SIWA Air-to-Air Missile"
+"weapons/sws_flz_lwf_63_80/short";"Flz.Lwf. LL 63/80 SIWA"
 #
 "weapons/sws_flz_lwf_63_75";"Flugzeug Lenkwaffe Luft-Luft 63/75 SIWA Air-to-Air Missile"
-"weapons/sws_flz_lwf_63_75/short";"Flz Lwf LL 63/75 SIWA"
+"weapons/sws_flz_lwf_63_75/short";"Flz.Lwf. LL 63/75 SIWA"
 #
-"weapons/sws_flz_lwf_63";"Flugzeug Lenkwaffe Luft-Luft 63 Air-to-Air Missile"
-"weapons/sws_flz_lwf_63/short";"Flz Lwf LL 63"
+"weapons/sws_flz_lwf_63";"Flugzeug Lenkwaffe Luft-Luft 63 SIWA Air-to-Air Missile"
+"weapons/sws_flz_lwf_63/short";"Flz.Lwf. LL 63 SIWA"
 #
 "weapons/sws_flz_lwf_ll_64";"Flugzeug Lenkwaffe Luft-Luft 64/79 FALCO Air-to-Air Missile"
-"weapons/sws_flz_lwf_ll_64/short";"Flz Lwf LL 64/79 FALCO"
+"weapons/sws_flz_lwf_ll_64/short";"Flz.Lwf. LL 64/79 FALCO"
 #
 "weapons/us_aim_120b_switzerland";"Flugzeug Lenkwaffe Luft-Luft 97 AMRAAM Air-to-Air Missile"
-"weapons/us_aim_120b_switzerland/short";"Flz Lwf LL 97 AMRAAM"
+"weapons/us_aim_120b_switzerland/short";"Flz.Lwf. LL 97 AMRAAM"
 #
 "weapons/us_aim_120b_default_switzerland";"Flugzeug Lenkwaffe Luft-Luft 97 AMRAAM Air-to-Air Missile"
-"weapons/us_aim_120b_default_switzerland/short";"Flz Lwf LL 97 AMRAAM"
+"weapons/us_aim_120b_default_switzerland/short";"Flz.Lwf. LL 97 AMRAAM"
 #
-"weapons/us_aim_120c_5_switzerland";"Flugzeug Lenkwaffe Luft-Luft 97 AMRAAM 120 C-5 Air-to-Air Missile"
-"weapons/us_aim_120c_5_switzerland/short";"Flz Lwf LL 97 AMRAAM 120 C-5"
+"weapons/us_aim_120c_5_switzerland";"Flugzeug Lenkwaffe Luft-Luft AMRAAM 120C-5 Air-to-Air Missile"
+"weapons/us_aim_120c_5_switzerland/short";"Flz.Lwf. LL AMRAAM 120C-5"
 #
-"weapons/us_aim_120c_5_default_switzerland";"Flugzeug Lenkwaffe Luft-Luft 97 AMRAAM 120 C-5 Air-to-Air Missile"
-"weapons/us_aim_120c_5_default_switzerland/short";"Flz Lwf LL 97 AMRAAM 120 C-5"
-#
-weapons/us_agm_84h_slam_er;AGM-84H Standoff Land Attack Missile (Extended Response) Air-to-Ground Missile
-weapons/us_agm_84h_slam_er/short;AGM-84H SLAM-ER
+"weapons/us_aim_120c_5_default_switzerland";"Flugzeug Lenkwaffe Luft-Luft AMRAAM 120C-5 Air-to-Air Missile"
+"weapons/us_aim_120c_5_default_switzerland/short";"Flz.Lwf. LL AMRAAM 120C-5"
 #
 "weapons/sws_flz_lwf_lb_82";"Flugzeug Lenkwaffe Luft-Boden 82 Air-to-Ground Missile"
-"weapons/sws_flz_lwf_lb_82/short";"Flz Lwf LB 82"
+"weapons/sws_flz_lwf_lb_82/short";"Flz.Lwf. LB 82"
 #
 "weapons/fr_as30_switzerland";"Flugzeug Lenkwaffe Luft-Boden 66 Air-to-Ground Missile"
-"weapons/fr_as30_switzerland/short";"Flz Lwf LB 66"
+"weapons/fr_as30_switzerland/short";"Flz.Lwf. LB 66"
 #
 #Missiles, USSR
 "weapons/su_r_3s";"R-3S Atoll-A Air-to-Air Missile"
