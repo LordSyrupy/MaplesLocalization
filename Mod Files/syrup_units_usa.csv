@@ -961,15 +961,15 @@ f_16c_block_52_aesa_0;General Dynamics Corporation | F-16C-52 Viper | Block 52 |
 f_16c_block_52_aesa_1;F-16C-52 Viper (PoBIT);;
 f_16c_block_52_aesa_2;F-16C-52 (PoBIT);;
 #
-b_52h_shop;B-52H Stratofortress;;
-b_52h_0;Boeing Airplane Company | B-52H Stratofortress;;
-b_52h_1;B-52H Stratofortress;;
-b_52h_2;B-52H;;
+b_52h_shop;B-52H-140 Stratofortress;;
+b_52h_0;Boeing Airplane Company | B-52H-140 Stratofortress | Block 140;;
+b_52h_1;B-52H-140 Stratofortress;;
+b_52h_2;B-52H-140;;
 #
-nt_b_52h_shop;B-52H Stratofortress;;
-nt_b_52h_0;Boeing Airplane Company | ☢B-52H Stratofortress;;
-nt_b_52h_1;B-52H Stratofortress;;
-nt_b_52h_2;B-52H;;
+nt_b_52h_shop;B-52H-140 Stratofortress;;
+nt_b_52h_0;Boeing Airplane Company | ☢B-52H-140 Stratofortress | Block 140;;
+nt_b_52h_1;B-52H-140 Stratofortress;;
+nt_b_52h_2;B-52H-140;;
 #
 nt_f_4e_shop;F-4E-48 Phantom II;;
 nt_f_4e_0;McDonnell Douglas Corporation | F-4E-48 Phantom II | Block 48;;

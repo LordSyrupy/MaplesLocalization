@@ -1074,6 +1074,12 @@ weapons/us_aim_120d/short;AIM-120D AMRAAM
 weapons/us_aim_120d_default;AIM-120D Advanced Medium-Range Air-to-Air Missile
 weapons/us_aim_120d_default/short;AIM-120D AMRAAM
 #
+weapons/us_agm_45b_10;AGM-45B-10 Shrike Anti-Radiation Missile
+weapons/us_agm_45b_10/short;AGM-45B-10 Shrike
+#
+weapons/us_agm_88a;AGM-88A High-speed Anti-Radiation Missile
+weapons/us_agm_88a/short;AGM-88A HARM
+#
 #Missiles, Ger
 "weapons/us_aim9b_fgw_2_sidewinder";"AIM-9F Sidewinder Air-to-Air Missile"
 "weapons/us_aim9b_fgw_2_sidewinder/short";"AIM-9F Sidewinder"
@@ -1367,6 +1373,40 @@ weapons/su_kh_38mte/short;Kh-38MTE
 weapons/su_lmur;"Kh-39 «Legkaya Mnogotselevaya Upravlyayemaya Raketa» Infrared-Guided Air-to-Ground Missile"
 weapons/su_lmur/short;Kh-39 LMUR
 #
+weapons/su_kh_25mp;Kh-25MP Kegler-A Anti-Radiation Missile
+weapons/su_kh_25mp/short;Kh-25MP Kegler-A
+weapons/su_kh_25mp_cw;Kh-25MP Kegler-A Anti-Radiation Missile
+weapons/su_kh_25mp_cw/short;Kh-25MP Kegler-A
+#
+weapons/su_kh_25mpu;Kh-25MPU Kegler-B Anti-Radiation Missile
+weapons/su_kh_25mpu/short;Kh-25MPU Kegler-B
+#
+weapons/su_kh_27ps;Kh-27PS Kegler Anti-Radiation Missile
+weapons/su_kh_27ps/short;Kh-27PS Kegler
+weapons/su_kh_27ps_cw;Kh-27PS Kegler Anti-Radiation Missile
+weapons/su_kh_27ps_cw/short;Kh-27PS Kegler
+#
+weapons/su_kh_58u_a_band;Kh-58U Kilter-A Anti-Radiation Missile
+weapons/su_kh_58u_a_band/short;Kh-58U Kilter-A
+weapons/su_kh_58u_a_band_cw;Kh-58U Kilter-A Anti-Radiation Missile
+weapons/su_kh_58u_a_band_cw/short;Kh-58U Kilter-A
+weapons/su_kh_58u_b_band;Kh-58U Kilter-A Anti-Radiation Missile
+weapons/su_kh_58u_b_band/short;Kh-58U Kilter-A
+weapons/su_kh_58u_c_band;Kh-58U Kilter-A Anti-Radiation Missile
+weapons/su_kh_58u_c_band/short;Kh-58U Kilter-A
+#
+weapons/su_kh_58ushk;Kh-58UShK Kilter-E Anti-Radiation Missile
+weapons/su_kh_58ushk/short;Kh-58UShK Kilter-E
+#
+weapons/su_kh_59;Kh-59 Ovod / Kingbolt Air-Launched Cruise Missile
+weapons/su_kh_59/short;Kh-59 Ovod
+#
+weapons/su_phantasmagoria_a;Phantasmagoria-A Targeting Pod
+weapons/su_phantasmagoria_a/short;Phantasmagoria-A
+weapons/su_phantasmagoria_b_beck;Phantasmagoria-B Targeting Pod
+weapons/su_phantasmagoria_b_beck/short;Phantasmagoria-B
+weapons/su_phantasmagoria_b_front;Phantasmagoria-B Targeting Pod
+weapons/su_phantasmagoria_b_front/short;Phantasmagoria-B
 #Missiles, GB
 "weapons/uk_skyflash_aim_7";"Skyflash Air-to-Air Missile"
 "weapons/uk_skyflash_aim_7/short";"Skyflash"
@@ -1825,6 +1865,21 @@ weapons/il_derby_default/short;Derby
 weapons/us_agm_154a1_jsow;AGM-154A-1 Joint Standoff Weapon GPS-Guided Bomb [1,000lbs.]
 weapons/us_agm_154a1_jsow/short;AGM-154A-1 JSOW [1.000lbs.]
 #
+weapons/us_b83;B83 nuclear bomb [1.2Mt]
+weapons/us_b83/short;☢B83 [1.2Mt]
+#
+weapons/us_b28;B28 nuclear bomb [1.45Mt]
+weapons/us_b28/short;☢B28 [1.45Mt]
+#
+weapons/us_b28_ang45;B28 nuclear bomb [1.45Mt]
+weapons/us_b28_ang45/short;☢B28 [1.45Mt]
+#
+weapons/us_b61_5kt;B61 nuclear bomb [5kt]
+weapons/us_b61_5kt/short;☢B61 [5kt]
+#
+weapons/us_b61_30kt;B61 nuclear bomb [30 kt]
+weapons/us_b61_30kt/short;☢B61 [5kt]
+#
 #Bombs, GER
 "weapons/de_sc50";"Sprengbombe Cylindrisch 50 JA High-Explosive Bomb [50kg]"
 "weapons/de_sc50/short";"SC 50 JA [50kg]"
@@ -2144,6 +2199,21 @@ weapons/su_upab_1500b_e/short;UPAB-1500B-E [1500kg]
 #
 weapons/su_kab_1500lg_e;KAB-1500LG-E Laser-Guided Bomb [1500kg]
 weapons/su_kab_1500lg_e/short;KAB-1500LG-E [1500kg]
+#
+weapons/su_rds37;RDS-37 Nuclear Bomb [1.6Mt]
+weapons/su_rds37/short;☢RDS-37 [1.6Mt]
+#
+weapons/su_rn_28_nt;RN-28 Nuclear Bomb [5kt]
+weapons/su_rn_28_nt/short;☢RN-28 [5kt]
+#
+weapons/su_rn_40;RN-40 Nuclear Bomb [30kt]
+weapons/su_rn_40/short;☢RN-40 [30kt]
+#
+weapons/su_fab9000;FAB-9000 High-Explosive Bomb [9000kg]
+weapons/su_fab9000/short;FAB-9000 [9000kg]
+#
+weapons/su_fab5000_m54;FAB-5000 High-Explosive Bomb - Model 1954 [5000kg]
+weapons/su_fab5000_m54/short;FAB-5000M-54 [5000kg]
 #
 #Bombs, GB
 "weapons/uk_paveway_iv";"Paveway IV Dual-Mode Laser-Guided Bomb (500lb.)"
