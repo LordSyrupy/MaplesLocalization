@@ -429,6 +429,11 @@ j_15t_0;Shenyang Aircraft Corporation | ␗J-15T Feisha (Flying Shark) / Flanker
 j_15t_1;␗J-15T Feisha;;
 j_15t_2;␗J-15T;;
 #
+f_6c_pakistan_shop;☪F-6C Farmer-C;;
+f_6c_pakistan_0;Shenyang Aircraft Corporation (SAC) | ☪F-6C Farmer-C;;
+f_6c_pakistan_1;☪F-6C Farmer-C;;
+f_6c_pakistan_2;☪F-6C;;
+#
 "shop/group/ki_27_group";"☀Ki 27/Ki 43";;
 "shop/group/i-16_china_group";"Zhōng 28/☀E-16";;
 "shop/group/p_40_china_group";"☀P-40 Kittyhawk/P-43 Lancer";;

@@ -517,13 +517,13 @@
 "weapons/cannon_mauser_bk_27";"BK 27 | Bordkanone 27 27mm Autocannon"
 "weapons/cannon_mauser_bk_27/short";"BK 27"
 #
-"weapons/cannonFlzKan_76";"Flz.Kan. 76 | 20mm Flugzeug Kanone 76"
+"weapons/cannonFlzKan_76";"Flz.Kan. 76 | Flugzeug Kanone 76 20mm Autocannon"
 "weapons/cannonFlzKan_76/short";"Flz.Kan. 76"
 #
-"weapons/cannonM61A2_switzerland";"Flz.Kan. 92 | 20mm Flugzeug Kanone 92"
+"weapons/cannonM61A2_switzerland";"Flz.Kan. 92 | Flugzeug Kanone 92 20mm Rotary Autocannon"
 "weapons/cannonM61A2_switzerland/short";"Flz.Kan. 92"
 #
-"weapons/cannonDEFA552A_switzerland";"Flz.Kan. 65 | 30mm Flugzeug Kanone 65"
+"weapons/cannonDEFA552A_switzerland";"Flz.Kan. 65 | Flugzeug Kanone 65 30mm Autocannon"
 "weapons/cannonDEFA552A_switzerland/short";"Flz.Kan. 65"
 #
 "weapons/cannonMK108";"MG 108 | Maschinenkanone 108 30mm Autocannon"
@@ -1057,7 +1057,7 @@ weapons/us_agm_179_mr_ir/short;AGM-179 JAGM-MR [IR]
 weapons/us_agm_179_mr_sal;AGM-179 Laser-Guided Joint Air-to-Ground Missile (Medium-Range)
 weapons/us_agm_179_mr_sal/short;AGM-179 JAGM-MR [SALH]
 #
-weapons/us_agm_84h_slam_er;AGM-84H-1 Standoff Land Attack Missile Extended Response Air-to-Ground Missile
+weapons/us_agm_84h_slam_er;AGM-84H-1 Standoff Land Attack Missile (Extended Response)
 weapons/us_agm_84h_slam_er/short;AGM-84H-1 SLAM-ER
 #
 weapons/us_aim92_stinger;AIM-92 Air-To-Air Stinger Air-to-Air Missile
@@ -1443,22 +1443,22 @@ weapons/r_darter_default/short;R-Darter
 weapons/uk_brimstone_dm;Brimstone 2 Laser-Guided Air-to-Ground Missile
 weapons/uk_brimstone_dm/short;Brimstone 2 [SALH]
 #
-weapons/uk_sea_eagle;MBDA Sea Eagle missile
-weapons/uk_sea_eagle/short;MBDA Sea Eagle
+weapons/uk_sea_eagle;Sea Eagle Anti-Ship Missile
+weapons/uk_sea_eagle/short;Sea Eagle
 #
-weapons/uk_sea_eagle_wo_radar_designation;MBDA Sea Eagle missile
-weapons/uk_sea_eagle_wo_radar_designation/short;MBDA Sea Eagle
+weapons/uk_sea_eagle_wo_radar_designation;Sea Eagle Anti-Ship Missile
+weapons/uk_sea_eagle_wo_radar_designation/short;Sea Eagle
 #
-weapons/uk_firestreak;Firestreak air-to-air missiles
+weapons/uk_firestreak;Firestreak Air-to-Air Missile
 weapons/uk_firestreak/short;Firestreak
 #
-weapons/uk_firestreak_default;Firestreak air-to-air missiles
+weapons/uk_firestreak_default;Firestreak Air-to-Air Missile
 weapons/uk_firestreak_default/short;Firestreak
 #
-weapons/uk_firestreak_Javelin;Firestreak air-to-air missiles
+weapons/uk_firestreak_Javelin;Firestreak Air-to-Air Missile
 weapons/uk_firestreak_Javelin/short;Firestreak
 #
-weapons/uk_redtop;Red Top air-to-air missiles
+weapons/uk_redtop;Red Top Air-to-Air Missile
 weapons/uk_redtop/short;Red Top
 #
 #Missiles, JP
@@ -1550,29 +1550,47 @@ weapons/cn_pl12a_default/short;PL-12AE Adze-A
 "weapons/it_aspide_1a/short";"Aspide-1A"
 #
 #Missiles, FR
-"weapons/fr_r_550_magic";"R550 MAGIC I | Missile Auto-Guidé Interception et Combat R550 Mk1 Air-to-Air Missile"
-"weapons/fr_r_550_magic/short";"R550 MAGIC I"
+"weapons/fr_r_550_magic";"R 550 MAGIC I | Missile Auto-Guidé Interception et Combat R 550 Mk1 Air-to-Air Missile"
+"weapons/fr_r_550_magic/short";"R 550 MAGIC I"
 #
-"weapons/fr_r_550_magic_2";"R550 MAGIC II | Missile Auto-Guidé Interception et Combat R550 Mk2 Air-to-Air Missile"
-"weapons/fr_r_550_magic_2/short";"R550 MAGIC II"
+"weapons/fr_r_550_magic_2";"R 550 MAGIC II | Missile Auto-Guidé Interception et Combat R 550 Mk2 Air-to-Air Missile"
+"weapons/fr_r_550_magic_2/short";"R 550 MAGIC II"
 #
-"weapons/fr_r_550_magic_2_default";"R550 MAGIC II | Missile Auto-Guidé Interception et Combat R550 Mk2 Air-to-Air Missile"
-"weapons/fr_r_550_magic_2_default/short";"R550 MAGIC II"
+"weapons/fr_r_550_magic_2_default";"R 550 MAGIC II | Missile Auto-Guidé Interception et Combat R 550 Mk2 Air-to-Air Missile"
+"weapons/fr_r_550_magic_2_default/short";"R 550 MAGIC II"
 #
-"weapons/fr_r_530_matra_ir";"R.530E Air-to-Air Missile"
-"weapons/fr_r_530_matra_ir/short";"R.530E"
+"weapons/fr_r_530_matra_ir";"R 530 E Air-to-Air Missile"
+"weapons/fr_r_530_matra_ir/short";"R 530 E"
 #
-"weapons/fr_r_530_matra_radar";"R.530 Air-to-Air Missile"
-"weapons/fr_r_530_matra_radar/short";"R.530"
+"weapons/fr_r_530_matra_radar";"R 530 Air-to-Air Missile"
+"weapons/fr_r_530_matra_radar/short";"R 530"
 #
-"weapons/fr_r_511_matra";"R.511 Air-to-Air Missile"
-"weapons/fr_r_511_matra/short";"R.511"
+"weapons/fr_r_511_matra";"R 511 Air-to-Air Missile"
+"weapons/fr_r_511_matra/short";"R 511"
 #
 "weapons/fr_mica_em";"MICA-EM | Missile d'Interception, de Combat et d'Auto-défense Électromagnétique Air-to-Air Missile"
 "weapons/fr_mica_em/short";"MICA-EM"
 #
 "weapons/fr_mica_em_default";"MICA-EM | Missile d'Interception, de Combat et d'Auto-défense Électromagnétique Air-to-Air Missile"
 "weapons/fr_mica_em_default/short";"MICA-EM"
+#
+weapons/fr_matra_super_530f_default;Super 530 F Air-to-Air Missile
+weapons/fr_matra_super_530f_default/short;Super 530 F
+#
+weapons/fr_matra_super_530f;Super 530 F Air-to-Air Missile
+weapons/fr_matra_super_530f/short;Super 530 F
+#
+weapons/fr_matra_super_530f_mirage_2000;Super 530 F Air-to-Air Missile
+weapons/fr_matra_super_530f_mirage_2000/short;Super 530 F
+#
+weapons/fr_matra_super_530f_mirage_2000_default;Super 530 F Air-to-Air Missile
+weapons/fr_matra_super_530f_mirage_2000_default/short;Super 530 F
+#
+weapons/fr_matra_super_530d;Super 530 D Air-to-Air Missile
+weapons/fr_matra_super_530d/short;Super 530 D
+#
+weapons/fr_matra_super_530d_default;Super 530 D Air-to-Air Missile
+weapons/fr_matra_super_530d_default/short;Super 530 D
 #
 #Missiles, SWE
 "us_iris_t";"Lvrb 98"
@@ -1880,6 +1898,15 @@ weapons/us_b61_5kt/short;☢B61 [5kt]
 weapons/us_b61_30kt;B61 nuclear bomb [30 kt]
 weapons/us_b61_30kt/short;☢B61 [5kt]
 #
+weapons/us_mine_mk13_mod0;Mark 13 Model 0 Aircraft-Laid Magnetic Mine [1000lbs.]
+weapons/us_mine_mk13_mod0/short;Mk.13 Mod 0 [1000lbs.]
+#
+weapons/us_1000lb_anmk33_box_ap;AN-Mk.33 Armor-Piercing High-Explosive Bomb [1000lbs.]
+weapons/us_1000lb_anmk33_box_ap/short;AN-Mk.33 [1000lbs.]
+#
+weapons/us_1000lb_anmk33_box_ap_45;AN-Mk.33 Armor-Piercing High-Explosive Bomb [1000lbs.]
+weapons/us_1000lb_anmk33_box_ap_45/short;AN-Mk.33 [1000lbs.]
+#
 #Bombs, GER
 "weapons/de_sc50";"Sprengbombe Cylindrisch 50 JA High-Explosive Bomb [50kg]"
 "weapons/de_sc50/short";"SC 50 JA [50kg]"
@@ -1961,6 +1988,24 @@ weapons/de_flam_250/short;FB C 250 [250kg]
 #
 weapons/de_flam_500;Flammenbombe C 500 Incendiary Bomb [500kg]
 weapons/de_flam_500/short;FB C 500 [500kg]
+#
+weapons/de_hosbo_glide_bomb;Hochleistungs Sprengbombe Infrared-Guided Glide Bomb [500lbs.]
+weapons/de_hosbo_glide_bomb/short;HOSBO [500lbs.]
+#
+weapons/sws_400kg_febb_napalmbombe;Feuerbombe Napalmbombe Incendiary Bomb [400kg]
+weapons/sws_400kg_febb_napalmbombe/short;FeBb Napalmbombe [400kg]
+#
+weapons/sws_450_kg_sprengbombe_68_70;Sprengbombe 68/70 High-Explosive Bomb [450kg]
+weapons/sws_450_kg_sprengbombe_68_70/short;Sprengbombe 68/70 [450kg]
+#
+weapons/sws_50_kg_sprengbombe;Sprengbombe High-Explosive Bomb [50kg]
+weapons/sws_50_kg_sprengbombe/short;Sprengbombe [50kg]
+#
+weapons/sws_200_kg_sprengbombe;Sprengbombe [200kg]
+weapons/sws_200_kg_sprengbombe/short;Sprengbombe [200kg]
+#
+weapons/sws_400_kg_sprengbombe;Sprengbombe High-Explosive Bomb [400kg]
+weapons/sws_400_kg_sprengbombe/short;Sprengbombe [400kg]
 #
 #Bombs, USSR
 weapons/su_ao_25m_1;AO-25M-1 Fragmentation Bomb [25kg]
@@ -2356,11 +2401,44 @@ weapons/uk_1000lbs_mc_mk1;M.C. 1,000lb. Mk.I
 weapons/uk_500lb_he_mc_mk2;Bomb, High-Explosive, Medium Capacity, 500lb. Mk.II
 weapons/uk_500lb_he_mc_mk2/short;H.E. M.C. 500lb. Mk.II
 #
+weapons/fr_mk13;Mk.13 Paveway II Laser-Guided Bomb [1000lbs.]
+weapons/fr_mk13/short;Mk.13 PWII [1000lbs.]
+#
+weapons/uk_1000lb_enhanced_paveway2_mk13;Mk.13 Enhanced Paveway II Dual-Mode Laser-Guided Bomb [1000lbs.]
+weapons/uk_1000lb_enhanced_paveway2_mk13/short;Mk.13 EPWII [1000lbs.]
+#
+weapons/fr_mk18;Mk.18 Paveway II Laser-Guided Bomb [1000lbs.]
+weapons/fr_mk18/short;Mk.18 PWII [1000lbs.]
+#
 #Bombs, JP
 "weapons/us_750lb_m117_cone_45_japan";"JM117 Low-Drag Demolition Bomb - Cone 45 (750lb.)"
 "weapons/us_750lb_m117_cone_45_japan/short";"JM117 (750lb.)"
 #
 #Bombs, CN
+#
+weapons/cn_ls_500j;GB500 Laser-Guided Bomb [570kg]
+weapons/cn_ls_500j/short;GB500 [570kg]
+#
+weapons/cn_ls_1000j;GB1000 Dual-Mode Laser-Guided Bomb [1090kg]
+weapons/cn_ls_1000j/short;GB1000 [1090kg]
+#
+weapons/cn_ts_250;GB250 Dual-Mode Laser-Guided Bomb [260kg]
+weapons/cn_ts_250/short;GB250 [260kg]
+#
+weapons/cn_lgb_gb250_mod_laser;GB3 Dual-Mode Laser-Guided Bomb [260kg]
+weapons/cn_lgb_gb250_mod_laser/short;GB3 [260kg]
+#
+weapons/cn_ls_6_250;LS-6/250 GNSS-Guided Glide Bomb [290kg]
+weapons/cn_ls_6_250/short;LS-6/250 [290kg]
+#
+weapons/cn_ls_6_250_ir;LS-6/250 Infrared-Guided Glide Bomb [300kg]
+weapons/cn_ls_6_250_ir/short;LS-6/250 [IR] [300kg]
+#
+weapons/cn_ls_6_500_ir;LS-6/500 Infrared-Guided Glide Bomb [630kg]
+weapons/cn_ls_6_500_ir/short;LS-6/500 [IR] [630kg]
+#
+weapons/cn_ls_6_500;LS-6/500 GNSS-Guided Glide Bomb [630kg]
+weapons/cn_ls_6_500/short;LS-6/500 [630kg]
 #
 #Bombs, IT
 #
@@ -2369,6 +2447,15 @@ weapons/uk_500lb_he_mc_mk2/short;H.E. M.C. 500lb. Mk.II
 #Bombs, SWE
 #
 #Bombs, ISR
+#
+weapons/il_spice_250;SPICE 250 | Smart, Precise Impact, Cost-Effective Electro-Optically Guided Glide Bomb [250lbs.]
+weapons/il_spice_250/short;SPICE 250 [250lbs.]
+#
+weapons/il_spice_1000;SPICE 1000 | Smart, Precise Impact, Cost-Effective Electro-Optically Guided Glide Bomb [1000lbs.] 
+weapons/il_spice_1000/short;SPICE 1000 [1000lbs.]
+#
+weapons/il_spice_2000;SPICE 2000 | Smart, Precise Impact, Cost-Effective Electro-Optically Guided Bomb [2000lbs.]
+weapons/il_spice_2000/short;SPICE 2000 [2000lbs.]
 #
 #Rocket, USA
 "weapons/us_2_75_in_ffar_mighty_mouse";"Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rocket"
@@ -2407,11 +2494,17 @@ weapons/uk_500lb_he_mc_mk2/short;H.E. M.C. 500lb. Mk.II
 "weapons/us_2_75_in_wafar_hydra";"Hydra 70 Wrap-Around Fin Aerial Rocket"
 "weapons/us_2_75_in_wafar_hydra/short";"Hydra 70 WAFAR"
 #
-"weapons/us_hydra_70_m247";"Hydra 70 Wrap-Around Fin Aerial Rocket - M247 High-Explosive Dual-Purpose Warhead"
+"weapons/us_hydra_70_m247";"Hydra 70 Wrap-Around Fin Aerial Rocket [M247 High-Explosive Dual-Purpose Warhead]"
 "weapons/us_hydra_70_m247/short";"Hydra 70 WAFAR [HEDP]"
 #
-"weapons/us_hydra_70_m247_default";"Hydra 70 Wrap-Around Fin Aerial Rocket - M247 High-Explosive Dual-Purpose Warhead"
+"weapons/us_hydra_70_m247_default";"Hydra 70 Wrap-Around Fin Aerial Rocket [M247 High-Explosive Dual-Purpose Warhead]"
 "weapons/us_hydra_70_m247_default/short";"Hydra 70 WAFAR [HEDP]"
+#
+weapons/us_m8bazooka;M8 114mm Anti-Tank Rocket
+weapons/us_m8bazooka/short;M8 [HE]
+114mm_m8;M8 [HE]
+weapons/110mm_M8_rocket_launcher/short;M8
+weapons/110mm_M8/short;M8
 #
 #Rocket, GER
 weapons/de_r4m_pb2_rocket;Panzerblitz 2 Anti-Tank Rocket
@@ -2422,6 +2515,9 @@ weapons/de_r4m_orkan_rocket/short;R4M
 #
 weapons/de_rz65_rocket;"Rauchzylinder 65 Bordrakete ""Föhn"" Air-to-Air Rocket"
 weapons/de_rz65_rocket/short;RZ 65 Föhn
+#
+weapons/sws_oerlikon_oe82;Oe85 80mm Anti-Tank Rocket [HEAT]
+weapons/sws_oerlikon_oe82/short;Oe85 [HEAT]
 #
 #Rocket, USSR
 weapons/su_rbs132;RBS-132 132mm Semi Armor-Piercing High-Explosive Rocket
@@ -2532,73 +2628,120 @@ weapons/uk_1000lb_ap_redangel/short;Red Angel [AP]
 weapons/uk_hvar;HVAR rockets
 weapons/uk_rocket;rocket
 #
-weapons/uk_rp3;RP-3 rockets
-weapons/uk_rp3_2;RP-3 rockets
-weapons/uk_rp3_3;RP-3 rockets
+weapons/uk_rp3;RP-3 3in High-Explosive Rocket
+weapons/uk_rp3_2;RP-3 3in High-Explosive Rocket
+weapons/uk_rp3_3;RP-3 3in High-Explosive Rocket
 #
-weapons/uk_rp3_4a;RP-3 rockets
-weapons/uk_rp3_4a_late;RP-3 rockets
-weapons/uk_rp3_4a_late/short;RP-3
+weapons/uk_rp3_4a;RP-3 3in High-Explosive Rocket
+weapons/uk_rp3_4a_late;RP-3 3in High-Explosive Rocket
+weapons/uk_rp3_4a_late/short;RP-3 [HE]
 #
-weapons/uk_rp3_4a_default;RP-3 rockets
-weapons/uk_rp3_4a_default/short;RP-3
+weapons/uk_rp3_4a_default;RP-3 3in High-Explosive Rocket
+weapons/uk_rp3_4a_default/short;RP-3 [HE]
 #
-weapons/uk_rp3_4b;RP-3 rockets
-weapons/uk_rp3_4b_late;RP-3 rockets
-weapons/uk_rp3_4b_late/short;RP-3
+weapons/uk_rp3_4b;RP-3 3in High-Explosive Rocket
+weapons/uk_rp3_4b_late;RP-3 3in High-Explosive Rocket
+weapons/uk_rp3_4b_late/short;RP-3 [HE]
 #
-weapons/uk_rp3_2_late;RP-3 rockets
-weapons/uk_rp3_2_late/short;RP-3
+weapons/uk_rp3_2_late;RP-3 3in High-Explosive Rocket
+weapons/uk_rp3_2_late/short;RP-3 [HE]
 #
-weapons/uk_rp3_late;RP-3 rockets
-weapons/uk_rp3_late/short;RP-3
+weapons/uk_rp3_late;RP-3 3in High-Explosive Rocket
+weapons/uk_rp3_late/short;RP-3 [HE]
 #
-weapons/uk_25lb_ap_mk1;AP Mk I rockets
-weapons/uk_25lb_ap_mk1_1;AP Mk I rockets
-weapons/uk_25lb_ap_mk1_1/short;AP Mk I
+weapons/uk_25lb_ap_mk1;A.P. Mk.I 3.5in Armour-Piercing Rocket
+weapons/uk_25lb_ap_mk1_1;A.P. Mk.I 3.5in Armour-Piercing Rocket
+weapons/uk_25lb_ap_mk1_1/short;A.P. Mk.I [AP]
 #
-weapons/uk_25lb_ap_mk1_2;AP Mk I rockets
-weapons/uk_25lb_ap_mk1_3;AP Mk I rockets
-weapons/uk_25lb_ap_mk1_4a;AP Mk I rockets
-weapons/uk_25lb_ap_mk1_4b;AP Mk I rockets
+weapons/uk_25lb_ap_mk1_2;A.P. Mk.I 3.5in Armour-Piercing Rocket
+weapons/uk_25lb_ap_mk1_3;A.P. Mk.I 3.5in Armour-Piercing Rocket
+weapons/uk_25lb_ap_mk1_4a;A.P. Mk.I 3.5in Armour-Piercing Rocket
+weapons/uk_25lb_ap_mk1_4b;A.P. Mk.I 3.5in Armour-Piercing Rocket
 #
-weapons/uk_25lb_ap_mk2;AP Mk II rockets
-weapons/uk_25lb_ap_mk2_late/short;AP Mk II
-weapons/uk_25lb_ap_mk2_late;AP Mk II rockets
-weapons/uk_25lb_ap_mk2_2;AP Mk II rockets
-weapons/uk_25lb_ap_mk2_3;AP Mk II rockets
-weapons/uk_25lb_ap_mk2_4a;AP Mk II rockets
-weapons/uk_25lb_ap_mk2_4b;AP Mk II rockets
+weapons/uk_25lb_ap_mk2;A.P. Mk.II 3.8in Armour-Piercing Rocket
+weapons/uk_25lb_ap_mk2_late/short;A.P. Mk.II [AP]
+weapons/uk_25lb_ap_mk2_late;A.P. Mk.II 3.8in Armour-Piercing Rocket
+weapons/uk_25lb_ap_mk2_2;A.P. Mk.II 3.8in Armour-Piercing Rocket
+weapons/uk_25lb_ap_mk2_3;A.P. Mk.II 3.8in Armour-Piercing Rocket
+weapons/uk_25lb_ap_mk2_4a;A.P. Mk.II 3.8in Armour-Piercing Rocket
+weapons/uk_25lb_ap_mk2_4b;A.P. Mk.II 3.8in Armour-Piercing Rocket
 #
-weapons/uk_25lb_ap_mk1/short;AP Mk I
-weapons/uk_25lb_ap_mk1_2/short;AP Mk I
-weapons/uk_25lb_ap_mk1_3/short;AP Mk I
-weapons/uk_25lb_ap_mk1_4a/short;AP Mk I
-weapons/uk_25lb_ap_mk1_4b/short;AP Mk I
+weapons/uk_25lb_ap_mk1/short;A.P. Mk.I [AP]
+weapons/uk_25lb_ap_mk1_2/short;A.P. Mk.I [AP]
+weapons/uk_25lb_ap_mk1_3/short;A.P. Mk.I [AP]
+weapons/uk_25lb_ap_mk1_4a/short;A.P. Mk.I [AP]
+weapons/uk_25lb_ap_mk1_4b/short;A.P. Mk.I [AP]
 #
-weapons/uk_25lb_ap_mk2/short;AP Mk II
-weapons/uk_25lb_ap_mk2_2/short;AP Mk II
-weapons/uk_25lb_ap_mk2_3/short;AP Mk II
-weapons/uk_25lb_ap_mk2_4a/short;AP Mk II
-weapons/uk_25lb_ap_mk2_4b/short;AP Mk II
+weapons/uk_25lb_ap_mk2/short;A.P. Mk.II [AP]
+weapons/uk_25lb_ap_mk2_2/short;A.P. Mk.II [AP]
+weapons/uk_25lb_ap_mk2_3/short;A.P. Mk.II [AP]
+weapons/uk_25lb_ap_mk2_4a/short;A.P. Mk.II [AP]
+weapons/uk_25lb_ap_mk2_4b/short;A.P. Mk.II [AP]
 #
-weapons/uk_25lb_ap_mk1_4a_default;AP Mk I rockets
-weapons/uk_25lb_ap_mk1_4a_default/short;AP Mk I
+weapons/uk_25lb_ap_mk1_4a_default;A.P. Mk.I 3.5in Armour-Piercing Rocket
+weapons/uk_25lb_ap_mk1_4a_default/short;A.P. Mk.I [AP]
 #
-weapons/uk_CRV7_m247;70 mm CRV7 M247 rocket
-weapons/uk_CRV7_m247/short;CRV7 M247
+weapons/uk_CRV7_m247;Canadian Rocket Vehicle 7 70mm Anti-Tank Rocket [M247 High-Explosive Anti-Tank Warhead]
+weapons/uk_CRV7_m247/short;CRV7 [HEAT]
+#
+weapons/uk_hvar;High-Velocity Aircraft Rocket (Semi-Armour Piercing High Explosive Warhead)
+weapons/uk_hvar/short;HVAR [SAP-HE]
+#
+weapons/fr_sneb_type23_expo;Type 23 Société Nouvelle des Établissements Edgar Brandt Anti-Tank Rocket
+weapons/fr_sneb_type23_expo/short;Type 23 SNEB [HEAT]
 #
 #Rocket, JP
 #
-#Rocket, CN
-#
 #Rocket, IT
 #
-#Rocket, FR
+#Rockets, FR
+#
+weapons/fr_sneb_type23_late;Type 23 SNEB | Société Nouvelle des Établissements Edgar Brandt 68mm Anti-Tank Rocket
+weapons/fr_sneb_type23_late/short;Type 23 SNEB [HEAT]
+#
+weapons/fr_sneb_type23_4fin;Type 23 SNEB | Société Nouvelle des Établissements Edgar Brandt 68mm Anti-Tank Rocket
+weapons/fr_sneb_type23_4fin/short;Type 23 SNEB [HEAT]
+#
+weapons/fr_sneb_type23_md_460;Type 23 SNEB | Société Nouvelle des Établissements Edgar Brandt 68mm Anti-Tank Rocket
+weapons/fr_sneb_type23_md_460/short;Type 23 SNEB [HEAT]
+#
+weapons/fr_sneb_type26;Type 26P SNEB | Société Nouvelle des Établissements Edgar Brandt 68mm Anti-Tank Rocket
+weapons/fr_sneb_type26/short;Type 26P SNEB [HE]
+#
+weapons/fr_sneb_type23s;Type 23 SNEB | Société Nouvelle des Établissements Edgar Brandt 68mm Anti-Tank Rocket
+weapons/fr_sneb_type23s/short;Type 23 SNEB [HEAT]
+#
+weapons/fr_tba_multidart_ab;TBA Multi-Dart 100 Anti-Blindés 100mm Anti-Tank Rocket
+weapons/fr_tba_multidart_ab/short;TBA Multi-Dart 100 AB [AP]
+#
+weapons/fr_tba_ecc;TBA 100 Explosif à Charge Creuse 100mm Anti-Tank Rocket
+weapons/fr_tba_ecc/short;TBA 100 ECC [HEAT]
 #
 #Rocket, SWE
 #
 #Rocket, ISR
+#
+#Torpedoes, USA
+#
+weapons/us_mk13_torpedo;Mark 13 Model 6B 22.5in Torpedo
+weapons/us_mk13_torpedo/short;Mk.13 Mod 6B
+#
+weapons/us_mk13_torpedo_tutorial;Mark 13 Model 6B 22.5in Torpedo
+weapons/us_mk13_torpedo_tutorial/short;Mk.13 Mod 6B
+#
+weapons/us_mk13_torpedo_no_case;Mark 13 Model 6 22.5in Torpedo
+weapons/us_mk13_torpedo_no_case/short;Mk.13 Mod 6
+#
+weapons/us_mk13_torpedo_weak;Mark 13 Model 6 22.5in Torpedo
+weapons/us_mk13_torpedo_weak/short;Mk.13 Mod 6
+#Torpedoes, UK
+#
+weapons/uk_mk15_torpedo;Mark XV 18in Torpedo
+weapons/uk_mk15_torpedo_no_stab;Mark XV 18in Torpedo
+weapons/uk_mk15_torpedo_no_stab/short;Mk.XV
+#
+weapons/uk_mk12_torpedo;Mark XII 18in Torpedo
+weapons/uk_mk12_torpedo/short;Mk.XII
 #
 #Sensors, USA
 "weapons/us_sniper_atp_targeting_pod";"AN/AAQ-33 Sniper Advanced Targeting Pod"
