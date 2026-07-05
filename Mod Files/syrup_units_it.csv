@@ -500,6 +500,13 @@ ef_2000a_aesa_0;Eurofighter Jagdflugzeug GmbH | ⛨F-2000A Typhoon | Tranche 3A 
 ef_2000a_aesa_1;⛨F-2000A Typhoon (ECRS Mk2);;
 ef_2000a_aesa_2;⛨F-2000A (ECRS Mk2);;
 #
+m_346fa_shop;M-346FA Master;;
+m_346fa_0;"Alenia Aermacchi S.p.A / Leonardo S.p.A
+M-346 Master
+FA | Fighter Attack";;
+m_346fa_1;M-346FA Master;;
+m_346fa_2;M-346FA;;
+#
 "shop/group/mig-21_hungary_group";"◔MiG-21 Fishbed";;
 "shop/group/fiat_g91_group";"G.91 Gina";;
 "shop/group/fiat_g91y_group";"G.91Y Yankee";;

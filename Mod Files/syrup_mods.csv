@@ -1,562 +1,393 @@
-"<ID|readonly|
-noverify>";"<English>";
-
-//Mod Categories
-"modification/category/lth";"Flight Performance";;
-
-"modification/category/armor";"Survivability";;
-
-"modification/category/weapon";"Weaponry";;
-
-"modification/category/mobility";"Mobility";;
-
-"modification/category/protection";"Protection";;
-
-"modification/category/firepower";"Firepower";;
-
-"modification/category/primaryWeapon";"Primary Weapons";;
-
-"modification/category/secondaryWeapon";"Secondary Weapons";;
-
-"modification/category/premiumMods";"Special";;
-
-"modification/category/expendables";"Supplies";;
-
-"modification/category/seakeeping";"Seakeeping";;
-
-"modification/category/unsinkability";"Unsinkability";;
-
-"modification/category/bonus";"Tier Bonus";;
-
-//Mod Tooltips
-"modification/category/bonus/tooltip";"When researching all modifications at each tier, you will receive bonus RP for the vehicle being researched in the amount of {bonus}% of the sum of RP spent on researching all modifications of that tier.";;
-
-"modification/tierBonus";"Bonus:";;
-
-"modification/bonusReceived";"Bonus Received";;
-
-"modification/progressModsText";"Research of all modifications: {earnedExp} / {reqExp}";;
-
-"modification/progressModsAllResearchedText";"◕ All Modificationss Researched";;
-
-//Miscellaneous Mods
-"modification/hydravlic_power";"New Boosters";;
-"modification/hydravlic_power/desc";"New hydraulic boosters improve the plane's maneuverability.";;
-
-"modification/new_compressor_r";"Compressor";;
-"modification/new_compressor_r/desc";"Checking, tweaking, and regular maintenance of the compressor increases maximum engine power, boosting acceleration and top speed.";;
-
-"modification/new_compressor_jet";"Compressor";;
-"modification/new_compressor_jet/desc";"Checking, tweaking, and regular maintenance of the compressor increases maximum engine power, boosting acceleration and top speed.";;
-
-"modification/new_radiator_r";"Radiator";;
-"modification/new_radiator_r/desc";"Cleaning of the radiator and cooling system makes engine cooling more effective.";;
-
-"modification/hp_105_r";"Engine";;
-"modification/hp_105_r/desc";"Replacement of worn engine with a new one, increasing acceleration and top speed.";;
-
-"modification/hp_105_jet";"Engine";;
-"modification/hp_105_jet/desc";"Replacement of worn engine with a new one, increasing acceleration and top speed.";;
-
-"modification/structure_str_r";"Airframe";;
-"modification/structure_str_r/desc";"Replacement of damaged airframe elements increases the plane's overall durability and flight performance due to weight reduction. For some planes, this means that you get a new plane with an undamaged airframe.";;
-
-"modification/f_4c_structure_str";"Airframe";;
-"modification/f_4c_structure_str/desc";"Replacement of damaged airframe elements increases the plane's overall durability and flight performance due to weight reduction. For some planes, this means that you get a new plane with an undamaged airframe.";;
-
-"modification/tis_ma_structure_str";"Airframe";;
-"modification/tis_ma_structure_str/desc";"Replacement of damaged airframe elements increases the plane's overall durability and flight performance due to weight reduction. For some planes, this means that you get a new plane with an undamaged airframe.";;
-
-"modification/new_cover_r";"Cover";;
-"modification/new_cover_r/desc";"Regular maintaining of cover and replacement of damaged cover parts increases the plane's overall durability and flight performance due to weight reduction.";;
-
-"modification/CdMin_Fuse_r";"Fuselage Repair";;
-"modification/CdMin_Fuse_r/desc";"Replacement of damaged elements of fuselage skinning, removal of openings, and surface finish to reduce air drag.";;
-
-"modification/f_4c_CdMin_Fuse";"Fuselage Repair";;
-"modification/f_4c_CdMin_Fuse/desc";"Replacement of damaged elements of fuselage skinning, removal of openings, and surface finish to reduce air drag.";;
-
-"modification/cd_98_r";"Wings Repair";;
-"modification/cd_98_r/desc";"Replacement of damaged elements of wing skin, removal of openings, and surface finish to reduce air drag.";;
-
-"modification/cd_98";"Wings Repair";;
-"modification/cd_98/desc";"Replacement of damaged elements of wing skin, removal of openings, and surface finish to reduce air drag.";;
-
-"modification/g_suit";"G-Suit";;
-"modification/g_suit/desc";"G-Suit makes it easier to carry high G-loads, allowing the pilot to sustain high-G maneuvers for longer periods of time before losing consciousness.";;
-
-"modification/f_4c_g_suit";"G-Suit";;
-"modification/f_4c_g_suit/desc";"G-Suit makes it easier to carry high G-loads, allowing the pilot to sustain high-G maneuvers for longer periods of time before losing consciousness.";;
-
-"modification/air_extinguisher/desc";"Manually-activated fire suppression system which enables the aircraft to put out engine fires.";;
-"modification/air_extinguisher";"Engine Fire System";;
-
-"modification/automatic_air_extinguisher/desc";"Automatically-activated fire suppression system which enables the aircraft to put out engine fires.";;
-"modification/automatic_air_extinguisher";"Automatic Engine Fire System";;
-
-"modification/countermeasures_belt_pack";"ECM System";;
-"modification/countermeasures_belt_pack/desc";"Electronic Countermeasures System consisting of countermeasures dispensers with provisions for flares and chaff. Flares confuse infrared-guided missiles, while chaff confuses radars and radar-guided missiles.";;
-
-"modification/countermeasures_belt_pack_unchecked";"ECM System";;
-"modification/countermeasures_belt_pack_unchecked/desc";"Electronic Countermeasures System consisting of countermeasures dispensers with provisions for flares and chaff. Flares confuse infrared-guided missiles, while chaff confuses radars and radar-guided missiles.";;
-
-"modification/chaff_pods";"ECM Pods (Chaff)";;
-"modification/chaff_pods/desc";"Allows the installation of external Electronic Countermeasures pods. These pods contain dispensers with belts of chaff, which confuses radars and radar-guided missiles.";;
-
-"modification/MAW_system_heli_false_thermal_targets/desc";"Missile Approach Warning System which alerts the pilot when a missile has been launched at their aircraft. The MAWS will display the missile's approach vector on the aircraft's RWR, and has a configurable option (toggled ON by default) which will automatically dump countermeasures upon detecting a missile.";;
-"modification/MAW_system_heli_false_thermal_targets";"MAWS";;
-
-"modification/MAW_system_heli_false_thermal_targets_large/desc";"Missile Approach Warning System which alerts the pilot when a missile has been launched at their aircraft. The MAWS will display the missile's approach vector on the aircraft's RWR, and has a configurable option (toggled ON by default) which will automatically dump countermeasures upon detecting a missile.";;
-"modification/MAW_system_heli_false_thermal_targets_large";"MAWS";;
-
-"modification/PIDS_false_thermal_targets/desc";"Allows the installation of Pylon Integrated Dispenser Stations; these are ECM pods which fit onto the aircraft's missile pylons and contain provisions for chaff and flares. Flares confuse infrared-guided missiles, while chaff confuses radars and radar-guided missiles.";;
-"modification/PIDS_false_thermal_targets";"PIDS";;
-
-"modification/uk_terma_mcp_false_thermal_targets/desc";"Missile Approach Warning System which alerts the pilot when a missile has been launched at their aircraft. The MAWS will display the missile's approach vector on the aircraft's RWR, and has a configurable option (toggled ON by default) which will automatically dump countermeasures upon detecting a missile.";;
-"modification/uk_terma_mcp_false_thermal_targets";"MAWS";;
-
-"modification/uk_ltc_bol";"BOL Pods";;
-"modification/uk_ltc_bol/desc";"Allows the installation of Back-Of-Launcher countermeasures pods; these are ECM pods which fit onto the aircraft's missile pylons and contain provisions for chaff and flares. Flares confuse infrared-guided missiles, while chaff confuses radars and radar-guided missiles.";;
-
-"modification/swd_ltc_bol";"BOL Pods";;
-"modification/swd_ltc_bol/desc";"Allows the installation of Back-Of-Launcher countermeasures pods; these are ECM pods which fit onto the aircraft's missile pylons and contain provisions for chaff and flares. Flares confuse infrared-guided missiles, while chaff confuses radars and radar-guided missiles.";;
-
-//Countermeasures
-"modification/_countermeasures";"ECM System";;
-"modification/countermeasures_launcher_flare_only_unchecked";"ECM System: Flares";;
-"modification/countermeasures_launcher_flare_only";"ECM System: Flares";;
-"countermeasures_launcher_chaff/name";"ECM System: Chaff";;
-"modification/countermeasures_launcher_chaff_only_unchecked";"ECM System: Chaff";;
-"modification/ountermeasures_launcher_chaff_only";"ECM System: Chaff";;
-"countermeasures_launcher_chaff_large/name";"ECM System: Large-Caliber Chaff";;
-"modification/countermeasures_launcher_chaff_priority";"ECM System, Chaff Priority: Countermeasures";;
-"modification/countermeasures_launcher_flare_priority";"ECM System, Flare Priority: Countermeasures";;
-"modification/countermeasures_launcher_chaff_priority_unchecked";"ECM System, Chaff Priority: Countermeasures";;
-"modification/countermeasures_launcher_flare_priority_unchecked";"ECM System, Flare Priority: Countermeasures";;
-
-"countermeasuresBol_default/name";"Back-of-Launcher Pods: Countermeasures";;
-"countermeasures_launcher_chaff_bol_pod/name";"Back-of-Launcher Pods: Countermeasures";;
-
-"countermeasuresMAW_default/name";"ECM System (MAWS-linked): Countermeasures";;
-"maw_countermeasures_launcher_chaff/name";"ECM-MAWS: Chaff";;
-"maw_countermeasures_launcher_chaff_large/name";"ECM-MAWS: Large-Caliber Chaff";;
-
-"countermeasures_launcher_chaff_add_pod/name";"ECM Pods: Chaff";;
-"countermeasures_launcher_chaff_large_add_pod/name";"ECM Pods: Large-Caliber Chaff";;
-
-//Offensive Armaments
-"modification/_belt_pack";"%smm Belts";;
-"modification/_belt_pack/desc";"Set of %smm belts for offensive weapons.";;
-"modification/_belt_pack/short";"%smm Belts";;
-
-"modification/_turret_belt_pack";"%smm Turret Belts";;
-"modification/_turret_belt_pack/desc";"Set of %smm belts for turret weapons.";;
-"modification/_turret_belt_pack/short";"%smm Turret Belts";;
-
-"modification/_new_gun/cannon";"New %smm Cannons";;
-"modification/_new_gun/cannon/desc";"The %smm cannons' worn barrels, trigger and striking mechanisms are replaced with new ones, to improve fire density and to decrease the chance of seizure.";;
-
-"modification/_new_gun";"New %smm MGs";;
-"modification/_new_gun/desc";"The %smm machine guns' worn barrels, trigger and striking mechanisms are replaced with new ones, to improve fire density and to decrease the chance of seizure.";;
-
-"modification/_turret_new_gun";"New %smm MGs (turret)";;
-"modification/_turret_new_gun/desc";"The %smm turret machine guns' worn barrels, trigger and striking mechanisms are replaced with new ones, to improve fire density and to decrease the chance of seizure.";;
-
-"modification/_turret_new_gun/cannon";"New %smm Cannons (Turret)";;
-"modification/_turret_new_gun/cannon/desc";"The %smm turret cannons' worn barrels, trigger and striking mechanisms are replaced with new ones, to improve fire density and to decrease the chance of seizure.";;
-
-"modification/_tank_gun_pack";"%smm Cannon";;
-"modification/_tank_minigun_pack";"%smm Machine Gun";;
-
-//Gunpods, US
-"modification/f4c_suu_23a";"SUU-23/A";;
-"modification/f4c_suu_23a/desc";"Allows the installation of the SUU-23/A gunpod, carrying the GAU-4A Vulcan 20mm rotary autocannon.";;
-
-"modification/us_suu_16a";"SUU-16/A";;
-"modification/us_suu_16a/desc";"Allows the installation of the SUU-16/A gunpod, carrying the M61A1 Vulcan 20mm rotary autocannon.";;
-
-"modification/a_7d_gpu_5a";"GPU-5/A ""Pave Claw""";;
-"modification/a_7d_gpu_5a/desc";"Allows the installation of the GPU-5/A ""Pave Claw"" gunpod, carrying the GAU-13/A 30mm rotary autocannon.";;
-
-"modification/us_gpu_2a";"GPU-2/A";;
-"modification/us_gpu_2a/desc";"Allows the installation of the GPU-2/A gunpod, carrying the M197 20mm rotary autocannon.";;
-
-"modification/us_gau_19";"GP-19";;
-"modification/us_gau_19/desc";"Allows the installation of the GP-19 gunpod, carrying the GAU-19/A 12.7mm rotary heavy machine gun.";;
-
-//Missiles, US
-"modification/us_aim_7d/desc";"Allows the installation of AIM-7D Sparrow air-to-air missiles.";;
-"modification/us_aim_7d";"AIM-7D Sparrow";;
-
-"modification/us_aim_7c/desc";"Allows the installation of AIM-7С Sparrow air-to-air missiles.";;
-"modification/us_aim_7c";"AIM-7С Sparrow";;
-
-"modification/us_aim_7e/desc";"Allows the installation of AIM-7E Sparrow air-to-air missiles.";;
-"modification/us_aim_7e";"AIM-7E Sparrow";;
-
-"modification/us_aim_7e2/desc";"Allows the installation of AIM-7E-2 Sparrow air-to-air missiles.";;
-"modification/us_aim_7e2";"AIM-7E-2 Sparrow";;
-
-"modification/us_aim_7f/desc";"Allows the installation of AIM-7F-11 Sparrow air-to-air missiles.";;
-"modification/us_aim_7f";"AIM-7F-11 Sparrow";;
-
-"modification/us_aim_7m/desc";"Allows the installation of AIM-7MF-1 Sparrow air-to-air missiles.";;
-"modification/us_aim_7m";"AIM-7MF-1 Sparrow";;
-
-"modification/us_aim_7p/desc";"Allows the installation of AIM-7P-2 Sparrow air-to-air missiles.";;
-"modification/us_aim_7p";"AIM-7P-2 Sparrow";;
-
-"modification/us_aim_54a/desc";"Allows the installation of AIM-54A Phoenix air-to-air missiles.";;
-"modification/us_aim_54a";"AIM-54A Phoenix";;
-
-"modification/us_aim_54c/desc";"Allows the installation of AIM-54C Phoenix air-to-air missiles.";;
-"modification/us_aim_54c";"AIM-54C Phoenix";;
-
-"modification/us_aim_120a/desc";"Allows the installation of AIM-120A Advanced Medium-Range Air-to-Air Missiles.";;
-"modification/us_aim_120a";"AIM-120A AMRAAM";;
-
-"modification/us_aim_120b/desc";"Allows the installation of AIM-120B Advanced Medium-Range Air-to-Air Missiles.";;
-"modification/us_aim_120b";"AIM-120B AMRAAM";;
-
-"modification/us_aim_120c/desc";"Allows the installation of AIM-120C-5 Advanced Medium-Range Air-to-Air Missiles.";;
-"modification/us_aim_120c";"AIM-120C-5 AMRAAM";;
-
-"modification/us_aim_9b/desc";"Allows the installation of AIM-9B Sidewinder air-to-air missiles.";;
-"modification/us_aim_9b";"AIM-9B Sidewinder";;
-
-"modification/f5_us_aim_9e/desc";"Allows the installation of AIM-9E Sidewinder air-to-air missiles and Flares/Chaff.";;
-"modification/f5_us_aim_9e";"AIM-9E Sidewinder (CM)";;
-
-"modification/us_aim_9e/desc";"Allows the installation of AIM-9E Sidewinder air-to-air missiles.";;
-"modification/us_aim_9e";"AIM-9E Sidewinder";;
-
-"modification/us_aim_9j/desc";"Allows the installation of AIM-9J Sidewinder air-to-air missiles.";;
-"modification/us_aim_9j";"AIM-9J Sidewinder";;
-
-"modification/us_aim_9d/desc";"Allows the installation of AIM-9D Sidewinder air-to-air missiles.";;
-"modification/us_aim_9d";"AIM-9D Sidewinder";;
-
-"modification/us_aim_9g/desc";"Allows the installation of AIM-9G Sidewinder air-to-air missiles.";;
-"modification/us_aim_9g";"AIM-9G Sidewinder";;
-
-"modification/us_aim_9h/desc";"Allows the installation of AIM-9H Sidewinder air-to-air missiles.";;
-"modification/us_aim_9h";"AIM-9H Sidewinder";;
-
-"modification/us_aim_9l/desc";"Allows the installation of AIM-9L Sidewinder air-to-air missiles.";;
-"modification/us_aim_9l";"AIM-9L Sidewinder";;
-
-"modification/us_aim_9l_i/desc";"Allows the installation of AIM-9L/I Sidewinder air-to-air missiles.";;
-"modification/us_aim_9l_i";"AIM-9L/I-1 Sidewinder";;
-
-"modification/us_aim_9l_i_1/desc";"Allows the installation of AIM-9L/I-1 Sidewinder air-to-air missiles.";;
-"modification/us_aim_9l_i_1";"AIM-9L/I-1 Sidewinder";;
-
-"modification/us_aim_9m/desc";"Allows the installation of AIM-9M-4 Sidewinder air-to-air missiles.";;
-"modification/us_aim_9m";"AIM-9M-4 Sidewinder";;
-
-"modification/us_aim_9n/desc";"Allows the installation of AIM-9N Sidewinder air-to-air missiles.";;
-"modification/us_aim_9n";"AIM-9N Sidewinder";;
-
-"modification/us_aim_9p/desc";"Allows the installation of AIM-9P-3 Sidewinder air-to-air missiles.";;
-"modification/us_aim_9p";"AIM-9P-3 Sidewinder";;
-
-"modification/us_aim_9p4/desc";"Allows the installation of AIM-9P-4 Sidewinder air-to-air missiles.";;
-"modification/us_aim_9p4";"AIM-9P-4 Sidwinder";;
-
-"modification/f5_us_aim_9b/desc";"Allows the installation of AIM-9B Sidewinder air-to-air missiles and Flares/Chaff.";;
-"modification/f5_us_aim_9b";"AIM-9B Sidewinder (CM)";;
-
-"modification/f5_us_aim_9e/desc";"Allows the installation of AIM-9E Sidewinder air-to-air missiles and Flares/Chaff.";;
-"modification/f5_us_aim_9e";"AIM-9E Sidewinder (CM)";;
-
-"modification/us_agm_65a/desc";"Allows the installation of AGM-65A Maverick air-to-ground missiles.";;
-"modification/us_agm_65a";"AGM-65A Maverick";;
-
-"modification/us_agm_65b/desc";"Allows the installation of AGM-65B Maverick air-to-ground missiles.";;
-"modification/us_agm_65b";"AGM-65B Maverick";;
-
-"modification/us_agm_65d/desc";"Allows the installation of AGM-65D Maverick air-to-ground missiles.";;
-"modification/us_agm_65d";"AGM-65D Maverick";;
-
-"modification/us_agm_65g/desc";"Allows the installation of AGM-65G Maverick air-to-ground missiles.";;
-"modification/us_agm_65g";"AGM-65G Maverick";;
-
-"modification/us_agm_65h/desc";"Allows the installation of AGM-65H Maverick air-to-ground missiles.";;
-"modification/us_agm_65h";"AGM-65H Maverick";;
-
-"modification/us_agm_65e/desc";"Allows the installation of AGM-65E Maverick air-to-ground missiles.";;
-"modification/us_agm_65e";"AGM-65E Maverick";;
-
-"modification/us_agm_65f/desc";"Allows the installation of AGM-65F Maverick air-to-ground missiles.";;
-"modification/us_agm_65f";"AGM-65F Maverick";;
-
-"modification/us_agm_65l/desc";"Allows the installation of AGM-65L Maverick air-to-ground missiles.";;
-"modification/us_agm_65l";"AGM-65L Maverick";;
-
-"modification/fj_4b_agm_12b";"AGM-12B Bullpup";;
-"modification/fj_4b_agm_12b/desc";"Allows the installation of AGM-12B Bullpup air-to-ground missiles.";;
-
-"modification/fj_4b_agm_12c";"AGM-12C Bullpup";;
-"modification/fj_4b_agm_12c/desc";"Allows the installation of AGM-12C Bullpup air-to-ground missiles.";;
-
-"modification/us_agm_130/desc";"Allows the installation of AGM-130A-12 air-to-ground missiles.";;
-"modification/us_agm_130";"AGM-130A-12";;
-
-//Missiles, GER
-"modification/us_aim_9b_fgw_2/desc";"Allows the installation of AIM-9F Sidewinder air-to-air missiles.";;
-"modification/us_aim_9b_fgw_2";"AIM-9F Sidewinder";;
-
-"modification/sws_flz_lwf_63_80/desc";"Allows the installation of Flugzeug Lenkwaffe Luft-Luft 63/80 air-to-air missiles.";;
-"modification/sws_flz_lwf_63_80";"Flz Lwf LL 63/80";;
-
-"modification/sws_flz_lwf_63_75/desc";"Allows the installation of Flugzeug Lenkwaffe Luft-Luft 63/75 SIWA air-to-air missiles.";;
-"modification/sws_flz_lwf_63_75";"Flz Lwf LL 63/75 SIWA";;
-
-"modification/sws_flz_lwf_63/desc";"Allows the installation of Flugzeug Lenkwaffe Luft-Luft 63 air-to-air missiles.";;
-"modification/sws_flz_lwf_63";"Flz Lwf LL 63";;
-
-"modification/sws_flz_lwf_ll_64/desc";"Allows the installation of Flugzeug Lenkwaffe Luft-Luft 64/79 FALCO air-to-air missiles.";;
-"modification/sws_flz_lwf_ll_64";"Flz Lwf LL 64/79 FALCO";;
-
-"modification/sws_flz_lwf_lb_82/desc";"Allows the installation of Flugzeug Lenkwaffe Luft-Boden 82 air-to-ground missiles.";;
-"modification/sws_flz_lwf_lb_82";"Flz Lwf LB 82";;
-
-"modification/flz_lwf_lb_66";"Flz Lwf LB 66";;
-"modification/flz_lwf_lb_66/desc";"Allows the installation of Flugzeug Lenkwaffe Luft-Boden 68 air-to-ground missiles.";;
-
-//Missiles, JP
-"modification/jp_aam3/desc";"Allows the installation of Type 90 Air-to-Air Guided Missiles.";;
-"modification/jp_aam3";"AAM-3";;
-
-"modification/jp_aam4/desc";"Allows the installation of Type 99 Air-to-Air Guided Missiles.";;
-"modification/jp_aam4";"AAM-4";;
-
-"modification/jp_asm1";"ASM-1";;
-"modification/jp_asm1/desc";"Allows the installation of Type 80 Air-to-Ship Guided Missiles.";;
-
-"modification/jp_asm2";"ASM-2";;
-"modification/jp_asm2/desc";"Allows the installation of Type 93 Air-to-Ship Guided Missiles.";;
-
-//Missiles, SWE
-"modification/swd_rb74/desc";"Allows the installation of Luftmålsrobot 74 air-to-air missiles.";;
-"modification/swd_rb74";"Rb 74";;
-
-"modification/swd_rb74m/desc";"Allows the installation of Luftmålsrobot 74(M) air-to-air missiles.";;
-"modification/swd_rb74m";"Rb 74(M)";;
-
-"modification/swe_rb24/desc";"Allows the installation of Luftmålsrobot 24 air-to-air missiles.";;
-
-"modification/swe_rb24j/desc";"Allows the installation of Luftmålsrobot 24J air-to-air missiles.";;
-"modification/swe_rb24j";"Rb 24J";;
-
-"modification/swe_rb71/desc";"Allows the installation of Luftmålsrobot 71 air-to-air missiles.";;
-"modification/swe_rb71";"Rb 71";;
-
-"modification/swd_rb99/desc";"Allows the installation of Luftmålsrobot 99 air-to-air missiles.";;
-"modification/swd_rb99";"Rb 99";;
-
-//Rockets, US
-"modification/f4c_zuni/desc";"Allows the installation of LAU-10/A rocket pods for launching Mk32 Mod 0 ""Zuni"" Anti-Tank/Anti-Personnel rockets.";;
-"modification/f4c_zuni";"LAU-10/A";;
-
-"modification/us_2_75_in_ffar_lau_3a/desc";"Allows the installation of LAU-3/A rocket pods for firing Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rockets.";;
-"modification/us_2_75_in_ffar_lau_3a";"LAU-3/A";;
-
-"modification/us_2_75_in_ffar_lau_x6a/desc";"Allows the installation of Aero X-6A rocket pods for firing Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rockets.";;
-"modification/us_2_75_in_ffar_lau_x6a";"Aero X-6A";;
-
-"modification/us_2_75_in_ffar_lau_32/desc";"Allows the installation of LAU-32 rocket pods for firing Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rockets.";;
-"modification/us_2_75_in_ffar_lau_32";"LAU-32";;
-
-"modification/us_2_75_in_ffar_lau_51/desc";"Allows the installation of LAU-51 rocket pods for firing Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rockets.";;
-"modification/us_2_75_in_ffar_lau_51";"LAU-51";;
-
-"modification/us_hydra_70_lau_68/desc";"Allows the installation of LAU-68 rocket pods for firing Hydra 70 unguided rockets.";;
-"modification/us_hydra_70_lau_68";"LAU-68";;
-
-"modification/us_2_75_in_ffar_rl_7/desc";"Allows the installation of RL-7 rocket pods for firing Hydra 70 unguided rockets.";;
-"modification/us_2_75_in_ffar_rl_7";"RL-7";;
-
-"modification/us_apkws/desc";"Allows the installation of AGR-20A/B Advanced Precision Kill Weapon System II guided rockets.";;
-"modification/us_apkws";"AGR-20 APKWS II";;
-
-//Rockets, JP
-"modification/jp_jlau_3a/desc";"Allows the installation of JLAU-3/A Rocket Pods for launching Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rockets.";;
-"modification/jp_jlau_3a";"JLAU-3/A";;
-
-//Bombs, US
-"modification/us_agm_62/desc";"Allows the installation of AGM-62A Walleye I TV-guided bombs.";;
-"modification/us_agm_62";"AGM-62A Walleye I";;
-
-"modification/us_agm_62_2_erdl/desc";"Allows the installation of AGM-62 Walleye II ER/DL TV-guided bombs.";;
-"modification/us_agm_62_2_erdl";"AGM-62 Walleye II ER/DL";;
-
-"modification/us_gbu_15v1/desc";"Allows the installation of GBU-15(V)1/B TV-guided bombs.";;
-"modification/us_gbu_15v1";"GBU-15(V)1/B";;
-
-"modification/us_gbu_8_15/desc";"Allows the installation of the GBU-8 Homing Bomb System and GBU-15(V)1/B TV-guided bombs.";;
-"modification/us_gbu_8_15";"GBU-8 HOBOS / GBU-15(V)1/B";;
-
-"modification/us_500lb_mk82_gbu38_jdam/desc";"Allows the installation of Mark 82 unguided bombs and GBU-38 JDAM GPS-guided bombs.";;
-"modification/us_500lb_mk82_gbu38_jdam";"Mark 82 / GBU-38 JDAM";;
-
-"modification/us_500lb_mk82_gbu38_gbu62_jdam/desc";"Allows the installation of Mark 82 unguided bombs and GBU-38/62 JDAM GPS-guided bombs.";;
-"modification/us_500lb_mk82_gbu38_gbu62_jdam";"Mark 82 / GBU-38/62 JDAM";;
-
-"modification/us_500lb_mk82_gbu54b/desc";"Allows the installation of GBU-54B LJDAM GPS/laser-guided bombs.";;
-"modification/us_500lb_mk82_gbu54b";"GBU-54B LJDAM";;
-
-"modification/us_gbu54b/desc";"Allows the installation of GBU-54B/62 LJDAM GPS/laser-guided bombs.";;
-"modification/us_gbu54b";"GBU-54B/62 LJDAM";;
-
-"modification/us_gbu55b/desc";"Allows the installation of GBU-55B LJDAM GPS/laser-guided bombs.";;
-"modification/us_gbu55b";"GBU-55B LJDAM";;
-
-"modification/us_1000lb_mk83_gbu31_jdam/desc";"Allows the installation of Mark 83 unguided bombs and GBU-31/62 JDAM GPS-guided bombs.";;
-"modification/us_1000lb_mk83_gbu31_jdam";"Mark 83 / GBU-31/64 JDAM";;
-
-"modification/us_1000lb_mk83_us_2000lb_mk84/desc";"Allows the installation of the Mark 83 and Mark 84 series of bombs.";;
-"modification/us_1000lb_mk83_us_2000lb_mk84";"Mark 83/84";;
-
-"modification/us_2000lb_mk84_gbu31_jdam/desc";"Allows the installation of Mark 84 unguided bombs and GBU-31 JDAM GPS-guided bombs.";;
-"modification/us_2000lb_mk84_gbu31_jdam";"Mark 84 / GBU-31 JDAM";;
-
-"modification/us_2000lb_mk84_gbu31_gbu64_jdam/desc";"Allows the installation of Mark 84 unguided bombs and GBU-31/64 JDAM GPS-guided bombs.";;
-"modification/us_2000lb_mk84_gbu31_gbu64_jdam";"Mark 84 / GBU-31/64 JDAM";;
-
-"modification/us_gbu_12/desc";"Allows the installation of GBU-12 Paveway II laser-guided bombs.";;
-"modification/us_gbu_12";"GBU-12 Paveway II";;
-
-"modification/us_gbu_12_22/desc";"Allows the installation of GBU-12 Paveway II and GBU-22 Paveway III laser-guided bombs.";;
-"modification/us_gbu_12_22";"GBU-12/22 Paveway II/III";;
-
-"modification/us_gbu_laser/desc";"Allows the installation of GBU-10/12 Paveway II and GBU-24 Paveway III laser-guided bombs.";;
-"modification/us_gbu_laser";"GBU-10/12/24 Paveway II/III";;
-
-"modification/us_gbu_12_49/desc";"Allows the installation of GBU-12 Paveway II laser-guided bombs and EGBU-12 Enhanced Paveway II GPS/laser-guided bombs.";;
-"modification/us_gbu_12_49";"E/GBU-12 Paveway II";;
-
-"modification/us_gbu_16/desc";"Allows the installation of GBU-16 Paveway II laser-guided bombs.";;
-"modification/us_gbu_16";"GBU-16 Paveway II";;
-
-"modification/us_gbu_48/desc";"Allows the installation of EGBU-16 Enhanced Paveway II GPS/laser-guided bombs.";;
-"modification/us_gbu_48";"EGBU-16 Paveway II";;
-
-"modification/us_gbu_24/desc";"Allows the installation of GBU-24 Paveway III laser-guided bombs.";;
-"modification/us_gbu_24";"GBU-24 Paveway III";;
-
-"modification/us_gbu_24_gbu_50/desc";"Allows the installation of GBU-24 Paveway III laser-guided bombs and EGBU-10 Enhanced Paveway II GPS/laser-guided bombs.";;
-"modification/us_gbu_24_gbu_50";"GBU-24 Paveway III / EGBU-10 Paveway II";;
-
-"modification/us_egbu_24/desc";"Allows the installation of EGBU-24 Enhanced Paveway III GPS/laser-guided bombs.";;
-"modification/us_egbu_24";"EGBU-24 Paveway III";;
-
-"modification/us_gbu_10/desc";"Allows the installation of GBU-10 Paveway II laser-guided bombs.";;
-"modification/us_gbu_10";"GBU-10 Paveway II";;
-
-"modification/us_gbu_27/desc";"Allows the installation of GBU-27 Paveway III laser-guided bombs.";;
-"modification/us_gbu_27";"GBU-27 Paveway III";;
-
-"modification/us_gbu_10_gbu_24/desc";"Allows the installation of GBU-10 Paveway II and GBU-24 Paveway III laser-guided bombs.";;
-"modification/us_gbu_10_gbu_24";"GBU-10/24 Paveway II/III";;
-
-"modification/us_gbu_8/desc";"Allows the installation of the GBU-8 Hombing Bomb System.";;
-"modification/us_gbu_8";"GBU-8 HOBOS";;
-
-"modification/us_agm_123/desc";"Allows the installation of AGM-123 Skipper air-to-ground missiles.";;
-"modification/us_agm_123";"AGM-123 Skipper";;
-
-"modification/us_agm_119a/desc";"Allows the installation of AGM-119A Penguin anti-ship missiles.";;
-"modification/us_agm_119a";"AGM-119A Penguin";;
-
-"modification/us_gbu_38/desc";"Allows the installation of GBU-38 JDAM GPS-guided bombs.";;
-"modification/us_gbu_38";"GBU-38 JDAM";;
-
-"modification/us_gbu_32/desc";"Allows the installation of GBU-32 JDAM GPS-guided bombs.";;
-"modification/us_gbu_32";"GBU-32 JDAM";;
-
-"modification/us_gbu_31/desc";"Allows the installation of GBU-31 JDAM GPS-guided bombs.";;
-"modification/us_gbu_31";"GBU-31 JDAM";;
-
-"modification/us_gbu_32_31/desc";"Allows the installation of GBU-31/32/64 JDAM GPS-guided bombs.";;
-"modification/us_gbu_32_31";"GBU-31/32/64 JDAM";;
-
-"modification/us_gbu39/desc";"Allows the installation of GBU-39 SDB I GPS-guided glide bombs.";;
-"modification/us_gbu39";"GBU-39 SDB I";;
-
-"modification/us_mk82_gbu39/desc";"Allows the installation of Mark 82 unguided bombs and GBU-39 GPS-guided glide bombs.";;
-"modification/us_mk82_gbu39";"Mark 82 / GBU-39 SDB I";;
-
-"modification/us_mk82_gbu38_gbu39/desc";"Allows the installation of Mark 82 unguided bombs, GBU-38/62 JDAM GPS-guided bombs, and GBU-39 SDB I GPS-guided glide bombs.";;
-"modification/us_mk82_gbu38_gbu39";"Mark 82 / GBU-38/62 JDAM / GBU-39 SDB I";;
-
-"modification/us_blu27_gbu39/desc";"Allows the installation of GBU-39 SDB I GPS-guided glide bombs and BLU-27/B incendiary bombs.";;
-"modification/us_blu27_gbu39";"GBU-39 SDB I / BLU-27/B INC";;
-
-"modification/us_250lb_mk81/desc";"Allows the installation of the Mark 81 series of bombs.";;
-"modification/us_250lb_mk81";"Mark 81";;
-
-"modification/us_500lb_mk82/desc";"Allows the installation of the Mark 82 series of bombs.";;
-"modification/us_500lb_mk82";"Mark 82";;
-
-"modification/us_1000lb_mk83/desc";"Allows the installation of the Mark 83 series of bombs.";;
-"modification/us_1000lb_mk83";"Mark 83";;
-
-"modification/us_2000lb_mk84/desc";"Allows the installation of the Mark 84 series of bombs.";;
-"modification/us_2000lb_mk84";"Mark 84";;
-
-"modification/us_750lb_m117a1/desc";"Allows the installation of M117 demolition bombs.";;
-"modification/us_750lb_m117a1";"M117 LDDB";;
-
-"modification/us_750lb_m117/desc";"Allows the installation of M117 demolition bombs.";;
-"modification/us_750lb_m117";"M117 LDDB";;
-
-"modification/us_3000lb_mk118/desc";"Allows the installation of M118 demolition bombs.";;
-"modification/us_3000lb_mk118";"M118 LDDB";;
-
-"modification/us_4000lb_anm56_box/desc";"Allows the installation of AN-M56 general-purpose bombs.";;
-"modification/us_4000lb_anm56_box";"AN-M56 LCGP";;
-
-//Bombs, JP
-"modification/jp_gbu38_jdam/desc";"Allows the installation of GBU-38 JDAM GPS-guided bombs.";;
-"modification/jp_gbu38_jdam";"GBU-38 JDAM";;
-
-//Sensors, US
-"modification/us_sniper_pod/desc";"Allows the installation of the AN/AAQ-33 Sniper ATP laser/electro-optical targeting pod.";;
-"modification/us_sniper_pod";"AN/AAQ-33 Sniper ATP";;
-
-"modification/us_an_aas_38_pod/desc";"Allows the installation of the AN/AAS-38 Nite Hawk electro-optical targeting pod.";;
-"modification/us_an_aas_38_pod";"AN/AAS-38 Nite Hawk";;
-
-"modification/us_an_aas_38a_pod/desc";"Allows the installation of an AN/AAS-38A Nite Hawk laser/electro-optical targeting pod.";;
-"modification/us_an_aas_38a_pod";"AN/AAS-38A Nite Hawk";;
-
-"modification/us_an_aas_38b_pod/desc";"Allows the installation of an AN/AAS-38B Nite Hawk laser/electro-optical targeting pod.";;
-"modification/us_an_aas_38b_pod";"AN/AAS-38B Nite Hawk";;
-
-"modification/us_an_asq_228_pod/desc";"Allows the installation of the AN/ASQ-228 ATFLIR laser/electro-optical targeting pod.";;
-"modification/us_an_asq_228_pod";"AN/ASQ-228 ATFLIR";;
-
-"modification/us_lantirn_pod/desc";"Allows the installation of the AN/AAQ-25 LANTIRN laser/electro-optical targeting pod.";;
-"modification/us_lantirn_pod";"AN/AAQ-25 LANTIRN";;
-
-"modification/us_pave_tack_pod/desc";"Allows the installation of the AN/AVQ-26 Pave Tack laser/electro-optical targeting pod.";;
-"modification/us_pave_tack_pod";"AN/AVQ-26 Pave Tack";;
-
-//Sensors, GER
-"modification/gr_litening_pod/desc";"Allows the installation of the AN/AAQ-28 LITENING II laser/electro-optical targeting pod.";;
-"modification/gr_litening_pod";"AN/AAQ-28 LITENING II";;
-
-"modification/gr_litening_iii_pod/desc";"Allows the installation of the AN/AAQ-28 LITENING III laser/electro-optical targeting pod.";;
-"modification/gr_litening_iii_pod";"AN/AAQ-28 LITENING III";;
-
-//Sensors, JP
-"modification/j_aaq_2_pod/desc";"Allows the installation of the J/AAQ-2 Forward-Looking Infrared laser/electro-optical targeting pod.";;
-"modification/j_aaq_2_pod";"J/AAQ-2";;
-
-"modification/sniper_atp_pod/desc";"Allows the installation of the AN/AAQ-33 Sniper ATP laser/electro-optical targeting pod.";;
-"modification/sniper_atp_pod";"AN/AAQ-33 Sniper ATP";;
-
-//Miscellaneous, USSR
-"modification/mig_29_uv_5_08";"UV-5-08";;
-"modification/mig_29_uv_5_08/desc";"Allows the installation of the UV-5-08 countermeasures dispenser, which carries additional belts of flares and chaff. Flares confuse infrared-guided missiles, while chaff confuses radars and radar-guided missiles.";;
+"<ID|readonly|noverify>";"<English>"
+#Mod Categories
+"modification/category/lth";"Flight Performance"
+"modification/category/armor";"Survivability"
+"modification/category/weapon";"Weaponry"
+"modification/category/mobility";"Mobility"
+"modification/category/protection";"Protection"
+"modification/category/firepower";"Firepower"
+"modification/category/primaryWeapon";"Primary Weapons"
+"modification/category/secondaryWeapon";"Secondary Weapons"
+"modification/category/premiumMods";"Special"
+"modification/category/expendables";"Supplies"
+"modification/category/seakeeping";"Seakeeping"
+"modification/category/unsinkability";"Unsinkability"
+"modification/category/bonus";"Tier Bonus"
+#Mod Tooltips
+"modification/category/bonus/tooltip";"When researching all modifications at each tier, you will receive bonus RP for the vehicle being researched in the amount of {bonus}% of the sum of RP spent on researching all modifications of that tier."
+"modification/tierBonus";"Bonus:"
+"modification/bonusReceived";"Bonus Received"
+"modification/progressModsText";"Research of all modifications: {earnedExp} / {reqExp}"
+"modification/progressModsAllResearchedText";"◕ All Modifications Researched"
+#Miscellaneous Mods
+"modification/hydravlic_power";"New Boosters"
+"modification/hydravlic_power/desc";"New hydraulic boosters improve the plane's maneuverability."
+"modification/new_compressor_r";"Compressor"
+"modification/new_compressor_r/desc";"Checking, tweaking, and regular maintenance of the compressor increases maximum engine power, boosting acceleration and top speed."
+"modification/new_compressor_jet";"Compressor"
+"modification/new_compressor_jet/desc";"Checking, tweaking, and regular maintenance of the compressor increases maximum engine power, boosting acceleration and top speed."
+"modification/new_radiator_r";"Radiator"
+"modification/new_radiator_r/desc";"Cleaning of the radiator and cooling system makes engine cooling more effective."
+"modification/hp_105_r";"Engine"
+"modification/hp_105_r/desc";"Replacement of worn engine with a new one, increasing acceleration and top speed."
+"modification/hp_105_jet";"Engine"
+"modification/hp_105_jet/desc";"Replacement of worn engine with a new one, increasing acceleration and top speed."
+"modification/structure_str_r";"Airframe"
+"modification/structure_str_r/desc";"Replacement of damaged airframe elements increases the plane's overall durability and flight performance due to weight reduction. For some planes, this means that you get a new plane with an undamaged airframe."
+"modification/f_4c_structure_str";"Airframe"
+"modification/f_4c_structure_str/desc";"Replacement of damaged airframe elements increases the plane's overall durability and flight performance due to weight reduction. For some planes, this means that you get a new plane with an undamaged airframe."
+"modification/tis_ma_structure_str";"Airframe"
+"modification/tis_ma_structure_str/desc";"Replacement of damaged airframe elements increases the plane's overall durability and flight performance due to weight reduction. For some planes, this means that you get a new plane with an undamaged airframe."
+"modification/new_cover_r";"Cover"
+"modification/new_cover_r/desc";"Regular maintaining of cover and replacement of damaged cover parts increases the plane's overall durability and flight performance due to weight reduction."
+"modification/CdMin_Fuse_r";"Fuselage Repair"
+"modification/CdMin_Fuse_r/desc";"Replacement of damaged elements of fuselage skinning, removal of openings, and surface finish to reduce air drag."
+"modification/f_4c_CdMin_Fuse";"Fuselage Repair"
+"modification/f_4c_CdMin_Fuse/desc";"Replacement of damaged elements of fuselage skinning, removal of openings, and surface finish to reduce air drag."
+"modification/cd_98_r";"Wings Repair"
+"modification/cd_98_r/desc";"Replacement of damaged elements of wing skin, removal of openings, and surface finish to reduce air drag."
+"modification/cd_98";"Wings Repair"
+"modification/cd_98/desc";"Replacement of damaged elements of wing skin, removal of openings, and surface finish to reduce air drag."
+"modification/g_suit";"G-Suit"
+"modification/g_suit/desc";"G-Suit makes it easier to carry high G-loads, allowing the pilot to sustain high-G maneuvers for longer periods of time before losing consciousness."
+"modification/f_4c_g_suit";"G-Suit"
+"modification/f_4c_g_suit/desc";"G-Suit makes it easier to carry high G-loads, allowing the pilot to sustain high-G maneuvers for longer periods of time before losing consciousness."
+"modification/air_extinguisher/desc";"Manually-activated fire suppression system which enables the aircraft to put out engine fires."
+"modification/air_extinguisher";"Engine Fire System"
+"modification/automatic_air_extinguisher/desc";"Automatically-activated fire suppression system which enables the aircraft to put out engine fires."
+"modification/automatic_air_extinguisher";"Automatic Engine Fire System"
+"modification/countermeasures_belt_pack";"ECM System"
+"modification/countermeasures_belt_pack/desc";"Electronic Countermeasures System consisting of countermeasures dispensers with provisions for flares and chaff. Flares confuse infrared-guided missiles, while chaff confuses radars and radar-guided missiles."
+"modification/countermeasures_belt_pack_unchecked";"ECM System"
+"modification/countermeasures_belt_pack_unchecked/desc";"Electronic Countermeasures System consisting of countermeasures dispensers with provisions for flares and chaff. Flares confuse infrared-guided missiles, while chaff confuses radars and radar-guided missiles."
+"modification/chaff_pods";"ECM Pods (Chaff)"
+"modification/chaff_pods/desc";"Allows the installation of external Electronic Countermeasures pods. These pods contain dispensers with belts of chaff, which confuses radars and radar-guided missiles."
+"modification/MAW_system_heli_false_thermal_targets/desc";"Missile Approach Warning System which alerts the pilot when a missile has been launched at their aircraft. The MAWS will display the missile's approach vector on the aircraft's RWR, and has a configurable option (toggled ON by default) which will automatically dump countermeasures upon detecting a missile."
+"modification/MAW_system_heli_false_thermal_targets";"MAWS"
+"modification/MAW_system_heli_false_thermal_targets_large/desc";"Missile Approach Warning System which alerts the pilot when a missile has been launched at their aircraft. The MAWS will display the missile's approach vector on the aircraft's RWR, and has a configurable option (toggled ON by default) which will automatically dump countermeasures upon detecting a missile."
+"modification/MAW_system_heli_false_thermal_targets_large";"MAWS"
+"modification/PIDS_false_thermal_targets/desc";"Allows the installation of Pylon Integrated Dispenser Stations; these are ECM pods which fit onto the aircraft's missile pylons and contain provisions for chaff and flares. Flares confuse infrared-guided missiles, while chaff confuses radars and radar-guided missiles."
+"modification/PIDS_false_thermal_targets";"PIDS"
+"modification/uk_terma_mcp_false_thermal_targets/desc";"Missile Approach Warning System which alerts the pilot when a missile has been launched at their aircraft. The MAWS will display the missile's approach vector on the aircraft's RWR, and has a configurable option (toggled ON by default) which will automatically dump countermeasures upon detecting a missile."
+"modification/uk_terma_mcp_false_thermal_targets";"MAWS"
+"modification/uk_ltc_bol";"BOL Pods"
+"modification/uk_ltc_bol/desc";"Allows the installation of Back-Of-Launcher countermeasures pods; these are ECM pods which fit onto the aircraft's missile pylons and contain provisions for chaff and flares. Flares confuse infrared-guided missiles, while chaff confuses radars and radar-guided missiles."
+"modification/swd_ltc_bol";"BOL Pods"
+"modification/swd_ltc_bol/desc";"Allows the installation of Back-Of-Launcher countermeasures pods; these are ECM pods which fit onto the aircraft's missile pylons and contain provisions for chaff and flares. Flares confuse infrared-guided missiles, while chaff confuses radars and radar-guided missiles."
+#Countermeasures
+"modification/_countermeasures";"ECM System"
+"modification/countermeasures_launcher_flare_only_unchecked";"ECM System: Flares"
+"modification/countermeasures_launcher_flare_only";"ECM System: Flares"
+"countermeasures_launcher_chaff/name";"ECM System: Chaff"
+"modification/countermeasures_launcher_chaff_only_unchecked";"ECM System: Chaff"
+"modification/ountermeasures_launcher_chaff_only";"ECM System: Chaff"
+"countermeasures_launcher_chaff_large/name";"ECM System: Large-Caliber Chaff"
+"modification/countermeasures_launcher_chaff_priority";"ECM System, Chaff Priority: Countermeasures"
+"modification/countermeasures_launcher_flare_priority";"ECM System, Flare Priority: Countermeasures"
+"modification/countermeasures_launcher_chaff_priority_unchecked";"ECM System, Chaff Priority: Countermeasures"
+"modification/countermeasures_launcher_flare_priority_unchecked";"ECM System, Flare Priority: Countermeasures"
+"countermeasuresBol_default/name";"Back-of-Launcher Pods: Countermeasures"
+"countermeasures_launcher_chaff_bol_pod/name";"Back-of-Launcher Pods: Countermeasures"
+"countermeasuresMAW_default/name";"ECM System (MAWS-linked): Countermeasures"
+"maw_countermeasures_launcher_chaff/name";"ECM-MAWS: Chaff"
+"maw_countermeasures_launcher_chaff_large/name";"ECM-MAWS: Large-Caliber Chaff"
+"countermeasures_launcher_chaff_add_pod/name";"ECM Pods: Chaff"
+"countermeasures_launcher_chaff_large_add_pod/name";"ECM Pods: Large-Caliber Chaff"
+#Offensive Armaments
+"modification/_belt_pack";"%smm Belts"
+"modification/_belt_pack/desc";"Set of %smm belts for offensive weapons."
+"modification/_belt_pack/short";"%smm Belts"
+"modification/_turret_belt_pack";"%smm Turret Belts"
+"modification/_turret_belt_pack/desc";"Set of %smm belts for turret weapons."
+"modification/_turret_belt_pack/short";"%smm Turret Belts"
+"modification/_new_gun/cannon";"New %smm Cannons"
+"modification/_new_gun/cannon/desc";"The %smm cannons' worn barrels, trigger and striking mechanisms are replaced with new ones, to improve fire density and to decrease the chance of seizure."
+"modification/_new_gun";"New %smm MGs"
+"modification/_new_gun/desc";"The %smm machine guns' worn barrels, trigger and striking mechanisms are replaced with new ones, to improve fire density and to decrease the chance of seizure."
+"modification/_turret_new_gun";"New %smm MGs (turret)"
+"modification/_turret_new_gun/desc";"The %smm turret machine guns' worn barrels, trigger and striking mechanisms are replaced with new ones, to improve fire density and to decrease the chance of seizure."
+"modification/_turret_new_gun/cannon";"New %smm Cannons (Turret)"
+"modification/_turret_new_gun/cannon/desc";"The %smm turret cannons' worn barrels, trigger and striking mechanisms are replaced with new ones, to improve fire density and to decrease the chance of seizure."
+"modification/_tank_gun_pack";"%smm Cannon"
+"modification/_tank_minigun_pack";"%smm Machine Gun"
+#Gunpods, US;;;
+"modification/f4c_suu_23a";"SUU-23/A"
+"modification/f4c_suu_23a/desc";"Allows the installation of the SUU-23/A gunpod, carrying the GAU-4A Vulcan 20mm rotary autocannon."
+"modification/us_suu_16a";"SUU-16/A"
+"modification/us_suu_16a/desc";"Allows the installation of the SUU-16/A gunpod, carrying the M61A1 Vulcan 20mm rotary autocannon."
+"modification/a_7d_gpu_5a";"GPU-5/A ""Pave Claw"""
+"modification/a_7d_gpu_5a/desc";"Allows the installation of the GPU-5/A ""Pave Claw"" gunpod, carrying the GAU-13/A 30mm rotary autocannon."
+"modification/us_gpu_2a";"GPU-2/A"
+"modification/us_gpu_2a/desc";"Allows the installation of the GPU-2/A gunpod, carrying the M197 20mm rotary autocannon."
+"modification/us_gau_19";"GP-19"
+"modification/us_gau_19/desc";"Allows the installation of the GP-19 gunpod, carrying the GAU-19/A 12.7mm rotary heavy machine gun."
+#Missiles, US
+"modification/us_aim_7d/desc";"Allows the installation of AIM-7D Sparrow air-to-air missiles."
+"modification/us_aim_7d";"AIM-7D Sparrow"
+"modification/us_aim_7c/desc";"Allows the installation of AIM-7С Sparrow air-to-air missiles."
+"modification/us_aim_7c";"AIM-7С Sparrow"
+"modification/us_aim_7e/desc";"Allows the installation of AIM-7E Sparrow air-to-air missiles."
+"modification/us_aim_7e";"AIM-7E Sparrow"
+"modification/us_aim_7e2/desc";"Allows the installation of AIM-7E-2 Sparrow air-to-air missiles."
+"modification/us_aim_7e2";"AIM-7E-2 Sparrow"
+"modification/us_aim_7f/desc";"Allows the installation of AIM-7F-11 Sparrow air-to-air missiles."
+"modification/us_aim_7f";"AIM-7F-11 Sparrow"
+"modification/us_aim_7m/desc";"Allows the installation of AIM-7MF-1 Sparrow air-to-air missiles."
+"modification/us_aim_7m";"AIM-7MF-1 Sparrow"
+"modification/us_aim_7p/desc";"Allows the installation of AIM-7P-2 Sparrow air-to-air missiles."
+"modification/us_aim_7p";"AIM-7P-2 Sparrow"
+"modification/us_aim_54a/desc";"Allows the installation of AIM-54A Phoenix air-to-air missiles."
+"modification/us_aim_54a";"AIM-54A Phoenix"
+"modification/us_aim_54c/desc";"Allows the installation of AIM-54C Phoenix air-to-air missiles."
+"modification/us_aim_54c";"AIM-54C Phoenix"
+"modification/us_aim_120a/desc";"Allows the installation of AIM-120A Advanced Medium-Range Air-to-Air Missiles."
+"modification/us_aim_120a";"AIM-120A AMRAAM"
+"modification/us_aim_120b/desc";"Allows the installation of AIM-120B Advanced Medium-Range Air-to-Air Missiles."
+"modification/us_aim_120b";"AIM-120B AMRAAM"
+"modification/us_aim_120c/desc";"Allows the installation of AIM-120C-5 Advanced Medium-Range Air-to-Air Missiles."
+"modification/us_aim_120c";"AIM-120C-5 AMRAAM"
+"modification/us_aim_9b/desc";"Allows the installation of AIM-9B Sidewinder air-to-air missiles."
+"modification/us_aim_9b";"AIM-9B Sidewinder"
+"modification/f5_us_aim_9e/desc";"Allows the installation of AIM-9E Sidewinder air-to-air missiles and Flares/Chaff."
+"modification/f5_us_aim_9e";"AIM-9E Sidewinder (CM)"
+"modification/us_aim_9e/desc";"Allows the installation of AIM-9E Sidewinder air-to-air missiles."
+"modification/us_aim_9e";"AIM-9E Sidewinder"
+"modification/us_aim_9j/desc";"Allows the installation of AIM-9J Sidewinder air-to-air missiles."
+"modification/us_aim_9j";"AIM-9J Sidewinder"
+"modification/us_aim_9d/desc";"Allows the installation of AIM-9D Sidewinder air-to-air missiles."
+"modification/us_aim_9d";"AIM-9D Sidewinder"
+"modification/us_aim_9g/desc";"Allows the installation of AIM-9G Sidewinder air-to-air missiles."
+"modification/us_aim_9g";"AIM-9G Sidewinder"
+"modification/us_aim_9h/desc";"Allows the installation of AIM-9H Sidewinder air-to-air missiles."
+"modification/us_aim_9h";"AIM-9H Sidewinder"
+"modification/us_aim_9l/desc";"Allows the installation of AIM-9L Sidewinder air-to-air missiles."
+"modification/us_aim_9l";"AIM-9L Sidewinder"
+"modification/us_aim_9l_i/desc";"Allows the installation of AIM-9L/I Sidewinder air-to-air missiles."
+"modification/us_aim_9l_i";"AIM-9L/I-1 Sidewinder"
+"modification/us_aim_9l_i_1/desc";"Allows the installation of AIM-9L/I-1 Sidewinder air-to-air missiles."
+"modification/us_aim_9l_i_1";"AIM-9L/I-1 Sidewinder"
+"modification/us_aim_9m/desc";"Allows the installation of AIM-9M-4 Sidewinder air-to-air missiles."
+"modification/us_aim_9m";"AIM-9M-4 Sidewinder"
+"modification/us_aim_9n/desc";"Allows the installation of AIM-9N Sidewinder air-to-air missiles."
+"modification/us_aim_9n";"AIM-9N Sidewinder"
+"modification/us_aim_9p/desc";"Allows the installation of AIM-9P-3 Sidewinder air-to-air missiles."
+"modification/us_aim_9p";"AIM-9P-3 Sidewinder"
+"modification/us_aim_9p4/desc";"Allows the installation of AIM-9P-4 Sidewinder air-to-air missiles."
+"modification/us_aim_9p4";"AIM-9P-4 Sidwinder"
+"modification/f5_us_aim_9b/desc";"Allows the installation of AIM-9B Sidewinder air-to-air missiles and Flares/Chaff."
+"modification/f5_us_aim_9b";"AIM-9B Sidewinder (CM)"
+"modification/f5_us_aim_9e/desc";"Allows the installation of AIM-9E Sidewinder air-to-air missiles and Flares/Chaff."
+"modification/f5_us_aim_9e";"AIM-9E Sidewinder (CM)"
+"modification/us_agm_65a/desc";"Allows the installation of AGM-65A Maverick air-to-ground missiles."
+"modification/us_agm_65a";"AGM-65A Maverick"
+"modification/us_agm_65b/desc";"Allows the installation of AGM-65B Maverick air-to-ground missiles."
+"modification/us_agm_65b";"AGM-65B Maverick"
+"modification/us_agm_65d/desc";"Allows the installation of AGM-65D Maverick air-to-ground missiles."
+"modification/us_agm_65d";"AGM-65D Maverick"
+"modification/us_agm_65g/desc";"Allows the installation of AGM-65G Maverick air-to-ground missiles."
+"modification/us_agm_65g";"AGM-65G Maverick"
+"modification/us_agm_65h/desc";"Allows the installation of AGM-65H Maverick air-to-ground missiles."
+"modification/us_agm_65h";"AGM-65H Maverick"
+"modification/us_agm_65e/desc";"Allows the installation of AGM-65E Maverick air-to-ground missiles."
+"modification/us_agm_65e";"AGM-65E Maverick"
+"modification/us_agm_65f/desc";"Allows the installation of AGM-65F Maverick air-to-ground missiles."
+"modification/us_agm_65f";"AGM-65F Maverick"
+"modification/us_agm_65l/desc";"Allows the installation of AGM-65L Maverick air-to-ground missiles."
+"modification/us_agm_65l";"AGM-65L Maverick"
+"modification/fj_4b_agm_12b";"AGM-12B Bullpup"
+"modification/fj_4b_agm_12b/desc";"Allows the installation of AGM-12B Bullpup air-to-ground missiles."
+"modification/fj_4b_agm_12c";"AGM-12C Bullpup"
+"modification/fj_4b_agm_12c/desc";"Allows the installation of AGM-12C Bullpup air-to-ground missiles."
+"modification/us_agm_130/desc";"Allows the installation of AGM-130A-12 air-to-ground missiles."
+"modification/us_agm_130";"AGM-130A-12"
+#Missiles, GER
+"modification/us_aim_9b_fgw_2/desc";"Allows the installation of AIM-9F Sidewinder air-to-air missiles."
+"modification/us_aim_9b_fgw_2";"AIM-9F Sidewinder"
+"modification/sws_flz_lwf_63_80/desc";"Allows the installation of Flugzeug Lenkwaffe Luft-Luft 63/80 air-to-air missiles."
+"modification/sws_flz_lwf_63_80";"Flz Lwf LL 63/80"
+"modification/sws_flz_lwf_63_75/desc";"Allows the installation of Flugzeug Lenkwaffe Luft-Luft 63/75 SIWA air-to-air missiles."
+"modification/sws_flz_lwf_63_75";"Flz Lwf LL 63/75 SIWA"
+"modification/sws_flz_lwf_63/desc";"Allows the installation of Flugzeug Lenkwaffe Luft-Luft 63 air-to-air missiles."
+"modification/sws_flz_lwf_63";"Flz Lwf LL 63"
+"modification/sws_flz_lwf_ll_64/desc";"Allows the installation of Flugzeug Lenkwaffe Luft-Luft 64/79 FALCO air-to-air missiles."
+"modification/sws_flz_lwf_ll_64";"Flz Lwf LL 64/79 FALCO"
+"modification/sws_flz_lwf_lb_82/desc";"Allows the installation of Flugzeug Lenkwaffe Luft-Boden 82 air-to-ground missiles."
+"modification/sws_flz_lwf_lb_82";"Flz Lwf LB 82"
+"modification/flz_lwf_lb_66";"Flz Lwf LB 66"
+"modification/flz_lwf_lb_66/desc";"Allows the installation of Flugzeug Lenkwaffe Luft-Boden 68 air-to-ground missiles."
+#Missiles, JP
+"modification/jp_aam3/desc";"Allows the installation of Type 90 Air-to-Air Guided Missiles."
+"modification/jp_aam3";"AAM-3"
+"modification/jp_aam4/desc";"Allows the installation of Type 99 Air-to-Air Guided Missiles."
+"modification/jp_aam4";"AAM-4"
+"modification/jp_asm1";"ASM-1"
+"modification/jp_asm1/desc";"Allows the installation of Type 80 Air-to-Ship Guided Missiles."
+"modification/jp_asm2";"ASM-2"
+"modification/jp_asm2/desc";"Allows the installation of Type 93 Air-to-Ship Guided Missiles."
+#Missiles, SWE
+"modification/swd_rb74/desc";"Allows the installation of Luftmålsrobot 74 air-to-air missiles."
+"modification/swd_rb74";"Rb 74"
+"modification/swd_rb74m/desc";"Allows the installation of Luftmålsrobot 74(M) air-to-air missiles."
+"modification/swd_rb74m";"Rb 74(M)"
+"modification/swe_rb24/desc";"Allows the installation of Luftmålsrobot 24 air-to-air missiles."
+"modification/swe_rb24j/desc";"Allows the installation of Luftmålsrobot 24J air-to-air missiles."
+"modification/swe_rb24j";"Rb 24J"
+"modification/swe_rb71/desc";"Allows the installation of Luftmålsrobot 71 air-to-air missiles."
+"modification/swe_rb71";"Rb 71"
+"modification/swd_rb99/desc";"Allows the installation of Luftmålsrobot 99 air-to-air missiles."
+"modification/swd_rb99";"Rb 99"
+#Missiles, FR
+modification/fr_matra_r_530e/desc;Allows the installation of R 530 E air-to-air missiles.
+modification/fr_matra_r_530e;R 530 E
+modification/fr_matra_r_530/desc;Allows the installation of R 530 air-to-air missiles.
+modification/fr_matra_r_530;R 530
+modification/fr_matra_r_530_f/desc;Allows the installation of Super 530 F air-to-air missiles.
+modification/fr_matra_r_530_f;S 530 F
+modification/fr_matra_r_530_d/desc;Allows the installation of Super 530 D air-to-air missiles.
+modification/fr_matra_r_530_d;S 530 D
+modification/fr_matra_r_511/desc;Allows the installation of R 511 air-to-air missiles.
+modification/fr_matra_r_511;R 511
+modification/fr_matra_r_550_magic_1/desc;Allows the installation of  R 550 MAGIC I air-to-air missiles.
+modification/fr_matra_r_550_magic_1;R 550 MAGIC I
+modification/fr_matra_r_550_magic_2/desc;Allows the installation of R 550 MAGIC II air-to-air missiles.
+modification/fr_matra_r_550_magic_2;R 550 MAGIC II
+#Rockets, US
+"modification/f4c_zuni/desc";"Allows the installation of LAU-10/A rocket pods for launching Mk32 Mod 0 ""Zuni"" Anti-Tank/Anti-Personnel rockets."
+"modification/f4c_zuni";"LAU-10/A"
+"modification/us_2_75_in_ffar_lau_3a/desc";"Allows the installation of LAU-3/A rocket pods for firing Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rockets."
+"modification/us_2_75_in_ffar_lau_3a";"LAU-3/A"
+"modification/us_2_75_in_ffar_lau_x6a/desc";"Allows the installation of Aero X-6A rocket pods for firing Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rockets."
+"modification/us_2_75_in_ffar_lau_x6a";"Aero X-6A"
+"modification/us_2_75_in_ffar_lau_32/desc";"Allows the installation of LAU-32 rocket pods for firing Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rockets."
+"modification/us_2_75_in_ffar_lau_32";"LAU-32"
+"modification/us_2_75_in_ffar_lau_51/desc";"Allows the installation of LAU-51 rocket pods for firing Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rockets."
+"modification/us_2_75_in_ffar_lau_51";"LAU-51"
+"modification/us_hydra_70_lau_68/desc";"Allows the installation of LAU-68 rocket pods for firing Hydra 70 unguided rockets."
+"modification/us_hydra_70_lau_68";"LAU-68"
+"modification/us_2_75_in_ffar_rl_7/desc";"Allows the installation of RL-7 rocket pods for firing Hydra 70 unguided rockets."
+"modification/us_2_75_in_ffar_rl_7";"RL-7"
+"modification/us_apkws/desc";"Allows the installation of AGR-20A/B Advanced Precision Kill Weapon System II guided rockets."
+"modification/us_apkws";"AGR-20 APKWS II"
+#Rockets, JP
+"modification/jp_jlau_3a/desc";"Allows the installation of JLAU-3/A Rocket Pods for launching Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rockets."
+"modification/jp_jlau_3a";"JLAU-3/A"
+#Bombs, US
+"modification/us_agm_62/desc";"Allows the installation of AGM-62A Walleye I TV-guided bombs."
+"modification/us_agm_62";"AGM-62A Walleye I"
+"modification/us_agm_62_2_erdl/desc";"Allows the installation of AGM-62 Walleye II ER/DL TV-guided bombs."
+"modification/us_agm_62_2_erdl";"AGM-62 Walleye II ER/DL"
+"modification/us_gbu_15v1/desc";"Allows the installation of GBU-15(V)1/B TV-guided bombs."
+"modification/us_gbu_15v1";"GBU-15(V)1/B"
+"modification/us_gbu_8_15/desc";"Allows the installation of the GBU-8 Homing Bomb System and GBU-15(V)1/B TV-guided bombs."
+"modification/us_gbu_8_15";"GBU-8 HOBOS / GBU-15(V)1/B"
+"modification/us_500lb_mk82_gbu38_jdam/desc";"Allows the installation of Mark 82 unguided bombs and GBU-38 JDAM GPS-guided bombs."
+"modification/us_500lb_mk82_gbu38_jdam";"Mark 82 / GBU-38 JDAM"
+"modification/us_500lb_mk82_gbu38_gbu62_jdam/desc";"Allows the installation of Mark 82 unguided bombs and GBU-38/62 JDAM GPS-guided bombs."
+"modification/us_500lb_mk82_gbu38_gbu62_jdam";"Mark 82 / GBU-38/62 JDAM"
+"modification/us_500lb_mk82_gbu54b/desc";"Allows the installation of GBU-54B LJDAM GPS/laser-guided bombs."
+"modification/us_500lb_mk82_gbu54b";"GBU-54B LJDAM"
+"modification/us_gbu54b/desc";"Allows the installation of GBU-54B/62 LJDAM GPS/laser-guided bombs."
+"modification/us_gbu54b";"GBU-54B/62 LJDAM"
+"modification/us_gbu55b/desc";"Allows the installation of GBU-55B LJDAM GPS/laser-guided bombs."
+"modification/us_gbu55b";"GBU-55B LJDAM"
+"modification/us_1000lb_mk83_gbu31_jdam/desc";"Allows the installation of Mark 83 unguided bombs and GBU-31/62 JDAM GPS-guided bombs."
+"modification/us_1000lb_mk83_gbu31_jdam";"Mark 83 / GBU-31/64 JDAM"
+"modification/us_1000lb_mk83_us_2000lb_mk84/desc";"Allows the installation of the Mark 83 and Mark 84 series of bombs."
+"modification/us_1000lb_mk83_us_2000lb_mk84";"Mark 83/84"
+"modification/us_2000lb_mk84_gbu31_jdam/desc";"Allows the installation of Mark 84 unguided bombs and GBU-31 JDAM GPS-guided bombs."
+"modification/us_2000lb_mk84_gbu31_jdam";"Mark 84 / GBU-31 JDAM"
+"modification/us_2000lb_mk84_gbu31_gbu64_jdam/desc";"Allows the installation of Mark 84 unguided bombs and GBU-31/64 JDAM GPS-guided bombs."
+"modification/us_2000lb_mk84_gbu31_gbu64_jdam";"Mark 84 / GBU-31/64 JDAM"
+"modification/us_gbu_12/desc";"Allows the installation of GBU-12 Paveway II laser-guided bombs."
+"modification/us_gbu_12";"GBU-12 Paveway II"
+"modification/us_gbu_12_22/desc";"Allows the installation of GBU-12 Paveway II and GBU-22 Paveway III laser-guided bombs."
+"modification/us_gbu_12_22";"GBU-12/22 Paveway II/III"
+"modification/us_gbu_laser/desc";"Allows the installation of GBU-10/12 Paveway II and GBU-24 Paveway III laser-guided bombs."
+"modification/us_gbu_laser";"GBU-10/12/24 Paveway II/III"
+"modification/us_gbu_12_49/desc";"Allows the installation of GBU-12 Paveway II laser-guided bombs and EGBU-12 Enhanced Paveway II GPS/laser-guided bombs."
+"modification/us_gbu_12_49";"E/GBU-12 Paveway II"
+"modification/us_gbu_16/desc";"Allows the installation of GBU-16 Paveway II laser-guided bombs."
+"modification/us_gbu_16";"GBU-16 Paveway II"
+"modification/us_gbu_48/desc";"Allows the installation of EGBU-16 Enhanced Paveway II GPS/laser-guided bombs."
+"modification/us_gbu_48";"EGBU-16 Paveway II"
+"modification/us_gbu_24/desc";"Allows the installation of GBU-24 Paveway III laser-guided bombs."
+"modification/us_gbu_24";"GBU-24 Paveway III"
+"modification/us_gbu_24_gbu_50/desc";"Allows the installation of GBU-24 Paveway III laser-guided bombs and EGBU-10 Enhanced Paveway II GPS/laser-guided bombs."
+"modification/us_gbu_24_gbu_50";"GBU-24 Paveway III / EGBU-10 Paveway II"
+"modification/us_egbu_24/desc";"Allows the installation of EGBU-24 Enhanced Paveway III GPS/laser-guided bombs."
+"modification/us_egbu_24";"EGBU-24 Paveway III"
+"modification/us_gbu_10/desc";"Allows the installation of GBU-10 Paveway II laser-guided bombs."
+"modification/us_gbu_10";"GBU-10 Paveway II"
+"modification/us_gbu_27/desc";"Allows the installation of GBU-27 Paveway III laser-guided bombs."
+"modification/us_gbu_27";"GBU-27 Paveway III"
+"modification/us_gbu_10_gbu_24/desc";"Allows the installation of GBU-10 Paveway II and GBU-24 Paveway III laser-guided bombs."
+"modification/us_gbu_10_gbu_24";"GBU-10/24 Paveway II/III"
+"modification/us_gbu_8/desc";"Allows the installation of the GBU-8 Hombing Bomb System."
+"modification/us_gbu_8";"GBU-8 HOBOS"
+"modification/us_agm_123/desc";"Allows the installation of AGM-123 Skipper air-to-ground missiles."
+"modification/us_agm_123";"AGM-123 Skipper"
+"modification/us_agm_119a/desc";"Allows the installation of AGM-119A Penguin anti-ship missiles."
+"modification/us_agm_119a";"AGM-119A Penguin"
+"modification/us_gbu_38/desc";"Allows the installation of GBU-38 JDAM GPS-guided bombs."
+"modification/us_gbu_38";"GBU-38 JDAM"
+"modification/us_gbu_32/desc";"Allows the installation of GBU-32 JDAM GPS-guided bombs."
+"modification/us_gbu_32";"GBU-32 JDAM"
+"modification/us_gbu_31/desc";"Allows the installation of GBU-31 JDAM GPS-guided bombs."
+"modification/us_gbu_31";"GBU-31 JDAM"
+"modification/us_gbu_32_31/desc";"Allows the installation of GBU-31/32/64 JDAM GPS-guided bombs."
+"modification/us_gbu_32_31";"GBU-31/32/64 JDAM"
+"modification/us_gbu39/desc";"Allows the installation of GBU-39 SDB I GPS-guided glide bombs."
+"modification/us_gbu39";"GBU-39 SDB I"
+"modification/us_mk82_gbu39/desc";"Allows the installation of Mark 82 unguided bombs and GBU-39 GPS-guided glide bombs."
+"modification/us_mk82_gbu39";"Mark 82 / GBU-39 SDB I"
+"modification/us_mk82_gbu38_gbu39/desc";"Allows the installation of Mark 82 unguided bombs, GBU-38/62 JDAM GPS-guided bombs, and GBU-39 SDB I GPS-guided glide bombs."
+"modification/us_mk82_gbu38_gbu39";"Mark 82 / GBU-38/62 JDAM / GBU-39 SDB I"
+"modification/us_blu27_gbu39/desc";"Allows the installation of GBU-39 SDB I GPS-guided glide bombs and BLU-27/B incendiary bombs."
+"modification/us_blu27_gbu39";"GBU-39 SDB I / BLU-27/B INC"
+"modification/us_250lb_mk81/desc";"Allows the installation of the Mark 81 series of bombs."
+"modification/us_250lb_mk81";"Mark 81"
+"modification/us_500lb_mk82/desc";"Allows the installation of the Mark 82 series of bombs."
+"modification/us_500lb_mk82";"Mark 82"
+"modification/us_1000lb_mk83/desc";"Allows the installation of the Mark 83 series of bombs."
+"modification/us_1000lb_mk83";"Mark 83"
+"modification/us_2000lb_mk84/desc";"Allows the installation of the Mark 84 series of bombs."
+"modification/us_2000lb_mk84";"Mark 84"
+"modification/us_750lb_m117a1/desc";"Allows the installation of M117 demolition bombs."
+"modification/us_750lb_m117a1";"M117 LDDB"
+"modification/us_750lb_m117/desc";"Allows the installation of M117 demolition bombs."
+"modification/us_750lb_m117";"M117 LDDB"
+"modification/us_3000lb_mk118/desc";"Allows the installation of M118 demolition bombs."
+"modification/us_3000lb_mk118";"M118 LDDB"
+"modification/us_4000lb_anm56_box/desc";"Allows the installation of AN-M56 general-purpose bombs."
+"modification/us_4000lb_anm56_box";"AN-M56 LCGP"
+#Bombs, JP
+"modification/jp_gbu38_jdam/desc";"Allows the installation of GBU-38 JDAM GPS-guided bombs."
+"modification/jp_gbu38_jdam";"GBU-38 JDAM"
+#Sensors, US
+"modification/us_sniper_pod/desc";"Allows the installation of the AN/AAQ-33 Sniper ATP laser/electro-optical targeting pod."
+"modification/us_sniper_pod";"AN/AAQ-33 Sniper ATP"
+"modification/us_an_aas_38_pod/desc";"Allows the installation of the AN/AAS-38 Nite Hawk electro-optical targeting pod."
+"modification/us_an_aas_38_pod";"AN/AAS-38 Nite Hawk"
+"modification/us_an_aas_38a_pod/desc";"Allows the installation of an AN/AAS-38A Nite Hawk laser/electro-optical targeting pod."
+"modification/us_an_aas_38a_pod";"AN/AAS-38A Nite Hawk"
+"modification/us_an_aas_38b_pod/desc";"Allows the installation of an AN/AAS-38B Nite Hawk laser/electro-optical targeting pod."
+"modification/us_an_aas_38b_pod";"AN/AAS-38B Nite Hawk"
+"modification/us_an_asq_228_pod/desc";"Allows the installation of the AN/ASQ-228 ATFLIR laser/electro-optical targeting pod."
+"modification/us_an_asq_228_pod";"AN/ASQ-228 ATFLIR"
+"modification/us_lantirn_pod/desc";"Allows the installation of the AN/AAQ-25 LANTIRN laser/electro-optical targeting pod."
+"modification/us_lantirn_pod";"AN/AAQ-25 LANTIRN"
+"modification/us_pave_tack_pod/desc";"Allows the installation of the AN/AVQ-26 Pave Tack laser/electro-optical targeting pod."
+"modification/us_pave_tack_pod";"AN/AVQ-26 Pave Tack"
+#Sensors, GER
+"modification/gr_litening_pod/desc";"Allows the installation of the AN/AAQ-28 LITENING II laser/electro-optical targeting pod."
+"modification/gr_litening_pod";"AN/AAQ-28 LITENING II"
+"modification/gr_litening_iii_pod/desc";"Allows the installation of the AN/AAQ-28 LITENING III laser/electro-optical targeting pod."
+"modification/gr_litening_iii_pod";"AN/AAQ-28 LITENING III"
+#Sensors, JP
+"modification/j_aaq_2_pod/desc";"Allows the installation of the J/AAQ-2 Forward-Looking Infrared laser/electro-optical targeting pod."
+"modification/j_aaq_2_pod";"J/AAQ-2"
+"modification/sniper_atp_pod/desc";"Allows the installation of the AN/AAQ-33 Sniper ATP laser/electro-optical targeting pod."
+"modification/sniper_atp_pod";"AN/AAQ-33 Sniper ATP"
+#Miscellaneous, USSR
+"modification/mig_29_uv_5_08";"UV-5-08"
+"modification/mig_29_uv_5_08/desc";"Allows the installation of the UV-5-08 countermeasures dispenser, which carries additional belts of flares and chaff. Flares confuse infrared-guided missiles, while chaff confuses radars and radar-guided missiles."

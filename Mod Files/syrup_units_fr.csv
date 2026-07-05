@@ -540,6 +540,18 @@ f_16a_block_5_netherlands_0;General Dynamics Corporation | ◘F-16A-5 Viper | Bl
 f_16a_block_5_netherlands_1;◘F-16A-5 Viper;;
 f_16a_block_5_netherlands_2;◘F-16A-5;;
 #
+f_16am_block_15_mlu_fs_belgium_shop;◘F-16AM-20 Viper;;
+f_16am_block_15_mlu_fs_belgium_0;"General Dynamics Corporation
+◘F-16AM-20 Viper | Block 20";;
+f_16am_block_15_mlu_fs_belgium_1;◘F-16AM-20 Viper;;
+f_16am_block_15_mlu_fs_belgium_2;◘F-16AM-20;;
+#
+f_16am_block_20_mlu_netherlands_shop;◘F-16AM-20 Viper;;
+f_16am_block_20_mlu_netherlands_0;"General Dynamics Corporation
+◘F-16AM-20 Viper | Block 20";;
+f_16am_block_20_mlu_netherlands_1;◘F-16AM-20 Viper;;
+f_16am_block_20_mlu_netherlands_2;◘F-16AM-20;;
+#
 "shop/group/md_452_group";"M.D.452 Mystere II";;
 "shop/group/md_454_group";"Mystère/Super Mystère";;
 "shop/group/so_4050_vautour_group";"S.O.4050 Vautour II";;

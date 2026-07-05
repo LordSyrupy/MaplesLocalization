@@ -146,23 +146,26 @@ Radar Model"
 "missile/guidance/ARH";"ARH | Active Radar Homing"
 "missile/guidance/ARH+IOG";"ARH+INS | Active Radar Homing + Inertial Navigation"
 "missile/guidance/ARH+IOG+DL";"ARH+INS+DL | Active Radar Homing + Inertial Navigation + Radar Datalink"
-"missile/guidance/ARH+IOG+GNSS+DL";"ARH+INS+GPS+DL | Active Radar Homing + Inertial Navigation + Satellite Geopositioning + Radar Datalink"
+"missile/guidance/ARH+IOG+GNSS+DL";"ARH+INS+SATNAV+DL | Active Radar Homing + Inertial Navigation + Satellite Navigation + Radar Datalink"
 "missile/guidance/laser";"SALH | Semi-Active Laser Homing"
 "missile/guidance/laser+IOG";"SALH+INS | Semi-Active Laser Homing + Inertial Navigation"
-"missile/guidance/laser+IOG+GNSS";"SALH+INS+GPS | Semi-Active Laser Homing + Inertial Navigation + Satellite Geopositioning"
-"missile/guidance/ir+IOG+GNSS";"IR+INS+GPS | Infrared + Inertial Navigation + Satellite Geopositioning"
-"missile/guidance/ir+IOG+GNSS+DL";"IR+INS+GPS+DL | Infrared + Inertial Navigation + Satellite Geopositioning + Radar Datalink"
+"missile/guidance/laser+IOG+GNSS";"SALH+INS+SATNAV | Semi-Active Laser Homing + Inertial Navigation + Satellite Navigation"
+"missile/guidance/ir+IOG+GNSS";"IR+INS+SATNAV | Infrared + Inertial Navigation + Satellite Navigation"
+"missile/guidance/ir+IOG+GNSS+DL";"IR+INS+SATNAV+DL | Infrared + Inertial Navigation + Satellite Navigation + Radar Datalink"
 "missile/guidance/ir+IOG+DL";"IR+INS+DL | Infrared + Inertial Navigation + Radar Datalink"
 "missile/guidance/ir+IOG";"IR+INS | Infrared + Inertial Navigation"
 "missile/guidance/tv+IOG";"TV+INS | Television + Inertial Navigation"
-"missile/guidance/tv+IOG+GNSS";"TV+INS+GPS | Television + Inertial Navigation + Satellite Geopositioning"
-"missile/guidance/sns";"GPS | Satellite Geopositioning"
+"missile/guidance/tv+IOG+GNSS";"TV+INS+SATNAV | Television + Inertial Navigation + Satellite Navigation"
+"missile/guidance/sns";"SATNAV | Satellite Navigation"
 "missile/guidance/mclos";"MCLOS | Manual Command Line-Of-Sight"
 "missile/guidance/saclos";"SACLOS | Semi-Automatic Command Line-of-Sight"
 "missile/guidance/beamRiding";"Beam Riding"
 "missile/aiming/beamRiding";"Beam Riding"
 "missile/aiming/semiautomatic";"SACLOS | Semi-Automatic Command Line-of-Sight"
 "missile/aiming/manual";"MCLOS | Manual Command Line-Of-Sight"
+missile/guidance/PRH;PRH | Passive Radar Homing
+missile/guidance/PRH+IOG;PRH+INS | Passive Radar Homing + Inertial Navigation
+missile/guidance/PRH+IOG+GNSS;PRH+INS+SATNAV | Passive Radar Homing + Inertial Navigation + Satellite Navigation
 avionics_sensor_radar/desc;<color=@linkTextHoverColorLight>Radar</color>
 avionics_sensor_irst/desc;<color=@linkTextHoverColorLight>IRST</color> - <color=@userlogColoredText>Infrared Search & Track</color>
 avionics_sensor_radar_irst/desc;<color=@linkTextHoverColorLight>Radar/IRST</color> - <color=@userlogColoredText>Radar w/ Infrared Search-and-Track Sensor</color>

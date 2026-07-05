@@ -1,497 +1,687 @@
 "<ID|readonly|noverify>";"<English>";;
 #
 "kitsuka_shop";"M7N1-J Kō Kikka Kai";;
-"kitsuka_0";"Nakajima Aircraft | M7N1-J Kikka Kai | Experimental Model 21 Kō";;
+"kitsuka_0";"Nakajima Aircraft
+M7N1-J
+Experimental Kikka Kai | Model 21 Kō";;
 "kitsuka_1";"M7N1-J Kō Kikka Kai";;
 "kitsuka_2";"M7N1-J Kō";;
 #
 "j8m1_shop";"Ki 200";;
-"j8m1_0";"Mitsubishi Heavy Industries | Ki 200";;
+"j8m1_0";"Mitsubishi Heavy Industries
+Ki 200";;
 "j8m1_1";"Ki 200";;
 "j8m1_2";"Ki 200";;
 #
 "r2y2_kai_shop";"R2Y2-G Keiun Kai (Model 11)";;
-"r2y2_kai_0";"Yokosuka Naval Arsenal | R2Y2-G Keiun Kai | Experimental Model 11";;
+"r2y2_kai_0";"Yokosuka Naval Arsenal
+R2Y2-G Keiun Kai
+Experimental Model 11";;
 "r2y2_kai_1";"R2Y2-G Keiun Kai (Model 11)";;
 "r2y2_kai_2";"R2Y2-G (Model 11)";;
 #
 "r2y2_v1_shop";"R2Y2-G Keiun Kai (Model 22)";;
-"r2y2_v1_0";"Yokosuka Naval Arsenal | R2Y2-G Keiun Kai  | Experimental Model 22";;
+"r2y2_v1_0";"Yokosuka Naval Arsenal
+R2Y2-G Keiun Kai
+Experimental Model 22";;
 "r2y2_v1_1";"R2Y2-G Keiun Kai (Model 22)";;
 "r2y2_v1_2";"R2Y2-G (Model 22)";;
 #
 "r2y2_v2_shop";"R2Y2-G Keiun Kai (Model 32)";;
-"r2y2_v2_0";"Yokosuka Naval Arsenal | R2Y2-G Keiun Kai | Experimental Model 32";;
+"r2y2_v2_0";"Yokosuka Naval Arsenal
+R2Y2-G Keiun Kai
+Experimental Model 32";;
 "r2y2_v2_1";"R2Y2-G Keiun Kai (Model 32)";;
 "r2y2_v2_2";"R2Y2-G (Model 32)";;
 #
 "n1k1_ja_shop";"N1K1-J Kō Shiden";;
-"n1k1_ja_0";"Kawashini Aircraft | N1K1-J Shiden | Model 11 Kō";;
+"n1k1_ja_0";"Kawashini Aircraft
+N1K1-J Shiden
+Model 11 Kō";;
 "n1k1_ja_1";"N1K1-J Kō Shiden";;
 "n1k1_ja_2";"N1K1-J Kō";;
 #
 "n1k2_j_shop";"N1K2-J Shiden";;
-"n1k2_j_0";"Kawashini Aircraft | N1K2-J Shiden | Model 12";;
+"n1k2_j_0";"Kawashini Aircraft
+N1K2-J Shiden
+Model 12";;
 "n1k2_j_1";"N1K2-J Shiden";;
 "n1k2_j_2";"N1K2-J";;
 #
 "n1k2_jko_shop";"N1K2-J Kō Shiden";;
-"n1k2_jko_0";"Kawashini Aircraft | N1K2-J Shiden |Model 12 Kō";;
+"n1k2_jko_0";"Kawashini Aircraft
+N1K2-J Shiden
+Model 12 Kō";;
 "n1k2_jko_1";"N1K2-J Kō Shiden";;
 "n1k2_jko_2";"N1K2-J Kō";;
 #
 "a7m2_shop";"A7M2 Reppū";;
-"a7m2_0";"Mitsubishi Heavy Industries | A7M2 Reppū | Model 11";;
+"a7m2_0";"Mitsubishi Heavy Industries
+A7M2 Reppū
+Model 11";;
 "a7m2_1";"A7M2 Reppū";;
 "a7m2_2";"A7M2";;
 #
 "a6m5otsu_shop";"A6M5 Otsu Reisen";;
-"a6m5otsu_0";"Mitsubishi Heavy Industries | A6M5 Reisen | Type 0 Carrier Fighter ""Zero"" | Model 52 Otsu";;
+"a6m5otsu_0";"Mitsubishi Heavy Industries
+A6M5 Reisen
+Type 0 Carrier Fighter ""Zero"" | Model 52 Otsu";;
 "a6m5otsu_1";"A6M5 Otsu Reisen";;
 "a6m5otsu_2";"A6M5 Otsu";;
 #
 "a6m5hei_shop";"A6M5 Hei Reisen";;
-"a6m5hei_0";"Mitsubishi Heavy Industries | A6M5 Reisen | Type 0 Carrier Fighter ""Zero"" | Model 52 Hei";;
+"a6m5hei_0";"Mitsubishi Heavy Industries
+A6M5 Reisen
+Type 0 Carrier Fighter ""Zero"" | Model 52 Hei";;
 "a6m5hei_1";"A6M5 Hei Reisen";;
 "a6m5hei_2";"A6M5 Hei";;
 #
 "ki_61_1a_hei_shop";"Ki 61-I Hei Hien";;
-"ki_61_1a_hei_0";"Kawasaki Aircraft Industries | Ki 61-I Hien | Type 3 Fighter | Model 1 Hei";;
+"ki_61_1a_hei_0";"Kawasaki Aircraft Industries
+Ki 61-I Hien
+Type 3 Fighter | Model 1 Hei";;
 "ki_61_1a_hei_1";"Ki 61-I Hei Hien";;
 "ki_61_1a_hei_2";"Ki 61-I Hei";;
 #
 "ki_61_1a_hei_ep_shop";"Ki 61-I Hei Hien [Tada]";;
-"ki_61_1a_hei_ep_0";"Kawasaki Aircraft Industries | Takeichi Tada's Ki 61-I Hien | Type 3 Fighter | Model 1 Hei";;
+"ki_61_1a_hei_ep_0";"Kawasaki Aircraft Industries
+Takeichi Tada's Ki 61-I Hien
+Type 3 Fighter | Model 1 Hei";;
 "ki_61_1a_hei_ep_1";"Ki 61-I Hei Hien [Tada]";;
 "ki_61_1a_hei_ep_2";"Ki 61-I Hei [Tada]";;
 #
 "ki_84_ko_shop";"Ki 84-I Kō Hayate";;
-"ki_84_ko_0";"Nakajima Aircraft | Ki 84-I Hayate | Type 4 Fighter | Model 1 Kō";;
+"ki_84_ko_0";"Nakajima Aircraft
+Ki 84-I Hayate
+Type 4 Fighter | Model 1 Kō";;
 "ki_84_ko_1";"Ki 84-I Kō Hayate";;
 "ki_84_ko_2";"Ki 84-I Kō";;
 #
 "ki_84_otsu_shop";"Ki 84-I Otsu Hayate";;
-"ki_84_otsu_0";"Nakajima Aircraft | Ki 84-I Hayate | Type 4 Fighter | Model 1 Otsu";;
+"ki_84_otsu_0";"Nakajima Aircraft
+Ki 84-I Hayate
+Type 4 Fighter | Model 1 Otsu";;
 "ki_84_otsu_1";"Ki 84-I Otsu Hayate";;
 "ki_84_otsu_2";"Ki 84-I Otsu";;
 #
 "ki_84_hei_shop";"Ki 84-I Hei Hayate";;
-"ki_84_hei_0";"Nakajima Aircraft | Ki 84-I Hayate | Type 4 Fighter | Model 1 Hei";;
+"ki_84_hei_0";"Nakajima Aircraft
+Ki 84-I Hayate
+Type 4 Fighter | Model 1 Hei";;
 "ki_84_hei_1";"Ki 84-I Hei Hayate";;
 "ki_84_hei_2";"Ki 84-I Hei";;
 #
 "j7w1_shop";"J7W1 Shinden";;
-"j7w1_0";"Naval Aviation Technology Arsenal / Kyūshū Aircraft | J7W1 Shinden | 18th Experimental Otsu Land Fighter";;
+"j7w1_0";"Naval Aviation Technology Arsenal / Kyūshū Aircraft
+J7W1 Shinden
+18th Experimental Otsu Land Fighter";;
 "j7w1_1";"J7W1 Shinden";;
 "j7w1_2";"J7W1";;
 #
 "j2m3_shop";"J2M3 Raiden";;
-"j2m3_0";"Mitsubishi Heavy Industries | J2M3 Raiden | Model 21";;
+"j2m3_0";"Mitsubishi Heavy Industries 
+J2M3 Raiden
+Model 21";;
 "j2m3_1";"J2M3 Raiden";;
 "j2m3_2";"J2M3";;
 #
 "j2m5_shop";"J2M5 Raiden";;
-"j2m5_0";"Mitsubishi Heavy Industries | J2M5 Raiden | Model 33";;
+"j2m5_0";"Mitsubishi Heavy Industries
+J2M5 Raiden | Model 33";;
 "j2m5_1";"J2M5 Raiden";;
 "j2m5_2";"J2M5";;
 #
 "ki-83_shop";"Ki 83";;
-"ki-83_0";"Mitsubishi Heavy Industries | Ki 83";;
+"ki-83_0";"Mitsubishi Heavy Industries
+Ki 83";;
 "ki-83_1";"Ki 83";;
 "ki-83_2";"Ki 83";;
 #
 "g8n1_shop";"G8N1 Renzan";;
-"g8n1_0";"Nakajima Aircraft | G8N1 Renzan | 18th Experimental Land Attack Aircraft";;
+"g8n1_0";"Nakajima Aircraft
+G8N1 Renzan
+18th Experimental Land Attack Aircraft";;
 "g8n1_1";"G8N1 Renzan";;
 "g8n1_2";"G8N1";;
 #
 "a7m1_shop";"A7M1 Reppū";;
-"a7m1_0";"Mitsubishi Heavy Industries | A7M1 Reppū | 17th Experimental Kō Carrier-Based Fighter";;
+"a7m1_0";"Mitsubishi Heavy Industries
+A7M1 Reppū
+17th Experimental Kō Carrier-Based Fighter";;
 "a7m1_1";"A7M1 Reppū";;
 "a7m1_2";"A7M1";;
 #
 "j2m5_30mm_shop";"J2M5 Raiden (Type 5)";;
-"j2m5_30mm_0";"Mitsubishi Heavy Industries | J2M5 Raiden | Model 33 | Type 5 30mm Autocannon";;
+"j2m5_30mm_0";"Mitsubishi Heavy Industries
+J2M5 Raiden
+Model 33 | Type 5 30mm Autocannon";;
 "j2m5_30mm_1";"J2M5 Raiden (Type 5)";;
 "j2m5_30mm_2";"J2M5 (Type 5)";;
 #
 "ki_87_shop";"Ki 87";;
-"ki_87_0";"Nakajima Aircraft | Ki 87";;
+"ki_87_0";"Nakajima Aircraft
+Ki 87";;
 "ki_87_1";"Ki 87";;
 "ki_87_2";"Ki 87";;
 #
 "a6m6c_shop";"A6M6 Reisen";;
-"a6m6c_0";"Mitsubishi Heavy Industries | A6M6 Reisen | Type 0 Carrier Fighter ""Zero"" | Model 53";;
+"a6m6c_0";"Mitsubishi Heavy Industries
+A6M6 Reisen
+Type 0 Carrier Fighter ""Zero"" | Model 53";;
 "a6m6c_1";"A6M6 Reisen";;
 "a6m6c_2";"A6M6";;
 #
 "ki_94_2_shop";"Ki 94-II";;
-"ki_94_2_0";"Tachikawa Aircaft | Ki 94-II";;
+"ki_94_2_0";"Tachikawa Aircaft
+Ki 94-II";;
 "ki_94_2_1";"Ki 94-II";;
 "ki_94_2_2";"Ki 94-II";;
 #
 "j6k1_shop";"J6K1 Jinpū";;
-"j6k1_0";"Kawanshini Aircraft Company | J6K1 Jinpū | 18th Experimental Kō Land Fighter";;
+"j6k1_0";"Kawanshini Aircraft Company
+J6K1 Jinpū
+18th Experimental Kō Land Fighter";;
 "j6k1_1";"J6K1 Jinpū";;
 "j6k1_2";"J6K1";;
 #
 "a6m3_zero_shop";"A6M3 Reisen (Model 32)";;
-"a6m3_zero_0";"Mitsubishi Heavy Industries | A6M3 Reisen | Type 0 Carrier Fighter ""Zero"" | Model 32";;
+"a6m3_zero_0";"Mitsubishi Heavy Industries
+A6M3 Reisen
+Type 0 Carrier Fighter ""Zero"" | Model 32";;
 "a6m3_zero_1";"A6M3 Reisen (Model 32)";;
 "a6m3_zero_2";"A6M3 (Model 32)";;
 #
 "a6m3_mod22_zero_shop";"A6M3 Reisen (Model 22)";;
-"a6m3_mod22_zero_0";"Mitsubishi Heavy Industries | A6M3 Reisen | Type 0 Carrier Fighter ""Zero"" | Model 22";;
+"a6m3_mod22_zero_0";"Mitsubishi Heavy Industries
+A6M3 Reisen
+Type 0 Carrier Fighter ""Zero"" | Model 22";;
 "a6m3_mod22_zero_1";"A6M3 Reisen (Model 22)";;
 "a6m3_mod22_zero_2";"A6M3 (Model 22)";;
 #
 "a6m3_mod22ko_zero_shop";"A6M3 Kō Reisen";;
-"a6m3_mod22ko_zero_0";"Mitsubishi Heavy Industries | A6M3 Reisen | Type 0 Carrier Fighter ""Zero"" | Model 22 Kō";;
+"a6m3_mod22ko_zero_0";"Mitsubishi Heavy Industries
+A6M3 Reisen
+Type 0 Carrier Fighter ""Zero"" | Model 22 Kō";;
 "a6m3_mod22ko_zero_1";"A6M3 Kō Reisen";;
 "a6m3_mod22ko_zero_2";"A6M3 Kō";;
 #
 "a6m5_zero_shop";"A6M5 Reisen";;
-"a6m5_zero_0";"Mitsubishi Heavy Industries | A6M5 Reisen | Type 0 Carrier Fighter | Model 52";;
+"a6m5_zero_0";"Mitsubishi Heavy Industries
+A6M5 Reisen
+Type 0 Carrier Fighter | Model 52";;
 "a6m5_zero_1";"A6M5 Reisen";;
 "a6m5_zero_2";"A6M5";;
 #
 "ki_43_3_otsu_shop";"Ki 43-III Otsu Hayabusa";;
-"ki_43_3_otsu_0";"Nakajima Aircraft / Tachikawa Aircraft | Ki 43-III Hayabusa | Type 1 Fighter | Model 3 Otsu";;
+"ki_43_3_otsu_0";"Nakajima Aircraft / Tachikawa Aircraft
+Ki 43-III Hayabusa
+Type 1 Fighter | Model 3 Otsu";;
 "ki_43_3_otsu_1";"Ki 43-III Otsu Hayabusa";;
 "ki_43_3_otsu_2";"Ki 43-III Otsu";;
 #
 "ki_61_1a_tei_shop";"Ki 61-I Hei Hien";;
-"ki_61_1a_tei_0";"Kawasaki Aircraft Industries | Ki 61-I Hien | Type 3 Fighter | Model 1 Hei";;
+"ki_61_1a_tei_0";"Kawasaki Aircraft Industries
+Ki 61-I Hien
+Type 3 Fighter | Model 1 Hei";;
 "ki_61_1a_tei_1";"Ki 61-I Hei Hien";;
 "ki_61_1a_tei_2";"Ki 61-I Hei";;
 #
 "ki_61_2_early_shop";"Ki 61-II Kai Kō Hien";;
-"ki_61_2_early_0";"Kawasaki Aircraft Industries | Ki 61-II Hien | Type 3 Fighter | Model 2 Kai Kō";;
+"ki_61_2_early_0";"Kawasaki Aircraft Industries
+Ki 61-II Hien
+Type 3 Fighter | Model 2 Kai Kō";;
 "ki_61_2_early_1";"Ki 61-II Kai Kō Hien";;
 "ki_61_2_early_2";"Ki 61-II Kai Kō";;
 #
 "ki_100_early_shop";"Ki 100-I Kō";;
-"ki_100_early_0";"Kawasaki Aircraft Industries | Ki 100-I Kō";;
+"ki_100_early_0";"Kawasaki Aircraft Industries
+Ki 100-I Kō";;
 "ki_100_early_1";"Ki 100-I Kō";;
 "ki_100_early_2";"Ki 100-I Kō";;
 #
 "ki_108_shop";"Ki 108 Kai";;
-"ki_108_0";"Kawasaki Aircraft Industries | Ki 108 Kai";;
+"ki_108_0";"Kawasaki Aircraft Industries
+Ki 108 Kai";;
 "ki_108_1";"Ki 108 Kai";;
 "ki_108_2";"Ki 108 Kai";;
 #
 "j2m2_shop";"J2M2 Raiden";;
-"j2m2_0";"Mitsubishi Heavy Industries | J2M2 Raiden | Model 11";;
+"j2m2_0";"Mitsubishi Heavy Industries
+J2M2 Raiden
+Model 11";;
 "j2m2_1";"J2M2 Raiden";;
 "j2m2_2";"J2M2";;
 #
 "j5n1_shop";"J5N1 Tenrai";;
-"j5n1_0";"Nakajima Aircraft | J5N1 Tenrai | 18th Experimental Twin-Engine Land Fighter";;
+"j5n1_0";"Nakajima Aircraft
+J5N1 Tenrai
+18th Experimental Twin-Engine Land Fighter";;
 "j5n1_1";"J5N1 Tenrai";;
 "j5n1_2";"J5N1";;
 #
 "p1y1_mod11_shop";"P1Y1 Ginga";;
-"p1y1_mod11_0";"Nakajima Aircraft | P1Y1 Ginga | Model 11";;
+"p1y1_mod11_0";"Nakajima Aircraft
+P1Y1 Ginga
+Model 11";;
 "p1y1_mod11_1";"P1Y1 Ginga";;
 "p1y1_mod11_2";"P1Y1";;
 #
 "b7a2_shop";"B7A1 Ryusei";;
-"b7a2_0";"Aichi Aircraft | B7A1 Ryusei | Experimental | NK9C";;
+"b7a2_0";"Aichi Aircraft
+B7A1 Ryusei | Experimental
+NK9C";;
 "b7a2_1";"B7A1 Ryusei";;
 "b7a2_2";"B7A1";;
 #
 "b7a2_homare_23_shop";"B7A2 Ryusei Kai";;
-"b7a2_homare_23_0";"Aichi Aircraft | B7A2 Ryusei Kai | Experimental";;
+"b7a2_homare_23_0";"Aichi Aircraft
+B7A2 Ryusei Kai | Experimental";;
 "b7a2_homare_23_1";"B7A2 Ryusei Kai";;
 "b7a2_homare_23_2";"B7A2";;
 #
 "ki-49_2b_shop";"Ki 49-II Otsu Donryu (1942)";;
-"ki-49_2b_0";"Nakajima Aircraft | Ki 49-II Donryu | Type 100 Heavy Bomber | Model 2 Otsu (1942)";;
+"ki-49_2b_0";"Nakajima Aircraft
+Ki 49-II Donryu
+Type 100 Heavy Bomber | Model 2 Otsu (1942)";;
 "ki-49_2b_1";"Ki 49-II Otsu Donryu (1942)";;
 "ki-49_2b_2";"Ki 49-II Otsu (1942)";;
 #
 "ki-49_2b_late_shop";"Ki 49-II Otsu Donryu (1943)";;
-"ki-49_2b_late_0";"Nakajima Aircraft | Ki 49-II Donryu | Type 100 Heavy Bomber | Model 2 Otsu (1943)";;
+"ki-49_2b_late_0";"Nakajima Aircraft
+Ki 49-II Donryu
+Type 100 Heavy Bomber | Model 2 Otsu (1943)";;
 "ki-49_2b_late_1";"Ki 49-II Otsu Donryu (1943)";;
 "ki-49_2b_late_2";"Ki 49-II Otsu (1943)";;
 #
 "g5n1_shop";"G5N1 Shinzan";;
-"g5n1_0";"Nakajima Aircraft | G5N1 Shinzan | 13th Experimental Land Attack Aircraft";;
+"g5n1_0";"Nakajima Aircraft
+G5N1 Shinzan
+13th Experimental Land Attack Aircraft";;
 "g5n1_1";"G5N1 Shinzan";;
 "g5n1_2";"G5N1";;
 #
 "ki_67_1_otsu_shop";"Ki 67-I Otsu Hiryū";;
-"ki_67_1_otsu_0";"Mitsubishi Aircraft Company | Ki 67-I Hiryū  | Type 4 Heavy Bomber | Model 1 Otsu";;
+"ki_67_1_otsu_0";"Mitsubishi Aircraft Company
+Ki 67-I Hiryū
+Type 4 Heavy Bomber | Model 1 Otsu";;
 "ki_67_1_otsu_1";"Ki 67-I Otsu Hiryū";;
 "ki_67_1_otsu_2";"Ki 67-I Otsu";;
 #
 "ki_67_1_ko_shop";"Ki 67-I Kō Hiryū";;
-"ki_67_1_ko_0";"Mitsubishi Aircraft Company | Ki 67-I Hiryū | Type 4 Heavy Bomber | Model 1 Kō";;
+"ki_67_1_ko_0";"Mitsubishi Aircraft Company
+Ki 67-I Hiryū
+Type 4 Heavy Bomber | Model 1 Kō";;
 "ki_67_1_ko_1";"Ki 67-I Kō Hiryū";;
 "ki_67_1_ko_2";"Ki 67-I Kō";;
 #
 "ki-96_shop";"Ki 96 (No. 3)";;
-"ki-96_0";"Kawasaki Aircraft Industries | Ki 96 | Prototype No. 3";;
+"ki-96_0";"Kawasaki Aircraft Industries
+Ki 96
+Prototype No. 3";;
 "ki-96_1";"Ki 96 (No. 3)";;
 "ki-96_2";"Ki 96 (No. 3)";;
 #
 "ki_100_2_shop";"Ki 100-II";;
-"ki_100_2_0";"Kawasaki Aircraft Industries | Ki 100-II";;
+"ki_100_2_0";"Kawasaki Aircraft Industries
+Ki 100-II";;
 "ki_100_2_1";"Ki 100-II";;
 "ki_100_2_2";"Ki 100-II";;
 #
 "a6m2_n_zero_shop";"A6M2-N";;
-"a6m2_n_zero_0";"Nakajima Aircraft | A6M2-N | Type 2 Seaplane Fighter";;
+"a6m2_n_zero_0";"Nakajima Aircraft
+A6M2-N
+Type 2 Seaplane Fighter";;
 "a6m2_n_zero_1";"A6M2-N";;
 "a6m2_n_zero_2";"A6M2-N";;
 #
 "n1k1_kyuofu_shop";"N1K1 Kyōfū";;
-"n1k1_kyuofu_0";"Kawashini Aircraft | N1K1 Kyōfū";;
+"n1k1_kyuofu_0";"Kawashini Aircraft
+N1K1 Kyōfū";;
 "n1k1_kyuofu_1";"N1K1 Kyōfū";;
 "n1k1_kyuofu_2";"N1K1";;
 #
 "a6m2_mod11_shop";"A6M2 Reisen (Model 11)";;
-"a6m2_mod11_0";"Mitsubishi Heavy Industries | A6M2 Reisen | Type 0 Carrier Fighter | Model 11";;
+"a6m2_mod11_0";"Mitsubishi Heavy Industries
+A6M2 Reisen
+Type 0 Carrier Fighter | Model 11";;
 "a6m2_mod11_1";"A6M2 Reisen (Model 11)";;
 "a6m2_mod11_2";"A6M2 (Model 11)";;
 #
 "a6m2_zero_shop";"A6M2 Reisen (Model 21)";;
-"a6m2_zero_0";"Mitsubishi Heavy Industries | A6M2 Reisen | Type 0 Carrier Fighter | Model 21";;
+"a6m2_zero_0";"Mitsubishi Heavy Industries
+A6M2 Reisen
+Type 0 Carrier Fighter | Model 21";;
 "a6m2_zero_1";"A6M2 Reisen (Model 21)";;
 "a6m2_zero_2";"A6M2 (Model 21)";;
 #
 "ki_44_1_shop";"Ki 44-I Shōki";;
-"ki_44_1_0";"Nakajima Aircraft Company | Ki 44-I Shōki | Type 2 Fighter | Model 1";;
+"ki_44_1_0";"Nakajima Aircraft Company
+Ki 44-I Shōki
+Type 2 Fighter | Model 1";;
 "ki_44_1_1";"Ki 44-I Shōki";;
 "ki_44_1_2";"Ki 44-I";;
 #
 "ki_44_1_ep_shop";"Ki 44-I Shōki (47th FS)";;
-"ki_44_1_ep_0";"Nakajima Aircraft Company | Ki 44-I Shōki | Type 2 Fighter | Model 1 | Independent 47th Flight Squadron";;
+"ki_44_1_ep_0";"Nakajima Aircraft Company
+Ki 44-I Shōki
+Type 2 Fighter | Model 1
+Independent 47th Flight Squadron";;
 "ki_44_1_ep_1";"Ki 44-I Shōki (47th FS)";;
 "ki_44_1_ep_2";"Ki 44-I (47th FS)";;
 #
 "ki_44_2_otsu_shop";"Ki 44-II Otsu Shōki";;
-"ki_44_2_otsu_0";"Nakajima Aircraft Company | Ki 44-II Shōki | Type 2 Fighter | Model 2 Otsu";;
+"ki_44_2_otsu_0";"Nakajima Aircraft Company
+Ki 44-II Shōki
+Type 2 Fighter | Model 2 Otsu";;
 "ki_44_2_otsu_1";"Ki 44-II Otsu Shōki";;
 "ki_44_2_otsu_2";"Ki 44-II Otsu";;
 #
 "ki_44_2_hei_shop";"Ki 44-II Hei Shōki";;
-"ki_44_2_hei_0";"Nakajima Aircraft Company | Ki 44-II Shōki | Type 2 Fighter | Model 2 Hei";;
+"ki_44_2_hei_0";"Nakajima Aircraft Company
+Ki 44-II Shōki
+Type 2 Fighter | Model 2 Hei";;
 "ki_44_2_hei_1";"Ki 44-II Hei Shōki";;
 "ki_44_2_hei_2";"Ki 44-II Hei";;
 #
 "ki_61_1a_ko_shop";"Ki 61-I Kō Hien";;
-"ki_61_1a_ko_0";"Kawasaki Aircraft Industries | Ki 61-I Hien | Type 3 Fighter | Model 1 Kō";;
+"ki_61_1a_ko_0";"Kawasaki Aircraft Industries
+Ki 61-I Hien
+Type 3 Fighter | Model 1 Kō";;
 "ki_61_1a_ko_1";"Ki 61-I Kō Hien";;
 "ki_61_1a_ko_2";"Ki 61-I Kō";;
 #
 "ki_61_1a_otsu_shop";"Ki 61-I Otsu Hien";;
-"ki_61_1a_otsu_0";"Kawasaki Aircraft Industries | Ki 61-I Hien | Type 3 Fighter | Model 1 Otsu ";;
+"ki_61_1a_otsu_0";"Kawasaki Aircraft Industries
+Ki 61-I Hien
+Type 3 Fighter | Model 1 Otsu ";;
 "ki_61_1a_otsu_1";"Ki 61-I Otsu Hien";;
 "ki_61_1a_otsu_2";"Ki 61-I Otsu";;
 #
 "j1n1_mod11_early_shop";"J1N1";;
-"j1n1_mod11_early_0";"Nakajima Aircraft | J1N1 | 13th Experimental Twin-Engine Land Fighter";;
+"j1n1_mod11_early_0";"Nakajima Aircraft
+J1N1
+13th Experimental Twin-Engine Land Fighter";;
 "j1n1_mod11_early_1";"J1N1";;
 "j1n1_mod11_early_2";"J1N1";;
 #
 "ki_102_otsu_shop";"Ki 102 Otsu";;
-"ki_102_otsu_0";"Kawasaki Aircraft Industries | Ki 102 Otsu | Type 5 Twin-Engine Attack Aircraft";;
+"ki_102_otsu_0";"Kawasaki Aircraft Industries
+Ki 102
+Type 5 Twin-Engine Attack Aircraft | Otsu";;
 "ki_102_otsu_1";"Ki 102 Otsu";;
 "ki_102_otsu_2";"Ki 102 Otsu";;
 #
 "b6n2_shop";"B6N2 Tenzan";;
-"b6n2_0";"Nakajima Aircraft | B6N2 Tenzan | Model 12";;
+"b6n2_0";"Nakajima Aircraft
+B6N2 Tenzan
+Model 12";;
 "b6n2_1";"B6N2 Tenzan";;
 "b6n2_2";"B6N2";;
 #
 "b6n2a_shop";"B6N2 Kō Tenzan";;
-"b6n2a_0";"Nakajima Aircraft | B6N2 Tenzan | Model 12 Kō";;
+"b6n2a_0";"Nakajima Aircraft
+B6N2 Tenzan
+Model 12 Kō";;
 "b6n2a_1";"B6N2 Kō Tenzan";;
 "b6n2a_2";"B6N2 Kō";;
 #
 "d4y1_shop";"D4Y1 Suisei";;
-"d4y1_0";"Aichi Aircraft | D4Y1 Suisei | Model 11";;
+"d4y1_0";"Aichi Aircraft
+D4Y1 Suisei
+Model 11";;
 "d4y1_1";"D4Y1 Suisei";;
 "d4y1_2";"D4Y1";;
 #
 "d4y2_shop";"D4Y2 Suisei";;
-"d4y2_0";"Aichi Aircraft | D4Y2 Suisei | Model 12";;
+"d4y2_0";"Aichi Aircraft
+D4Y2 Suisei
+Model 12";;
 "d4y2_1";"D4Y2 Suisei";;
 "d4y2_2";"D4Y2";;
 #
 "d4y3_shop";"D4Y3 Kō Suisei";;
-"d4y3_0";"Aichi Aircraft | D4Y3 Suisei | Model 12 Kō";;
+"d4y3_0";"Aichi Aircraft
+D4Y3 Suisei
+Model 12 Kō";;
 "d4y3_1";"D4Y3 Kō Suisei";;
 "d4y3_2";"D4Y3 Kō";;
 #
 "g4m1_shop";"G4M1";;
-"g4m1_0";"Mitsubishi Heavy Industries | G4M1 | Type 1 Land Attack Aircraft | Model 11";;
+"g4m1_0";"Mitsubishi Heavy Industries
+G4M1
+Type 1 Land Attack Aircraft | Model 11";;
 "g4m1_1";"G4M1";;
 "g4m1_2";"G4M1";;
 #
 "h8k2_shop";"H8K2";;
-"h8k2_0";"Kawashini Aircraft | H8K2 | Type 2 Flying Boat | Model 12";;
+"h8k2_0";"Kawashini Aircraft
+H8K2
+Type 2 Flying Boat | Model 12";;
 "h8k2_1";"H8K2";;
 "h8k2_2";"H8K2";;
 #
-"ki-49_1_shop";"Ki 49-I Donryu";;
-"ki-49_1_0";"Nakajima Aircraft | Ki 49-I Donryu | Type 100 Heavy Bomber | Model 1 Otsu";;
-"ki-49_1_1";"Ki 49-I Donryu";;
-"ki-49_1_2";"Ki 49-I";;
+"ki-49_1_shop";"Ki 49-I Otsu Donryu";;
+"ki-49_1_0";"Nakajima Aircraft
+Ki 49-I Donryu
+Type 100 Heavy Bomber | Model 1 Otsu";;
+"ki-49_1_1";"Ki 49-I Otsu Donryu";;
+"ki-49_1_2";"Ki 49-I Otsu";;
 #
 "ki-49_2a_shop";"Ki 49-II Kō Donryu";;
-"ki-49_2a_0";"Nakajima Aircraft | Ki 49-II Donryu | Type 100 Heavy Bomber | Model 2 Kō";;
+"ki-49_2a_0";"Nakajima Aircraft
+Ki 49-II Donryu
+Type 100 Heavy Bomber | Model 2 Kō";;
 "ki-49_2a_1";"Ki 49-II Kō Donryu";;
 "ki-49_2a_2";"Ki 49-II Kō";;
 #
 "a7he1_shop";"A7He1";;
-"a7he1_0";"Heinkel Flugzeugwerke | A7He1 | Heinkel Model 112 Land Fighter";;
+"a7he1_0";"Heinkel Flugzeugwerke
+A7He1
+Heinkel Model 112 Land Fighter";;
 "a7he1_1";"A7He1";;
 "a7he1_2";"A7He1";;
 #
 "h8k3_shop";"H8K3";;
-"h8k3_0";"Kawashini Aircraft | H8K3 | Type 2 Flying Boat | Model 22";;
+"h8k3_0";"Kawashini Aircraft
+H8K3
+Type 2 Flying Boat | Model 22";;
 "h8k3_1";"H8K3";;
 "h8k3_2";"H8K3";;
 #
 "ki_48_2_otsu_shop";"Ki 48-II Otsu";;
-"ki_48_2_otsu_0";"Kawasaki Aircraft Industries | Ki 48-II Otsu | Type 99 Twin-Engine Light Bomber | Model 2 Otsu";;
+"ki_48_2_otsu_0";"Kawasaki Aircraft Industries
+Ki 48-II
+Type 99 Twin-Engine Light Bomber | Model 2 Otsu";;
 "ki_48_2_otsu_1";"Ki 48-II Otsu";;
 "ki_48_2_otsu_2";"Ki 48-II Otsu";;
 #
 "ki_48_2_otsu_event_shop";"Ki 48-II Otsu";;
-"ki_48_2_otsu_event_0";"Kawasaki Aircraft Industries | Ki 48-II Otsu | Type 99 Twin-Engine Light Bomber | Model 2 Otsu";;
+"ki_48_2_otsu_event_0";"Kawasaki Aircraft Industries
+Ki 48-II
+Type 99 Twin-Engine Light Bomber | Model 2 Otsu";;
 "ki_48_2_otsu_event_1";"Ki 48-II Otsu";;
 "ki_48_2_otsu_event_2";"Ki 48-II Otsu";;
 #
 "ki_21_1hei_shop";"Ki 21-I Hei";;
-"ki_21_1hei_0";"Mitsubishi Heavy Industries | Ki 21-I Hei | Type 97 Heavy Bomber | Model 1 Hei";;
+"ki_21_1hei_0";"Mitsubishi Heavy Industries
+Ki 21-I
+Type 97 Heavy Bomber | Model 1 Hei";;
 "ki_21_1hei_1";"Ki 21-I Hei";;
 "ki_21_1hei_2";"Ki 21-I Hei";;
 #
 "f4u-1a_japan_shop";"▅F4U-1A Korusea";;
-"f4u-1a_japan_0";"▅Vought-Sikorsky Aircraft | F4U-1A Korusea ""Shikorusukī""";;
+"f4u-1a_japan_0";"Vought-Sikorsky Aircraft
+▅F4U-1A Korusea ""Shikorusukī""";;
 "f4u-1a_japan_1";"▅F4U-1A Korusea";;
 "f4u-1a_japan_2";"▅F4U-1A";;
 #
 "f1m2_shop";"F1M2";;
-"f1m2_0";"Mitsubishi Heavy Industries | F1M2 | Type 0 Observation Aircraft";;
+"f1m2_0";"Mitsubishi Heavy Industries
+F1M2
+Type 0 Observation Aircraft";;
 "f1m2_1";"F1M2";;
 "f1m2_2";"F1M2";;
 #
 "a5m4_shop";"A5M4";;
-"a5m4_0";"Mitsubishi Heavy Industries | A5M4 | Type 96 No. 4 Carrier Fighter | Model 4";;
+"a5m4_0";"Mitsubishi Heavy Industries
+A5M4
+Type 96 No. 4 Carrier Fighter | Model 4";;
 "a5m4_1";"A5M4";;
 "a5m4_2";"A5M4";;
 #
 "ki_10_1_shop";"Ki 10-I";;
-"ki_10_1_0";"Kawasaki Aircraft Industries | Ki 10-I | Type 95 Fighter | Model 1";;
+"ki_10_1_0";"Kawasaki Aircraft Industries
+Ki 10-I
+Type 95 Fighter | Model 1";;
 "ki_10_1_1";"Ki 10-I";;
 "ki_10_1_2";"Ki 10-I";;
 #
 "ki_10_1_commander_shop";"Ki 10-I (1st FS)";;
-"ki_10_1_commander_0";"Kawasaki Aircraft Industries | Ki 10-I | Type 95 Fighter | Model 1 | 1st Flight Squadron";;
+"ki_10_1_commander_0";"Kawasaki Aircraft Industries
+Ki 10-I
+Type 95 Fighter | Model 1
+1st Flight Squadron";;
 "ki_10_1_commander_1";"Ki 10-I (1st FS)";;
 "ki_10_1_commander_2";"Ki 10-I (1st FS)";;
 #
 "ki_10_2_shop";"Ki 10-II";;
-"ki_10_2_0";"Kawasaki Aircraft Industries | Ki 10-II | Type 95 Fighter | Model 2";;
+"ki_10_2_0";"Kawasaki Aircraft Industries
+Ki 10-II
+Type 95 Fighter | Model 2";;
 "ki_10_2_1";"Ki 10-II";;
 "ki_10_2_2";"Ki 10-II";;
 #
 "ki_10_2_commander_shop";"Ki 10-II (77th FS)";;
-"ki_10_2_commander_0";"Kawasaki Aircraft Industries | Ki 10-II | Type 95 Fighter | Model 2 | 77th Flight Squadron";;
+"ki_10_2_commander_0";"Kawasaki Aircraft Industries
+Ki 10-II
+Type 95 Fighter | Model 2
+77th Flight Squadron";;
 "ki_10_2_commander_1";"Ki 10-II (77th FS)";;
 "ki_10_2_commander_2";"Ki 10-II (77th FS)";;
 #
 "ki-27_otsu_shop";"Ki 27 Otsu";;
-"ki-27_otsu_0";"Nakajima Aircraft | Ki 27 | Type 97 Fighter Otsu";;
+"ki-27_otsu_0";"Nakajima Aircraft
+Ki 27
+Type 97 Fighter | Otsu";;
 "ki-27_otsu_1";"Ki 27 Otsu";;
 "ki-27_otsu_2";"Ki 27 Otsu";;
 #
 "ki-27_otsu_ep_shop";"Ki 27 Otsu (4th FS)";;
-"ki-27_otsu_ep_0";"Nakajima Aircraft | Ki 27 | Type 97 Fighter Otsu | 4th Flight Squadron";;
+"ki-27_otsu_ep_0";"Nakajima Aircraft
+Ki 27
+Type 97 Fighter | Otsu
+4th Flight Squadron";;
 "ki-27_otsu_ep_1";"Ki 27 Otsu (4th FS)";;
 "ki-27_otsu_ep_2";"Ki 27 Otsu (4th FS)";;
 #
 "ki_43_1_shop";"Ki 43-I Hei Hayabusa";;
-"ki_43_1_0";"Nakajima Aircraft | Ki 43-I Hayabusa | Type 1 Fighter | Model 1 Hei";;
+"ki_43_1_0";"Nakajima Aircraft
+Ki 43-I Hayabusa
+Type 1 Fighter | Model 1 Hei";;
 "ki_43_1_1";"Ki 43-I Hei Hayabusa";;
 "ki_43_1_2";"Ki 43-I Hei";;
 #
 "ki_43_2_shop";"Ki 43-II Otsu Hayabusa";;
-"ki_43_2_0";"Nakajima Aircraft | Ki 43-II Hayabusa | Type 1 Fighter | Model 2 Otsu";;
+"ki_43_2_0";"Nakajima Aircraft
+Ki 43-II Hayabusa
+Type 1 Fighter | Model 2 Otsu";;
 "ki_43_2_1";"Ki 43-II Otsu Hayabusa";;
 "ki_43_2_2";"Ki 43-II Otsu";;
 #
 "ki-45_tei_shop";"Ki 45 Kai Hei Toryu (Tei)";;
-"ki-45_tei_0";"Kawasaki Aircraft Industries | Ki 45 Toryu | Type 2 Two-Seat Fighter | Kai Hei  | Tei Equipment";;
+"ki-45_tei_0";"Kawasaki Aircraft Industries
+Ki 45 Toryu | Tei Equipment
+Type 2 Two-Seat Fighter | Kai Hei";;
 "ki-45_tei_1";"Ki 45 Kai Hei Toryu (Tei)";;
 "ki-45_tei_2";"Ki 45 Kai Hei (Tei)";;
 #
 "ki-45_otsu_shop";"Ki 45 Kai Otsu Toryu";;
-"ki-45_otsu_0";"Kawasaki Aircraft Industries | Ki 45 Toryu | Type 2 Two-Seat Fighter | Kai Otsu";;
+"ki-45_otsu_0";"Kawasaki Aircraft Industries
+Ki 45 Toryu
+Type 2 Two-Seat Fighter | Kai Otsu";;
 "ki-45_otsu_1";"Ki 45 Kai Otsu Toryu";;
 "ki-45_otsu_2";"Ki 45 Kai Otsu";;
 #
 "ki-45_ko_tei_shop";"Ki 45 Kai Kō Toryu (Tei)";;
-"ki-45_ko_tei_0";"Kawasaki Aircraft Industries | Ki 45 Toryu | Type 2 Two-Seat Fighter | Kai Kō  | Tei Equipment";;
+"ki-45_ko_tei_0";"Kawasaki Aircraft Industries
+Ki 45 Toryu
+Type 2 Two-Seat Fighter | Kai Kō  | Tei Equipment";;
 "ki-45_ko_tei_1";"Ki 45 Kai Kō Toryu (Tei)";;
 "ki-45_ko_tei_2";"Ki 45 Kai Kō (Tei)";;
 #
 "ki-45_hei_shop";"Ki 45 Kai Hei Toryu";;
-"ki-45_hei_0";"Kawasaki Aircraft Industries | Ki 45 Toryu | Type 2 Two-Seat Fighter | Kai Hei";;
+"ki-45_hei_0";"Kawasaki Aircraft Industries
+Ki 45 Toryu
+Type 2 Two-Seat Fighter | Kai Hei";;
 "ki-45_hei_1";"Ki 45 Kai Hei Toryu";;
 "ki-45_hei_2";"Ki 45 Kai Hei";;
 #
 "ki-45_hei_tei_shop";"Ki 45 Kai Hei Toryu (Tei)";;
-"ki-45_hei_tei_0";"Kawasaki Aircraft Industries | Ki 45 Toryu | Type 2 Two-Seat Fighter | Kai Hei | Tei Equipment";;
+"ki-45_hei_tei_0";"Kawasaki Aircraft Industries
+Ki 45 Toryu | Tei Equipment
+Type 2 Two-Seat Fighter | Kai Hei";;
 "ki-45_hei_tei_1";"Ki 45 Kai Hei Toryu (Tei)";;
 "ki-45_hei_tei_2";"Ki 45 Kai Hei (Tei)";;
 #
 "ki-45_ko_shop";"Ki 45 Kai Kō Toryu";;
-"ki-45_ko_0";"Kawasaki Aircraft Industries | Ki 45 Toryu | Type 2 Two-Seat Fighter | Kai Kō";;
+"ki-45_ko_0";"Kawasaki Aircraft Industries
+Ki 45 Toryu
+Type 2 Two-Seat Fighter | Kai Kō";;
 "ki-45_ko_1";"Ki 45 Kai Kō Toryu";;
 "ki-45_ko_2";"Ki 45 Kai Kō";;
 #
 "ki_109_shop";"Ki 109";;
-"ki_109_0";"Mitsubishi Heavy Industries | Ki 109";;
+"ki_109_0";"Mitsubishi Heavy Industries
+Ki 109";;
 "ki_109_1";"Ki 109";;
 "ki_109_2";"Ki 109";;
 #
 "b5n2_shop";"B5N2";;
-"b5n2_0";"Nakajima Aircraft | B5N2 | Type 97 Carrier Attack Bomber | Model 12";;
+"b5n2_0";"Nakajima Aircraft
+B5N2
+Type 97 Carrier Attack Bomber | Model 12";;
 "b5n2_1";"B5N2";;
 "b5n2_2";"B5N2";;
 #
 "d3a1_shop";"D3A1";;
-"d3a1_0";"Aichi Aircraft | D3A1 | Type 99 Carrier Bomber | Model 11";;
+"d3a1_0";"Aichi Aircraft
+D3A1
+Type 99 Carrier Bomber | Model 11";;
 "d3a1_1";"D3A1";;
 "d3a1_2";"D3A1";;
 #
 "b6n1_shop";"B6N1 Tenzan";;
-"b6n1_0";"Nakajima Aircraft | B6N1 Tenzan | Model 11";;
+"b6n1_0";"Nakajima Aircraft
+B6N1 Tenzan
+Model 11";;
 "b6n1_1";"B6N1 Tenzan";;
 "b6n1_2";"B6N1";;
 #
 "ki_32_shop";"Ki 32";;
-"ki_32_0";"Kawasaki Aircraft Industries | Ki 32 | Type 98 Light Bomber";;
+"ki_32_0";"Kawasaki Aircraft Industries
+Ki 32
+Type 98 Light Bomber";;
 "ki_32_1";"Ki 32";;
 "ki_32_2";"Ki 32";;
 #
 "ki_21_1ko_shop";"Ki 21-I Kō";;
-"ki_21_1ko_0";"Mitsubishi Heavy Industries | Ki 21-I | Type 97 Heavy Bomber | Model 1 Kō";;
+"ki_21_1ko_0";"Mitsubishi Heavy Industries
+Ki 21-I
+Type 97 Heavy Bomber | Model 1 Kō";;
 "ki_21_1ko_1";"Ki 21-I Kō";;
 "ki_21_1ko_2";"Ki 21-I Kō";;
 #
 "h6k4_shop";"H6K4";;
-"h6k4_0";"Kawashini Aircraft | H6K4 | Type 97 Flying Boat | Model 22";;
+"h6k4_0";"Kawashini Aircraft
+H6K4
+Type 97 Flying Boat | Model 22";;
 "h6k4_1";"H6K4";;
 "h6k4_2";"H6K4";;
 #
 "a5m4_hagiri_shop";"A5M4 [Hagiri]";;
-"a5m4_hagiri_0";"Mitsubishi Heavy Industries | Matsuo Hagiri's A5M4 | Type 96 No. 4 Carrier Fighter | Model 4";;
+"a5m4_hagiri_0";"Mitsubishi Heavy Industries
+Matsuo Hagiri's A5M4
+Type 96 No. 4 Carrier Fighter | Model 4";;
 "a5m4_hagiri_1";"A5M4 [Hagiri]";;
 "a5m4_hagiri_2";"A5M4 [Hagiri]";;
 #
@@ -501,179 +691,250 @@
 "bf-109e-3_japan_2";"▅Bf 109 E-7";;
 #
 "f4u-1a_japan_shop";"▅F4U-1A Corsair";;
-"f4u-1a_japan_0";"Chance Vought Corporation | ▅F4U-1A Corsair";;
+"f4u-1a_japan_0";"Chance Vought Corporation
+▅F4U-1A Corsair";;
 "f4u-1a_japan_1";"▅F4U-1A Corsair";;
 "f4u-1a_japan_2";"▅F4U-1A";;
 #
 "p-51c-11-nt_japan_shop";"▅P-51C-11 Mustang";;
-"p-51c-11-nt_japan_0";"North American Aviation | ▅P-51C-11 Mustang | Block 11";;
+"p-51c-11-nt_japan_0";"North American Aviation
+▅P-51C-11 Mustang | Block 11";;
 "p-51c-11-nt_japan_1";"▅P-51C-11 Mustang";;
 "p-51c-11-nt_japan_2";"▅P-51C-11";;
 #
 "sb2c_5_thailand_shop";"▄SB2C-5 Helldiver";;
-"sb2c_5_thailand_0";"Curtiss-Wright Corporation | ▄SB2C-5 Helldiver / B.J.3";;
+"sb2c_5_thailand_0";"Curtiss-Wright Corporation
+▄SB2C-5 Helldiver
+RTAF Designation: B.J.3";;
 "sb2c_5_thailand_1";"▄SB2C-5 Helldiver";;
 "sb2c_5_thailand_2";"▄SB2C-5";;
 #
 "b-17e_japan_shop";"▅B-17E Flying Fortress";;
-"b-17e_japan_0";"▅Boeing Airplane Company | B-17E Flying Fortress";;
+"b-17e_japan_0";"Boeing Airplane Company
+▅B-17E Flying Fortress";;
 "b-17e_japan_1";"▅B-17E Flying Fortress";;
 "b-17e_japan_2";"▅B-17E";;
 #
 "f-84g_thailand_shop";"▄F-84G-21 Thunderjet";;
-"f-84g_thailand_0";"Republic Aviation Corporation | ▄F-84G-21 Thunderjet / B.Kh.16";;
+"f-84g_thailand_0";"Republic Aviation Corporation
+▄F-84G-21 Thunderjet | Block 21
+RTAF Designation: B.Kh.16";;
 "f-84g_thailand_1";"▄F-84G-21 Thunderjet";;
 "f-84g_thailand_2";"▄F-84G-21";;
 #
 "f-86f-30_japan_shop";"▅F-86F-30 Sabre";;
-"f-86f-30_japan_0";"North American Aviation | ▅F-86F-30 Sabre | Block 30";;
+"f-86f-30_japan_0";"North American Aviation
+▅F-86F-30 Sabre | Block 30";;
 "f-86f-30_japan_1";"▅F-86F-30 Sabre";;
 "f-86f-30_japan_2";"▅F-86F-30";;
 #
 "f-86f-40_japan_shop";"▅F-86F-40 Sabre";;
-"f-86f-40_japan_0";"North American Aviation | ▅F-86F-40 Sabre | Block 40";;
+"f-86f-40_japan_0";"North American Aviation
+▅F-86F-40 Sabre | Block 40";;
 "f-86f-40_japan_1";"▅F-86F-40 Sabre";;
 "f-86f-40_japan_2";"▅F-86F-40";;
 #
 "f-86f-40_japan_blue_impulse_shop";"▅F-86F-40 Sabre (6 SQN)";;
-"f-86f-40_japan_blue_impulse_0";"North American Aviation | ▅F-86F-40 Sabre | Block 40 | 6 Squadron 8th Air Wing";;
+"f-86f-40_japan_blue_impulse_0";"North American Aviation
+▅F-86F-40 Sabre | Block 40
+6 Squadron 8th Air Wing";;
 "f-86f-40_japan_blue_impulse_1";"▅F-86F-40 Sabre (6 SQN)";;
 "f-86f-40_japan_blue_impulse_2";"▅F-86F-40 (6 SQN)";;
 #
 "alpha_jet_a_thailand_shop";"▄Alpha Jet A (1999)";;
-"alpha_jet_a_thailand_0";"Dassault/Dornier | ▄Alpha Jet A / B.J.7 (1999)";;
+"alpha_jet_a_thailand_0";"Dassault/Dornier
+▄Alpha Jet A (1999)
+RTAF Designation: B.J.7";;
 "alpha_jet_a_thailand_1";"▄Alpha Jet A (1999)";;
 "alpha_jet_a_thailand_2";"▄Alpha Jet A (1999)";;
 #
 "alpha_jet_th_phase_1_shop";"▄Alpha Jet TH";;
-"alpha_jet_th_phase_1_0";"Dassault/Dornier | ▄Alpha Jet TH / B.J.7 | Phase 1 (2004)";;
+"alpha_jet_th_phase_1_0";"Dassault/Dornier
+▄Alpha Jet TH | Phase 1 (2004)
+RTAF Designation: B.J.7";;
 "alpha_jet_th_phase_1_1";"▄Alpha Jet TH";;
 "alpha_jet_th_phase_1_2";"▄Alpha Jet TH";;
 #
 "av_8s_thailand_shop";"▄AV-8S Matador (1973)";;
-"av_8s_thailand_0";"Hawker Siddeley Group, Ltd. | ▄AV-8S Matador / B.KhL.1 (1973)";;
+"av_8s_thailand_0";"Hawker Siddeley Group, Ltd.
+▄AV-8S Matador (1973)
+RTAF Designation: B.KhL.1";;
 "av_8s_thailand_1";"▄AV-8S Matador (1973)";;
 "av_8s_thailand_2";"▄AV-8S (1973)";;
 #
 "t2_early_shop";"T-2 (1975)";;
-"t2_early_0";"Mitsubishi Heavy Industries, Ltd. | T-2 | Zenki-gata (1975)";;
+"t2_early_0";"Mitsubishi Heavy Industries, Ltd.
+T-2 | Zenki-gata (1975)";;
 "t2_early_1";"T-2 (1975)";;
 "t2_early_2";"T-2 (1975)";;
 #
 "t2_shop";"T-2 (1979)";;
-"t2_0";"Mitsubishi Heavy Industries, Ltd. | T-2 | Kōki-gata (1979)";;
+"t2_0";"Mitsubishi Heavy Industries, Ltd.
+T-2 | Kōki-gata (1979)";;
 "t2_1";"T-2 (1979)";;
 "t2_2";"T-2 (1979)";;
 #
 "f1_shop";"F-1";;
-"f1_0";"Mitsubishi Heavy Industries, Ltd. | F-1";;
+"f1_0";"Mitsubishi Heavy Industries, Ltd.
+F-1";;
 "f1_1";"F-1";;
 "f1_2";"F-1";;
 #
 "f-104j_shop";"▅F-104J Starfighter";;
-"f-104j_0";"Mitsubishi Heavy Industries, Ltd. | ▅F-104J Starfighter";;
+"f-104j_0";"Mitsubishi Heavy Industries, Ltd.
+▅F-104J Starfighter";;
 "f-104j_1";"▅F-104J Starfighter";;
 "f-104j_2";"▅F-104J";;
 #
 "a_7e_thailand_shop";"▄A-7E Corsair II";;
-"a_7e_thailand_0";"LTV Aerospace Corporation | ▄A-7E Corsair II / B.HT.1";;
+"a_7e_thailand_0";"LTV Aerospace Corporation
+▄A-7E Corsair II
+RTAF Designation: B.HT.1";;
 "a_7e_thailand_1";"▄A-7E Corsair II";;
 "a_7e_thailand_2";"▄A-7E";;
 #
 "f-5a_thailand_shop";"▄F-5A Freedom Fighter";;
-"f-5a_thailand_0";"Northrop Corporation  | ▄F-5A Freedom Fighter / B.Kh.18";;
+"f-5a_thailand_0";"Northrop Corporation
+▄F-5A Freedom Fighter
+RTAF Designation: B.Kh.18";;
 "f-5a_thailand_1";"▄F-5A Freedom Fighter";;
 "f-5a_thailand_2";"▄F-5A";;
 #
 "f-5e_fcu_thailand_shop";"▄F-5T Tigris (1988)";;
-"f-5e_fcu_thailand_0";"Northrop Corporation  | ▄F-5T Tigris / B.Kh.18Kh | First Capability Upgrade (1988)";;
+"f-5e_fcu_thailand_0";"Northrop Corporation / Elbit Systems
+▄F-5T Tigris
+First Capability Upgrade (1988)
+RTAF Designation: B.Kh.18Kh";;
 "f-5e_fcu_thailand_1";"▄F-5T Tigris (1988)";;
 "f-5e_fcu_thailand_2";"▄F-5T (1988)";;
 #
 "f-5t_thailand_shop";"▄F-5T Tigris (2003)";;
-"f-5t_thailand_0";"Northrop Corporation | ▄F-5T Tigris / B.Kh.18Kh | Second Capability Upgrade (2003)";;
+"f-5t_thailand_0";"Northrop Corporation / Elbit Systems
+▄F-5T Tigris
+Second Capability Upgrade (2003)
+RTAF Designation: B.Kh.18Kh";;
 "f-5t_thailand_1";"▄F-5T Tigris (2003)";;
 "f-5t_thailand_2";"▄F-5T (2003)";;
 #
 "av_8s_late_thailand_shop";"▄AV-8S Matador (1998)";;
-"av_8s_late_thailand_0";"Hawker Siddeley Group, Ltd. | ▄AV-8S Matador / B.KhL.1 (1998)";;
+"av_8s_late_thailand_0";"Hawker Siddeley Group, Ltd.
+▄AV-8S Matador (1998)
+RTAF Designation: B.KhL.1";;
 "av_8s_late_thailand_1";"▄AV-8S Matador (1998)";;
 "av_8s_late_thailand_2";"▄AV-8S (1998)";;
 #
 "f-4ej_shop";"▅F-4EJ Phantom II";;
-"f-4ej_0";"Mitsubishi Heavy Industries, Ltd. | ▅F-4EJ Phantom II";;
+"f-4ej_0";"Mitsubishi Heavy Industries, Ltd.
+▅F-4EJ Phantom II";;
 "f-4ej_1";"▅F-4EJ Phantom II";;
 "f-4ej_2";"▅F-4EJ";;
 #
 "f-4ej_adtw_shop";"▅F-4EJ Phantom II (ADTW)";;
-"f-4ej_adtw_0";"Mitsubishi Heavy Industries, Ltd. | ▅F-4EJ Phantom II | Air Development and Test Wing";;
+"f-4ej_adtw_0";"Mitsubishi Heavy Industries, Ltd.
+▅F-4EJ Phantom II
+Air Development and Test Wing";;
 "f-4ej_adtw_1";"▅F-4EJ Phantom II (ADTW)";;
 "f-4ej_adtw_2";"▅F-4EJ (ADTW)";;
 #
 "f_16a_block_15_ocu_thailand_shop";"▄F-16A-15OCU Viper (2010)";;
-"f_16a_block_15_ocu_thailand_0";"General Dynamics Corporation | ▄F-16A-15OCU Viper / B.Kh.19 | Mid-Life Update (2010)";;
+"f_16a_block_15_ocu_thailand_0";"General Dynamics Corporation
+▄F-16A-15OCU Viper | Block 15
+OCU | Operational Capability Upgrade
+Mid-Life Update (2010)
+RTAF Designation: B.Kh.19";;
 "f_16a_block_15_ocu_thailand_1";"▄F-16A-15OCU Viper (2010)";;
 "f_16a_block_15_ocu_thailand_2";"▄F-16A-15OCU (2010)";;
 #
 "saab_jas39c_thailand_shop";"▄JAS 39C Gripen";;
-"saab_jas39c_thailand_0";"Saab AB | ▄JAS 39C Gripen / B.Kh.20";;
+"saab_jas39c_thailand_0";"Saab AB
+▄JAS 39C Gripen
+RTAF Designation: B.Kh.20";;
 "saab_jas39c_thailand_1";"▄JAS 39C Gripen";;
 "saab_jas39c_thailand_2";"▄JAS 39C";;
 #
 "f-4ej_kai_shop";"▅F-4EJ Kai Phantom II";;
-"f-4ej_kai_0";"Mitsubishi Heavy Industries, Ltd. | ▅F-4EJ Kai Phantom II";;
+"f-4ej_kai_0";"Mitsubishi Heavy Industries, Ltd.
+▅F-4EJ Kai Phantom II";;
 "f-4ej_kai_1";"▅F-4EJ Kai Phantom II";;
 "f-4ej_kai_2";"▅F-4EJ Kai";;
 #
 "f_16aj_shop";"▅YF-16AJ Fighting Falcon";;
-"f_16aj_0";"General Dynamics Corporation | ▅YF-16AJ Fighting Falcon | 1975 F-X Proposal";;
+"f_16aj_0";"General Dynamics Corporation
+▅YF-16AJ Fighting Falcon
+1975 F-X Proposal";;
 "f_16aj_1";"▅YF-16AJ Fighting Falcon";;
 "f_16aj_2";"▅YF-16AJ";;
 #
 "f_15j_shop";"▅F-15J Īguru";;
-"f_15j_0";"Mitsubishi Heavy Industries, Ltd. | ▅F-15J Īguru | Peace Eagle Program";;
+"f_15j_0";"Mitsubishi Heavy Industries, Ltd.
+▅F-15J Īguru
+Peace Eagle Program";;
 "f_15j_1";"▅F-15J Īguru";;
 "f_15j_2";"▅F-15J";;
 #
 "f_15j_kai_shop";"▅F-15MJ Īguru";;
-"f_15j_kai_0";"Mitsubishi Heavy Industries, Ltd. | ▅F-15MJ Īguru ""J-MSIP"" | Japan-Multi-Stage Improvement Program | Mid-Term Defense Program (2004)";;
+"f_15j_kai_0";"Mitsubishi Heavy Industries, Ltd.
+▅F-15MJ Īguru
+J-MSIP | Japan-Multi-Stage Improvement Program
+Mid-Term Defense Program (2004)";;
 "f_15j_kai_1";"▅F-15MJ Īguru";;
 "f_15j_kai_2";"▅F-15MJ";;
 #
 "f_2a_shop";"F-2A Viper Zero";;
-"f_2a_0";"Mitsubishi Heavy Industries, Ltd. | F-2A Viper Zero";;
+"f_2a_0";"Mitsubishi Heavy Industries, Ltd.
+F-2A Viper Zero";;
 "f_2a_1";"F-2A Viper Zero";;
 "f_2a_2";"F-2A";;
 #
 "f_2a_adtw_shop";"XF-2A Viper Zero";;
-"f_2a_adtw_0";"Mitsubishi Heavy Industries, Ltd. | XF-2A Viper Zero | 1995 FS-X Prototype | Air Development and Test Wing";;
+"f_2a_adtw_0";"Mitsubishi Heavy Industries, Ltd.
+XF-2A Viper Zero | 1995 FS-X Prototype
+Air Development and Test Wing";;
 "f_2a_adtw_1";"XF-2A Viper Zero";;
 "f_2a_adtw_2";"XF-2A";;
 #
 "f-5th_thailand_shop";"▄F-5TH Super Tigris";;
-"f-5th_thailand_0";"Northrop Corporation | ▄F-5TH Super Tigris / B.Kh.18Kh | Third Capability Upgrade (2014)";;
+"f-5th_thailand_0";"Northrop Corporation / Elbit Systems
+▄F-5TH Super Tigris
+Third Capability Upgrade (2014)
+RTAF Designation: B.Kh.18Kh";;
 "f-5th_thailand_1";"▄F-5TH Super Tigris";;
 "f-5th_thailand_2";"▄F-5TH";;
 #
 fa_18d_late_malaysia_shop;▄F/A-18D-52 Hornet;;
-fa_18d_late_malaysia_0;McDonnell Douglas Corporation | ▄F/A-18D-52 Hornet | Block 52, Lot 20 (1992);;
+fa_18d_late_malaysia_0;"McDonnell Douglas Corporation
+▄F/A-18D-52 Hornet | Block 52, Lot 20 (1992)";;
 fa_18d_late_malaysia_1;▄F/A-18D-52 Hornet;;
 fa_18d_late_malaysia_2;▄F/A-18D-52;;
 #
 su_30mkm_shop;▄Su-30MKM Flanker-H;;
-su_30mkm_0;"PAO Kompaniya ""Sukhoi"" | ▄Su-30MKM Flanker-H";;
+su_30mkm_0;"PAO Kompaniya ""Sukhoi""
+▄Su-30MKM
+NATO Designation: Flanker-H";;
 su_30mkm_1;▄Su-30MKM Flanker-H;;
 su_30mkm_2;▄Su-30MKM;;
 #
 hawk_209_indonesia_shop;◥Hawk 209;;
-hawk_209_indonesia_0;British Aerospace plc | ◥Hawk 209;;
+hawk_209_indonesia_0;"British Aerospace plc
+◥Hawk 209";;
 hawk_209_indonesia_1;◥Hawk 209;;
 hawk_209_indonesia_2;◥Hawk 209;;
 #
 mig_29n_shop;▄MiG-29N Fulcrum-C;;
-mig_29n_0;"RSO Korporatsiya ""MiG"" | ▄MiG-29N Fulcrum-C | Izdeliye 9-12SD";;
+mig_29n_0;"RSO Korporatsiya ""MiG""
+▄MiG-29N
+Izdeliye 9-12SD
+NATO Designation: Fulcrum-C";;
 mig_29n_1;▄MiG-29N Fulcrum-C;;
 mig_29n_2;▄MiG-29N;;
+#
+l_39za_art_thailand_shop;▄L-39ZA/ART Albatros;;
+l_39za_art_thailand_0;"AERO Vodochody Aerospace a.s. / Elbit Systems
+▄L-39ZA Albatros
+ART | Attack/Reconnaissance/Trainer
+RTAF Designation: B.KhF.1";;
+l_39za_art_thailand_1;▄L-39ZA/ART Albatros;;
+l_39za_art_thailand_2;▄L-39ZA/ART;;
 #
 "shop/group/f-86_japan_group";"▅F-86F Sabre";;
 "shop/group/f-86_japan_group";"▅F-86F Sabre";;
@@ -710,3 +971,109 @@ f_111f_japan_killstreak_2;☢F-111F;;
 "ah_64e_indonesia_0";"Boeing Defense, Space & Security | ◥Helicopter, Attack, AH-64E Guardian Apache | Capability Version 6";;
 "ah_64e_indonesia_1";"◥AH-64E Guardian Apache (v6)";;
 "ah_64e_indonesia_2";"◥AH-64E (v6)";;
+#
+#ground vehicles
+#
+jp_type_87_rcv_prot_shop;Type 87 RCV (1983);;
+jp_type_87_rcv_prot_0;"<color=@linkTextHoverColorLight>Komatsu, Ltd.</color>
+<color=@userlogColoredText>Type 87 Reconnaissance Combat Vehicle</color> ""Burakkuai""
+Prototype | 1983";;
+jp_type_87_rcv_prot_1;Type 87 RCV (1983);;
+jp_type_87_rcv_prot_2;Light tank;;
+#
+jp_type_87_rcv_shop;Type 87 RCV (1987);;
+jp_type_87_rcv_0;"<color=@linkTextHoverColorLight>Komatsu, Ltd.</color>
+<color=@userlogColoredText>Type 87 Reconnaissance Combat Vehicle</color> ""Burakkuai""
+Production Model | 1987";;
+jp_type_87_rcv_1;Type 87 RCV (1987);;
+jp_type_87_rcv_2;Light tank;;
+#
+jp_type_87_shop;Type 87 SPAAG;;
+jp_type_87_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>Type 87 Self-Propelled Anti-Aircraft Gun</color> ""Guntank""";;
+jp_type_87_1;Type 87 SPAAG;;
+jp_type_87_2;SPAA;;
+#
+jp_type_89_shop;Type 89 IFV;;
+jp_type_89_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>Type 89 Infantry Fighting Vehicle</color> ""Raitotaiga""";;
+jp_type_89_1;Type 89 IFV;;
+jp_type_89_2;Light tank;;
+#
+jp_type_74_f_shop;Type 74 (F);;
+jp_type_74_f_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>Type 74 Tank</color> ""Nanayon"" | Type F";;
+jp_type_74_f_1;Type 74 (F);;
+jp_type_74_f_2;MBT;;
+#
+jp_type_74_c_shop;Type 74 (C);;
+jp_type_74_c_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>Type 74 Tank</color> ""Nanayon"" | Type C";;
+jp_type_74_c_1;Type 74 (C);;
+jp_type_74_c_2;MBT;;
+#
+jp_type_74_red_star_shop;"Type 74 (C) ""Red Star""";;
+jp_type_74_red_star_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>Type 74 Tank</color> ""Nanayon"" | Type C
+""Red Star"" Opposing Force Specification";;
+jp_type_74_red_star_1;"Type 74 (C) ""Red Star""";;
+jp_type_74_red_star_2;MBT;;
+#
+jp_type_74_shop;Type 74 (E);;
+jp_type_74_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>Type 74 Tank</color> ""Nanayon"" | Type E";;
+jp_type_74_1;Type 74 (E);;
+jp_type_74_2;MBT;;
+#
+jp_type_74_mod_g_kai_shop;Type 74 (G);;
+jp_type_74_mod_g_kai_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>Type 74 Tank</color> ""Nanayon"" | Type G";;
+jp_type_74_mod_g_kai_1;Type 74 (G);;
+jp_type_74_mod_g_kai_2;MBT;;
+#
+jp_type_61_shop;Type 61;;
+jp_type_61_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>Type 61 Tank</color>";;
+jp_type_61_1;Type 61;;
+jp_type_61_2;Medium tank;;
+#
+jp_type_61_mod_shop;Type 61 (B);;
+jp_type_61_mod_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>Type 61 Tank</color> | Type B";;
+jp_type_61_mod_1;Type 61 (B);;
+jp_type_61_mod_2;Medium tank;;
+#
+jp_type_16_mod_shop;Type 16 MCV (14 BDE);;
+jp_type_16_mod_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>Type 16 Maneuver Combat Vehicle</color> ""Kidosen""
+14th Brigade, 15th Rapid Deployment Regiment
+Pre-Production Model | 2016";;
+jp_type_16_mod_1;Type 16 MCV (14 BDE);;
+jp_type_16_mod_2;Light tank;;
+#
+jp_type_16_mcv_prot_shop;MCV;;
+jp_type_16_mcv_prot_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>Mobile Combat Vehicle</color>
+Fourth Prototype | 2013";;
+jp_type_16_mcv_prot_1;MCV;;
+jp_type_16_mcv_prot_2;Light tank;;
+#
+jp_type_16_shop;Type 16 MCV;;
+jp_type_16_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>Type 16 Maneuver Combat Vehicle</color> ""Kidosen""";;
+jp_type_16_1;Type 16 MCV;;
+jp_type_16_2;Light tank;;
+#
+jp_type_10_prototype_shop;Type 10 TTB;;
+jp_type_10_prototype_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+TK-X-2-0005 | <color=@userlogColoredText>Type 10 Tank Testbed</color>
+Third Prototype | 2009";;
+jp_type_10_prototype_1;Type 10 TTB;;
+jp_type_10_prototype_2;MBT;;
+#
+jp_tkx_prot_shop;TK-X;;
+jp_tkx_prot_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>TK-X-2-0006</color> | Type 10 Tank Prototype
+Fourth Prototype | 2010";;
+jp_tkx_prot_1;TK-X;;
+jp_tkx_prot_2;MBT;;

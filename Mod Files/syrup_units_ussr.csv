@@ -1007,6 +1007,20 @@ tu_95m_0;"<color=@linkTextHoverColorLight>OKB-156 ""A.N. Tupolev""</color>
 tu_95m_1;Tu-95M Bear-A
 tu_95m_2;Tu-95M
 #
+mig_29kr_9_41r_shop;MiG-29KR Fulcrum-D
+mig_29kr_9_41r_0;"<color=@linkTextHoverColorLight>RSO Korporatsiya ""MiG""</color>
+<color=@userlogColoredText>MiG-29KR</color> | Izdeliye 9-41R
+<color=@commonTextColor>NATO Designation</color>: Fulcrum-D"
+mig_29kr_9_41r_1;MiG-29KR Fulcrum-D
+mig_29kr_9_41r_2;MiG-29KR
+#
+yak_130_early_shop;Yak-130 Mitten
+yak_130_early_0;"<color=@linkTextHoverColorLight>OAO ""OKB A. S. Yakovleva""</color>
+<color=@userlogColoredText>Yak-130</color>
+<color=@commonTextColor>NATO Designation</color>: Mitten"
+yak_130_early_1;Yak-130 Mitten
+yak_130_early_2;Yak-130
+#
 nt_tu_95m_shop;Tu-95M Bear-A
 nt_tu_95m_0;"<color=@linkTextHoverColorLight>OKB-156 ""A.N. Tupolev""</color>
 <color=@userlogColoredText>Tu-95M</color>
