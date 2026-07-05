@@ -166,12 +166,12 @@ noverify>";"<English>";;
 "ta-152c_2";"Ta 152 C-3";;
 #
 "p-47d_16_re_germany_shop";"▀P-47D-16 Thunderbolt";;
-"p-47d_16_re_germany_0";"▀Republic Aviation Corporation | P-47D Thunderbolt | Block 16";;
+"p-47d_16_re_germany_0";"Republic Aviation Corporation | ▀P-47D Thunderbolt | Block 16";;
 "p-47d_16_re_germany_1";"▀P-47D-16 Thunderbolt";;
 "p-47d_16_re_germany_2";"▀P-47D-16";;
 #
 "p-47d_luftwaffe_shop";"▀P-47D Thunderbolt";;
-"p-47d_luftwaffe_0";"▀Republic Aviation Corporation | P-47D Thunderbolt";;
+"p-47d_luftwaffe_0";"Republic Aviation Corporation | ▀P-47D Thunderbolt";;
 "p-47d_luftwaffe_1";"▀P-47D Thunderbolt";;
 "p-47d_luftwaffe_2";"▀P-47D";;
 #
@@ -211,12 +211,12 @@ noverify>";"<English>";;
 "me-262c-2b_2";"Me 262 C-2b";;
 #
 "f-86_canadair_german_shop";"◄CL-13A Mk.5 Sabre";;
-"f-86_canadair_german_0";"◄Canadair, Ltd. | CL-13A Mk.5 Sabre";;
+"f-86_canadair_german_0";"Canadair, Ltd. | ◄CL-13A Mk.5 Sabre";;
 "f-86_canadair_german_1";"◄CL-13A Mk.5 Sabre";;
 "f-86_canadair_german_2";"◄CL-13A Mk.5";;
 #
 "f-86_cl_13b_mk6_shop";"◄CL-13B Mk.6 Sabre";;
-"f-86_cl_13b_mk6_0";"◄Canadair, Ltd. | CL-13B Mk.6 Sabre";;
+"f-86_cl_13b_mk6_0";"Canadair, Ltd. | ◄CL-13B Mk.6 Sabre";;
 "f-86_cl_13b_mk6_1";"◄CL-13B Mk.6 Sabre";;
 "f-86_cl_13b_mk6_2";"◄CL-13B Mk.6";;
 #
@@ -231,12 +231,12 @@ noverify>";"<English>";;
 "he-162a-2_2";"He 162 A-2";;
 #
 "mig-15bis_nr23_german_shop";"◊MiG-15bis Fagot-B";;
-"mig-15bis_nr23_german_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-15bis Fagot-B";;
+"mig-15bis_nr23_german_0";"OKB-155 ""Mikoyan i Gurevich"" | ◊MiG-15bis Fagot-B";;
 "mig-15bis_nr23_german_1";"◊MiG-15bis Fagot-B";;
 "mig-15bis_nr23_german_2";"◊MiG-15bis";;
 #
 "il_28_german_shop";"◊Il-28 Beagle";;
-"il_28_german_0";"◊OKB-39 ""Ilyushin"" | Il-28 Beagle";;
+"il_28_german_0";"OKB-39 ""Ilyushin"" | ◊Il-28 Beagle";;
 "il_28_german_1";"◊Il-28 Beagle";;
 "il_28_german_2";"◊Il-28";;
 #
@@ -256,119 +256,119 @@ noverify>";"<English>";;
 "go229_v3_2";"Ho 229 V3";;
 #
 "f-86k_late_german_shop";"◄F-86K Sabre";;
-"f-86k_late_german_0";"◄North American Aviation | F-86K Sabre";;
+"f-86k_late_german_0";"North American Aviation | ◄F-86K Sabre";;
 "f-86k_late_german_1";"◄F-86K Sabre";;
 "f-86k_late_german_2";"◄F-86K";;
 #
 "mig-17p_lim_5p_shop";"◊Lim-5P Fresco-D";;
-"mig-17p_lim_5p_0";"◊PZL-Mielec | Lim-5P Fresco-D";;
+"mig-17p_lim_5p_0";"PZL-Mielec | ◊Lim-5P Fresco-D";;
 "mig-17p_lim_5p_1";"◊Lim-5P Fresco-D";;
 "mig-17p_lim_5p_2";"◊Lim-5P";;
 #
 "mig-19s_shop";"◊MiG-19S Farmer-C";;
-"mig-19s_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-19S Farmer-C";;
+"mig-19s_0";"OKB-155 ""Mikoyan i Gurevich"" | ◊MiG-19S Farmer-C";;
 "mig-19s_1";"◊MiG-19S Farmer-C";;
 "mig-19s_2";"◊MiG-19S";;
 #
 "fiat_g91_r3_shop";"◄G.91R/3 Gina";;
-"fiat_g91_r3_0";"◄Fiat Aviazone | G.91R/3 Gina";;
+"fiat_g91_r3_0";"Fiat Aviazone | ◄G.91R/3 Gina";;
 "fiat_g91_r3_1";"◄G.91R/3 Gina";;
 "fiat_g91_r3_2";"◄G.91R/3";;
 #
 "fiat_g91_r4_german_shop";"◄G.91R/4 Gina";;
-"fiat_g91_r4_german_0";"◄Fiat Aviazone | G.91R/4 Gina";;
+"fiat_g91_r4_german_0";"Fiat Aviazone | ◄G.91R/4 Gina";;
 "fiat_g91_r4_german_1";"◄G.91R/4 Gina";;
 "fiat_g91_r4_german_2";"◄G.91R/4";;
 #
 "alpha_jet_a_shop";"◄Alpha Jet A";;
-"alpha_jet_a_0";"◄Société des Avions Marcel Dassault |/Dornier | Alpha Jet A";;
+"alpha_jet_a_0";"Société des Avions Marcel Dassault / Dornier | ◄Alpha Jet A";;
 "alpha_jet_a_1";"◄Alpha Jet A";;
 "alpha_jet_a_2";"◄Alpha Jet A";;
 #
 "f-84f_germany_shop";"◄F-84F Thunderstreak";;
-"f-84f_germany_0";"◄Republic Aviation Corporation | F-84F Thunderstreak";;
+"f-84f_germany_0";"Republic Aviation Corporation | ◄F-84F Thunderstreak";;
 "f-84f_germany_1";"◄F-84F Thunderstreak";;
 "f-84f_germany_2";"◄F-84F";;
 #
 "mig_23bn_shop";"◊MiG-23BN Flogger-H";;
-"mig_23bn_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-23BN Flogger-H | Izdeliye 32-24B";;
+"mig_23bn_0";"OKB-155 ""Mikoyan i Gurevich"" | ◊MiG-23BN Flogger-H | Izdeliye 32-24B";;
 "mig_23bn_1";"◊MiG-23BN Flogger-H";;
 "mig_23bn_2";"◊MiG-23BN";;
 #
 "hunter_f58_switzerland_shop";"◌Hunter Mk.58";;
-"hunter_f58_switzerland_0";"◌Hawker Aircraft, Ltd. | Hunter Mk.58";;
+"hunter_f58_switzerland_0";"Hawker Aircraft, Ltd. | ◌Hunter Mk.58";;
 "hunter_f58_switzerland_1";"◌Hunter Mk.58";;
 "hunter_f58_switzerland_2";"◌Hunter Mk.58";;
 #
 "f-104g_shop";"◄F-104G Starfighter";;
-"f-104g_0";"◄Messerschmitt-Bölkow-Blohm | F-104G Starfighter";;
+"f-104g_0";"Messerschmitt-Bölkow-Blohm | ◄F-104G Starfighter";;
 "f-104g_1";"◄F-104G Starfighter";;
 "f-104g_2";"◄F-104G";;
 #
 "f-4f_shop";"◄F-4F Phantom II (1973)";;
-"f-4f_0";"◄McDonnell Douglas Corporation | F-4F Phantom II (1973)";;
+"f-4f_0";"McDonnell Douglas Corporation | ◄F-4F Phantom II (1973)";;
 "f-4f_1";"◄F-4F Phantom II (1973)";;
 "f-4f_2";"◄F-4F (1973)";;
 #
 "f-4f_late_shop";"◄F-4F Phantom II";;
-"f-4f_late_0";"◄McDonnell Douglas Corporation | F-4F Phantom II";;
+"f-4f_late_0";"McDonnell Douglas Corporation | ◄F-4F Phantom II";;
 "f-4f_late_1";"◄F-4F Phantom II";;
 "f-4f_late_2";"◄F-4F";;
 #
 "mig-21_mf_shop";"◊MiG-21MF Fishbed-J";;
-"mig-21_mf_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-21MF Fishbed-J | Izdeliye 96F";;
+"mig-21_mf_0";"OKB-155 ""Mikoyan i Gurevich"" | ◊MiG-21MF Fishbed-J | Izdeliye 96F";;
 "mig-21_mf_1";"◊MiG-21MF Fishbed-J";;
 "mig-21_mf_2";"◊MiG-21MF";;
 #
 "mig-21_sps_k_shop";"◄MiG-21SPS-K Fishbed-F";;
-"mig-21_sps_k_0";"◄OKB-155 ""Mikoyan i Gurevich"" | MiG-21SPS-K Fishbed-F  | Izdeliye 94A";;
+"mig-21_sps_k_0";"OKB-155 ""Mikoyan i Gurevich"" | ◄MiG-21SPS-K Fishbed-F  | Izdeliye 94A";;
 "mig-21_sps_k_1";"◄MiG-21SPS-K Fishbed-F";;
 "mig-21_sps_k_2";"◄MiG-21SPS-K";;
 #
 "mig-21_bis_sau_shop";"◊MiG-21bis-SAU Fishbed-N";;
-"mig-21_bis_sau_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-21bis-SAU Fishbed-N | Izdeliye 75B";;
+"mig-21_bis_sau_0";"OKB-155 ""Mikoyan i Gurevich"" | ◊MiG-21bis-SAU Fishbed-N | Izdeliye 75B";;
 "mig-21_bis_sau_1";"◊MiG-21bis-SAU Fishbed-N";;
 "mig-21_bis_sau_2";"◊MiG-21bis-SAU";;
 #
 "mig-21_bis_lazur_shop";"◊MiG-21bis-Lazur Fishbed-L";;
-"mig-21_bis_lazur_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-21bis-Lazur Fishbed-L | Izdeliye 75A";;
+"mig-21_bis_lazur_0";"OKB-155 ""Mikoyan i Gurevich"" | ◊MiG-21bis-Lazur Fishbed-L | Izdeliye 75A";;
 "mig-21_bis_lazur_1";"◊MiG-21bis-Lazur Fishbed-L";;
 "mig-21_bis_lazur_2";"◊MiG-21bis-Lazur";;
 #
 "mig_23mla_shop";"◊MiG-23MLA Flogger-G";;
-"mig_23mla_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-23MLA Flogger-G | Izdeliye 23-12A";;
+"mig_23mla_0";"OKB-155 ""Mikoyan i Gurevich"" | ◊MiG-23MLA Flogger-G | Izdeliye 23-12A";;
 "mig_23mla_1";"◊MiG-23MLA Flogger-G";;
 "mig_23mla_2";"◊MiG-23MLA";;
 #
 "mig_23mf_germany_shop";"◊MiG-23MF Flogger-B";;
-"mig_23mf_germany_0";"◊OKB-155 ""Mikoyan i Gurevich"" | MiG-23MF Flogger-B | Izdeliye 23-11M";;
+"mig_23mf_germany_0";"OKB-155 ""Mikoyan i Gurevich"" | ◊MiG-23MF Flogger-B | Izdeliye 23-11M";;
 "mig_23mf_germany_1";"◊MiG-23MF Flogger-B";;
 "mig_23mf_germany_2";"◊MiG-23MF";;
 #
 "su_22um3k_shop";"◊Su-22UM3K Fitter-G";;
-"su_22um3k_0";"◊OKB-51 ""Sukhoi"" | Su-22UM3K Fitter-G";;
+"su_22um3k_0";"OKB-51 ""Sukhoi"" | ◊Su-22UM3K Fitter-G";;
 "su_22um3k_1";"◊Su-22UM3K Fitter-G";;
 "su_22um3k_2";"◊Su-22UM3K";;
 #
 "su_22m4_shop";"◊Su-22M4 Fitter-K";;
-"su_22m4_0";"◊OKB-51 ""Sukhoi"" | Su-22M4 Fitter-K";;
+"su_22m4_0";"OKB-51 ""Sukhoi"" | ◊Su-22M4 Fitter-K";;
 "su_22m4_1";"◊Su-22M4 Fitter-K";;
 "su_22m4_2";"◊Su-22M4";;
 #
 "su_22m4_de_wtd61_shop";"◄Su-22M4 Fitter-K (WTD 61)";;
-"su_22m4_de_wtd61_0";"◄OKB-51 ""Sukhoi"" | Su-22M4 Fitter-K | Wehrtechnische Dienststelle 61";;
+"su_22m4_de_wtd61_0";"OKB-51 ""Sukhoi"" | ◄Su-22M4 Fitter-K | Wehrtechnische Dienststelle 61";;
 "su_22m4_de_wtd61_1";"◄Su-22M4 Fitter-K (WTD 61)";;
 "su_22m4_de_wtd61_2";"◄Su-22M4 (WTD 61)";;
 #
 "tornado_ids_de_wtd61_shop";"◄IDS-Tornado (WTD 61)";;
-"tornado_ids_de_wtd61_0";"◄Panavia Aircraft GmbH | Tornado | Interdictor/Strike | Wehrtechnische Dienststelle 61";;
+"tornado_ids_de_wtd61_0";"Panavia Aircraft GmbH | ◄Tornado | Interdictor/Strike | Wehrtechnische Dienststelle 61";;
 "tornado_ids_de_wtd61_1";"◄IDS-Tornado (WTD 61)";;
 "tornado_ids_de_wtd61_2";"◄IDS-Tornado (WTD 61)";;
 #
-"f-4f_kws_lv_shop";"◄F-4F Phantom II KWS-LV";;
-"f-4f_kws_lv_0";"◄McDonnell Douglas Corporation | F-4F Phantom II | Kampfwertsteigerung Luftverteidigung";;
-"f-4f_kws_lv_1";"◄F-4F Phantom II KWS-LV";;
-"f-4f_kws_lv_2";"◄F-4F KWS-LV";;
+"f-4f_kws_lv_shop";"◄F-4F Phantom II (KWS-LV)";;
+"f-4f_kws_lv_0";"McDonnell Douglas Corporation | ◄F-4F Phantom II | Kampfwertsteigerung Luftverteidigung";;
+"f-4f_kws_lv_1";"◄F-4F Phantom II (KWS-LV)";;
+"f-4f_kws_lv_2";"◄F-4F (KWS-LV)";;
 #
 "tornado_ids_de_assta1_shop";"◄IDS-Tornado (ASSTA 1.0)";;
 "tornado_ids_de_assta1_0";"Panavia Aircraft GmbH | ◄Tornado | Interdictor/Strike | Avionics System Software Tornado in Ada, Version 1.0";;

@@ -3,988 +3,1217 @@
 #so some stuff will have quotes like in Gaijin's files, some wont. sorry again, addy. -maple (11/13/2025)
 #Aircraft
 "p-26a_33_shop";"P-26A-33 Peashooter";;
-"p-26a_33_0";"Boeing Airplane Company | P-26A-33 Peashooter | Block 33";;
+"p-26a_33_0";"<color=@linkTextHoverColorLight>Boeing Airplane Company</color>
+<color=@userlogColoredText>P-26A-33 Peashooter</color> | Block 33";;
 "p-26a_33_1";"P-26A-33 Peashooter";;
 "p-26a_33_2";"P-26A-33";;
 #
 "p-26a_34_shop";"P-26A-34 Peashooter";;
-"p-26a_34_0";"Boeing Airplane Company | P-26A-34 Peashooter | Block 34";;
+"p-26a_34_0";"<color=@linkTextHoverColorLight>Boeing Airplane Company</color>
+<color=@userlogColoredText>P-26A-34 Peashooter</color> | Block 34";;
 "p-26a_34_1";"P-26A-34 Peashooter";;
 "p-26a_34_2";"P-26A-34";;
 #
 "p-26a_34_m2_shop";"P-26A-34-M2 Peashooter";;
-"p-26a_34_m2_0";"Boeing Airplane Company | P-26A-34 Peashooter | Block 34, M2 Browning Modification";;
+"p-26a_34_m2_0";"<color=@linkTextHoverColorLight>Boeing Airplane Company</color>
+<color=@userlogColoredText>P-26A-34 Peashooter</color> | Block 34
+M2 Browning Modification";;
 "p-26a_34_m2_1";"P-26A-34-M2 Peashooter";;
 "p-26a_34_m2_2";"P-26A-34-M2";;
 #
 "p-26a_35_shop";"P-26A-35 Peashooter";;
-"p-26a_35_0";"Boeing Airplane Company | P-26A-35 Peashooter | Block 35";;
+"p-26a_35_0";"<color=@linkTextHoverColorLight>Boeing Airplane Company</color>
+<color=@userlogColoredText>P-26A-35 Peashooter</color> | Block 35";;
 "p-26a_35_1";"P-26A-35 Peashooter";;
 "p-26a_35_2";"P-26A-35";;
 #
 "p-26b_35_shop";"P-26B-35 Peashooter";;
-"p-26b_35_0";"Boeing Airplane Company | P-26B-35 Peashooter | Block 35";;
+"p-26b_35_0";"<color=@linkTextHoverColorLight>Boeing Airplane Company</color>
+<color=@userlogColoredText>P-26B-35 Peashooter</color> | Block 35";;
 "p-26b_35_1";"P-26B-35 Peashooter";;
 "p-26b_35_2";"P-26B-35";;
 #
 "p-36a_shop";"P-36A Hawk";;
-"p-36a_0";"Curtiss-Wright Corporation | P-36A Hawk";;
+"p-36a_0";"<color=@linkTextHoverColorLight>Curtiss-Wright Corporation</color>
+<color=@userlogColoredText>P-36A Hawk</color>";;
 "p-36a_1";"P-36A Hawk";;
 "p-36a_2";"P-36A";;
 #
 "p-36a_rasmussen_shop";"P-36A Hawk [Rasmussen]";;
-"p-36a_rasmussen_0";"Curtiss-Wright Corporation | Rasmussen's P-36A Hawk";;
+"p-36a_rasmussen_0";"<color=@linkTextHoverColorLight>Curtiss-Wright Corporation</color>
+<color=@userlogColoredText>Rasmussen's P-36A Hawk</color>";;
 "p-36a_rasmussen_1";"P-36A Hawk [Rasmussen]";;
 "p-36a_rasmussen_2";"P-36A";;
 #
 "p-36a_brown_shop";"P-36A Hawk [Brown]";;
-"p-36a_brown_0";"Curtiss-Wright Corporation | Brown's P-36A Hawk";;
+"p-36a_brown_0";"<color=@linkTextHoverColorLight>Curtiss-Wright Corporation</color>
+<color=@userlogColoredText>Brown's P-36A Hawk</color>";;
 "p-36a_brown_1";"P-36A Hawk [Brown]";;
 "p-36a_brown_2";"P-36A";;
 #
 "p-36c_shop";"P-36C Hawk";;
-"p-36c_0";"Curtiss-Wright Corporation | P-36C Hawk";;
+"p-36c_0";"<color=@linkTextHoverColorLight>Curtiss-Wright Corporation</color>
+<color=@userlogColoredText>P-36C Hawk</color>";;
 "p-36c_1";"P-36C Hawk";;
 "p-36c_2";"P-36C";;
 #
 "p-36c_rb_shop";"○P-36C Hawk";;
-"p-36c_rb_0";"○Curtiss-Wright Corporation | TheRussianBadger's P-36C Hawk";;
+"p-36c_rb_0";"<color=@linkTextHoverColorLight>Curtiss-Wright Corporation</color>
+○<color=@userlogColoredText>TheRussianBadger's P-36C Hawk</color>";;
 "p-36c_rb_1";"○P-36C Hawk";;
 "p-36c_rb_2";"○P-36C";;
 #
 "bf2c_1_shop";"BF2C-1 Goshawk";;
-"bf2c_1_0";"Curtiss Aeroplane and Motor Company | BF2C-1 Goshawk";;
+"bf2c_1_0";"<color=@linkTextHoverColorLight>Curtiss Aeroplane and Motor Company</color>
+<color=@userlogColoredText>BF2C-1 Goshawk</color>";;
 "bf2c_1_1";"BF2C-1 Goshawk";;
 "bf2c_1_2";"BF2C-1";;
 #
 "f3f-2_shop";"F3F-2 Gulfhawk";;
-"f3f-2_0";"Grumman Aircraft Engineering Corporation | F3F-2 Gulfhawk";;
+"f3f-2_0";"<color=@linkTextHoverColorLight>Grumman Aircraft Engineering Corporation</color>
+<color=@userlogColoredText>F3F-2 Gulfhawk</color>";;
 "f3f-2_1";"F3F-2 Gulfhawk";;
 "f3f-2_2";"F3F-2";;
 #
 "f3f-2_galer_shop";"F3F-2 Gulfhawk [Galer]";;
-"f3f-2_galer_0";"Grumman Aircraft Engineering Corporation | Galer's F3F-2 Gulfhawk";;
+"f3f-2_galer_0";"<color=@linkTextHoverColorLight>Grumman Aircraft Engineering Corporation</color>
+<color=@userlogColoredText>Galer's F3F-2 Gulfhawk</color>";;
 "f3f-2_galer_1";"F3F-2 Gulfhawk [Galer]";;
 "f3f-2_galer_2";"F3F-2";;
 #
 "f2a-1_shop";"F2A-1 Buffalo";;
-"f2a-1_0";"Brewster Aeronautical Corporation | F2A-1 Buffalo";;
+"f2a-1_0";"<color=@linkTextHoverColorLight>Brewster Aeronautical Corporation</color>
+<color=@userlogColoredText>F2A-1 Buffalo</color>";;
 "f2a-1_1";"F2A-1 Buffalo";;
 "f2a-1_2";"F2A-1";;
 #
 "f2a-1_thach_shop";"F2A-1 Buffalo [Thach]";;
-"f2a-1_thach_0";"Brewster Aeronautical Corporation | John Thach's F2A-1 Buffalo";;
+"f2a-1_thach_0";"<color=@linkTextHoverColorLight>Brewster Aeronautical Corporation</color>
+<color=@userlogColoredText>John Thach's F2A-1 Buffalo</color>";;
 "f2a-1_thach_1";"F2A-1 Buffalo [Thach]";;
 "f2a-1_thach_2";"F2A-1";;
 #
 "b_10b_shop";"B-10B (Model 139)";;
-"b_10b_0";"Martin Company | B-10B (Model 139)";;
+"b_10b_0";"<color=@linkTextHoverColorLight>Martin Company</color>
+<color=@userlogColoredText>B-10B (Model 139)</color>";;
 "b_10b_1";"B-10B (Model 139)";;
 "b_10b_2";"B-10B";;
 #
 "os2u_1_shop";"OS2U-1 Kingfisher";;
-"os2u_1_0";"Chance Vought Corporation | OS2U-1 Kingfisher";;
+"os2u_1_0";"<color=@linkTextHoverColorLight>Chance Vought Corporation</color>
+<color=@userlogColoredText>OS2U-1 Kingfisher</color>";;
 "os2u_1_1";"OS2U-1 Kingfisher";;
 "os2u_1_2";"OS2U-1";;
 #
 "os2u_1_naval_shop";"OS2U-1 Kingfisher";;
-"os2u_1_naval_0";"Chance Vought Corporation | OS2U-1 Kingfisher";;
+"os2u_1_naval_0";"<color=@linkTextHoverColorLight>Chance Vought Corporation</color>
+<color=@userlogColoredText>OS2U-1 Kingfisher</color>";;
 "os2u_1_naval_1";"OS2U-1 Kingfisher";;
 "os2u_1_naval_2";"OS2U-1";;
 #
 "os2u_3_shop";"OS2U-3 Kingfisher";;
-"os2u_3_0";"Chance Vought Corporation | OS2U-3 Kingfisher";;
+"os2u_3_0";"<color=@linkTextHoverColorLight>Chance Vought Corporation</color>
+<color=@userlogColoredText>OS2U-3 Kingfisher</color>";;
 "os2u_3_1";"OS2U-3 Kingfisher";;
 "os2u_3_2";"OS2U-3";;
 #
 "sb2u-3_shop";"SB2U-3 Vindicator";;
-"sb2u-3_0";"Chance Vought Corporation | SB2U-3 Vindicator";;
+"sb2u-3_0";"<color=@linkTextHoverColorLight>Chance Vought Corporation</color>
+<color=@userlogColoredText>SB2U-3 Vindicator</color>";;
 "sb2u-3_1";"SB2U-3 Vindicator";;
 "sb2u-3_2";"SB2U-3";;
 #
 "sb2u-2_shop";"SB2U-2 Vindicator";;
-"sb2u-2_0";"Chance Vought Corporation | SB2U-2 Vindicator";;
+"sb2u-2_0";"<color=@linkTextHoverColorLight>Chance Vought Corporation</color>
+<color=@userlogColoredText>SB2U-2 Vindicator</color>";;
 "sb2u-2_1";"SB2U-2 Vindicator";;
 "sb2u-2_2";"SB2U-2";;
 #
 "tbf-1c_shop";"TBF-1C Avenger";;
-"tbf-1c_0";"Grumman Aircraft Engineering Corporation | TBF-1C Avenger";;
+"tbf-1c_0";"<color=@linkTextHoverColorLight>Grumman Aircraft Engineering Corporation</color>
+<color=@userlogColoredText>TBF-1C Avenger</color>";;
 "tbf-1c_1";"TBF-1C Avenger";;
 "tbf-1c_2";"TBF-1C";;
 #
 "sbd-3_shop";"SBD-3 Dauntless";;
-"sbd-3_0";"Douglas Aircraft Company | SBD-3 Dauntless";;
+"sbd-3_0";"<color=@linkTextHoverColorLight>Douglas Aircraft Company</color>
+<color=@userlogColoredText>SBD-3 Dauntless</color>";;
 "sbd-3_1";"SBD-3 Dauntless";;
 "sbd-3_2";"SBD-3";;
 #
 "tbd-1_1938_shop";"TBD-1 Devastator";;
-"tbd-1_1938_0";"Douglas Aircraft Company | TBD-1 Devastator";;
+"tbd-1_1938_0";"<color=@linkTextHoverColorLight>Douglas Aircraft Company</color>
+<color=@userlogColoredText>TBD-1 Devastator</color>";;
 "tbd-1_1938_1";"TBD-1 Devastator";;
 "tbd-1_1938_2";"TBD-1";;
 #
 "b_18a_shop";"B-18A Bolo";;
-"b_18a_0";"Douglas Aircraft Company | B-18A Bolo";;
+"b_18a_0";"<color=@linkTextHoverColorLight>Douglas Aircraft Company</color>
+<color=@userlogColoredText>B-18A Bolo</color>";;
 "b_18a_1";"B-18A Bolo";;
 "b_18a_2";"B-18A";;
 #
 "pby-5_shop";"PBY-5 Catalina";;
-"pby-5_0";"Consolidated Aircraft Corporation | PBY-5 Catalina";;
+"pby-5_0";"<color=@linkTextHoverColorLight>Consolidated Aircraft Corporation</color>
+<color=@userlogColoredText>PBY-5 Catalina</color>";;
 "pby-5_1";"PBY-5 Catalina";;
 "pby-5_2";"PBY-5";;
 #
 "pby-5a_shop";"PBY-5A Catalina";;
-"pby-5a_0";"Consolidated Aircraft Corporation | PBY-5A Catalina";;
+"pby-5a_0";"<color=@linkTextHoverColorLight>Consolidated Aircraft Corporation</color>
+<color=@userlogColoredText>PBY-5A Catalina</color>";;
 "pby-5a_1";"PBY-5A Catalina";;
 "pby-5a_2";"PBY-5A";;
 #
 "pbm_1_shop";"PBM-1 Mariner";;
-"pbm_1_0";"Martin Company | PBM-1 Mariner";;
+"pbm_1_0";"<color=@linkTextHoverColorLight>Martin Company</color>
+<color=@userlogColoredText>PBM-1 Mariner</color>";;
 "pbm_1_1";"PBM-1 Mariner";;
 "pbm_1_2";"PBM-1";;
 #
 "pbm_3_shop";"PBM-3 Mariner";;
-"pbm_3_0";"Martin Company | PBM-3 Mariner";;
+"pbm_3_0";"<color=@linkTextHoverColorLight>Martin Company</color>
+<color=@userlogColoredText>PBM-3 Mariner</color>";;
 "pbm_3_1";"PBM-3 Mariner";;
 "pbm_3_2";"PBM-3";;
 #
 "p-400_shop";"P-400 Airacobra";;
-"p-400_0";"Bell Aircraft Corporation | P-400 Airacobra";;
+"p-400_0";"<color=@linkTextHoverColorLight>Bell Aircraft Corporation</color>
+<color=@userlogColoredText>P-400 Airacobra</color>";;
 "p-400_1";"P-400 Airacobra";;
 "p-400_2";"P-400";;
 #
 "p-38e_shop";"P-38E Lightning";;
-"p-38e_0";"Lockheed Corporation | P-38E Lightning";;
+"p-38e_0";"<color=@linkTextHoverColorLight>Lockheed Corporation</color>
+<color=@userlogColoredText>P-38E Lightning</color>";;
 "p-38e_1";"P-38E Lightning";;
 "p-38e_2";"P-38E";;
 #
 "yp-38_shop";"YP-38 Lightning";;
-"yp-38_0";"Lockheed Corporation | YP-38 Lightning";;
+"yp-38_0";"<color=@linkTextHoverColorLight>Lockheed Corporation</color>
+<color=@userlogColoredText>YP-38 Lightning</color>";;
 "yp-38_1";"YP-38 Lightning";;
 "yp-38_2";"YP-38";;
 #
 "p-38g_shop";"P-38G-1 Lightning";;
-"p-38g_0";"Lockheed Corporation | P-38G-1 Lightning | Block 1";;
+"p-38g_0";"<color=@linkTextHoverColorLight>Lockheed Corporation</color>
+<color=@userlogColoredText>P-38G-1 Lightning</color> | Block 1";;
 "p-38g_1";"P-38G-1 Lightning";;
 "p-38g_2";"P-38G-1";;
 #
 "p-39n_shop";"P-39N-0 Airacobra";;
-"p-39n_0";"Bell Aircraft Corporation | P-39N-0 Airacobra | Block 0";;
+"p-39n_0";"<color=@linkTextHoverColorLight>Bell Aircraft Corporation</color>
+<color=@userlogColoredText>P-39N-0 Airacobra</color> | Block 0";;
 "p-39n_1";"P-39N-0 Airacobra";;
 "p-39n_2";"P-39N-0";;
 #
 "p-39q_5_shop";"P-39Q-5 Airacobra";;
-"p-39q_5_0";"Bell Aircraft Corporation | P-39Q-5 Airacobra | Block 5";;
+"p-39q_5_0";"<color=@linkTextHoverColorLight>Bell Aircraft Corporation</color>
+<color=@userlogColoredText>P-39Q-5 Airacobra</color> | Block 5";;
 "p-39q_5_1";"P-39Q-5 Airacobra";;
 "p-39q_5_2";"P-39Q-5";;
 #
 "p-36g_shop";"P-36G Hawk";;
-"p-36g_0";"Curtiss-Wright Corporation | P-36G Hawk";;
+"p-36g_0";"<color=@linkTextHoverColorLight>Curtiss-Wright Corporation</color>
+<color=@userlogColoredText>P-36G Hawk</color>";;
 "p-36g_1";"P-36G Hawk";;
 "p-36g_2";"P-36G";;
 #
 "p-40e_shop";"P-40E-1 Warhawk";;
-"p-40e_0";"Curtiss-Wright Corporation | P-40E-1 Warhawk | Block 1";;
+"p-40e_0";"<color=@linkTextHoverColorLight>Curtiss-Wright Corporation</color>
+<color=@userlogColoredText>P-40E-1 Warhawk</color> | Block 1";;
 "p-40e_1";"P-40E-1 Warhawk";;
 "p-40e_2";"P-40E-1";;
 #
 "p-40e_td_shop";"P-40E-1 Warhawk [TD]";;
-"p-40e_td_0";"Curtiss-Wright Corporation | P-40E-1 Warhawk | Block 1 [Twitch Drop]";;
+"p-40e_td_0";"<color=@linkTextHoverColorLight>Curtiss-Wright Corporation</color>
+<color=@userlogColoredText>P-40E-1 Warhawk</color> | Block 1 [Twitch Drop]";;
 "p-40e_td_1";"P-40E-1 Warhawk [TD]";;
 "p-40e_td_2";"P-40E-1 [TD]";;
 #
 "p-40f_10_shop";"P-40F-10 Warhawk";;
-"p-40f_10_0";"Curtiss-Wright Corporation | P-40F-10 Warhawk | Block 10";;
+"p-40f_10_0";"<color=@linkTextHoverColorLight>Curtiss-Wright Corporation</color>
+<color=@userlogColoredText>P-40F-10 Warhawk</color> | Block 10";;
 "p-40f_10_1";"P-40F-10 Warhawk";;
 "p-40f_10_2";"P-40F-10";;
 #
 "p-51c-10-nt_shop";"P-51C-10 Mustang";;
-"p-51c-10-nt_0";"North American Aviation | P-51C-10 Mustang | Block 10";;
+"p-51c-10-nt_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>P-51C-10 Mustang</color> | Block 10";;
 "p-51c-10-nt_1";"P-51C-10 Mustang";;
 "p-51c-10-nt_2";"P-51C-10";;
 #
 "f2a-3_shop";"F2A-3 Buffalo";;
-"f2a-3_0";"Brewster Aeronautical Corporation | F2A-3 Buffalo";;
+"f2a-3_0";"<color=@linkTextHoverColorLight>Brewster Aeronautical Corporation</color>
+<color=@userlogColoredText>F2A-3 Buffalo</color>";;
 "f2a-3_1";"F2A-3 Buffalo";;
 "f2a-3_2";"F2A-3";;
 #
 "f4f-3_shop";"F4F-3 Wildcat";;
-"f4f-3_0";"Grumman Aircraft Engineering Corporation | F4F-3 Wildcat";;
+"f4f-3_0";"<color=@linkTextHoverColorLight>Grumman Aircraft Engineering Corporation</color>
+<color=@userlogColoredText>F4F-3 Wildcat</color>";;
 "f4f-3_1";"F4F-3 Wildcat";;
 "f4f-3_2";"F4F-3";;
 #
 "f4f-4_shop";"F4F-4 Wildcat";;
-"f4f-4_0";"Grumman Aircraft Engineering Corporation | F4F-4 Wildcat";;
+"f4f-4_0";"<color=@linkTextHoverColorLight>Grumman Aircraft Engineering Corporation</color>
+<color=@userlogColoredText>F4F-4 Wildcat</color>";;
 "f4f-4_1";"F4F-4 Wildcat";;
 "f4f-4_2";"F4F-4";;
 #
 "f6f-3_shop";"F6F-5 Hellcat";;
-"f6f-3_0";"Grumman Aircraft Engineering Corporation | F6F-5 Hellcat";;
+"f6f-3_0";"<color=@linkTextHoverColorLight>Grumman Aircraft Engineering Corporation</color>
+<color=@userlogColoredText>F6F-5 Hellcat</color>";;
 "f6f-3_1";"F6F-5 Hellcat";;
 "f6f-3_2";"F6F-5";;
 #
 "f4u-1a_shop";"F4U-1A Corsair";;
-"f4u-1a_0";"Chance Vought Corporation | F4U-1A Corsair";;
+"f4u-1a_0";"<color=@linkTextHoverColorLight>Chance Vought Corporation</color>
+<color=@userlogColoredText>F4U-1A Corsair</color>";;
 "f4u-1a_1";"F4U-1A Corsair";;
 "f4u-1a_2";"F4U-1A";;
 #
 "f4u-1a_usmc_shop";"F4U-1A Corsair (USMC)";;
-"f4u-1a_usmc_0";"Chance Vought Corporation | F4U-1A Corsair (USMC)";;
+"f4u-1a_usmc_0";"<color=@linkTextHoverColorLight>Chance Vought Corporation</color>
+<color=@userlogColoredText>F4U-1A Corsair</color>
+USMC | United States Marine Corps";;
 "f4u-1a_usmc_1";"F4U-1A Corsair (USMC)";;
 "f4u-1a_usmc_2";"F4U-1A (USMC)";;
 #
 "f4u-1d_shop";"F4U-1D Corsair";;
-"f4u-1d_0";"Chance Vought Corporation | F4U-1D Corsair";;
+"f4u-1d_0";"<color=@linkTextHoverColorLight>Chance Vought Corporation</color>
+<color=@userlogColoredText>F4U-1D Corsair</color>";;
 "f4u-1d_1";"F4U-1D Corsair";;
 "f4u-1d_2";"F4U-1D";;
 #
 "p-51_a-36_shop";"A-36 Apache";;
-"p-51_a-36_0";"North American Aviation | A-36 Apache";;
+"p-51_a-36_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>A-36 Apache</color>";;
 "p-51_a-36_1";"A-36 Apache";;
 "p-51_a-36_2";"A-36";;
 #
 "a-20g_shop";"A-20G-25 Havoc";;
-"a-20g_0";"Douglas Aircraft Company | A-20G-25 Havoc | Block 25";;
+"a-20g_0";"<color=@linkTextHoverColorLight>Douglas Aircraft Company</color>
+<color=@userlogColoredText>A-20G-25 Havoc</color> | Block 25";;
 "a-20g_1";"A-20G-25 Havoc";;
 "a-20g_2";"A-20G-25";;
 #
 "sb2c_1c_shop";"SB2C-1C Helldiver";;
-"sb2c_1c_0";"Curtiss-Wright Corporation | SB2C-1C Helldiver";;
+"sb2c_1c_0";"<color=@linkTextHoverColorLight>Curtiss-Wright Corporation</color>
+<color=@userlogColoredText>SB2C-1C Helldiver</color>";;
 "sb2c_1c_1";"SB2C-1 Helldiver";;
 "sb2c_1c_2";"SB2C-1";;
 #
 "sb2c_4_shop";"SB2C-4 Helldiver";;
-"sb2c_4_0";"Curtiss-Wright Corporation | SB2C-4 Helldiver";;
+"sb2c_4_0";"<color=@linkTextHoverColorLight>Curtiss-Wright Corporation</color>
+<color=@userlogColoredText>SB2C-4 Helldiver</color>";;
 "sb2c_4_1";"SB2C-4 Helldiver";;
 "sb2c_4_2";"SB2C-4";;
 #
 "b_34_shop";"B-34 Lexington";;
-"b_34_0";"Lockheed Corporation | B-34 Lexington";;
+"b_34_0";"<color=@linkTextHoverColorLight>Lockheed Corporation</color>
+<color=@userlogColoredText>B-34 Lexington</color>";;
 "b_34_1";"B-34 Lexington";;
 "b_34_2";"B-34";;
 #
 "b_25j_1_shop";"B-25J-1 Mitchell";;
-"b_25j_1_0";"North American Aviation | B-25J-1 Mitchell | Block 1";;
+"b_25j_1_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>B-25J-1 Mitchell</color> | Block 1";;
 "b_25j_1_1";"B-25J-1 Mitchell";;
 "b_25j_1_2";"B-25J-1";;
 #
 "b_25j_20_shop";"B-25J-20 Mitchell";;
-"b_25j_20_0";"North American Aviation | B-25J-20 Mitchell | Block 20";;
+"b_25j_20_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>B-25J-20 Mitchell</color> | Block 20";;
 "b_25j_20_1";"B-25J-20 Mitchell";;
 "b_25j_20_2";"B-25J-20";;
 #
 "p-43a-1_shop";"P-43A-1 Lancer";;
-"p-43a-1_0";"Republic Aviation Corporation | P-43A-1 Lancer | Block 1";;
+"p-43a-1_0";"<color=@linkTextHoverColorLight>Republic Aviation Corporation</color>
+<color=@userlogColoredText>P-43A-1 Lancer</color> | Block 1";;
 "p-43a-1_1";"P-43A-1 Lancer";;
 "p-43a-1_2";"P-43A-1";;
 #
 "b_26_shop";"B-26 Marauder";;
-"b_26_0";"Martin Company | B-26 Marauder";;
+"b_26_0";"<color=@linkTextHoverColorLight>Martin Company</color>
+<color=@userlogColoredText>B-26 Marauder</color>";;
 "b_26_1";"B-26 Marauder";;
 "b_26_2";"B-26";;
 #
 "a-26c-45-dt_shop";"A-26C-45 Invader";;
-"a-26c-45-dt_0";"Douglas Aircraft Company | A-26C-45 Invader | Block 45";;
+"a-26c-45-dt_0";"<color=@linkTextHoverColorLight>Douglas Aircraft Company</color>
+<color=@userlogColoredText>A-26C-45 Invader</color> | Block 45";;
 "a-26c-45-dt_1";"A-26C-45 Invader";;
 "a-26c-45-dt_2";"A-26C-45";;
 #
 "a_26c_shop";"A-26C Invader";;
-"a_26c_0";"Douglas Aircraft Company | A-26C Invader";;
+"a_26c_0";"<color=@linkTextHoverColorLight>Douglas Aircraft Company</color>
+<color=@userlogColoredText>A-26C Invader</color>";;
 "a_26c_1";"A-26C Invader";;
 "a_26c_2";"A-26C";;
 #
 "b_26b_c_shop";"B-26B Marauder";;
-"b_26b_c_0";"Martin Company | B-26B Marauder";;
+"b_26b_c_0";"<color=@linkTextHoverColorLight>Martin Company</color>
+<color=@userlogColoredText>B-26B Marauder</color>";;
 "b_26b_c_1";"B-26B Marauder";;
 "b_26b_c_2";"B-26B";;
 #
 "p-63a-10_shop";"P-63A-10 Kingcobra";;
-"p-63a-10_0";"Bell Aircraft Corporation | P-63A-10 Kingcobra | Block 10";;
+"p-63a-10_0";"<color=@linkTextHoverColorLight>Bell Aircraft Corporation</color>
+<color=@userlogColoredText>P-63A-10 Kingcobra</color> | Block 10";;
 "p-63a-10_1";"P-63A-10 Kingcobra";;
 "p-63a-10_2";"P-63A-10";;
 #
 "p-63a-5_shop";"P-63A-5 Kingcobra";;
-"p-63a-5_0";"Bell Aircraft Corporation | P-63A-5 Kingcobra | Block 5";;
+"p-63a-5_0";"<color=@linkTextHoverColorLight>Bell Aircraft Corporation</color>
+<color=@userlogColoredText>P-63A-5 Kingcobra</color> | Block 5";;
 "p-63a-5_1";"P-63A-5 Kingcobra";;
 "p-63a-5_2";"P-63A-5";;
 #
 "p-63c-5_shop";"P-63C-5 Kingcobra";;
-"p-63c-5_0";"Bell Aircraft Corporation | P-63C-5 Kingcobra | Block 5";;
+"p-63c-5_0";"<color=@linkTextHoverColorLight>Bell Aircraft Corporation</color>
+<color=@userlogColoredText>P-63C-5 Kingcobra</color> | Block 5";;
 "p-63c-5_1";"P-63C-5 Kingcobra";;
 "p-63c-5_2";"P-63C-5";;
 #
 "p-63c-5_kingcobra_animal_version_shop";"␠P-63C-5 Kingcobra";;
-"p-63c-5_kingcobra_animal_version_0";"␠Bell Aircraft Corporation | P-63C-5 Kingcobra | Block 5";;
+"p-63c-5_kingcobra_animal_version_0";"<color=@linkTextHoverColorLight>Bell Aircraft Corporation</color>
+␠<color=@userlogColoredText>P-63C-5 Kingcobra</color> | Block 5";;
 "p-63c-5_kingcobra_animal_version_1";"␠P-63C-5 Kingcobra";;
 "p-63c-5_kingcobra_animal_version_2";"␠P-63C-5";;
 #
 "p-38j_shop";"P-38J-15 Lightning";;
-"p-38j_0";"Lockheed Corporation | P-38J-15 Lightning | Block 15";;
+"p-38j_0";"<color=@linkTextHoverColorLight>Lockheed Corporation</color>
+<color=@userlogColoredText>P-38J-15 Lightning</color> | Block 15";;
 "p-38j_1";"P-38J-15 Lightning";;
 "p-38j_2";"P-38J-15";;
 #
 "p-38l_shop";"P-38L-5 Lightning";;
-"p-38l_0";"Lockheed Corporation | P-38L-5 Lightning | Block 5";;
+"p-38l_0";"<color=@linkTextHoverColorLight>Lockheed Corporation</color>
+<color=@userlogColoredText>P-38L-5 Lightning</color> | Block 5";;
 "p-38l_1";"P-38L-5 Lightning";;
 "p-38l_2";"P-38L-5";;
 #
 "p-51d-5_shop";"P-51D-5 Mustang";;
-"p-51d-5_0";"North American Aviation | P-51D-5 Mustang | Block 5";;
+"p-51d-5_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>P-51D-5 Mustang</color> | Block 5";;
 "p-51d-5_1";"P-51D-5 Mustang";;
 "p-51d-5_2";"P-51D-5";;
 #
 "p-51_mk1_shop";"P-51 Mustang Mk.1";;
-"p-51_mk1_0";"North American Aviation | P-51 Mustang Mk.1";;
+"p-51_mk1_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>P-51 Mustang Mk.1</color>";;
 "p-51_mk1_1";"P-51 Mustang Mk.1";;
 "p-51_mk1_2";"P-51 Mk.1";;
 #
 "p-47d_22_re_shop";"P-47D-22 Thunderbolt";;
-"p-47d_22_re_0";"Republic Aviation Corporation | P-47D-22 Thunderbolt | Block 22";;
+"p-47d_22_re_0";"<color=@linkTextHoverColorLight>Republic Aviation Corporation</color>
+<color=@userlogColoredText>P-47D-22 Thunderbolt</color> | Block 22";;
 "p-47d_22_re_1";"P-47D-22 Thunderbolt";;
 "p-47d_22_re_2";"P-47D-22";;
 #
 "p-47d_shop";"P-47D-25 Thunderbolt";;
-"p-47d_0";"Republic Aviation Corporation | P-47D-25 Thunderbolt | Block 25";;
+"p-47d_0";"<color=@linkTextHoverColorLight>Republic Aviation Corporation</color>
+<color=@userlogColoredText>P-47D-25 Thunderbolt</color> | Block 25";;
 "p-47d_1";"P-47D-25 Thunderbolt";;
 "p-47d_2";"P-47D-25";;
 #
 "f4u-4_shop";"F4U-4 Corsair";;
-"f4u-4_0";"Chance Vought Corporation | F4U-4 Corsair";;
+"f4u-4_0";"<color=@linkTextHoverColorLight>Chance Vought Corporation</color>
+<color=@userlogColoredText>F4U-4 Corsair</color>";;
 "f4u-4_1";"F4U-4 Corsair";;
 "f4u-4_2";"F4U-4";;
 #
 "f8f1_shop";"F8F-1 Bearcat";;
-"f8f1_0";"Grumman Aircraft Engineering Corporation | F8F-1 Bearcat";;
+"f8f1_0";"<color=@linkTextHoverColorLight>Grumman Aircraft Engineering Corporation</color>
+<color=@userlogColoredText>F8F-1 Bearcat</color>";;
 "f8f1_1";"F8F-1 Bearcat";;
 "f8f1_2";"F8F-1";;
 #
 "f6f-5n_shop";"F6F-5N Hellcat";;
-"f6f-5n_0";"Grumman Aircraft Engineering Corporation | F6F-5N Hellcat";;
+"f6f-5n_0";"<color=@linkTextHoverColorLight>Grumman Aircraft Engineering Corporation</color>
+<color=@userlogColoredText>F6F-5N Hellcat</color>";;
 "f6f-5n_1";"F6F-5N Hellcat";;
 "f6f-5n_2";"F6F-5N";;
 #
 "pbj_1h_shop";"PBJ-1H Mitchell";;
-"pbj_1h_0";"North American Aviation | PBJ-1H Mitchell";;
+"pbj_1h_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>PBJ-1H Mitchell</color>";;
 "pbj_1h_1";"PBJ-1H Mitchell";;
 "pbj_1h_2";"PBJ-1H";;
 #
 "pbj_1j_shop";"PBJ-1J Mitchell";;
-"pbj_1j_0";"North American Aviation | PBJ-1J Mitchell";;
+"pbj_1j_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>PBJ-1J Mitchell</color>";;
 "pbj_1j_1";"PBJ-1J Mitchell";;
 "pbj_1j_2";"PBJ-1J";;
 #
 "pbj_1j_1_shop";"PBJ-1J-1 Mitchell";;
-"pbj_1j_1_0";"North American Aviation | PBJ-1J-1 Mitchell | Block 1";;
+"pbj_1j_1_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>PBJ-1J-1 Mitchell</color> | Block 1";;
 "pbj_1j_1_1";"PBJ-1J-1 Mitchell";;
 "pbj_1j_1_2";"PBJ-1J-1";;
 #
 "p-61c_1_shop";"P-61C-1 Black Widow";;
-"p-61c_1_0";"Northrop Corporation | P-61C-1 Black Widow | Block 1";;
+"p-61c_1_0";"<color=@linkTextHoverColorLight>Northrop Corporation</color>
+<color=@userlogColoredText>P-61C-1 Black Widow</color> | Block 1";;
 "p-61c_1_1";"P-61C-1 Black Widow";;
 "p-61c_1_2";"P-61C-1";;
 #
 "p-61a_1_shop";"P-61A-11 Black Widow";;
-"p-61a_1_0";"Northrop Corporation | P-61A-11 Black Widow | Block 11";;
+"p-61a_1_0";"<color=@linkTextHoverColorLight>Northrop Corporation</color>
+<color=@userlogColoredText>P-61A-11 Black Widow</color> | Block 11";;
 "p-61a_1_1";"P-61A-11 Black Widow";;
 "p-61a_1_2";"P-61A-11 Black Widow";;
 #
 "b-17e_shop";"B-17E Flying Fortress (1941)";;
-"b-17e_0";"Boeing Airplane Company | B-17E Flying Fortress | Sperry Ball Turrets (1941)";;
+"b-17e_0";"<color=@linkTextHoverColorLight>Boeing Airplane Company</color>
+<color=@userlogColoredText>B-17E Flying Fortress</color>
+Sperry Ball Turrets (1941)";;
 "b-17e_1";"B-17E Flying Fortress (1941)";;
 "b-17e_2";"B-17E (1941)";;
 #
 "b-17e_late_shop";"B-17E Flying Fortress (1942)";;
-"b-17e_late_0";"Boeing Airplane Company | B-17E Flying Fortress | Bendix Ball Turrets (1942)";;
+"b-17e_late_0";"<color=@linkTextHoverColorLight>Boeing Airplane Company</color>
+<color=@userlogColoredText>B-17E Flying Fortress</color>
+Bendix Ball Turrets (1942)";;
 "b-17e_late_1";"B-17E Flying Fortress (1942)";;
 "b-17e_late_2";"B-17E (1942)";;
 #
 "pb4y-2_shop";"PB4Y-2 Privateer";;
-"pb4y-2_0";"Consolidated Aircraft Corporation | PB4Y-2 Privateer";;
+"pb4y-2_0";"<color=@linkTextHoverColorLight>Consolidated Aircraft Corporation</color>
+<color=@userlogColoredText>PB4Y-2 Privateer</color>";;
 "pb4y-2_1";"PB4Y-2 Privateer";;
 "pb4y-2_2";"PB4Y-2";;
 #
 "btd-1_shop";"BTD-1 Destroyer";;
-"btd-1_0";"Douglas Aircraft Company | BTD-1 Destroyer";;
+"btd-1_0";"<color=@linkTextHoverColorLight>Douglas Aircraft Company</color>
+<color=@userlogColoredText>BTD-1 Destroyer</color>";;
 "btd-1_1";"BTD-1 Destroyer";;
 "btd-1_2";"BTD-1";;
 #
 "xf5f_shop";"XF5F Skyrocket";;
-"xf5f_0";"Grumman Aircraft Engineering Corporation | XF5F Skyrocket";;
+"xf5f_0";"<color=@linkTextHoverColorLight>Grumman Aircraft Engineering Corporation</color>
+<color=@userlogColoredText>XF5F Skyrocket</color>";;
 "xf5f_1";"XF5F Skyrocket";;
 "xf5f_2";"XF5F";;
 #
 "xp-50_shop";"XP-50 Skyrocket";;
-"xp-50_0";"Grumman Aircraft Engineering Corporation | XP-50 Skyrocket";;
+"xp-50_0";"<color=@linkTextHoverColorLight>Grumman Aircraft Engineering Corporation</color>
+<color=@userlogColoredText>XP-50 Skyrocket</color>";;
 "xp-50_1";"XP-50 Skyrocket";;
 "xp-50_2";"XP-50";;
 #
 "xp-55_shop";"XP-55 Ascender";;
-"xp-55_0";"Curtiss-Wright Corporation | XP-55 Ascender";;
+"xp-55_0";"<color=@linkTextHoverColorLight>Curtiss-Wright Corporation</color>
+<color=@userlogColoredText>XP-55 Ascender</color>";;
 "xp-55_1";"XP-55 Ascender";;
 "xp-55_2";"XP-55";;
 #
 "pv_2d_shop";"PV-2D Harpoon";;
-"pv_2d_0";"Lockheed Corporation | PV-2D Harpoon";;
+"pv_2d_0";"<color=@linkTextHoverColorLight>Lockheed Corporation</color>
+<color=@userlogColoredText>PV-2D Harpoon</color>";;
 "pv_2d_1";"PV-2D Harpoon";;
 "pv_2d_2";"PV-2D";;
 #
 "pbm_3_shop";"PBM-3 Mariner";;
-"pbm_3_0";"Martin Company | PBM-3 Mariner";;
+"pbm_3_0";"<color=@linkTextHoverColorLight>Martin Company</color>
+<color=@userlogColoredText>PBM-3 Mariner</color>";;
 "pbm_3_1";"PBM-3 Mariner";;
 "pbm_3_2";"PBM-3";;
 #
 "pbm_5a_shop";"PBM-5A Mariner";;
-"pbm_5a_0";"Martin Company | PBM-5A Mariner";;
+"pbm_5a_0";"<color=@linkTextHoverColorLight>Martin Company</color>
+<color=@userlogColoredText>PBM-5A Mariner</color>";;
 "pbm_5a_1";"PBM-5A Mariner";;
 "pbm_5a_2";"PBM-5A";;
 #
 "f-82e_shop";"F-82E Twin Mustang";;
-"f-82e_0";"North American Aviation | F-82E Twin Mustang";;
+"f-82e_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>F-82E Twin Mustang</color>";;
 "f-82e_1";"F-82E Twin Mustang";;
 "f-82e_2";"F-82E";;
 #
-"f-82g_0";"North American Aviation | F-82G Twin Mustang";;
+"f-82g_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>F-82G Twin Mustang</color>";;
 "f-82g_1";"F-82G Twin Mustang";;
 "f-82g_2";"F-82G";;
 #
 "p-51d-30_usaaf_korea_shop";"P-51D-30 Mustang";;
-"p-51d-30_usaaf_korea_0";"North American Aviation | P-51D-30 Mustang | Block 30";;
+"p-51d-30_usaaf_korea_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>P-51D-30 Mustang</color> | Block 30";;
 "p-51d-30_usaaf_korea_1";"P-51D-30 Mustang";;
 "p-51d-30_usaaf_korea_2";"P-51D-30";;
 #
 "p-51h-5_na_shop";"P-51H-5 Mustang";;
-"p-51h-5_na_0";"North American Aviation | P-51H-5 Mustang | Block 5";;
+"p-51h-5_na_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>P-51H-5 Mustang</color> | Block 5";;
 "p-51h-5_na_1";"P-51H-5 Mustang";;
 "p-51h-5_na_2";"P-51H-5";;
 #
 "f4u-1c_shop";"F4U-1C Corsair";;
-"f4u-1c_0";"Chance Vought Corporation | F4U-1C Corsair";;
+"f4u-1c_0";"<color=@linkTextHoverColorLight>Chance Vought Corporation</color>
+<color=@userlogColoredText>F4U-1C Corsair</color>";;
 "f4u-1c_1";"F4U-1C Corsair";;
 "f4u-1c_2";"F4U-1C";;
 #
 "f4u-4b_shop";"F4U-4B Corsair";;
-"f4u-4b_0";"Chance Vought Corporation | F4U-4B Corsair";;
+"f4u-4b_0";"<color=@linkTextHoverColorLight>Chance Vought Corporation</color>
+<color=@userlogColoredText>F4U-4B Corsair</color>";;
 "f4u-4b_1";"F4U-4B Corsair";;
 "f4u-4b_2";"F4U-4B";;
 #
 "f4u-4b_vmf_214_shop";"F4U-4B Corsair (VMF-214)";;
-"f4u-4b_vmf_214_0";"Chance Vought Corporation | F4U-4B Corsair (VMF-214)";;
+"f4u-4b_vmf_214_0";"<color=@linkTextHoverColorLight>Chance Vought Corporation</color>
+<color=@userlogColoredText>F4U-4B Corsair</color>
+VMF-214 ""Black Sheep""";;
 "f4u-4b_vmf_214_1";"F4U-4B Corsair (VMF-214)";;
 "f4u-4b_vmf_214_2";"F4U-4B (VMF-214)";;
 #
 "f8f1b_shop";"F8F-1B Bearcat";;
-"f8f1b_0";"Grumman Aircraft Engineering Corporation | F8F-1B Bearcat";;
+"f8f1b_0";"<color=@linkTextHoverColorLight>Grumman Aircraft Engineering Corporation</color>
+<color=@userlogColoredText>F8F-1B Bearcat</color>";;
 "f8f1b_1";"F8F-1B Bearcat";;
 "f8f1b_2";"F8F-1B";;
 #
 "f7f1_shop";"F7F-1 Tigercat";;
-"f7f1_0";"Grumman Aircraft Engineering Corporation | F7F-1 Tigercat";;
+"f7f1_0";"<color=@linkTextHoverColorLight>Grumman Aircraft Engineering Corporation</color>
+<color=@userlogColoredText>F7F-1 Tigercat</color>";;
 "f7f1_1";"F7F-1 Tigercat";;
 "f7f1_2";"F7F-1";;
 #
 "a-26b_shop";"A-26B-50 Invader";;
-"a-26b_0";"Douglas Aircraft Company | A-26B-50 Invader | Block 50";;
+"a-26b_0";"<color=@linkTextHoverColorLight>Douglas Aircraft Company</color>
+<color=@userlogColoredText>A-26B-50 Invader</color> | Block 50";;
 "a-26b_1";"A-26B-50 Invader";;
 "a-26b_2";"A-26B-50";;
 #
 "a-26b_10_shop";"A-26B-10 Invader";;
-"a-26b_10_0";"Douglas Aircraft Company | A-26B-10 Invader | Block 10";;
+"a-26b_10_0";"<color=@linkTextHoverColorLight>Douglas Aircraft Company</color>
+<color=@userlogColoredText>A-26B-10 Invader</color> | Block 10";;
 "a-26b_10_1";"A-26B-10 Invader";;
 "a-26b_10_2";"A-26B-10";;
 #
 "spitfire_ix_usa_shop";"▃Spitfire LF.IXc";;
-"spitfire_ix_usa_0";"▃Supermarine Spitfire | Low-Altitude Fighter, Mk.IXc";;
+"spitfire_ix_usa_0";"<color=@linkTextHoverColorLight>Supermarine Aviation Works</color>
+▃<color=@userlogColoredText>Spitfire</color>
+Low-Altitude Fighter, Mk.IXc";;
 "spitfire_ix_usa_1";"▃Spitfire LF.IXc";;
 "spitfire_ix_usa_2";"▃Spitfire LF.IXc";;
 #
 "douglas_ad_2_shop";"AD-2 Skyraider";;
-"douglas_ad_2_0";"Douglas Aircraft Company | AD-2 Skyraider";;
+"douglas_ad_2_0";"<color=@linkTextHoverColorLight>Douglas Aircraft Company</color>
+<color=@userlogColoredText>AD-2 Skyraider</color>";;
 "douglas_ad_2_1";"AD-2 Skyraider";;
 "douglas_ad_2_2";"AD-2";;
 #
 "douglas_ad_4_shop";"AD-4 Skyraider";;
-"douglas_ad_4_0";"Douglas Aircraft Company | AD-4 Skyraider";;
+"douglas_ad_4_0";"<color=@linkTextHoverColorLight>Douglas Aircraft Company</color>
+<color=@userlogColoredText>AD-4 Skyraider</color>";;
 "douglas_ad_4_1";"AD-4 Skyraider";;
 "douglas_ad_4_2";"AD-4";;
 #
 "am_1_mauler_shop";"AM-1 Mauler";;
-"am_1_mauler_0";"Martin Company | AM-1 Mauler";;
+"am_1_mauler_0";"<color=@linkTextHoverColorLight>Martin Company</color>
+<color=@userlogColoredText>AM-1 Mauler</color>";;
 "am_1_mauler_1";"AM-1 Mauler";;
 "am_1_mauler_2";"AM-1";;
 #
 "douglas_a_1h_shop";"A-1H Skyraider";;
-"douglas_a_1h_0";"Douglas Aircraft Company | A-1H Skyraider";;
+"douglas_a_1h_0";"<color=@linkTextHoverColorLight>Douglas Aircraft Company</color>
+<color=@userlogColoredText>A-1H Skyraider</color>";;
 "douglas_a_1h_1";"A-1H Skyraider";;
 "douglas_a_1h_2";"A-1H";;
 #
 "b-17g_shop";"B-17G-60 Flying Fortress";;
-"b-17g_0";"Boeing Airplane Company | B-17G-60 Flying Fortress | Block 60";;
+"b-17g_0";"<color=@linkTextHoverColorLight>Boeing Airplane Company</color>
+<color=@userlogColoredText>B-17G-60 Flying Fortress</color> | Block 60";;
 "b-17g_1";"B-17G-60 Flying Fortress";;
 "b-17g_2";"B-17G-60";;
 #
 "b_24d_shop";"B-24D-25 Liberator";;
-"b_24d_0";"Consolidated Aircraft Corporation | B-24D-25 Liberator | Block 25";;
+"b_24d_0";"<color=@linkTextHoverColorLight>Consolidated Aircraft Corporation</color>
+<color=@userlogColoredText>B-24D-25 Liberator</color> | Block 25";;
 "b_24d_1";"B-24D-25 Liberator";;
 "b_24d_2";"B-24D-25";;
 #
 "b-29_shop";"B-29A Superfortress";;
-"b-29_0";"Boeing Airplane Company | B-29A Superfortress";;
+"b-29_0";"<color=@linkTextHoverColorLight>Boeing Airplane Company</color>
+<color=@userlogColoredText>B-29A Superfortress</color>";;
 "b-29_1";"B-29A Superfortress";;
 "b-29_2";"B-29A";;
 #
 "p-51d-20-na_shop";"P-51D-20 Mustang";;
-"p-51d-20-na_0";"North American Aviation | P-51D-20 Mustang | Block 20";;
+"p-51d-20-na_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>P-51D-20 Mustang</color> | Block 20";;
 "p-51d-20-na_1";"P-51D-20 Mustang";;
 "p-51d-20-na_2";"P-51D-20";;
 #
 "xa_38_shop";"XA-38 Grizzly";;
-"xa_38_0";"Beechcraft Aircraft Corp. XA-38 Grizzly";;
+"xa_38_0";"<color=@linkTextHoverColorLight>Beechcraft Aircraft Corp.</color>
+<color=@userlogColoredText>XA-38 Grizzly</color>";;
 "xa_38_1";"XA-38 Grizzly";;
 "xa_38_2";"XA-38";;
 #
 "p-38j_marge_shop";"P-38J-15 Lightning [Bong]";;
-"p-38j_marge_0";"Lockheed Corporation | Richard Bong's P-38J-15 Lightning | Block 15";;
+"p-38j_marge_0";"<color=@linkTextHoverColorLight>Lockheed Corporation</color>
+<color=@userlogColoredText>Richard Bong's P-38J-15 Lightning</color> | Block 15";;
 "p-38j_marge_1";"P-38J-15 Lightning [Bong]";;
 "p-38j_marge_2";"P-38J-15";;
 #
 "p-59a_shop";"P-59A Airacomet";;
-"p-59a_0";"Bell Aircraft Corporation | P-59A Airacomet";;
+"p-59a_0";"<color=@linkTextHoverColorLight>Bell Aircraft Corporation</color>
+<color=@userlogColoredText>P-59A Airacomet</color>";;
 "p-59a_1";"P-59A Airacomet";;
 "p-59a_2";"P-59A";;
 #
 "f4u-6_au-1_shop";"AU-1 Corsair";;
-"f4u-6_au-1_0";"Chance Vought Corporation | AU-1 Corsair";;
+"f4u-6_au-1_0";"<color=@linkTextHoverColorLight>Chance Vought Corporation</color>
+<color=@userlogColoredText>AU-1 Corsair</color>";;
 "f4u-6_au-1_1";"AU-1 Corsair";;
 "f4u-6_au-1_2";"AU-1";;
 #
 "f2g-1_shop";"F2G-1 Super Corsair";;
-"f2g-1_0";"Goodyear Aircraft Company | F2G-1 Super Corsair";;
+"f2g-1_0";"<color=@linkTextHoverColorLight>Goodyear Aircraft Company</color>
+<color=@userlogColoredText>F2G-1 Super Corsair</color>";;
 "f2g-1_1";"F2G-1 Super Corsair";;
 "f2g-1_2";"F2G-1";;
 #
 "f7f3_shop";"F7F-3 Tigercat";;
-"f7f3_0";"Grumman Aircraft Engineering Corporation | F7F-3 Tigercat";;
+"f7f3_0";"<color=@linkTextHoverColorLight>Grumman Aircraft Engineering Corporation</color>
+<color=@userlogColoredText>F7F-3 Tigercat</color>";;
 "f7f3_1";"F7F-3 Tigercat";;
 "f7f3_2";"F7F-3";;
 #
 "f-80a_shop";"F-80A-5 Shooting Star";;
-"f-80a_0";"Lockheed Corporation | F-80A-5 Shooting Star | Block 5";;
+"f-80a_0";"<color=@linkTextHoverColorLight>Lockheed Corporation</color>
+<color=@userlogColoredText>F-80A-5 Shooting Star</color> | Block 5";;
 "f-80a_1";"F-80A-5 Shooting Star";;
 "f-80a_2";"F-80A-5";;
 #
 "f-80_shop";"F-80C-10 Shooting Star";;
-"f-80_0";"Lockheed Corporation | F-80C-10 Shooting Star | Block 10";;
+"f-80_0";"<color=@linkTextHoverColorLight>Lockheed Corporation</color>
+<color=@userlogColoredText>F-80C-10 Shooting Star</color> | Block 10";;
 "f-80_1";"F-80C-10 Shooting Star";;
 "f-80_2";"F-80C-10";;
 #
 "f-84b_shop";"F-84B-26 Thunderjet";;
-"f-84b_0";"Republic Aviation Corporation | F-84B-26 Thunderjet | Block 26";;
+"f-84b_0";"<color=@linkTextHoverColorLight>Republic Aviation Corporation</color>
+<color=@userlogColoredText>F-84B-26 Thunderjet</color> | Block 26";;
 "f-84b_1";"F-84B-26 Thunderjet";;
 "f-84b_2";"F-84B-26";;
 #
 "f-84g_shop";"F-84G-21 Thunderjet";;
-"f-84g_0";"Republic Aviation Corporation | F-84G-21 Thunderjet | Block 21";;
+"f-84g_0";"<color=@linkTextHoverColorLight>Republic Aviation Corporation</color>
+<color=@userlogColoredText>F-84G-21 Thunderjet</color> | Block 21";;
 "f-84g_1";"F-84G-21 Thunderjet";;
 "f-84g_2";"F-84G-21";;
 #
 "f-86a-5_shop";"F-86A-5 Sabre";;
-"f-86a-5_0";"North American Aviation | F-86A-5 Sabre | Block 5";;
+"f-86a-5_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>F-86A-5 Sabre</color> | Block 5";;
 "f-86a-5_1";"F-86A-5 Sabre";;
 "f-86a-5_2";"F-86A-5";;
 #
 "f-86f-25_shop";"F-86F-25 Sabre";;
-"f-86f-25_0";"North American Aviation | F-86F-25 Sabre | Block 25";;
+"f-86f-25_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>F-86F-25 Sabre</color> | Block 25";;
 "f-86f-25_1";"F-86F-25 Sabre";;
 "f-86f-25_2";"F-86F-25";;
 #
 "f2h-2_shop";"F2H-2 Banshee";;
-"f2h-2_0";"McDonnell Aircraft Corporation | F2H-2 Banshee";;
+"f2h-2_0";"<color=@linkTextHoverColorLight>McDonnell Aircraft Corporation</color>
+<color=@userlogColoredText>F2H-2 Banshee</color>";;
 "f2h-2_1";"F2H-2 Banshee";;
 "f2h-2_2";"F2H-2";;
 #
 "f9f-2_shop";"F9F-2 Panther";;
-"f9f-2_0";"Grumman Aircraft Engineering Corporation | F9F-2 Panther";;
+"f9f-2_0";"<color=@linkTextHoverColorLight>Grumman Aircraft Engineering Corporation</color>
+<color=@userlogColoredText>F9F-2 Panther</color>";;
 "f9f-2_1";"F9F-2 Panther";;
 "f9f-2_2";"F9F-2";;
 #
 "f9f-5_shop";"F9F-5 Panther";;
-"f9f-5_0";"Grumman Aircraft Engineering Corporation | F9F-5 Panther";;
+"f9f-5_0";"<color=@linkTextHoverColorLight>Grumman Aircraft Engineering Corporation</color>
+<color=@userlogColoredText>F9F-5 Panther</color>";;
 "f9f-5_1";"F9F-5 Panther";;
 "f9f-5_2";"F9F-5";;
 #
 "f9f-8_shop";"F9F-8 Cougar";;
-"f9f-8_0";"Grumman Aircraft Engineering Corporation | F9F-8 Cougar";;
+"f9f-8_0";"<color=@linkTextHoverColorLight>Grumman Aircraft Engineering Corporation</color>
+<color=@userlogColoredText>F9F-8 Cougar</color>";;
 "f9f-8_1";"F9F-8 Cougar";;
 "f9f-8_2";"F9F-8";;
 #
 "f3d_1_shop";"F3D-1 Skyknight";;
-"f3d_1_0";"Douglas Aircraft Company | F3D-1 Skyknight";;
+"f3d_1_0";"<color=@linkTextHoverColorLight>Douglas Aircraft Company</color>
+<color=@userlogColoredText>F3D-1 Skyknight</color>";;
 "f3d_1_1";"F3D-1 Skyknight";;
 "f3d_1_2";"F3D-1";;
 #
 "f-84f_shop";"F-84F Thunderstreak";;
-"f-84f_0";"Republic Aviation Corporation | F-84F Thunderstreak";;
+"f-84f_0";"<color=@linkTextHoverColorLight>Republic Aviation Corporation</color>
+<color=@userlogColoredText>F-84F Thunderstreak</color>";;
 "f-84f_1";"F-84F Thunderstreak";;
 "f-84f_2";"F-84F";;
 #
 "b-57_shop";"▃B-57A Canberra";;
-"b-57_0";"Martin Company | ▃B-57A Canberra";;
+"b-57_0";"<color=@linkTextHoverColorLight>Martin Company</color>
+▃<color=@userlogColoredText>B-57A Canberra</color>";;
 "b-57_1";"▃B-57A Canberra";;
 "b-57_2";"▃B-57A";;
 #
 "b-57b_shop";"▃B-57B Canberra";;
-"b-57b_0";"Martin Company | ▃B-57B Canberra";;
+"b-57b_0";"<color=@linkTextHoverColorLight>Martin Company</color>
+▃<color=@userlogColoredText>B-57B Canberra</color>";;
 "b-57b_1";"▃B-57B Canberra";;
 "b-57b_2";"▃B-57B";;
 #
 "f-89d_shop";"F-89D Scorpion";;
-"f-89d_0";"Northrop Corporation | F-89D Scorpion";;
+"f-89d_0";"<color=@linkTextHoverColorLight>Northrop Corporation</color>
+<color=@userlogColoredText>F-89D Scorpion</color>";;
 "f-89d_1";"F-89D Scorpion";;
 "f-89d_2";"F-89D";;
 #
 "f-89b_shop";"F-89B Scorpion";;
-"f-89b_0";"Northrop Corporation | F-89B Scorpion";;
+"f-89b_0";"<color=@linkTextHoverColorLight>Northrop Corporation</color>
+<color=@userlogColoredText>F-89B Scorpion</color>";;
 "f-89b_1";"F-89B Scorpion";;
 "f-89b_2";"F-89B";;
 #
 "a2d_shop";"A2D-1 Skyshark";;
-"a2d_0";"Douglas Aircraft Company | A2D-1 Skyshark";;
+"a2d_0";"<color=@linkTextHoverColorLight>Douglas Aircraft Company</color>
+<color=@userlogColoredText>A2D-1 Skyshark</color>";;
 "a2d_1";"A2D-1 Skyshark";;
 "a2d_2";"A2D-1";;
 #
 "f-104a_shop";"F-104A-10 Starfighter";;
-"f-104a_0";"Lockheed Corporation | F-104A-10 Starfighter | Block 10";;
+"f-104a_0";"<color=@linkTextHoverColorLight>Lockheed Corporation</color>
+<color=@userlogColoredText>F-104A-10 Starfighter</color> | Block 10";;
 "f-104a_1";"F-104A-10 Starfighter";;
 "f-104a_2";"F-104A-10";;
 #
 "f-104c_shop";"F-104C-5 Starfighter";;
-"f-104c_0";"Lockheed Corporation | F-104C-5 Starfighter | Block 5";;
+"f-104c_0";"<color=@linkTextHoverColorLight>Lockheed Corporation</color>
+<color=@userlogColoredText>F-104C-5 Starfighter</color> | Block 5";;
 "f-104c_1";"F-104C-5 Starfighter";;
 "f-104c_2";"F-104C-5";;
 #
 "f-86f-2_shop";"F-86F-2 Sabre";;
-"f-86f-2_0";"North American Aviation | F-86F-2 Sabre | Block 2";;
+"f-86f-2_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>F-86F-2 Sabre</color> | Block 2";;
 "f-86f-2_1";"F-86F-2 Sabre";;
 "f-86f-2_2";"F-86F-2";;
 #
 "f-100d_shop";"F-100D-66 Super Sabre";;
-"f-100d_0";"North American Aviation | F-100D-66 Super Sabre | Block 66";;
+"f-100d_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>F-100D-66 Super Sabre</color> | Block 66";;
 "f-100d_1";"F-100D-66 Super Sabre";;
 "f-100d_2";"F-100D-66";;
 #
 "f3h-2_shop";"F3H-2 Demon";;
-"f3h-2_0";"McDonnell Douglas Corporation | F3H-2 Demon";;
+"f3h-2_0";"<color=@linkTextHoverColorLight>McDonnell Douglas Corporation</color>
+<color=@userlogColoredText>F3H-2 Demon</color>";;
 "f3h-2_1";"F3H-2 Demon";;
 "f3h-2_2";"F3H-2";;
 #
 "f8u-2_shop";"F8U-2 Crusader II";;
-"f8u-2_0";"Chance Vought Corporation | F8U-2 Crusader II";;
+"f8u-2_0";"<color=@linkTextHoverColorLight>Chance Vought Corporation</color>
+<color=@userlogColoredText>F8U-2 Crusader II</color>";;
 "f8u-2_1";"F8U-2 Crusader II";;
 "f8u-2_2";"F8U-2";;
 #
 "a_4b_shop";"A-4B Skyhawk";;
-"a_4b_0";"Douglas Aircraft Company | A-4B Skyhawk";;
+"a_4b_0";"<color=@linkTextHoverColorLight>Douglas Aircraft Company</color>
+<color=@userlogColoredText>A-4B Skyhawk</color>";;
 "a_4b_1";"A-4B Skyhawk";;
 "a_4b_2";"A-4B";;
 #
 "a_4e_early_shop";"A-4E Skyhawk (1956)";;
-"a_4e_early_0";"Douglas Aircraft Company | A-4E Skyhawk (1956)";;
+"a_4e_early_0";"<color=@linkTextHoverColorLight>Douglas Aircraft Company</color>
+<color=@userlogColoredText>A-4E Skyhawk (1956)</color>";;
 "a_4e_early_1";"A-4E Skyhawk (1956)";;
 "a_4e_early_2";"A-4E (1956)";;
 #
 "fj_4b_shop";"FJ-4B Fury";;
-"fj_4b_0";"North American Aviation | FJ-4B Fury";;
+"fj_4b_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>FJ-4B Fury</color>";;
 "fj_4b_1";"FJ-4B Fury";;
 "fj_4b_2";"FJ-4B";;
 #
 "fj_4b_agm_12b_shop";"FJ-4B Fury (VMF-232)";;
-"fj_4b_agm_12b_0";"North American Aviation | FJ-4B Fury (VMF-232)";;
+"fj_4b_agm_12b_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>FJ-4B Fury</color>
+VMF-232 ""Red Devils""";;
 "fj_4b_agm_12b_1";"FJ-4B Fury (VMF-232)";;
 "fj_4b_agm_12b_2";"FJ-4B (VMF-232)";;
 #
 "av_8a_shop";"▃AV-8A-2 Harrier";;
-"av_8a_0";"Hawker Siddeley Group, Ltd. | ▃AV-8A-2 Harrier | Block 2";;
+"av_8a_0";"<color=@linkTextHoverColorLight>Hawker Siddeley Group, Ltd.</color>
+▃<color=@userlogColoredText>AV-8A-2 Harrier</color> | Block 2";;
 "av_8a_1";"▃AV-8A-2 Harrier";;
 "av_8a_2";"▃AV-8A-2";;
 #
 "av_8c_shop";"▃AV-8C Harrier";;
-"av_8c_0";"Hawker Siddeley Group, Ltd. | ▃AV-8C Harrier";;
+"av_8c_0";"<color=@linkTextHoverColorLight>Hawker Siddeley Group, Ltd.</color>
+▃<color=@userlogColoredText>AV-8C Harrier</color>";;
 "av_8c_1";"▃AV-8C Harrier";;
 "av_8c_2";"▃AV-8C";;
 #
 "f_117_shop";"F-117A-1 Nighthawk (MIPS)";;
-"f_117_0";"Lockheed Corporation | F-117A-1 Nighthawk | Block 1 | Midlife Improvement Study";;
+"f_117_0";"<color=@linkTextHoverColorLight>Lockheed Corporation</color>
+<color=@userlogColoredText>F-117A-1 Nighthawk</color> | Block 1
+MIPS | Midlife Improvement Study";;
 "f_117_1";"F-117A-1 Nighthawk (MIPS)";;
 "f_117_2";"F-117A-1 (MIPS)";;
 #
 "a_10a_early_shop";"A-10A Warthog (1976)";;
-"a_10a_early_0";"Fairchild Republic | A-10A Warthog (1976)";;
+"a_10a_early_0";"<color=@linkTextHoverColorLight>Fairchild Republic</color>
+<color=@userlogColoredText>A-10A Warthog (1976)</color>";;
 "a_10a_early_1";"A-10A Warthog (1976)";;
 "a_10a_early_2";"A-10A (1976)";;
 #
 "f11f_1_late_shop";"F11F-1 Tiger";;
-"f11f_1_late_0";"Grumman Aircraft Engineering Corporation | F11F-1 Tiger";;
+"f11f_1_late_0";"<color=@linkTextHoverColorLight>Grumman Aircraft Engineering Corporation</color>
+<color=@userlogColoredText>F11F-1 Tiger</color>";;
 "f11f_1_late_1";"F11F-1 Tiger";;
 "f11f_1_late_2";"F11F-1";;
 #
 "f4d_1_shop";"F4D-1 Skyray";;
-"f4d_1_0";"Douglas Aircraft Company | F4D-1 Skyray";;
+"f4d_1_0";"<color=@linkTextHoverColorLight>Douglas Aircraft Company</color>
+<color=@userlogColoredText>F4D-1 Skyray</color>";;
 "f4d_1_1";"F4D-1 Skyray";;
 "f4d_1_2";"F4D-1";;
 #
 "f-5c_shop";"F-5C Skoshi Tiger";;
-"f-5c_0";"Northrop Corporation | F-5C Skoshi Tiger";;
+"f-5c_0";"<color=@linkTextHoverColorLight>Northrop Corporation</color>
+<color=@userlogColoredText>F-5C Skoshi Tiger</color>";;
 "f-5c_1";"F-5C Skoshi Tiger";;
 "f-5c_2";"F-5C";;
 #
 "f-5e_shop";"F-5E-3 Tiger II";;
-"f-5e_0";" Northrop Corporation | F-5E-3 Tiger II | Block 3";;
+"f-5e_0";"<color=@linkTextHoverColorLight>Northrop Corporation</color>
+<color=@userlogColoredText>F-5E-3 Tiger II</color> | Block 3";;
 "f-5e_1";"F-5E-3 Tiger II";;
 "f-5e_2";"F-5E-3";;
 #
 "f-4c_shop";"F-4C-24 Phantom II";;
-"f-4c_0";"McDonnell Douglas Corporation | F-4C-24 Phantom II | Block 24";;
+"f-4c_0";"<color=@linkTextHoverColorLight>McDonnell Douglas Corporation</color>
+<color=@userlogColoredText>F-4C-24 Phantom II</color> | Block 24";;
 "f-4c_1";"F-4C-24 Phantom II";;
 "f-4c_2";"F-4C-24";;
 #
 "f-4e_shop";"F-4E-48 Phantom II";;
-"f-4e_0";"McDonnell Douglas Corporation | F-4E-48 Phantom II | Block 48";;
+"f-4e_0";"<color=@linkTextHoverColorLight>McDonnell Douglas Corporation</color>
+<color=@userlogColoredText>F-4E-48 Phantom II</color> | Block 48";;
 "f-4e_1";"F-4E-48 Phantom II";;
 "f-4e_2";"F-4E-48";;
 #
 "f-8e_shop";"F-8E Crusader";;
-"f-8e_0";"Chance Vought Corporation | F-8E Crusader";;
+"f-8e_0";"<color=@linkTextHoverColorLight>Chance Vought Corporation</color>
+<color=@userlogColoredText>F-8E Crusader</color>";;
 "f-8e_1";"F-8E Crusader";;
 "f-8e_2";"F-8E";;
 #
 "f-4j_shop";"F-4J-46 Phantom II";;
-"f-4j_0";"McDonnell Douglas Corporation | F-4J-46 Phantom II | Block 46";;
+"f-4j_0";"<color=@linkTextHoverColorLight>McDonnell Douglas Corporation</color>
+<color=@userlogColoredText>F-4J-46 Phantom II</color> | Block 46";;
 "f-4j_1";"F-4J-46 Phantom II";;
 "f-4j_2";"F-4J-46";;
 #
 "f-4s_shop";"F-4S-33 Phantom II";;
-"f-4s_0";"McDonnell Douglas Corporation | F-4S-33 Phantom II | Block 33";;
+"f-4s_0";"<color=@linkTextHoverColorLight>McDonnell Douglas Corporation</color>
+<color=@userlogColoredText>F-4S-33 Phantom II</color> | Block 33";;
 "f-4s_1";"F-4S-33 Phantom II";;
 "f-4s_2";"F-4S-33";;
 #
 "a_10a_late_shop";"A-10A Warthog (1978)";;
-"a_10a_late_0";"Fairchild Republic | A-10A Warthog (1978)";;
+"a_10a_late_0";"<color=@linkTextHoverColorLight>Fairchild Republic</color>
+<color=@userlogColoredText>A-10A Warthog (1978)</color>";;
 "a_10a_late_1";"A-10A Warthog (1978)";;
 "a_10a_late_2";"A-10A (1978)";;
 #
 "a_10c_shop";"A-10C Warthog";;
-"a_10c_0";"Northrop Grumman Corporation | A-10C Warthog";;
+"a_10c_0";"<color=@linkTextHoverColorLight>Northrop Grumman Corporation</color>
+<color=@userlogColoredText>A-10C Warthog</color>";;
 "a_10c_1";"A-10C Warthog";;
 "a_10c_2";"A-10C";;
 #
 "a_7d_shop";"A-7D-8 Corsair II";;
-"a_7d_0";"LTV Aerospace Corporation | A-7D-8 Corsair II | Block 8";;
+"a_7d_0";"<color=@linkTextHoverColorLight>LTV Aerospace Corporation</color>
+<color=@userlogColoredText>A-7D-8 Corsair II</color> | Block 8";;
 "a_7d_1";"A-7D-8 Corsair II";;
 "a_7d_2";"A-7D-8";;
 #
 "a_7e_shop";"A-7E-4 Corsair II";;
-"a_7e_0";"LTV Aerospace Corporation | A-7E-4 Corsair II | Block 4";;
+"a_7e_0";"<color=@linkTextHoverColorLight>LTV Aerospace Corporation</color>
+<color=@userlogColoredText>A-7E-4 Corsair II</color> | Block 4";;
 "a_7e_1";"A-7E-4 Corsair II";;
 "a_7e_2";"A-7E-4";;
 #
 "f-105d_shop";"F-105D-31 Thunderchief";;
-"f-105d_0";"Republic Aviation Corporation | F-105D-31 Thunderchief | Block 31";;
+"f-105d_0";"<color=@linkTextHoverColorLight>Republic Aviation Corporation</color>
+<color=@userlogColoredText>F-105D-31 Thunderchief</color> | Block 31";;
 "f-105d_1";"F-105D-31 Thunderchief";;
 "f-105d_2";"F-105D-31";;
 #
 "f_111a_shop";"F-111A Aardvark";;
-"f_111a_0";"General Dynamics Corporation | F-111A Aardvark";;
+"f_111a_0";"<color=@linkTextHoverColorLight>General Dynamics Corporation</color>
+<color=@userlogColoredText>F-111A Aardvark</color>";;
 "f_111a_1";"F-111A Aardvark";;
 "f_111a_2";"F-111A";;
 #
 "f_111f_shop";"F-111F Aardvark";;
-"f_111f_0";"General Dynamics Corporation | F-111F Aardvark";;
+"f_111f_0";"<color=@linkTextHoverColorLight>General Dynamics Corporation</color>
+<color=@userlogColoredText>F-111F Aardvark</color>";;
 "f_111f_1";"F-111F Aardvark";;
 "f_111f_2";"F-111F";;
 #
 f_111f_killstreak_shop;☢F-111F Aardvark;;
-f_111f_killstreak_0;General Dynamics Corporation | ☢F-111F Aardvark;;
+f_111f_killstreak_0;"<color=@linkTextHoverColorLight>General Dynamics Corporation</color>
+☢<color=@userlogColoredText>F-111F Aardvark</color>";;
 f_111f_killstreak_1;☢F-111F Aardvark;;
 f_111f_killstreak_2;☢F-111F;;
 #
 "f-5a_shop";"F-5A Freedom Fighter";;
-"f-5a_0";"Northrop Corporation | F-5A Freedom Fighter";;
+"f-5a_0";"<color=@linkTextHoverColorLight>Northrop Corporation</color>
+<color=@userlogColoredText>F-5A Freedom Fighter</color>";;
 "f-5a_1";"F-5A Freedom Fighter";;
 "f-5a_2";"F-5A";;
 #
 "a_7k_shop";"A-7K Corsair II";;
-"a_7k_0";"LTV Aerospace Corporation | A-7K Corsair II";;
+"a_7k_0";"<color=@linkTextHoverColorLight>LTV Aerospace Corporation</color>
+<color=@userlogColoredText>A-7K Corsair II</color>";;
 "a_7k_1";"A-7K Corsair II";;
 "a_7k_2";"A-7K";;
 #
 "a_6e_tram_shop";"A-6E Intruder (TRAM)";;
-"a_6e_tram_0";"Grumman Aerospace Corporation | A-6E Intruder | Target Recognition and Attack Multi-Sensor System (1979)";;
+"a_6e_tram_0";"<color=@linkTextHoverColorLight>Grumman Aerospace Corporation</color>
+<color=@userlogColoredText>A-6E Intruder</color>
+TRAM | Target Recognition and Attack Multi-Sensor System (1979)";;
 "a_6e_tram_1";"A-6E Intruder (TRAM)";;
 "a_6e_tram_2";"A-6E (TRAM)";;
 #
 "av_8b_na_shop";"AV-8B Harrier II (NA)";;
-"av_8b_na_0";"McDonnell Douglas Corporation | AV-8B Harrier II | Night Attack";;
+"av_8b_na_0";"<color=@linkTextHoverColorLight>McDonnell Douglas Corporation</color>
+<color=@userlogColoredText>AV-8B Harrier II</color> | Night Attack";;
 "av_8b_na_1";"AV-8B Harrier II (NA)";;
 "av_8b_na_2";"AV-8B (NA)";;
 #
 "f_15c_msip2_shop";"F-15C-40 Eagle (MSIP II)";;
-"f_15c_msip2_0";"Boeing Defense, Space & Security | F-15C-40 Eagle | Block 40 | Multi-Stage Improvement Program Configuration II (2000)";;
+"f_15c_msip2_0";"<color=@linkTextHoverColorLight>Boeing Defense, Space & Security</color>
+<color=@userlogColoredText>F-15C-40 Eagle</color> | Block 40
+MSIP II | Multi-Stage Improvement Program Configuration II (2000)";;
 "f_15c_msip2_1";"F-15C-40 Eagle (MSIP II)";;
 "f_15c_msip2_2";"F-15C-40 (MSIP II)";;
 #
 "f_15e_shop";"F-15E-43 Strike Eagle";;
-"f_15e_0";"McDonnell Douglas Corporation | F-15E-43 Strike Eagle | Block 43";;
+"f_15e_0";"<color=@linkTextHoverColorLight>McDonnell Douglas Corporation</color>
+<color=@userlogColoredText>F-15E-43 Strike Eagle</color> | Block 43";;
 "f_15e_1";"F-15E-43 Strike Eagle";;
 "f_15e_2";"F-15E-43";;
 #
 "fa_18a_shop";"F/A-18A-18 Hornet";;
-"fa_18a_0";"McDonnell Douglas Corporation | F/A-18A-18 Hornet | Block 18, Lot 8";;
+"fa_18a_0";"<color=@linkTextHoverColorLight>McDonnell Douglas Corporation</color>
+<color=@userlogColoredText>F/A-18A-18 Hornet</color> | Block 18, Lot 8";;
 "fa_18a_1";"F/A-18A-18 Hornet";;
 "fa_18a_2";"F/A-18A-18";;
 #
 "fa_18c_early_shop";"F/A-18C-23 Hornet";;
-"fa_18c_early_0";"McDonnell Douglas Corporation | F/A-18C-23 Hornet | Block 23, Lot 10 (1987)";;
+"fa_18c_early_0";"<color=@linkTextHoverColorLight>McDonnell Douglas Corporation</color>
+<color=@userlogColoredText>F/A-18C-23 Hornet</color> | Block 23, Lot 10 (1987)";;
 "fa_18c_early_1";"F/A-18C-23 Hornet";;
 "fa_18c_early_2";"F/A-18C-23";;
 #
 "fa_18c_late_shop";"F/A-18C-52 Hornet";;
-"fa_18c_late_0";"The Boeing Company | F/A-18C-52 Hornet | Block 52, Lot 20 (1992)";;
+"fa_18c_late_0";"<color=@linkTextHoverColorLight>The Boeing Company</color>
+<color=@userlogColoredText>F/A-18C-52 Hornet</color> | Block 52, Lot 20 (1992)";;
 "fa_18c_late_1";"F/A-18C-52 Hornet";;
 "fa_18c_late_2";"F/A-18C-52";;
 #
 "f_16a_block_10_shop";"F-16A-15OCU Viper";;
-"f_16a_block_10_0";"General Dynamics Corporation | F-16A-15 Viper | Block 15 | Operational Capability Upgrade";;
+"f_16a_block_10_0";"<color=@linkTextHoverColorLight>General Dynamics Corporation</color>
+<color=@userlogColoredText>F-16A-15 Viper</color> | Block 15
+OCU | Operational Capability Upgrade";;
 "f_16a_block_10_1";"F-16A-15OCU Viper";;
 "f_16a_block_10_2";"F-16A-15OCU";;
 #
 "f_16a_block_15_adf_shop";"F-16A-15ADF Viper";;
-"f_16a_block_15_adf_0";"General Dynamics Corporation | F-16A-15 Viper | Block 15 | Air Defense Fighter";;
+"f_16a_block_15_adf_0";"<color=@linkTextHoverColorLight>General Dynamics Corporation</color>
+<color=@userlogColoredText>F-16A-15 Viper</color> | Block 15
+ADF | Air Defense Fighter";;
 "f_16a_block_15_adf_1";"F-16A-15ADF Viper";;
 "f_16a_block_15_adf_2";"F-16A-15ADF";;
 #
 "f_16c_block_50_shop";"F-16C-50 Viper";;
-"f_16c_block_50_0";"General Dynamics Corporation | F-16C-50 Viper | Block 50";;
+"f_16c_block_50_0";"<color=@linkTextHoverColorLight>General Dynamics Corporation</color>
+<color=@userlogColoredText>F-16C-50 Viper</color> | Block 50";;
 "f_16c_block_50_1";"F-16C-50 Viper";;
 "f_16c_block_50_2";"F-16C-50";;
 #
 "f_16c_block_50_missile_test_shop";"F-16C-50 Viper";;
-"f_16c_block_50_missile_test_0";"General Dynamics Corporation | F-16C-50 Viper | Block 50";;
+"f_16c_block_50_missile_test_0";"<color=@linkTextHoverColorLight>General Dynamics Corporation</color>
+<color=@userlogColoredText>F-16C-50 Viper</color> | Block 50";;
 "f_16c_block_50_missile_test_1";"F-16C-50 Viper";;
 "f_16c_block_50_missile_test_2";"F-16C-50";;
 #
 "f_14a_early_shop";"F-14A-110 Tomcat";;
-"f_14a_early_0";"Grumman Aerospace Corporation | F-14A-110 Tomcat | Block 110 (1980)";;
+"f_14a_early_0";"<color=@linkTextHoverColorLight>Grumman Aerospace Corporation</color>
+☫<color=@userlogColoredText>F-14A-110 Tomcat</color> | Block 110 (1980)";;
 "f_14a_early_1";"F-14A-110 Tomcat";;
 "f_14a_early_2";"F-14A-110";;
 #
 "f_14a_iriaf_shop";"☫F-14A-90/1995 Tomcat";;
-"f_14a_iriaf_0";"☫Grumman Aerospace Corporation | F-14A-90 Tomcat | Block 90, Mod. 1995";;
+"f_14a_iriaf_0";"<color=@linkTextHoverColorLight>Grumman Aerospace Corporation</color>
+☫<color=@userlogColoredText>F-14A-90 Tomcat</color> | Block 90, Mod. 1995";;
 "f_14a_iriaf_1";"☫F-14A-90/1995 Tomcat";;
 "f_14a_iriaf_2";"☫F-14A-90/1995";;
 #
 "f_14b_shop";"F-14B-150 Tomcat";;
-"f_14b_0";"Grumman Aerospace Corporation | F-14B-150 Tomcat | Block 150 | Operational Flight Program 321 (2001)";;
+"f_14b_0";"<color=@linkTextHoverColorLight>Grumman Aerospace Corporation</color>
+<color=@userlogColoredText>F-14B-150 Tomcat</color> | Block 150
+Operational Flight Program 321 (2001)";;
 "f_14b_1";"F-14B-150 Tomcat";;
 "f_14b_2";"F-14B-150";;
 #
 "f_15a_shop";"F-15A-20 Eagle (MSIP I)";;
-"f_15a_0";"McDonnell Douglas Corporation | F-15A-20 Eagle | Block 20 | Multi-Stage Improvement Program Configuration I (1983)";;
+"f_15a_0";"<color=@linkTextHoverColorLight>McDonnell Douglas Corporation</color>
+<color=@userlogColoredText>F-15A-20 Eagle</color> | Block 20
+MSIP I | Multi-Stage Improvement Program Configuration I (1983)";;
 "f_15a_1";"F-15A-20 Eagle (MSIP I)";;
 "f_15a_2";"F-15A-20 (MSIP I)";;
 #
 "av_8b_plus_shop";"AV-8B+ Harrier II";;
-"av_8b_plus_0";"McDonnell Douglas Corporation | AV-8B+ Harrier II";;
+"av_8b_plus_0";"<color=@linkTextHoverColorLight>McDonnell Douglas Corporation</color>
+<color=@userlogColoredText>AV-8B+ Harrier II</color>";;
 "av_8b_plus_1";"AV-8B+ Harrier II";;
 "av_8b_plus_2";"AV-8B+";;
 #
 "f_20a_shop";"F-20A Tigershark";;
-"f_20a_0";"Northrop Corporation | F-20A Tigershark";;
+"f_20a_0";"<color=@linkTextHoverColorLight>Northrop Corporation</color>
+<color=@userlogColoredText>F-20A Tigershark</color>";;
 "f_20a_1";"F-20A Tigershark";;
 "f_20a_2";"F-20A";;
 #
 "f-86f-35_shop";"F-86F-35 Sabre";;
-"f-86f-35_0";"North American Aviation | F-86F-35 Sabre | Block 35";;
+"f-86f-35_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>F-86F-35 Sabre</color> | Block 35";;
 "f-86f-35_1";"F-86F-35 Sabre";;
 "f-86f-35_2";"F-86F-35";;
 #
 "p-38k_shop";"P-38K Lightning";;
-"p-38k_0";"Lockheed Corporation | P-38K Lightning";;
+"p-38k_0";"<color=@linkTextHoverColorLight>Lockheed Corporation</color>
+<color=@userlogColoredText>P-38K Lightning</color>";;
 "p-38k_1";"P-38K Lightning";;
 "p-38k_2";"P-38K";;
 #
 "p-51_mk1a_usaaf_shop";"P-51 Mustang Mk.1A";;
-"p-51_mk1a_usaaf_0";"North American Aviation | P-51 Mustang Mk.1A";;
+"p-51_mk1a_usaaf_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userlogColoredText>P-51 Mustang Mk.1A</color>";;
 "p-51_mk1a_usaaf_1";"P-51 Mustang Mk.1A";;
 "p-51_mk1a_usaaf_2";"P-51 Mk.1A";;
 #
 "p-47n-15_shop";"P-47N-15 Thunderbolt";;
-"p-47n-15_0";"Republic Aviation Corporation | P-47N-15 Thunderbolt | Block 15";;
+"p-47n-15_0";"<color=@linkTextHoverColorLight>Republic Aviation Corporation</color>
+<color=@userlogColoredText>P-47N-15 Thunderbolt</color> | Block 15";;
 "p-47n-15_1";"P-47N-15 Thunderbolt";;
 "p-47n-15_2";"P-47N-15";;
 #
 "p-47d-28_shop";"P-47D-28 Thunderbolt";;
-"p-47d-28_0";"Republic Aviation Corporation | P-47D-28 Thunderbolt | Block 28";;
+"p-47d-28_0";"<color=@linkTextHoverColorLight>Republic Aviation Corporation</color>
+<color=@userlogColoredText>P-47D-28 Thunderbolt</color> | Block 28";;
 "p-47d-28_1";"P-47D-28 Thunderbolt";;
 "p-47d-28_2";"P-47D-28";;
 #
 "p-40c_shop";"P-40C Warhawk";;
-"p-40c_0";"Curtiss-Wright Corporation | P-40C Warhawk";;
+"p-40c_0";"<color=@linkTextHoverColorLight>Curtiss-Wright Corporation</color>
+<color=@userlogColoredText>P-40C Warhawk</color>";;
 "p-40c_1";"P-40C Warhawk";;
 "p-40c_2";"P-40C";;
 #
 "f_106a_1972_shop";"F-106A-100 Delta Dart";;
-"f_106a_1972_0";"General Dynamics Convair Division | F-106A-100 Delta Dart | Block 100 | Project Six Shooter | Polhemus Director FCS Integration and Test (1975)";;
+"f_106a_1972_0";"<color=@linkTextHoverColorLight>General Dynamics Convair Division</color>
+<color=@userlogColoredText>F-106A-100 Delta Dart</color> | Block 100
+Project ""Six Shooter""
+Polhemus Director FCS Integration and Test (1975)";;
 "f_106a_1972_1";"F-106A-100 Delta Dart";;
 "f_106a_1972_2";"F-106A-100";;
 #
 "f_15c_golden_eagle_shop";"F-15C-33 Golden Eagle (RIP/PASS)";;
-"f_15c_golden_eagle_0";"Boeing Defense, Space & Security | F-15C-33 Golden Eagle | Block 33 | Radar Improvement Program | Passive Attack Sensor System";;
+"f_15c_golden_eagle_0";"<color=@linkTextHoverColorLight>Boeing Defense, Space & Security</color>
+<color=@userlogColoredText>F-15C-33 Golden Eagle</color> | Block 33
+RIP | Radar Improvement Program
+PASS | Passive Attack Sensor System";;
 "f_15c_golden_eagle_1";"F-15C-33 Golden Eagle (RIP/PASS)";;
 "f_15c_golden_eagle_2";"F-15C-33 (RIP/PASS)";;
 #
 "xf5u_1_shop";"XF5U-1 Flying Flapjack";;
-"xf5u_1_0";"Vought-Sikorsky Aircraft | XF5U-1 Flying Flapjack";;
+"xf5u_1_0";"<color=@linkTextHoverColorLight>Vought-Sikorsky Aircraft</color>
+<color=@userlogColoredText>XF5U-1 Flying Flapjack</color>";;
 "xf5u_1_1";"XF5U-1 Flying Flapjack";;
 "xf5u_1_2";"XF5U-1";;
 #
 "b_66b_shop";"B-66B Destroyer";;
-"b_66b_0";"Douglas Aircraft Company | B-66B Destroyer";;
+"b_66b_0";"<color=@linkTextHoverColorLight>Douglas Aircraft Company</color>
+<color=@userlogColoredText>B-66B Destroyer</color>";;
 "b_66b_1";"B-66B Destroyer";;
 "b_66b_2";"B-66B";;
 #
 fa_18e_block_2_shop;F/A-18E-2 Super Hornet;;
-fa_18e_block_2_0;Boeing Defense, Space & Security | F/A-18E-2 Super Hornet | Block 2, Lot 30 (2005);;
+fa_18e_block_2_0;"<color=@linkTextHoverColorLight>Boeing Defense, Space & Security</color>
+<color=@userlogColoredText>F/A-18E-2 Super Hornet</color> | Block 2, Lot 30 (2005)";;
 fa_18e_block_2_1;F/A-18E-2 Super Hornet;;
 fa_18e_block_2_2;F/A-18E-2;;
 #
 f_16c_block_52_aesa_shop;F-16C-52 Viper (PoBIT);;
-f_16c_block_52_aesa_0;General Dynamics Corporation | F-16C-52 Viper | Block 52 | Post Block Integration Team (2022);;
+f_16c_block_52_aesa_0;"<color=@linkTextHoverColorLight>General Dynamics Corporation</color>
+<color=@userlogColoredText>F-16C-52 Viper</color> | Block 52
+PoBIT | Post Block Integration Team (2022)";;
 f_16c_block_52_aesa_1;F-16C-52 Viper (PoBIT);;
 f_16c_block_52_aesa_2;F-16C-52 (PoBIT);;
 #
 b_52h_shop;B-52H-140 Stratofortress;;
-b_52h_0;Boeing Airplane Company | B-52H-140 Stratofortress | Block 140;;
+b_52h_0;"<color=@linkTextHoverColorLight>Boeing Airplane Company</color>
+<color=@userlogColoredText>B-52H-140 Stratofortress</color> | Block 140";;
 b_52h_1;B-52H-140 Stratofortress;;
 b_52h_2;B-52H-140;;
 #
 nt_b_52h_shop;B-52H-140 Stratofortress;;
-nt_b_52h_0;Boeing Airplane Company | ☢B-52H-140 Stratofortress | Block 140;;
+nt_b_52h_0;"<color=@linkTextHoverColorLight>Boeing Airplane Company</color>
+☢<color=@userlogColoredText>B-52H-140 Stratofortress</color> | Block 140";;
 nt_b_52h_1;B-52H-140 Stratofortress;;
 nt_b_52h_2;B-52H-140;;
 #
 nt_f_4e_shop;F-4E-48 Phantom II;;
-nt_f_4e_0;McDonnell Douglas Corporation | F-4E-48 Phantom II | Block 48;;
+nt_f_4e_0;"<color=@linkTextHoverColorLight>McDonnell Douglas Corporation</color>
+<color=@userlogColoredText>F-4E-48 Phantom II</color> | Block 48";;
 nt_f_4e_1;F-4E-48 Phantom II;;
 nt_f_4e_2;F-4E-48;;
 #
 nt_a_7e_shop;A-7E-4 Corsair II;;
-nt_a_7e_0;LTV Aerospace Corporation | A-7E-4 Corsair II | Block 4;;
+nt_a_7e_0;"<color=@linkTextHoverColorLight>LTV Aerospace Corporation</color>
+<color=@userlogColoredText>A-7E-4 Corsair II</color> | Block 4";;
 nt_a_7e_1;A-7E-4 Corsair II;;
 nt_a_7e_2;A-7E-4;;
 #
 nt_a_6e_tram_shop;A-6E Intruder (TRAM);;
-nt_a_6e_tram_0;Grumman Aerospace Corporation | A-6E Intruder | Target Recognition and Attack Multi-Sensor System (1979);;
+nt_a_6e_tram_0;"<color=@linkTextHoverColorLight>Grumman Aerospace Corporation</color>
+<color=@userlogColoredText>A-6E Intruder</color>
+TRAM | Target Recognition and Attack Multi-Sensor System (1979)";;
 nt_a_6e_tram_1;A-6E Intruder (TRAM);;
 nt_a_6e_tram_2;A-6E (TRAM);;
+#
+f_14d_shop;F-14D-160 Tomcat;;
+f_14d_0;"<color=@linkTextHoverColorLight>Grumman Aerospace Corporation</color>
+<color=@userlogColoredText>F-14D-160 Tomcat ""Super Tomcat""</color> | Block 160";;
+f_14d_1;F-14D-160 Tomcat;;
+f_14d_2;F-14D-160;;
+#
+f_101c_shop;F-101C-155 Voodoo;;
+f_101c_0;"<color=@linkTextHoverColorLight>McDonnell Aircraft Corporation</color>
+<color=@userlogColoredText>F-101C-155 Voodoo</color> | Block 155";;
+f_101c_1;F-101C-155 Voodoo;;
+f_101c_2;F-101C-155;;
 #
 "shop/group/p-26_group";"P-26 Peashooter";;
 "shop/group/p-36_group";"P-36 Hawk";;
@@ -1026,11 +1255,24 @@ shop/group/f_18_group;F/A-18 Hornet;;
 #
 #helicopters
 "ah_64e_shop";"AH-64E Guardian Apache (v6)";;
-"ah_64e_0";"Boeing Defense, Space & Security | Helicopter, Attack, AH-64E Guardian Apache | Capability Version 6";;
+"ah_64e_0";"<color=@linkTextHoverColorLight>Boeing Defense, Space & Security</color>
+<color=@userlogColoredText>Helicopter, Attack, AH-64E Guardian Apache</color>
+Capability Version 6";;
 "ah_64e_1";"AH-64E Guardian Apache (v6)";;
 "ah_64e_2";"AH-64E (v6)";;
 #
 "ah_56a_shop";"AH-56A Cheyenne";;
-"ah_56a_0";"Lockheed Corporation | Helicopter, Attack, AH-56A Cheyenne";;
+"ah_56a_0";"<color=@linkTextHoverColorLight>Lockheed Corporation</color>
+<color=@userlogColoredText>Helicopter, Attack, AH-56A Cheyenne</color>";;
 "ah_56a_1";"AH-56A Cheyenne";;
 "ah_56a_2";"AH-56A";;
+#
+#tanks
+#
+us_m60_120s_shop;M60-2000;;
+us_m60_120s_0;"<color=@linkTextHoverColorLight>General Dynamics Land Systems</color>
+<color=@userlogColoredText>M60-2000 | 120S Prototype</color>";;
+us_m60_120s_1;M60-2000;;
+us_m60_120s_2;MBT;;
+#
+

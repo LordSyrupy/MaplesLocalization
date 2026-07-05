@@ -1080,6 +1080,72 @@ weapons/us_agm_45b_10/short;AGM-45B-10 Shrike
 weapons/us_agm_88a;AGM-88A High-speed Anti-Radiation Missile
 weapons/us_agm_88a/short;AGM-88A HARM
 #
+weapons/us_127mm_TOW2;BGM-71D TOW-2 | Tube-launched, Optically-tracked, Wire-guided Anti-Tank Guided Missile
+weapons/us_127mm_TOW2/short;BGM-71D TOW-2
+#
+weapons/us_127mm_TOW;BGM-71C I-TOW | Improved Tube-launched, Optically-tracked, Wire-guided Anti-Tank Guided Missile
+weapons/us_127mm_TOW/short;BGM-71C I-TOW
+#
+weapons/us_bgm_71_tow_heli;BGM-71C I-TOW | Improved Tube-launched, Optically-tracked, Wire-guided Anti-Tank Guided Missile
+weapons/us_bgm_71_tow_heli/short;BGM-71C I-TOW
+#
+weapons/us_bgm_71_tow_heli_default;BGM-71C I-TOW | Improved Tube-launched, Optically-tracked, Wire-guided Anti-Tank Guided Missile
+weapons/us_bgm_71_tow_heli_default/short;BGM-71C I-TOW
+#
+weapons/us_bgm_71_tow2_heli;BGM-71D TOW-2 | Tube-launched, Optically-tracked, Wire-guided Anti-Tank Guided Missile
+weapons/us_bgm_71_tow2_heli/short;BGM-71D TOW-2
+#
+weapons/us_bgm_71_tow2_heli_default;BGM-71D TOW-2 | Tube-launched, Optically-tracked, Wire-guided Anti-Tank Guided Missile
+weapons/us_bgm_71_tow2_heli_default/short;BGM-71D TOW-2
+#
+weapons/127mm_bgm_71c_itow_rocket_launcher;BGM-71C I-TOW | Improved Tube-launched, Optically-tracked, Wire-guided Anti-Tank Guided Missile
+weapons/127mm_bgm_71c_itow_rocket_launcher/short;BGM-71C I-TOW
+#
+weapons/127mm_bgm_71c_itow_rocket_launchr_user_cannon;BGM-71C I-TOW | Improved Tube-launched, Optically-tracked, Wire-guided Anti-Tank Guided Missile
+weapons/127mm_bgm_71c_itow_rocket_launchr_user_cannon/short;BGM-71C I-TOW
+#
+weapons/127_bgm_71_itow/short;BGM-71C I-TOW
+127_bgm_71_itow;BGM-71C I-TOW
+#
+weapons/127mm_iTOW_launcher_user_cannon;BGM-71 I-TOW Launcher
+weapons/127mm_BGM_71_tow_launcher_user_cannon;BGM-71 TOW Launcher
+weapons/127mm_bgm_71_tow_begleitpanzer_launcher_user_cannon;BGM-71 TOW Launcher
+#
+weapons/127mm_BGM_71_tow_Wiesel_launcher_user_cannon;BGM-71 TOW Launcher
+weapons/127mm_BGM_71_tow_M3A3_launcher_user_cannon;BGM-71 TOW Launcher
+#
+weapons/127mm_bgm_71b_tow_rocket_launcher;BGM-71 TOW Launcher
+weapons/127mm_bgm_71b_tow_rocket_launcher/short;BGM-71B TOW
+#
+weapons/127_bgm_71_tow/short;BGM-71A TOW
+127_bgm_71_tow;BGM-71A TOW
+#
+weapons/127mm_TOW_rocket_launcher;BGM-71 TOW Launcher
+weapons/127mm_TOW_rocket_launcher/short;BGM-71A TOW
+#
+127mm_i_tow;BGM-71C I-TOW
+152mm_tow_2;BGM-71D TOW-2
+152mm_tow_2a;BGM-71E TOW-2A
+127mm_tow_2b;BGM-71F TOW-2B
+#
+127_bgm_71_tow;BGM-71A TOW
+127mm_atgm_tow;BGM-71A TOW
+weapons/127mm_atgm_tow/short;BGM-71A TOW
+#
+weapons/us_agm_84d;AGM-84D Harpoon Anti-Ship Missile
+weapons/us_agm_84d/short;AGM-84D Harpoon
+#
+weapons/us_agm_88c;AGM-88C High-speed Anti-Radiation Missile
+weapons/us_agm_88c/short;AGM-88C HARM
+#
+weapons/us_agm_122;AGM-122 SideARM Anti-Radiation Missile
+weapons/us_agm_122/short;AGM-122 SideARM
+#
+weapons/us_aim_54c_plus;AIM-54C+ Phoenix Air-to-Air Missile
+weapons/us_aim_54c_plus/short;AIM-54C+ Phoenix
+weapons/us_aim_54c_plus_default;AIM-54C+ Phoenix Air-to-Air Missile
+weapons/us_aim_54c_plus_default/short;AIM-54C+ Phoenix
+#
 #Missiles, Ger
 "weapons/us_aim9b_fgw_2_sidewinder";"AIM-9F Sidewinder Air-to-Air Missile"
 "weapons/us_aim9b_fgw_2_sidewinder/short";"AIM-9F Sidewinder"
@@ -1386,14 +1452,16 @@ weapons/su_kh_27ps/short;Kh-27PS Kegler
 weapons/su_kh_27ps_cw;Kh-27PS Kegler Anti-Radiation Missile
 weapons/su_kh_27ps_cw/short;Kh-27PS Kegler
 #
-weapons/su_kh_58u_a_band;Kh-58U Kilter-A Anti-Radiation Missile
-weapons/su_kh_58u_a_band/short;Kh-58U Kilter-A
-weapons/su_kh_58u_a_band_cw;Kh-58U Kilter-A Anti-Radiation Missile
-weapons/su_kh_58u_a_band_cw/short;Kh-58U Kilter-A
-weapons/su_kh_58u_b_band;Kh-58U Kilter-A Anti-Radiation Missile
-weapons/su_kh_58u_b_band/short;Kh-58U Kilter-A
-weapons/su_kh_58u_c_band;Kh-58U Kilter-A Anti-Radiation Missile
-weapons/su_kh_58u_c_band/short;Kh-58U Kilter-A
+weapons/su_kh_58u_a_band;Kh-58UA Kilter-A Anti-Radiation Missile
+weapons/su_kh_58u_a_band/short;Kh-58UA Kilter-A
+weapons/su_kh_58u_a_band_cw;Kh-58UA Kilter-A Anti-Radiation Missile
+weapons/su_kh_58u_a_band_cw/short;Kh-58UA Kilter-A
+#
+weapons/su_kh_58u_b_band;Kh-58UB Kilter-A Anti-Radiation Missile
+weapons/su_kh_58u_b_band/short;Kh-58UB Kilter-A
+#
+weapons/su_kh_58u_c_band;Kh-58UC Kilter-A Anti-Radiation Missile
+weapons/su_kh_58u_c_band/short;Kh-58UC Kilter-A
 #
 weapons/su_kh_58ushk;Kh-58UShK Kilter-E Anti-Radiation Missile
 weapons/su_kh_58ushk/short;Kh-58UShK Kilter-E
@@ -1403,10 +1471,43 @@ weapons/su_kh_59/short;Kh-59 Ovod
 #
 weapons/su_phantasmagoria_a;Phantasmagoria-A Targeting Pod
 weapons/su_phantasmagoria_a/short;Phantasmagoria-A
+#
 weapons/su_phantasmagoria_b_beck;Phantasmagoria-B Targeting Pod
 weapons/su_phantasmagoria_b_beck/short;Phantasmagoria-B
+#
 weapons/su_phantasmagoria_b_front;Phantasmagoria-B Targeting Pod
 weapons/su_phantasmagoria_b_front/short;Phantasmagoria-B
+#
+weapons/su_kh_31a;Kh-31A Krypton Anti-Ship Missile
+weapons/su_kh_31a/short;Kh-31A Krypton
+#
+weapons/su_kh_31ad;Kh-31AD Krypton-C Anti-Ship Missile
+weapons/su_kh_31ad/short;Kh-31AD Krypton-C
+#
+weapons/su_kh_31p_l_111;Kh-31P Krypton-A Anti-Radiation Missile | L-111 I-Band Seeker
+weapons/su_kh_31p_l_111/short;Kh-31P Krypton-A [L-111]
+#
+weapons/su_kh_31p_l_112;Kh-31P Krypton-A Anti-Radiation Missile | L-112 D-Band Seeker
+weapons/su_kh_31p_l_112/short;Kh-31P Krypton-A [L-112]
+#
+weapons/su_kh_31p_l_113;Kh-31P Krypton-A Anti-Radiation Missile | L-113 G-Band Seeker
+weapons/su_kh_31p_l_113/short;Kh-31P Krypton-A [L-113]
+#
+weapons/su_kh_31pd;Kh-31PD Krypton-C Anti-Radiation Missile
+weapons/su_kh_31pd/short;Kh-31PD Krypton-C
+#
+weapons/su_kh_58ush;Kh-58USh Kilter-D Anti-Radiation Missile
+weapons/su_kh_58ush/short;Kh-58USh Kilter-D
+#
+weapons/su_kh_58ushk;Kh-58UShK Kilter-E Anti-Radiation Missile
+weapons/su_kh_58ushk/short;Kh-58UShK Kilter-E
+#
+weapons/su_kh_59mke;Kh-59MKE Ovod-M / Kazoo-A Anti-Ship Missile
+weapons/su_kh_59mke/short;Kh-59MKE Ovod-M
+#
+weapons/su_kh_59mk;Kh-59MK Ovod-M / Kazoo-A Anti-Ship Missile
+weapons/su_kh_59mk/short;Kh-59MK Ovod-M
+#
 #Missiles, GB
 "weapons/uk_skyflash_aim_7";"Skyflash Air-to-Air Missile"
 "weapons/uk_skyflash_aim_7/short";"Skyflash"
@@ -1434,6 +1535,9 @@ weapons/su_phantasmagoria_b_front/short;Phantasmagoria-B
 #
 "weapons/uk_fireflash";"Fireflash Air-to-Air Missile"
 "weapons/uk_fireflash/short";"Fireflash"
+#
+weapons/uk_alarm;ALARM | Air-Launched Anti-Radiation Missile
+weapons/uk_alarm/short;ALARM
 #
 weapons/r_darter;R-Darter Air-to-Air Missile
 weapons/r_darter/short;R-Darter
@@ -1545,9 +1649,42 @@ weapons/cn_pl12a/short;PL-12AE Adze-A
 weapons/cn_pl12a_default;PL-12AE Adze-A Air-to-Air Missile
 weapons/cn_pl12a_default/short;PL-12AE Adze-A
 #
+weapons/cn_cm_102;CM-102 Anti-Radiation Missile
+weapons/cn_cm_102/short;CM-102
+#
+weapons/cn_yj91_l_111;YJ-91 Anti-Radiation Missile | L-111 I-Band Seeker
+weapons/cn_yj91_l_111/short;YJ-91 [L-111]
+#
+weapons/cn_yj91_l_112;YJ-91 Anti-Radiation Missile | L-112 D-Band Seeker
+weapons/cn_yj91_l_112/short;YJ-91 [L-112]
+#
+weapons/cn_yj91_l_113;YJ-91 Anti-Radiation Missile | L-113 G-Band Seeker
+weapons/cn_yj91_l_113/short;YJ-91 [L-113]
+#
+weapons/cn_ld10;LD-10 Anti-Radiation Missile
+weapons/cn_ld10/short;LD-10
+#
+weapons/ch_kd_88_missile_ir;K/AKD-88 Infrared-Guided Air-to-Ground Missile
+weapons/ch_kd_88_missile_ir/short;K/AKD-88 [IR]
+#
+weapons/ch_kd_88_missile_tv;K/AKD-88 Electro-Optically Guided Air-to-Ground Missile
+weapons/ch_kd_88_missile_tv/short;K/AKD-88 [TV]
+#
+weapons/ch_yj_83k_missile;YJ-83K Saccade-A Anti-Ship Missile
+weapons/ch_yj_83k_missile/short;YJ-83K Saccade-A
+#
 #Missiles, IT
 "weapons/it_aspide_1a";"Aspide-1A Air-to-Air Missile"
 "weapons/it_aspide_1a/short";"Aspide-1A"
+#
+weapons/tr_l_umtas_missile;L-UMTAS | «Uzun Menzilli Tanksavar Sistemi» Laser-Guided Anti-Tank Guided Missile
+weapons/tr_l_umtas_missile/short;L-UMTAS
+#
+weapons/110mm_Spike_freccia_rocket_launchr_user_cannon;Spike LR2 Launcher
+weapons/110mm_Spike_freccia_rocket_launchr_user_cannon/short;Spike LR2
+#
+weapons/110mm_Spike_kf_41_rocket_launchr_user_cannon;Spike LR2 Launcher
+weapons/110mm_Spike_kf_41_rocket_launchr_user_cannon/short;Spike LR2
 #
 #Missiles, FR
 "weapons/fr_r_550_magic";"R 550 MAGIC I | Missile Auto-Guidé Interception et Combat R 550 Mk1 Air-to-Air Missile"
@@ -1575,27 +1712,38 @@ weapons/cn_pl12a_default/short;PL-12AE Adze-A
 "weapons/fr_mica_em_default/short";"MICA-EM"
 #
 weapons/fr_matra_super_530f_default;Super 530 F Air-to-Air Missile
-weapons/fr_matra_super_530f_default/short;Super 530 F
+weapons/fr_matra_super_530f_default/short;S 530 F
 #
 weapons/fr_matra_super_530f;Super 530 F Air-to-Air Missile
-weapons/fr_matra_super_530f/short;Super 530 F
+weapons/fr_matra_super_530f/short;S 530 F
 #
 weapons/fr_matra_super_530f_mirage_2000;Super 530 F Air-to-Air Missile
-weapons/fr_matra_super_530f_mirage_2000/short;Super 530 F
+weapons/fr_matra_super_530f_mirage_2000/short;S 530 F
 #
 weapons/fr_matra_super_530f_mirage_2000_default;Super 530 F Air-to-Air Missile
-weapons/fr_matra_super_530f_mirage_2000_default/short;Super 530 F
+weapons/fr_matra_super_530f_mirage_2000_default/short;S 530 F
 #
 weapons/fr_matra_super_530d;Super 530 D Air-to-Air Missile
-weapons/fr_matra_super_530d/short;Super 530 D
+weapons/fr_matra_super_530d/short;S 530 D
 #
 weapons/fr_matra_super_530d_default;Super 530 D Air-to-Air Missile
-weapons/fr_matra_super_530d_default/short;Super 530 D
+weapons/fr_matra_super_530d_default/short;S 530 D
+#
+weapons/fr_as30;AS-30 Radio-Guided Air-to-Ground Missile
+weapons/fr_as30/short;AS-30
+#
+weapons/fr_as30l;AS-30L Laser-Guided Air-to-Ground Missile
+weapons/fr_as30l/short;AS-30L
+#
+weapons/fr_aa20;AA-20 Radio-Guided Air-to-Air Missile
+weapons/fr_aa20/short;AA-20
+#
+weapons/fr_as37_armat;ARMAT | Anti-Radar MATRA Anti-Radiation Missile
+weapons/fr_as37_armat/short;ARMAT
 #
 #Missiles, SWE
-"us_iris_t";"Lvrb 98"
-#
-"weapons/127mm_IRIS_T_user_cannon";"Luftvärnsrobot 98"
+"us_iris_t";"Luftvärnsrobot 98"
+"weapons/127mm_IRIS_T_user_cannon";"Luftvärnsrobotsysem 98"
 #
 "weapons/swd_rb24";"Luftmålsrobot 24B Air-to-Air Missile"
 "weapons/swd_rb24/short";"Rb 24B"
@@ -1645,6 +1793,50 @@ weapons/fr_matra_super_530d_default/short;Super 530 D
 "weapons/swd_rb75t";"Markmålsrobot 75T Air-to-Ground Missile"
 "weapons/swd_rb75t/short";"Rb 75T"
 #
+weapons/swd_rb_05a;Markmålsrobot 05A Radio-Guided Air-to-Ground Missile
+weapons/swd_rb_05a/short;Rb 05A
+#
+weapons/150mm_Rbs_56_BILL_launcher_user_cannon;Pansarvärnsrobotsystem 56B
+weapons/150mm_Rbs_56_BILL_Pbv_launcher_user_cannon;Pansarvärnsrobotsystem 56B
+weapons/150mm_bill_2/short;Pvrb 56B
+150mm_bill;Pansarvärnsrobot 56B
+150mm_bill_2;Pansarvärnsrobot 56B
+#
+weapons/127mm_Rbs_55_tow_UDES_launcher_user_cannon;Pansarvärnsrobotsystem 55
+weapons/127mm_Rbs_55_tow_launcher_user_cannon;Pansarvärnsrobotsystem 55
+127mm_rb_55;Pvrb 55
+rbs_55;Pansarvärnsrobot 55
+weapons/127mm_Rbs_55_tow_rocket_launcher;Pansarvärnsrobotsystem 55
+weapons/127mm_Rbs_55_tow_rocket_launcher/short;Pvrbs 55
+#
+weapons/swd_rb55c;Pansarvärnsrobot 55C Anti-Tank Guided Missile
+weapons/swd_rb55c/short;Pvrb 55C
+152mm_rb_55_c;Pansarvärnsrobot 55C
+#
+weapons/swd_rb55b;Pansarvärnsrobot 55B Anti-Tank Guided Missile
+weapons/swd_rb55b/short;Pvrb 55B
+127mm_rb_55_b;Pansarvärnsrobot 55B
+#
+weapons/swd_rb53;Pansarvärnsrobot 53 Anti-Tank Guided Missile
+weapons/swd_rb53/short;Pvrb 53
+#
+weapons/swd_rb52;Pansarvärnsrobot 52A Anti-Tank Guided Missile
+weapons/swd_rb52/short;Pvrb 52A
+#
+weapons/105mm_Rbs_70_launcher_user_cannon;Luftvärnsrobotsystem 70
+weapons/105mm_Rbs_70_ASRAD_launcher_user_cannon;Luftvärnsrobotsystem 70
+#
+weapons/130mm_Rbs_70B_rocket_launcher;Luftvärnsrobotsystem 70B
+weapons/130mm_Rbs_70B_rocket_launcher/short;Lvrbs 70B
+130mm_rb_70b;Lvrb 70B
+weapons/130mm_Rbs_70_rocket_launcher;Luftvärnsrobotsystem 70
+weapons/130mm_Rbs_70_rocket_launcher/short;Lvrbs 70
+130mm_rb_70;Lvrb 70
+105mm_rb_70;Luftvärnsrobot 70
+weapons/105mm_rb_70/short;Lvrb 70
+105mm_rb_70_2;Luftvärnsrobot 90
+weapons/105mm_rb_70_2/short;Lvrb 90
+#
 #Missiles, ISR
 weapons/il_shafrir_1;Shafrir-1 Air-to-Air Missile
 weapons/il_shafrir_1/short;Shafrir-1
@@ -1669,6 +1861,15 @@ weapons/il_derby;Derby Air-to-Air Missile
 weapons/il_derby/short;Derby
 weapons/il_derby_default;Derby Air-to-Air Missile
 weapons/il_derby_default/short;Derby
+#
+weapons/spike_er;Spike Extended-Range Electro-Optically Guided Anti-Tank Guided Missile
+weapons/spike_er/short;Spike ER
+#
+110mm_spike_lr2;Spike LR2
+weapons/110mm_spike_lr2/short;Spike LR2
+#
+110mm_spike_mr;Spike MR
+weapons/110mm_spike_mr/short;Spike MR
 #
 #Bombs, USA
 "weapons/us_gbu_12_paveway_2";"GBU-12 Paveway II Laser-Guided Bomb (500lb.)"
@@ -1698,8 +1899,8 @@ weapons/il_derby_default/short;Derby
 "weapons/us_gbu_22_paveway_3";"GBU-22 Paveway III Laser-Guided Bomb (500lb.)"
 "weapons/us_gbu_22_paveway_3/short";"GBU-22 Paveway III (500lb.)"
 #
-"weapons/us_gbu_39";"GBU-39/B SDB I GPS-Guided Glide Bomb (250lb.)"
-"weapons/us_gbu_39/short";"GBU-39/B SDB I (250lb)"
+"weapons/us_gbu_39";"GBU-39/B Small Diameter Bomb GPS-Guided Glide Bomb [250lb.]"
+"weapons/us_gbu_39/short";"GBU-39/B SDB [250lb.]"
 #
 "weapons/us_2000lb_egbu_24_paveway_3";"EGBU-24B Enhanced Paveway III Dual-Mode Laser-Guided Bomb (2000lb.)"
 "weapons/us_2000lb_egbu_24_paveway_3/short";"EGBU-24B Paveway III (2000lb.)"
@@ -1880,8 +2081,8 @@ weapons/il_derby_default/short;Derby
 "weapons/us_750lb_mk77_mod0";"Mark 77 Mod 0 Incendiary Napalm Bomb (750lb.)"
 "weapons/us_750lb_mk77_mod0/short";"Mk77 INC (750lb.)"
 #
-weapons/us_agm_154a1_jsow;AGM-154A-1 Joint Standoff Weapon GPS-Guided Bomb [1,000lbs.]
-weapons/us_agm_154a1_jsow/short;AGM-154A-1 JSOW [1.000lbs.]
+weapons/us_agm_154a1_jsow;AGM-154A-1 Joint Standoff Weapon GPS-Guided Glide Bomb [1,000lbs.]
+weapons/us_agm_154a1_jsow/short;AGM-154A-1 JSOW [1,000lbs.]
 #
 weapons/us_b83;B83 nuclear bomb [1.2Mt]
 weapons/us_b83/short;☢B83 [1.2Mt]
@@ -1906,6 +2107,9 @@ weapons/us_1000lb_anmk33_box_ap/short;AN-Mk.33 [1000lbs.]
 #
 weapons/us_1000lb_anmk33_box_ap_45;AN-Mk.33 Armor-Piercing High-Explosive Bomb [1000lbs.]
 weapons/us_1000lb_anmk33_box_ap_45/short;AN-Mk.33 [1000lbs.]
+#
+weapons/us_gbu_53;GBU-53/B StormBreaker Infrared-Guided Glide Bomb [200lbs.]
+weapons/us_gbu_53/short;GBU-53/B StormBreaker [200lbs.]
 #
 #Bombs, GER
 "weapons/de_sc50";"Sprengbombe Cylindrisch 50 JA High-Explosive Bomb [50kg]"
@@ -2444,6 +2648,57 @@ weapons/cn_ls_6_500/short;LS-6/500 [630kg]
 #
 #Bombs, FR
 #
+weapons/fr_250_samp_type_25;SAMP Type 25 | Société des ateliers mécaniques de Pont-sur-Sambre Type 25 High-Explosive Bomb [250kg]
+weapons/fr_250_samp_type_25/short;SAMP Type 25 [250kg]
+#
+weapons/fr_250_samp_type_25_default;SAMP Type 25 | Société des ateliers mécaniques de Pont-sur-Sambre Type 25 High-Explosive Bomb [250kg]
+weapons/fr_250_samp_type_25_default/short;SAMP Type 25 [250kg]
+#
+weapons/fr_400_samp_type_21;SAMP Type 21 | Société des ateliers mécaniques de Pont-sur-Sambre Type 21 High-Explosive Bomb [400kg]
+weapons/fr_400_samp_type_21/short;SAMP Type 21 [400kg]
+#
+weapons/fr_250_samp_type_25_200;SAMP Type 25-200 | Société des ateliers mécaniques de Pont-sur-Sambre Type 25-200 Parachute-Retarded High-Explosive Bomb [250kg]
+weapons/fr_250_samp_type_25_200/short;SAMP Type 25-200 [250kg]
+#
+weapons/fr_400_samp_type_21_200;SAMP Type 21-200 | Société des ateliers mécaniques de Pont-sur-Sambre Type 21-200 Parachute-Retarded High-Explosive Bomb [400kg]
+weapons/fr_400_samp_type_21_200/short;SAMP Type 21-200 [400kg]
+#
+weapons/fr_130kg_samp_mk81;SAMP Mk 81 |  Société des ateliers mécaniques de Pont-sur-Sambre Mark 81 Low-Drag General-Purpose Bomb [130kg]
+weapons/fr_130kg_samp_mk81/short;SAMP Mk 81 [130kg]
+#
+weapons/fr_250kg_samp_mk82;SAMP Mk 82 | Société des ateliers mécaniques de Pont-sur-Sambre Mark 82 Low-Drag General-Purpose Bomb [240kg]
+weapons/fr_250kg_samp_mk82/short;SAMP Mk 82 [240kg]
+#
+weapons/fr_500kg_samp_mk83;SAMP Mk 83 | Société des ateliers mécaniques de Pont-sur-Sambre Mark 83 Low-Drag General-Purpose Bomb [446kg]
+weapons/fr_500kg_samp_mk83/short;SAMP Mk 83 [446kg]
+#
+weapons/fr_1000kg_samp_mk84;SAMP Mk 84 | Société des ateliers mécaniques de Pont-sur-Sambre Mark 84 Low-Drag General-Purpose Bomb [893kg]
+weapons/fr_1000kg_samp_mk84/short;SAMP Mk 84 [893kg]
+#
+weapons/fr_samp_mk_82_250_ldgp_snakeye;SAMP Mk 82 Snakeye | Société des ateliers mécaniques de Pont-sur-Sambre Mark 82 Snakeye High-Drag Tailfin-Retarded Bomb [254kg]
+weapons/fr_samp_mk_82_250_ldgp_snakeye/short;SAMP Mk 82 Snakeye [254kg]
+#
+weapons/fr_bgl_400;Bombe Guidée Laser Laser-Guided Bomb [400kg]
+weapons/fr_bgl_400/short;BGL-400 [400kg]
+#
+weapons/fr_bgl_1000;Bombe Guidée Laser Laser-Guided Bomb [1,000kg]
+weapons/fr_bgl_1000/short;BGL-1000 [1,000kg]
+#
+weapons/fr_250kg_aasm_250_hammer_gps;SBU-38 | AASM Hammer | Armement Air-Sol Modulaire Highly Agile Modular Munition Extended Range Rocket-Assisted GPS-Guided Bomb [250kg]
+weapons/fr_250kg_aasm_250_hammer_gps/short;SBU-38 | AASM Hammer [250kg]
+#
+weapons/fr_250kg_aasm_250_hammer_ir;SBU-64 | AASM Hammer | Armement Air-Sol Modulaire Highly Agile Modular Munition Extended Range Rocket-Assisted Electro-Optically-Guided Bomb [250kg]
+weapons/fr_250kg_aasm_250_hammer_ir/short;SBU-64 | AASM Hammer [250kg]
+#
+weapons/fr_250kg_aasm_250_hammer_laser;SBU-54 | AASM Hammer | Armement Air-Sol Modulaire Highly Agile Modular Munition Extended Range Rocket-Assisted Laser-Guided Bomb [250kg]
+weapons/fr_250kg_aasm_250_hammer_laser/short;SBU-54 | AASM Hammer [250kg]
+#
+weapons/fr_500kg_aasm_500_hammer_ir;SBU-64 | AASM Hammer | Armement Air-Sol Modulaire Highly Agile Modular Munition Extended Range Rocket-Assisted Electro-Optically-Guided Bomb [500kg]
+weapons/fr_500kg_aasm_500_hammer_ir/short;SBU-64 | AASM Hammer [500kg]
+#
+weapons/fr_500kg_aasm_500_hammer_laser;SBU-54 | AASM Hammer | Armement Air-Sol Modulaire Highly Agile Modular Munition Extended Range Rocket-Assisted Laser-Guided Bomb [500kg]
+weapons/fr_500kg_aasm_500_hammer_laser/short;SBU-54 | AASM Hammer [500kg]
+#
 #Bombs, SWE
 #
 #Bombs, ISR
@@ -2687,35 +2942,53 @@ weapons/uk_CRV7_m247/short;CRV7 [HEAT]
 weapons/uk_hvar;High-Velocity Aircraft Rocket (Semi-Armour Piercing High Explosive Warhead)
 weapons/uk_hvar/short;HVAR [SAP-HE]
 #
-weapons/fr_sneb_type23_expo;Type 23 Société Nouvelle des Établissements Edgar Brandt Anti-Tank Rocket
-weapons/fr_sneb_type23_expo/short;Type 23 SNEB [HEAT]
+weapons/fr_sneb_type23_expo;SNEB Type 23 | Société Nouvelle des Établissements Edgar Brandt Type 23 68mm Anti-Tank Rocket
+weapons/fr_sneb_type23_expo/short;SNEB Type 23 [HEAT]
 #
 #Rocket, JP
 #
 #Rocket, IT
 #
+weapons/tr_cirit_mpw_missile;Cirit 70mm Laser-Guided Anti-Tank Rocket
+weapons/tr_cirit_mpw_missile/short;Cirit [HEAT]
+#
 #Rockets, FR
 #
-weapons/fr_sneb_type23_late;Type 23 SNEB | Société Nouvelle des Établissements Edgar Brandt 68mm Anti-Tank Rocket
-weapons/fr_sneb_type23_late/short;Type 23 SNEB [HEAT]
+weapons/fr_sneb_type23;SNEB Type 23 | Société Nouvelle des Établissements Edgar Brandt Type 23 68mm Anti-Tank Rocket
+weapons/fr_sneb_type23/short;SNEB Type 23 [HEAT]
 #
-weapons/fr_sneb_type23_4fin;Type 23 SNEB | Société Nouvelle des Établissements Edgar Brandt 68mm Anti-Tank Rocket
-weapons/fr_sneb_type23_4fin/short;Type 23 SNEB [HEAT]
+weapons/fr_matra_t_10_121b;T 10 Type 121 105mm Anti-Tank Rocket
+weapons/fr_matra_t_10_121a;T 10 Type 121 [HEAT]
 #
-weapons/fr_sneb_type23_md_460;Type 23 SNEB | Société Nouvelle des Établissements Edgar Brandt 68mm Anti-Tank Rocket
-weapons/fr_sneb_type23_md_460/short;Type 23 SNEB [HEAT]
+weapons/fr_matra_t_10_140b;T 10 Type 140 120mm Anti-Tank Rocket
+weapons/fr_matra_t_10_140a;T 10 Type 140 [HE]
 #
-weapons/fr_sneb_type26;Type 26P SNEB | Société Nouvelle des Établissements Edgar Brandt 68mm Anti-Tank Rocket
-weapons/fr_sneb_type26/short;Type 26P SNEB [HE]
+weapons/fr_matra_t_10_151b;T 10 Type 151 120mm Anti-Tank Rocket
+weapons/fr_matra_t_10_151a;T 10 Type 151 [HEAT]
 #
-weapons/fr_sneb_type23s;Type 23 SNEB | Société Nouvelle des Établissements Edgar Brandt 68mm Anti-Tank Rocket
-weapons/fr_sneb_type23s/short;Type 23 SNEB [HEAT]
+weapons/fr_sneb_type23_late;SNEB Type 23 | Société Nouvelle des Établissements Edgar Brandt Type 23 68mm Anti-Tank Rocket
+weapons/fr_sneb_type23_late/short;SNEB Type 23 [HEAT]
+#
+weapons/fr_sneb_type23_4fin;SNEB Type 23 | Société Nouvelle des Établissements Edgar Brandt Type 23 68mm Anti-Tank Rocket
+weapons/fr_sneb_type23_4fin/short;SNEB Type 23 [HEAT]
+#
+weapons/fr_sneb_type23_md_460;SNEB Type 23 | Société Nouvelle des Établissements Edgar Brandt Type 23 68mm Anti-Tank Rocket
+weapons/fr_sneb_type23_md_460/short;SNEB Type 23 [HEAT]
+#
+weapons/fr_sneb_type26;SNEB Type 26P | Société Nouvelle des Établissements Edgar Brandt Type 26P 68mm Anti-Tank Rocket
+weapons/fr_sneb_type26/short;SNEB Type 26P [HE]
+#
+weapons/fr_sneb_type23s;SNEB Type 23 | Société Nouvelle des Établissements Edgar Brandt Type 23 68mm Anti-Tank Rocket
+weapons/fr_sneb_type23s/short;SNEB Type 23 [HEAT]
 #
 weapons/fr_tba_multidart_ab;TBA Multi-Dart 100 Anti-Blindés 100mm Anti-Tank Rocket
 weapons/fr_tba_multidart_ab/short;TBA Multi-Dart 100 AB [AP]
 #
 weapons/fr_tba_ecc;TBA 100 Explosif à Charge Creuse 100mm Anti-Tank Rocket
 weapons/fr_tba_ecc/short;TBA 100 ECC [HEAT]
+#
+weapons/fr_fz49;FZ-49 70mm Anti-Tank Rocket
+weapons/fr_fz49/short;FZ-49 [HEAT]
 #
 #Rocket, SWE
 #
@@ -2768,6 +3041,9 @@ weapons/uk_mk12_torpedo/short;Mk.XII
 "weapons/us_pave_spike_targeting_pod";"AN/AVQ-23 Pave Spike Targeting Pod"
 "weapons/us_pave_spike_targeting_pod/short";"AN/AVQ-23 Pave Spike"
 #
+weapons/us_an_asq_213;AN/ASQ-213 HARM Targeting System
+weapons/us_an_asq_213/short;AN/ASQ-213 HTS
+#
 #Sensors, GER
 "weapons/gr_litening_pod_targeting_pod";"AN/AAQ-28 LITENING II Targeting Pod"
 "weapons/gr_litening_pod_targeting_pod/short";"AN/AAQ-28 LITENING II"
@@ -2787,6 +3063,27 @@ weapons/uk_mk12_torpedo/short;Mk.XII
 #
 "weapons/su_t_220_targeting_pod";"T-220 Targeting Pod"
 "weapons/su_t_220_targeting_pod/short";"T-220"
+#
+weapons/su_l_066_viuga;L-066 Viuga Targeting Pod
+weapons/su_l_066_viuga/short;L-066 Viuga
+#
+weapons/su_l_086_viuga_17;L-086 Viuga-17 Targeting Pod
+weapons/su_l_086_viuga_17/short;L-086 Viuga-17
+#
+weapons/su_l_080_a;L-080 Fantasmagoria-A Anti-Radiation Targeting Pod
+weapons/su_l_080_a/short;L-080 Fantasmagoria-A
+#
+weapons/su_l_080_a_cw;L-080 Fantasmagoria-A Anti-Radiation Targeting Pod
+weapons/su_l_080_a_cw/short;L-080 Fantasmagoria-A
+#
+weapons/su_l_081_b;L-081B Fantasmagoria-B Anti-Radiation Targeting Pod
+weapons/su_l_081_b/short;L-081B Fantasmagoria-B
+#
+weapons/su_l_081_c;L-081C Fantasmagoria-B Anti-Radiation Targeting Pod
+weapons/su_l_081_c/short;L-081C Fantasmagoria-B
+#
+weapons/su_apk_9;APK-9 Datalink Pod
+weapons/su_apk_9/short;APK-9
 #
 #Sensors, GB
 "weapons/uk_tiald_targeting_pod";"Thermal Imaging Airborne Laser Designator (TIALD) Pod"
@@ -2877,3 +3174,7 @@ weapons/uk_533mm_21in_mk4_torpedo/short;533 mm Mk.IV
 #
 weapons/uk_533mm_21in_mk9b_torpedo;533 mm Mk.IX** torpedo
 weapons/uk_533mm_21in_mk9b_torpedo/short;533 mm Mk.IX**
+#
+#Shells, SWE
+#
+105mm_slpprj_m80;Spårljuspansarprojektil m/80 [APFSDS]
