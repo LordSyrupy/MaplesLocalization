@@ -2800,6 +2800,33 @@ weapons/us_m8bazooka/short;M8 [HE]
 weapons/110mm_M8_rocket_launcher/short;M8
 weapons/110mm_M8/short;M8
 #
+weapons/us_5_in_hvar;High-Velocity Aircraft Rocket (Semi-Armour Piercing High Explosive Warhead)
+weapons/us_5_in_hvar/short;HVAR [SAP-HE]
+#
+weapons/us_5_in_hvar_c;High-Velocity Aircraft Rocket (Semi-Armour Piercing High Explosive Warhead)
+weapons/us_5_in_hvar_c/short;HVAR [SAP-HE]
+#
+weapons/us_5_in_hvar_c_default;High-Velocity Aircraft Rocket (Semi-Armour Piercing High Explosive Warhead)
+weapons/us_5_in_hvar_c_default/short;HVAR [SAP-HE]
+#
+weapons/us_5_in_hvar_d;High-Velocity Aircraft Rocket (Semi-Armour Piercing High Explosive Warhead)
+weapons/us_5_in_hvar_d/short;HVAR [SAP-HE]
+#
+weapons/us_5_in_hvar_2;High-Velocity Aircraft Rocket (Semi-Armour Piercing High Explosive Warhead)
+weapons/us_5_in_hvar_2/short;HVAR [SAP-HE]
+#
+weapons/us_5_in_hvar_a;High-Velocity Aircraft Rocket (Semi-Armour Piercing High Explosive Warhead)
+weapons/us_5_in_hvar_a/short;HVAR [SAP-HE]
+#
+weapons/us_5_in_hvar_b;High-Velocity Aircraft Rocket (Semi-Armour Piercing High Explosive Warhead)
+weapons/us_5_in_hvar_b/short;HVAR [SAP-HE]
+#
+weapons/us_5_in_hvar_a_default;High-Velocity Aircraft Rocket (Semi-Armour Piercing High Explosive Warhead)
+weapons/us_5_in_hvar_a_default/short;HVAR [SAP-HE]
+#
+weapons/us_5_in_hvar_b_default;High-Velocity Aircraft Rocket (Semi-Armour Piercing High Explosive Warhead)
+weapons/us_5_in_hvar_b_default/short;HVAR [SAP-HE]
+#
 #Rockets, GER
 weapons/de_r4m_pb2_rocket;Panzerblitz 2 Anti-Tank Rocket
 weapons/de_r4m_pb2_rocket/short;PB 2
@@ -2919,7 +2946,7 @@ weapons/uk_uncle_tom_b/short;Uncle Tom [HE]
 weapons/uk_1000lb_ap_redangel;Red Angel 11.25in Armour-Piercing Rocket
 weapons/uk_1000lb_ap_redangel/short;Red Angel [AP]
 #
-weapons/uk_hvar;HVAR rockets
+weapons/uk_hvar;High-Velocity Aircraft Rocket (Semi-Armour Piercing High Explosive Warhead)
 weapons/uk_rocket;rocket
 #
 weapons/uk_rp3;RP-3 3in High-Explosive Rocket

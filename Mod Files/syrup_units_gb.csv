@@ -1,734 +1,796 @@
-"<ID|readonly|noverify>";"<English>";;
-#
-"lancaster_mk1_shop";"Lancaster B.I";;
-"lancaster_mk1_0";"A.V. Roe and Company | Lancaster | Bomber, Mk.I";;
-"lancaster_mk1_1";"Lancaster B.I";;
-"lancaster_mk1_2";"Lancaster B.I";;
-#
-"lancaster_mk3_shop";"Lancaster B.III";;
-"lancaster_mk3_0";"A.V. Roe and Company | Lancaster | Bomber, Mk.III";;
-"lancaster_mk3_1";"Lancaster B.III";;
-"lancaster_mk3_2";"Lancaster B.III";;
-#
-"typhoon_mk1b_late_shop";"Typhoon Mk.IB (1943)";;
-"typhoon_mk1b_late_0";"Hawker Aircraft, Ltd. | Typhoon Mk.IB (1943)";;
-"typhoon_mk1b_late_1";"Typhoon Mk.IB (1943)";;
-"typhoon_mk1b_late_2";"Typhoon Mk.IB (1943)";;
-#
-"spitfire_mk5c_shop";"Spitfire Mk.VC(trop)";;
-"spitfire_mk5c_0";"Supermarine Aviation Works | Spitfire Mk.V | Type C Wing | Tropicalised";;
-"spitfire_mk5c_1";"Spitfire Mk.VC(trop)";;
-"spitfire_mk5c_2";"Spitfire Mk.VC(trop)";;
-#
-"spitfire_mk5c_notrop_shop";"Spitfire Mk.VC";;
-"spitfire_mk5c_notrop_0";"Supermarine Aviation Works | Spitfire Mk.V | Type C Wing";;
-"spitfire_mk5c_notrop_1";"Spitfire Mk.VC";;
-"spitfire_mk5c_notrop_2";"Spitfire Mk.VC";;
-#
-"firefly_mk1_shop";"Firefly F.I";;
-"firefly_mk1_0";"Fairey Aviation Company, Ltd. | Firefly | Fighter, Mk.I";;
-"firefly_mk1_1";"Firefly F.I";;
-"firefly_mk1_2";"Firefly F.I";;
-#
-"firefly_mk5_shop";"Firefly FR.V";;
-"firefly_mk5_0";"Fairey Aviation Company, Ltd. | Firefly | Fighter/Reconnaissance, Mk.V";;
-"firefly_mk5_1";"Firefly FR.V";;
-"firefly_mk5_2";"Firefly FR.V";;
-#
-"mosquito_fb_mk6_shop";"Mosquito FB.VI";;
-"mosquito_fb_mk6_0";"de Havilland Aircraft Company, Ltd. | Mosquito | Fighter/Bomber, Mk.VI";;
-"mosquito_fb_mk6_1";"Mosquito FB.VI";;
-"mosquito_fb_mk6_2";"Mosquito FB.VI";;
-#
-"mosquito_fb_mk18_shop";"Mosquito FB.XVIII";;
-"mosquito_fb_mk18_0";"de Havilland Aircraft Company, Ltd. | Mosquito | Fighter/Bomber, Mk.XVIII";;
-"mosquito_fb_mk18_1";"Mosquito FB.XVIII";;
-"mosquito_fb_mk18_2";"Mosquito FB.XVIII";;
-#
-"halifax_mk3_shop";"Halifax B.IIIA";;
-"halifax_mk3_0";"Handley Page, Ltd. | Halifax | Bomber, Mk.IIIA";;
-"halifax_mk3_1";"Halifax B.IIIA";;
-"halifax_mk3_2";"Halifax B.IIIA";;
-#
-"stirling_mk1_shop";"Stirling B.I";;
-"stirling_mk1_0";"Short Brothers plc | Stirling | Bomber, Mk.I";;
-"stirling_mk1_1";"Stirling B.I";;
-"stirling_mk1_2";"Stirling B.I";;
-#
-"stirling_mk3_shop";"Stirling B.III";;
-"stirling_mk3_0";"Short Brothers plc | Stirling | Bomber, Mk.III";;
-"stirling_mk3_1";"Stirling B.III";;
-"stirling_mk3_2";"Stirling B.III";;
-#
-"hellcat_fmk1_shop";"Hellcat Mk.II";;
-"hellcat_fmk1_0";"Grumman Aircraft Engineering Corporation | Hellcat Mk.II | F6F-5";;
-"hellcat_fmk1_1";"Hellcat Mk.II";;
-"hellcat_fmk1_2";"Hellcat Mk.II";;
-#
-"whirlwind_p9_shop";"Whirlwind P.9";;
-"whirlwind_p9_0";"Westland Aircraft | Whirlwind P.9 | 1938 Prototype";;
-"whirlwind_p9_1";"Whirlwind P.9";;
-"whirlwind_p9_2";"Whirlwind P.9";;
-#
-"spitfire_mk9c_4cannons_shop";"Spitfire F.IXC";;
-"spitfire_mk9c_4cannons_0";"Supermarine Aviation Works | Spitfire | Fighter, Mk.IX | Type C Wing";;
-"spitfire_mk9c_4cannons_1";"Spitfire F.IXC";;
-"spitfire_mk9c_4cannons_2";"Spitfire F.IXC";;
-#
-"brigand_b1_shop";"Brigand B.I";;
-"brigand_b1_0";"Bristol Aeroplane Company | Brigand | Bomber, Mk.I";;
-"brigand_b1_1";"Brigand B.I";;
-"brigand_b1_2";"Brigand B.I";;
-#
-"whirlwind_mk1_shop";"Whirlwind Mk.I";;
-"whirlwind_mk1_0";"Westland Aircraft | Whirlwind Mk.I";;
-"whirlwind_mk1_1";"Whirlwind Mk.I";;
-"whirlwind_mk1_2";"Whirlwind Mk.I";;
-#
-"hurricanemkii_shop";"Hurricane Mk.IIB Trop.";;
-"hurricanemkii_0";"Hawker Aircraft, Ltd. | Hurricane Mk.IIB | Tropicalised";;
-"hurricanemkii_1";"Hurricane Mk.IIB Trop.";;
-"hurricanemkii_2";"Hurricane Mk.IIB Trop.";;
-#
-"hurricane_mk1_late_shop";"Hurricane Mk.I";;
-"hurricane_mk1_late_0";"Hawker Aircraft, Ltd. | Hurricane Mk.I";;
-"hurricane_mk1_late_1";"Hurricane Mk.I";;
-"hurricane_mk1_late_2";"Hurricane Mk.I";;
-#
-"spitfire_mk1_shop";"Spitfire Mk.IA";;
-"spitfire_mk1_0";"Supermarine Aviation Works | Spitfire Mk.II | Type A Wing ";;
-"spitfire_mk1_1";"Spitfire Mk.IA";;
-"spitfire_mk1_2";"Spitfire Mk.IA";;
-#
-"spitfiremkiia_shop";"Spitfire Mk.IIA";;
-"spitfiremkiia_0";"Supermarine Aviation Works | Spitfire Mk.II | Type A Wing";;
-"spitfiremkiia_1";"Spitfire Mk.IIA";;
-"spitfiremkiia_2";"Spitfire Mk.IIA";;
-#
-"spitfiremkii_shop";"Spitfire Mk.IIB";;
-"spitfiremkii_0";"Supermarine Aviation Works | Spitfire Mk.II | Type B Wing ";;
-"spitfiremkii_1";"Spitfire Mk.IIB";;
-"spitfiremkii_2";"Spitfire Mk.IIB";;
-#
-"spitfire_mk5b_shop";"Spitfire Mk.VB(trop)";;
-"spitfire_mk5b_0";"Supermarine Aviation Works | Spitfire Mk.V | Type B Wing | Tropicalised";;
-"spitfire_mk5b_1";"Spitfire Mk.VB(trop)";;
-"spitfire_mk5b_2";"Spitfire Mk.VB(trop)";;
-#
-"spitfire_mk5b_notrop_shop";"Spitfire Mk.VB";;
-"spitfire_mk5b_notrop_0";"Supermarine Aviation Works | Spitfire Mk.V | Type B Wing";;
-"spitfire_mk5b_notrop_1";"Spitfire Mk.VB";;
-"spitfire_mk5b_notrop_2";"Spitfire Mk.VB";;
-#
-"hurricane_mk1b_shop";"Sea Hurricane Mk.IB";;
-"hurricane_mk1b_0";"Hawker Aircraft, Ltd. | Sea Hurricane Mk.IB";;
-"hurricane_mk1b_1";"Sea Hurricane Mk.IB";;
-"hurricane_mk1b_2";"Sea Hurricane Mk.IB";;
-#
-"hurricane_mk1c_shop";"Sea Hurricane Mk.IC";;
-"hurricane_mk1c_0";"Hawker Aircraft, Ltd. | Sea Hurricane Mk.IIC";;
-"hurricane_mk1c_1";"Sea Hurricane Mk.IC";;
-"hurricane_mk1c_2";"Sea Hurricane Mk.IC";;
-#
-"firebrand_tf4_shop";"Firebrand TF.IV";;
-"firebrand_tf4_0";"Blackburn Aircraft, Ltd. | Firebrand | Torpedo Fighter, Mk.IV";;
-"firebrand_tf4_1";"Firebrand TF.IV";;
-"firebrand_tf4_2";"Firebrand TF.IV";;
-#
-"hurricane_mk4_shop";"Hurricane Mk.IV";;
-"hurricane_mk4_0";"Hawker Aircraft, Ltd. | Hurricane Mk.IV";;
-"hurricane_mk4_1";"Hurricane Mk.IV";;
-"hurricane_mk4_2";"Hurricane Mk.IV";;
-#
-"beaufighter_mk6c_shop";"Beaufighter Mk.VIC";;
-"beaufighter_mk6c_0";"Bristol Aeroplane Company | Beaufighter Mk.VI | Coastal Command";;
-"beaufighter_mk6c_1";"Beaufighter Mk.VIC";;
-"beaufighter_mk6c_2";"Beaufighter Mk.VIC";;
-#
-"beaufighter_mkx_shop";"Beaufighter TF.X";;
-"beaufighter_mkx_0";"Bristol Aeroplane Company | Beaufighter | Torpedo Fighter, Mk.X";;
-"beaufighter_mkx_1";"Beaufighter TF.X";;
-"beaufighter_mkx_2";"Beaufighter TF.X";;
-#
-"beaufighter_mk21_shop";"Beaufighter Mk.21";;
-"beaufighter_mk21_0";"Bristol Aeroplane Company | Beaufighter Mk.21";;
-"beaufighter_mk21_1";"Beaufighter Mk.21";;
-"beaufighter_mk21_2";"Beaufighter Mk.21";;
-#
-"sunderland_mk3a_shop";"Sunderland Mk.IIIA";;
-"sunderland_mk3a_0";"Short Brothers plc | Sunderland Mk.IIIA";;
-"sunderland_mk3a_1";"Sunderland Mk.IIIA";;
-"sunderland_mk3a_2";"Sunderland Mk.IIIA";;
-#
-"sunderland_mk5_shop";"Sunderland Mk.V";;
-"sunderland_mk5_0";"Short Brothers plc | Sunderland Mk.V";;
-"sunderland_mk5_1";"Sunderland Mk.V";;
-"sunderland_mk5_2";"Sunderland Mk.V";;
-#
-"wellington_mk1c_shop";"Wellington Mk.IC";;
-"wellington_mk1c_0";"Vickers-Armstrongs, Ltd. | Wellington Mk.IC";;
-"wellington_mk1c_1";"Wellington Mk.IC";;
-"wellington_mk1c_2";"Wellington Mk.IC";;
-#
-"wellington_mk1c_late_shop";"Wellington Mk.II";;
-"wellington_mk1c_late_0";"Vickers-Armstrongs, Ltd. | Wellington Mk.II";;
-"wellington_mk1c_late_1";"Wellington Mk.II";;
-"wellington_mk1c_late_2";"Wellington Mk.II";;
-#
-"wellington_mk3_shop";"Wellington Mk.III";;
-"wellington_mk3_0";"Vickers-Armstrongs, Ltd. | Wellington Mk.III";;
-"wellington_mk3_1";"Wellington Mk.III";;
-"wellington_mk3_2";"Wellington Mk.III";;
-#
-"wellington_mk10_shop";"Wellington Mk.X";;
-"wellington_mk10_0";"Vickers-Armstrongs, Ltd. | Wellington Mk.X";;
-"wellington_mk10_1";"Wellington Mk.X";;
-"wellington_mk10_2";"Wellington Mk.X";;
-#
-"avenger_mk1_shop";"Avenger GR.II";;
-"avenger_mk1_0";"Grumman Aircraft Engineering Corporation | Avenger | Ground Attack/Reconnaissance, Mk.II | TBM-1C";;
-"avenger_mk1_1";"Avenger GR.II";;
-"avenger_mk1_2";"Avenger GR.II";;
-#
-"b_48_firecrest_shop";"Firecrest";;
-"b_48_firecrest_0";"Blackburn Aircraft, Ltd. | B.48 Firecrest | 1947 Prototype";;
-"b_48_firecrest_1";"Firecrest";;
-"b_48_firecrest_2";"Firecrest";;
-#
-"corsair_fmk2_shop";"Corsair F.II";;
-"corsair_fmk2_0";"Grumman Aircraft Engineering Corporation | Corsair | Fighter, Mk. II | F4U-1A";;
-"corsair_fmk2_1";"Corsair F.II";;
-"corsair_fmk2_2";"Corsair F.II";;
-#
-"spitfiremkiia_ep_shop";"Spitfire Mk.IIA ""Venture I";;
-"spitfiremkiia_ep_0";"Supermarine Aviation Works | Spitfire Mk.II ""Venture I"" | Type A Wing";;
-"spitfiremkiia_ep_1";"Spitfire Mk.IIA ""Venture I""";;
-"spitfiremkiia_ep_2";"Spitfire Mk.IIA ""Venture I""";;
-#
-"beaufighter_mk1_40mm_shop";"DAP Beaufighter Mk.I (1940)";;
-"beaufighter_mk1_40mm_0";"Bristol Aeroplane Company / Department of Aircraft Production (DAP) | Beaufighter Mk.I | Prototype R2055, 1940 Modification";;
-"beaufighter_mk1_40mm_1";"DAP Beaufighter Mk.I (1940)";;
-"beaufighter_mk1_40mm_2";"DAP Beaufighter Mk.I (1940)";;
-#
-"boston_mk_1_shop";"Boston Mk.I";;
-"boston_mk_1_0";"Douglas Aircraft Company | Boston Mk.I | DB-7";;
-"boston_mk_1_1";"Boston Mk.I";;
-"boston_mk_1_2";"Boston Mk.I";;
-#
-"db_7_shop";"Boston Mk.III";;
-"db_7_0";"Douglas Aircraft Company | Boston Mk.III | DB-7";;
-"db_7_1";"Boston Mk.III";;
-"db_7_2";"Boston Mk.III";;
-#
-"f4f-4_martlet_mk4_shop";"Martlet Mk.IV";;
-"f4f-4_martlet_mk4_0";"Grumman Aircraft Engineering Corporation | Martlet Mk.IV | F4F-4 Wildcat";;
-"f4f-4_martlet_mk4_1";"Martlet Mk.IV";;
-"f4f-4_martlet_mk4_2";"Martlet Mk.IV";;
-#
-"boomerang_mki_shop";"Boomerang Mk.I";;
-"boomerang_mki_0";"Commonwealth Aircraft Corporation | Boomerang Mk.I";;
-"boomerang_mki_1";"Boomerang Mk.I";;
-"boomerang_mki_2";"Boomerang Mk.I";;
-#
-"boomerang_mkii_shop";"Boomerang Mk.II";;
-"boomerang_mkii_0";"Commonwealth Aircraft Corporation | Boomerang Mk.II";;
-"boomerang_mkii_1";"Boomerang Mk.II";;
-"boomerang_mkii_2";"Boomerang Mk.II";;
-#
-"fury_mk1_shop";"Fury Mk.I";;
-"fury_mk1_0";"Hawker Aircraft, Ltd. | Fury Mk.I";;
-"fury_mk1_1";"Fury Mk.I";;
-"fury_mk1_2";"Fury Mk.I";;
-#
-"fury_mk2_shop";"Fury Mk.II";;
-"fury_mk2_0";"Hawker Aircraft, Ltd. | Fury Mk.II";;
-"fury_mk2_1";"Fury Mk.II";;
-"fury_mk2_2";"Fury Mk.II";;
-#
-"gladiator_mk2_tuck_shop";"Gladiator Mk.II [Tuck]";;
-"gladiator_mk2_tuck_0";"Gloster Aircraft Company, Ltd. | Tuck's Gladiator Mk.II";;
-"gladiator_mk2_tuck_1";"Gladiator Mk.II [Tuck]";;
-"gladiator_mk2_tuck_2";"Gladiator Mk.II [Tuck]";;
-#
-"gladiator_mk2_shop";"Gladiator Mk.II";;
-"gladiator_mk2_0";"Gloster Aircraft Company, Ltd. | Gladiator Mk.II";;
-"gladiator_mk2_1";"Gladiator Mk.II";;
-"gladiator_mk2_2";"Gladiator Mk.II";;
-#
-"nimrod_mk1_shop";"Nimrod Mk.I";;
-"nimrod_mk1_0";"Hawker Aircraft, Ltd. | Nimrod Mk.I";;
-"nimrod_mk1_1";"Nimrod Mk.I";;
-"nimrod_mk1_2";"Nimrod Mk.I";;
-#
-"nimrod_mk2_shop";"Nimrod Mk.II";;
-"nimrod_mk2_0";"Hawker Aircraft, Ltd. | Nimrod Mk.II";;
-"nimrod_mk2_1";"Nimrod Mk.II";;
-"nimrod_mk2_2";"Nimrod Mk.II";;
-#
-"gladiator_mk2_navy_shop";"Sea Gladiator Mk.I";;
-"gladiator_mk2_navy_0";"Gloster Aircraft Company, Ltd. | Sea Gladiator Mk.I";;
-"gladiator_mk2_navy_1";"Sea Gladiator Mk.I";;
-"gladiator_mk2_navy_2";"Sea Gladiator Mk.I";;
-#
-"v_156_b1_shop";"Chesapeake Mk.I";;
-"v_156_b1_0";"Chance Vought Corporation | Chesapeake Mk.I | V-156B-1";;
-"v_156_b1_1";"Chesapeake Mk.I";;
-"v_156_b1_2";"Chesapeake Mk.I";;
-#
-"blenheim_mkiv_shop";"Blenheim Mm.IV";;
-"blenheim_mkiv_0";"Bristol Aeroplane Company | Blenheim Mk.IV";;
-"blenheim_mkiv_1";"Blenheim Mk.IV";;
-"blenheim_mkiv_2";"Blenheim Mk.IV";;
-#
-"beaufort_mkviii_shop";"DAP Beaufort Mk.VIII";;
-"beaufort_mkviii_0";"Bristol Aeroplane Company / Department of Aircraft Production (DAP) | Beaufort Mk.VIII";;
-"beaufort_mkviii_1";"DAP Beaufort Mk.VIII";;
-"beaufort_mkviii_2";"DAP Beaufort Mk.VIII";;
-#
-"swordfish_mk1_shop";"Swordfish Mk.I";;
-"swordfish_mk1_0";"Fairey Aviation Company, Ltd. | Swordfish Mk.I";;
-"swordfish_mk1_1";"Swordfish Mk.I";;
-"swordfish_mk1_2";"Swordfish Mk.I";;
-#
-"hp52_hampden_mk1_late_shop";"Hampden Mk.I";;
-"hp52_hampden_mk1_late_0";"Handley Page, Ltd. | HP.52 Hampden Mk.I";;
-"hp52_hampden_mk1_late_1";"Hampden Mk.I";;
-"hp52_hampden_mk1_late_2";"Hampden Mk.I";;
-#
-"hp52_hampden_tbmk1_shop";"Hampden TB.I";;
-"hp52_hampden_tbmk1_0";"Handley Page, Ltd. | HP.52 Hampden | Torpedo Bomber, Mk.I";;
-"hp52_hampden_tbmk1_1";"Hampden TB.I";;
-"hp52_hampden_tbmk1_2";"Hampden TB.I";;
-#
-"wirraway_shop";"Wirraway Mk.I";;
-"wirraway_0";"Commonwealth Aircraft Corporation (CAC) | Wirraway Mk.I";;
-"wirraway_1";"Wirraway Mk.I";;
-"wirraway_2";"Wirraway Mk.I";;
-#
-"pby-5a_raf_shop";"Catalina Mk.IIIA";;
-"pby-5a_raf_0";"Consolidated Aircraft Corporation | Catalina Mk.IIIA | PBY-5A";;
-"pby-5a_raf_1";"Catalina Mk.IIIA";;
-"pby-5a_raf_2";"Catalina Mk.IIIA";;
-#
-"tempest_mkv_vikkers_shop";"Tempest F.V (PV)";;
-"tempest_mkv_vikkers_0";"Hawker Aircraft, Ltd. | Tempest | Fighter, Mk.V Series 2 (Class P, Vickers)";;
-"tempest_mkv_vikkers_1";"Tempest F.V (PV)";;
-"tempest_mkv_vikkers_2";"Tempest F.V (PV)";;
-#
-"thunderbolt_mk1_shop";"▄P-47D-22 Thunderbolt Mk.1";;
-"thunderbolt_mk1_0";"Republic Aviation Corporation | ▄P-47D Thunderbolt | Block 22, Mk.1";;
-"thunderbolt_mk1_1";"▄P-47D-22 Thunderbolt Mk.1";;
-"thunderbolt_mk1_2";"▄P-47D-22";;
-#
-"p-51b_shop";"▄P-51B Mustang Mk.IA";;
-"p-51b_0";"North American Aviation | ▄P-51B Mustang Mk.IA";;
-"p-51b_1";"▄P-51B Mustang Mk.IA";;
-"p-51b_2";"▄P-51B Mk.IA";;
-#
-"seafire_mk3_shop";"Seafire L.III";;
-"seafire_mk3_0";"Supermarine Aviation Works | Seafire | Low-Altitude Fighter, Mk.III";;
-"seafire_mk3_1";"Seafire L.III";;
-"seafire_mk3_2";"Seafire L.III";;
-#
-"sea_fury_fb11_shop";"Sea Fury FB.11";;
-"sea_fury_fb11_0";"Hawker Aircraft, Ltd. | Sea Fury | Fighter-Bomber, Mk.11";;
-"sea_fury_fb11_1";"Sea Fury FB.11";;
-"sea_fury_fb11_2";"Sea Fury FB.11";;
-#
-"seafire_fr47_shop";"Seafire FR.47";;
-"seafire_fr47_0";"Supermarine Aviation Works | Seafire | Fighter/Reconnaissance, Mk.47";;
-"seafire_fr47_1";"Seafire FR.47";;
-"seafire_fr47_2";"Seafire FR.47";;
-#
-"seafire_mk17_shop";"Seafire F.XVII";;
-"seafire_mk17_0";"Supermarine Aviation Works | Seafire | Fighter, Mk.XVII";;
-"seafire_mk17_1";"Seafire F.XVII";;
-"seafire_mk17_2";"Seafire F.XVII";;
-#
-"hornet_mk1_shop";"Hornet F.1";;
-"hornet_mk1_0";"de Havilland Aircraft Company, Ltd. | DH.103 Hornet | Fighter, Mk.1";;
-"hornet_mk1_1";"Hornet F.1";;
-"hornet_mk1_2";"Hornet F.1";;
-#
-"hornet_mk3_shop";"Hornet F.3";;
-"hornet_mk3_0";"de Havilland Aircraft Company, Ltd. | DH.103 Hornet | Fighter, Mk.3";;
-"hornet_mk3_1";"Hornet F.3";;
-"hornet_mk3_2";"Hornet F.3";;
-#
-"spitfire_mk14e_shop";"Spitfire F.XIVe";;
-"spitfire_mk14e_0";"Supermarine Aviation Works | Spitfire | Fighter, Mk.XIVe";;
-"spitfire_mk14e_1";"Spitfire F.XIVe";;
-"spitfire_mk14e_2";"Spitfire F.XIVe";;
-#
-"spitfire_mk14c_shop";"Spitfire F.XIVc";;
-"spitfire_mk14c_0";"Supermarine Aviation Works | Spitfire | Fighter, Mk.XIVc";;
-"spitfire_mk14c_1";"Spitfire F.XIVc";;
-"spitfire_mk14c_2";"Spitfire F.XIVc";;
-#
-"spitfire_mk18e_shop";"Spitfire F.XVIIIe";;
-"spitfire_mk18e_0";"Supermarine Aviation Works | Spitfire | Fighter, Mk.XVIIIe";;
-"spitfire_mk18e_1";"Spitfire F.XVIIIe";;
-"spitfire_mk18e_2";"Spitfire F.XVIIIe";;
-#
-"spitfire_f22_shop";"Spitfire F.22";;
-"spitfire_f22_0";"Supermarine Aviation Works | Spitfire | Fighter, Mk.22";;
-"spitfire_f22_1";"Spitfire F.22";;
-"spitfire_f22_2";"Spitfire F.22";;
-#
-"spitfire_f24_shop";"Spitfire F.24";;
-"spitfire_f24_0";"Supermarine Aviation Works | Spitfire | Fighter, Mk.24";;
-"spitfire_f24_1";"Spitfire F.24";;
-"spitfire_f24_2";"Spitfire F.24";;
-#
-"spitfire_ix_plagis_shop";"Spitfire LF.IXc [Plagis]";;
-"spitfire_ix_plagis_0";"Supermarine Aviation Works | Spitfire | Low-Altitude Fighter, Mk.IXc";;
-"spitfire_ix_plagis_1";"Spitfire LF.IXc [Plagis]";;
-"spitfire_ix_plagis_2";"Spitfire LF.IXc";;
-#
-"spitfire_ix_shop";"Spitfire LF.IX";;
-"spitfire_ix_0";"Supermarine Aviation Works | Plagis' Spitfire | Low-Altitude Fighter, Mk.IX";;
-"spitfire_ix_1";"Spitfire LF.IX";;
-"spitfire_ix_2";"Spitfire LF.IX";;
-#
-"spitfire_ix_tutorial_shop";"Spitfire LF.IX";;
-"spitfire_ix_tutorial_0";"Supermarine Aviation Works | Spitfire | Low-Altitude Fighter, Mk.IX";;
-"spitfire_ix_tutorial_1";"Spitfire LF.IX";;
-"spitfire_ix_tutorial_2";"Spitfire LF.IX";;
-#
-"wyvern_s4_shop";"Wyvern S.4";;
-"wyvern_s4_0";"Westland Aircraft | W.35 Wyvern | Strike, Mk.4";;
-"wyvern_s4_1";"Wyvern S.4";;
-"wyvern_s4_2";"Wyvern S.4";;
-#
-"mb_5_shop";"MB.5";;
-"mb_5_0";"Martin Baker Aircraft Company, Ltd. | MB.5";;
-"mb_5_1";"MB.5";;
-"mb_5_2";"MB.5";;
-#
-"tempest_mk2_shop";"Tempest F.II";;
-"tempest_mk2_0";"Hawker Aircraft, Ltd. | Tempest | Fighter, Mk.II";;
-"tempest_mk2_1";"Tempest F.II";;
-"tempest_mk2_2";"Tempest F.II";;
-#
-"tempest_mkv_shop";"Tempest F.V";;
-"tempest_mkv_0";"Hawker Aircraft, Ltd. | Tempest | Fighter, Mk.V Series 2";;
-"tempest_mkv_1";"Tempest F.V";;
-"tempest_mkv_2";"Tempest F.V";;
-#
-"venom_fb4_shop";"Venom FB.4";;
-"venom_fb4_0";"de Havilland Aircraft Company, Ltd. | DH.112 Venom | Fighter-Bomber, Mk.4";;
-"venom_fb4_1";"Venom FB.4";;
-"venom_fb4_2";"Venom FB.4";;
-#
-"vampire_fb5_shop";"Vampire FB.5";;
-"vampire_fb5_0";"de Havilland Aircraft Company, Ltd. | DH.100 Vampire | Fighter-Bomber, Mk.5";;
-"vampire_fb5_1";"Vampire FB.5";;
-"vampire_fb5_2";"Vampire FB.5";;
-#
-"meteor_fmk3_shop";"Meteor F.3";;
-"meteor_fmk3_0";"Gloster Aircraft Company, Ltd. | Meteor | Fighter, Mk.3";;
-"meteor_fmk3_1";"Meteor F.3";;
-"meteor_fmk3_2";"Meteor F.3";;
-#
-"meteor_fmk3_navy_shop";"Sea Meteor F.3";;
-"meteor_fmk3_navy_0";"Gloster Aircraft Company, Ltd. | Sea Meteor | Fighter, Mk.3";;
-"meteor_fmk3_navy_1";"Sea Meteor F.3";;
-"meteor_fmk3_navy_2";"Sea Meteor F.3";;
-#
-"meteor_fmk4_lw_shop";"G.41F Meteor F.4";;
-"meteor_fmk4_lw_0";"Gloster Aircraft Company, Ltd. | Meteor | Fighter, Mk.4, Type G.41F";;
-"meteor_fmk4_lw_1";"G.41F Meteor F.4";;
-"meteor_fmk4_lw_2";"G.41F Meteor F.4";;
-#
-"meteor_fmk4_sw_shop";"G.41G Meteor F.4";;
-"meteor_fmk4_sw_0";"Gloster Aircraft Company, Ltd. | Meteor | Fighter, Mk.4, Type G.41G";;
-"meteor_fmk4_sw_1";"G.41G Meteor F.4";;
-"meteor_fmk4_sw_2";"G.41G Meteor F.4";;
-#
-"meteor_fmk8_shop";"G.41K Meteor F.8";;
-"meteor_fmk8_0";"Gloster Aircraft Company, Ltd. | Meteor | Fighter, Mk.8, Type G.41K";;
-"meteor_fmk8_1";"G.41K Meteor F.8";;
-"meteor_fmk8_2";"G.41K Meteor F.8";;
-#
-"attaker_fb1_shop";"Attacker FB.1";;
-"attaker_fb1_0";"Supermarine Aviation Works | Attacker | Fighter-Bomber, Mk.1";;
-"attaker_fb1_1";"Attacker FB.1";;
-"attaker_fb1_2";"Attacker FB.1";;
-#
-"attaker_fb2_shop";"Attacker FB.2";;
-"attaker_fb2_0";"Supermarine Aviation Works | Attacker | Fighter-Bomber, Mk.2";;
-"attaker_fb2_1";"Attacker FB.2";;
-"attaker_fb2_2";"Attacker FB.2";;
-#
-"sea_hawk_fga6_shop";"Sea Hawk FGA.6";;
-"sea_hawk_fga6_0";"Hawker Aircraft, Ltd. | Sea Hawk | Fighter/Ground Attack, Mk.6";;
-"sea_hawk_fga6_1";"Sea Hawk FGA.6";;
-"sea_hawk_fga6_2";"Sea Hawk FGA.6";;
-#
-"sea_venom_faw20_shop";"Sea Venom FAW.20";;
-"sea_venom_faw20_0";"de Havilland Aircraft Company, Ltd. | DH.112 Sea Venom | Fighter All-Weather, Mk.20";;
-"sea_venom_faw20_1";"Sea Venom FAW.20";;
-"sea_venom_faw20_2";"Sea Venom FAW.20";;
-#
-"swift_f1_shop";"Swift F.1";;
-"swift_f1_0";"Supermarine Aviation Works | Swift | Fighter, Mk.1";;
-"swift_f1_1";"Swift F.1";;
-"swift_f1_2";"Swift F.1";;
-#
-"swift_f7_shop";"Swift F.7";;
-"swift_f7_0";"Supermarine Aviation Works | Swift | Fighter, Mk.7";;
-"swift_f7_1";"Swift F.7";;
-"swift_f7_2";"Swift F.7";;
-#
-"canberra_bmk2_shop";"Canberra B.2";;
-"canberra_bmk2_0";"The English Electric Company, Ltd. | Canberra | Bomber, Mk.2";;
-"canberra_bmk2_1";"Canberra B.2";;
-"canberra_bmk2_2";"Canberra B.2";;
-#
-"canberra_bimk6_shop";"Canberra B(I).6";;
-"canberra_bimk6_0";"The English Electric Company, Ltd. | Canberra | Bomber/Interdictor, Mk.6";;
-"canberra_bimk6_1";"Canberra B(I).6";;
-"canberra_bimk6_2";"Canberra B(I).6";;
-#
-"meteor_fmk8_reaper_shop";"Meteor F.8 Reaper";;
-"meteor_fmk8_reaper_0";"Gloster Aircraft Company, Ltd. | Meteor Reaper | Fighter, Mk.8";;
-"meteor_fmk8_reaper_1";"Meteor F.8 Reaper";;
-"meteor_fmk8_reaper_2";"Meteor F.8";;
-#
-"marut_mk1_shop";"Marut Mk.1";;
-"marut_mk1_0";"Hindustan Aeronautics, Ltd. (HAL) | HF-24 Marut Mk.1";;
-"marut_mk1_1";"Marut Mk.1";;
-"marut_mk1_2";"Marut Mk.1";;
-#
-"dh_110_sea_vixen_shop";"Sea Vixen FAW.2";;
-"dh_110_sea_vixen_0";"de Havilland Aircraft Company, Ltd. | DH.110 Sea Vixen | Fighter All-Weather, Mk.2";;
-"dh_110_sea_vixen_1";"Sea Vixen FAW.2";;
-"dh_110_sea_vixen_2";"Sea Vixen FAW.2";;
-#
-"scimitar_f1_shop";"Scimitar F.1";;
-"scimitar_f1_0";"Supermarine Aviation Works | Scimitar | Fighter, Mk.1";;
-"scimitar_f1_1";"Scimitar F.1";;
-"scimitar_f1_2";"Scimitar F.1";;
-#
-"hunter_f1_shop";"Hunter F.1";;
-"hunter_f1_0";"Hawker Aircraft, Ltd. | Hunter | Fighter, Mk.1";;
-"hunter_f1_1";"Hunter F.1";;
-"hunter_f1_2";"Hunter F.1";;
-#
-"hunter_f6_shop";"Hunter F.6";;
-"hunter_f6_0";"Hawker Aircraft, Ltd. | Hunter | Fighter, Mk.6";;
-"hunter_f6_1";"Hunter F.6";;
-"hunter_f6_2";"Hunter F.6";;
-#
-"javelin_fmk9_shop";"Javelin FAW.9";;
-"javelin_fmk9_0";"Gloster Aircraft Company, Ltd. | GA.5 Javelin | Fighter All-Weather, Mk.9";;
-"javelin_fmk9_1";"Javelin FAW.9";;
-"javelin_fmk9_2";"Javelin FAW.9";;
-#
-"lightning_f6_shop";"Lightning F.6";;
-"lightning_f6_0";"British Aircraft Corporation | Lightning | Fighter, Mk.6";;
-"lightning_f6_1";"Lightning F.6";;
-"lightning_f6_2";"Lightning F.6";;
-#
-"lightning_f53_shop";"▌Lightning F.53";;
-"lightning_f53_0";"British Aircraft Corporation | ▌Lightning | Fighter, Mk.53";;
-"lightning_f53_1";"▌Lightning F.53";;
-"lightning_f53_2";"▌Lightning F.53";;
-#
-"buccaneer_s1_shop";"Buccaneer S.1";;
-"buccaneer_s1_0";"Blackburn Aircraft, Ltd. | Buccaneer | Strike, Mk.1";;
-"buccaneer_s1_1";"Buccaneer S.1";;
-"buccaneer_s1_2";"Buccaneer S.1";;
-#
-"buccaneer_s2_shop";"Buccaneer S.2";;
-"buccaneer_s2_0";"Blackburn Aircraft, Ltd. | Buccaneer | Strike, Mk.2";;
-"buccaneer_s2_1";"Buccaneer S.2";;
-"buccaneer_s2_2";"Buccaneer S.2";;
-#
-"harrier_gr1_shop";"Harrier GR.1";;
-"harrier_gr1_0";"Hawker Siddeley Group, Ltd. | Harrier | Ground Attack/Reconnaissance, Mk.1";;
-"harrier_gr1_1";"Harrier GR.1";;
-"harrier_gr1_2";"Harrier GR.1";;
-#
-"harrier_gr3_shop";"Harrier GR.3";;
-"harrier_gr3_0";"Hawker Siddeley Group, Ltd. | Harrier | Ground Attack/Reconnaissance, Mk.3";;
-"harrier_gr3_1";"Harrier GR.3";;
-"harrier_gr3_2";"Harrier GR.3";;
-#
-"jaguar_gr1_shop";"▄Jaguar GR.1";;
-"jaguar_gr1_0";"Société Européenne de Production de l'avion Ecole de Combat et d'Appui Tactique (SEPECAT) | ▄Jaguar | Ground Attack/Reconnaissance, Mk.1";;
-"jaguar_gr1_1";"▄Jaguar GR.1";;
-"jaguar_gr1_2";"▄Jaguar GR.1";;
-#
-"buccaneer_s2b_shop";"Buccaneer S.2B";;
-"buccaneer_s2b_0";"Blackburn Aircraft, Ltd. | Buccaneer | Strike, Mk.2B";;
-"buccaneer_s2b_1";"Buccaneer S.2B";;
-"buccaneer_s2b_2";"Buccaneer S.2B";;
-#
-"jaguar_gr1a_shop";"▄Jaguar GR.1A";;
-"jaguar_gr1a_0";"Société Européenne de Production de l'avion Ecole de Combat et d'Appui Tactique (SEPECAT) | ▄Jaguar | Ground Attack/Reconnaissance, Mk.1A";;
-"jaguar_gr1a_1";"▄Jaguar GR.1A";;
-"jaguar_gr1a_2";"▄Jaguar GR.1A";;
-#
-"jaguar_is_shop";"☸Jaguar IS";;
-"jaguar_is_0";"Hindustan Aeronautics, Ltd. (HAL) | ☸Jaguar IS";;
-"jaguar_is_1";"☸Jaguar IS";;
-"jaguar_is_2";"☸Jaguar IS";;
-#
-"harrier_frs1_early_shop";"Sea Harrier FRS.1 (1978)";;
-"harrier_frs1_early_0";"British Aerospace PLC | Sea Harrier | Fighter/Reconnaissance/Strike, Mk.1 (1978)";;
-"harrier_frs1_early_1";"Sea Harrier FRS.1 (1978)";;
-"harrier_frs1_early_2";"Sea Harrier FRS.1";;
-#
-"harrier_frs1_shop";"Sea Harrier FRS.1";;
-"harrier_frs1_0";"British Aerospace PLC | Sea Harrier | Fighter/Reconnaissance/Strike, Mk.1";;
-"harrier_frs1_1";"Sea Harrier FRS.1";;
-"harrier_frs1_2";"Sea Harrier FRS.1";;
-#
-"f-4m_fgr2_shop";"▄F-4M Phantom FGR.2";;
-"f-4m_fgr2_0";"Hawker Siddeley Group, Ltd. | ▄F-4M Phantom | Fighter/Ground Attack/Reconnaissance, Mk.2";;
-"f-4m_fgr2_1";"▄F-4M Phantom FGR.2";;
-"f-4m_fgr2_2";"▄F-4M FGR.2";;
-#
-"f-4k_shop";"▄F-4K Phantom FG.1";;
-"f-4k_0";"McDonnell Douglas Corporation | ▄F-4K Phantom | Fighter/Ground Attack, Mk.1";;
-"f-4k_1";"▄F-4K Phantom FG.1";;
-"f-4k_2";"▄F-4K FG.1";;
-#
-"f-4jk_shop";"▄F-4J Phantom F.3";;
-"f-4jk_0";"McDonnell Douglas Corporation | ▄F-4J Phantom | Fighter, Mk.3";;
-"f-4jk_1";"▄F-4J Phantom F.3";;
-"f-4jk_2";"▄F-4J F.3";;
-#
-"ef_2000_fgr4_shop";"▄Typhoon FGR.4 (C2)";;
-"ef_2000_fgr4_0";"Eurofighter Jagdflugzeug GmbH | ▄Typhoon | Fighter/Ground Attack/Reconnaissance, Mk.4 | Centurion Phase 2 (2018)";;
-"ef_2000_fgr4_1";"▄Typhoon FGR.4 (C2)";;
-"ef_2000_fgr4_2";"▄Typhoon FGR.4 (C2)";;
-#
-"harrier_gr7_shop";"Harrier GR.7";;
-"harrier_gr7_0";"British Aerospace PLC | Harrier | Ground Attack/Reconnaissance, Mk.7";;
-"harrier_gr7_1";"Harrier GR.7";;
-"harrier_gr7_2";"Harrier GR.7";;
-#
-"sea_harrier_fa2_shop";"Sea Harrier FA.2";;
-"sea_harrier_fa2_0";"British Aerospace PLC | Sea Harrier | Fighter/Attack, Mk.2";;
-"sea_harrier_fa2_1";"Sea Harrier FA.2";;
-"sea_harrier_fa2_2";"Sea Harrier FA.2";;
-#
-"harrier_t10_shop";"Harrier T.10";;
-"harrier_t10_0";"Hawker Siddeley Group, Ltd. | Harrier | Training, Mk.10";;
-"harrier_t10_1";"Harrier T.10";;
-"harrier_t10_2";"Harrier T.10";;
-#
-"saab_jas39c_south_africa_shop";"▄JAS 39C Gripen";;
-"saab_jas39c_south_africa_0";"Saab AB | ▄JAS 39C Gripen";;
-"saab_jas39c_south_africa_1";"▄JAS 39C Gripen";;
-"saab_jas39c_south_africa_2";"▄JAS 39C";;
-#
-"saab_jas39c_south_africa_missile_test_shop";"▄JAS 39C Gripen";;
-"saab_jas39c_south_africa_missile_test_0";"Saab AB | ▄JAS 39C Gripen";;
-"saab_jas39c_south_africa_missile_test_1";"▄JAS 39C Gripen";;
-"saab_jas39c_south_africa__missile_test2";"▄JAS 39C";;
-#
-"tornado_gr1_shop";"▄Tornado GR.1";;
-"tornado_gr1_0";"Panavia Aircraft GmbH | ▄Tornado | Ground Attack/Reconnaissance, Mk.1";;
-"tornado_gr1_1";"▄Tornado GR.1";;
-"tornado_gr1_2";"▄Tornado GR.1";;
-#
-"tornado_gr4_shop";"▄Tornado GR.4";;
-"tornado_gr4_0";"BAE Systems | ▄Tornado | Ground Attack/Reconnaissance, Mk.4";;
-"tornado_gr4_1";"▄Tornado GR.4";;
-"tornado_gr4_2";"▄Tornado GR.4";;
-#
-"tornado_f3_shop";"▄Tornado F.3 (1989)";;
-"tornado_f3_0";"Panavia Aircraft GmbH | ▄Tornado | Fighter, Mk.3 (1989)";;
-"tornado_f3_1";"▄Tornado F.3 (1989)";;
-"tornado_f3_2";"▄Tornado F.3 (1989)";;
-#
-"tornado_f3_late_shop";"▄Tornado F.3 AOP (2003)";;
-"tornado_f3_late_0";"Panavia Aircraft GmbH | ▄Tornado | Fighter, Mk.3 | AMRAAM Optimization Programme (2003)";;
-"tornado_f3_late_1";"▄Tornado F.3 AOP (2003)";;
-"tornado_f3_late_2";"▄Tornado F.3 AOP (2003)";;
-#
-"mig-21_bison_shop";"☸MiG-21UPG Bison";;
-"mig-21_bison_0";"Hindustan Aeronautics, Ltd. (HAL) | ☸MiG-21UPG Bison";;
-"mig-21_bison_1";"☸MiG-21UPG Bison";;
-"mig-21_bison_2";"☸MiG-21UPG";;
-#
-"cf_188a_canada_shop";"▄CF-188A Hornet";;
-"cf_188a_canada_0";"McDonnell Douglas Corporation | ▄CF-188A Hornet";;
-"cf_188a_canada_1";"▄CF-188A Hornet";;
-"cf_188a_canada_2";"▄CF-188A";;
-#
-"fa_18a_raaf_shop";"▄F/A-18A Hornet";;
-"fa_18a_raaf_0";"Government Aircraft Factories (GAF) | ▄F/A-18A Hornet";;
-"fa_18a_raaf_1";"▄F/A-18A Hornet";;
-"fa_18a_raaf_2";"▄F/A-18A";;
-#
-"fa_18a_hug_2_raaf_shop";"▄F/A-18A Hornet (HUG 2.4)";;
-"fa_18a_hug_2_raaf_0";"Boeing Australia Holdings Pty, Ltd. | ▄F/A-18A Hornet | Hornet Upgrade Program, Phase 2.4";;
-"fa_18a_hug_2_raaf_1";"▄F/A-18A Hornet (HUG 2.4)";;
-"fa_18a_hug_2_raaf_2";"▄F/A-18A (HUG 2.4)";;
-#
-"hawk_200_shop";"Hawk 200";;
-"hawk_200_0";"British Aerospace plc | Hawk 200";;
-"hawk_200_1";"Hawk 200";;
-"hawk_200_2";"Hawk 200";;
-#
-"hawk_200_rda_shop";"Hawk 200 (RDA)";;
-"hawk_200_rda_0";"British Aerospace plc | Hawk 200 | Radar Development Aircraft";;
-"hawk_200_rda_1";"Hawk 200 (RDA)";;
-"hawk_200_rda_2";"Hawk 200 (RDA)";;
-#
-tornado_ids_de_assta1_britain_killstreak_shop;☢Tornado GR.1;;
-tornado_ids_de_assta1_britain_killstreak_0;Panavia Aircraft GmbH | ☢Tornado | Ground Attack/Reconnaissance, Mk.1;;
-tornado_ids_de_assta1_britain_killstreak_1;☢Tornado GR.1;;
-tornado_ids_de_assta1_britain_killstreak_2;☢Tornado GR.1;;
-#
-mosquito_b_mk16_shop;Mosquito B.XVI;;
-mosquito_b_mk16_0;de Havilland Aircraft Company, Ltd. | Mosquito | Bomber, Mk.XVI;;
-mosquito_b_mk16_1;Mosquito B.XVI;;
-mosquito_b_mk16_2;Mosquito B.XVI;;
-#
-f_111c_raaf_shop;▄F-111C Aardvark (1986);;
-f_111c_raaf_0;General Dynamics Corporation | ▄F-111C Aardvark | Pave Tack Modification (1986);;
-f_111c_raaf_1;▄F-111C Aardvark (1986);;
-f_111c_raaf_2;▄F-111C (1986);;
-#
-ef_2000_typhoon_aesa_shop;▄Typhoon FGR.4 (ZK355);;
-ef_2000_typhoon_aesa_0;Eurofighter Jagdflugzeug GmbH | ▄Typhoon | Fighter/Ground Attack/Reconnaissance, Mk.4 | ZK355 Testbed (2024);;
-ef_2000_typhoon_aesa_1;▄Typhoon FGR.4 (ZK355);;
-ef_2000_typhoon_aesa_2;▄Typhoon FGR.4 (ZK355);;
-#
-fa_18f_block_2_raaf_shop;▄F/A-18F-2 Super Hornet;;
-fa_18f_block_2_raaf_0;Boeing Defense, Space & Security | ▄F/A-18F-2 Super Hornet | Block 2;;
-fa_18f_block_2_raaf_1;▄F/A-18F-2 Super Hornet;;
-fa_18f_block_2_raaf_2;▄F/A-18F-2;;
-#
-"shop/group/meteor3_group";"Meteor F.3";;
-"shop/group/meteor4_group";"Meteor F.4";;
-"shop/group/blenheim_group";"Blenheim/Beaufort";;
-"shop/group/spitfire_mk1_group";"Spitfire (1938-1939)";;
-"shop/group/sunderland_group";"Sunderland";;
-"shop/group/beaufighter_group";"Beaufighter";;
-"shop/group/spitfire_mk5b_group";"Spitfire Mk Vb";;
-"shop/group/wellington_late_group";"Wellington (1942)";;
-"shop/group/spitfire_mk5c_group";"Spitfire Mk Vc";;
-"shop/group/brigand_group";"Brigand/Whirlwind";;
-"shop/group/stirling_group";"Stirling";;
-"shop/group/spitfire_mk9e_group";"Spitfire (1943-1947)";;
-"shop/group/lincoln_group";"Lincoln/Shackleton";;
-"shop/group/canberra_group";"Canberra B";;
-"shop/group/sea_hawk_group";"Sea Hawk/Sea Venom";;
-"shop/group/hurricane_group";"Hurricane";;
-"shop/group/firefly_group";"Firefly";;
-"shop/group/seafire_group";"Seafire";;
-"shop/group/spitfire_griffon_group";"Spitfire F.22/24";;
-"shop/group/hawk_200_group";"Hawk 200/200 (RDA)";;
-shop/group/fa_18a_raaf_group;▄F/A-18A Hornet;;
+"<ID|readonly|noverify>";"<English>";
+#
+"lancaster_mk1_shop";"Lancaster B.I";
+"lancaster_mk1_0";"A.V. Roe and Company | Lancaster | Bomber, Mk.I";
+"lancaster_mk1_1";"Lancaster B.I";
+"lancaster_mk1_2";"Lancaster B.I";
+#
+"lancaster_mk3_shop";"Lancaster B.III";
+"lancaster_mk3_0";"A.V. Roe and Company | Lancaster | Bomber, Mk.III";
+"lancaster_mk3_1";"Lancaster B.III";
+"lancaster_mk3_2";"Lancaster B.III";
+#
+typhoon_mk1a_shop;Typhoon Mk.IA;
+typhoon_mk1a_0;Hawker Aircraft, Ltd. | Typhoon Mk.IA;
+typhoon_mk1a_1;Typhoon Mk.IA;
+typhoon_mk1a_2;Typhoon Mk.IA;
+#
+"typhoon_mk1b_late_shop";"Typhoon Mk.IB (1943)";
+"typhoon_mk1b_late_0";"Hawker Aircraft, Ltd. | Typhoon Mk.IB (1943)";
+"typhoon_mk1b_late_1";"Typhoon Mk.IB (1943)";
+"typhoon_mk1b_late_2";"Typhoon Mk.IB (1943)";
+#
+"spitfire_mk5c_shop";"Spitfire Mk.VC(trop)";
+"spitfire_mk5c_0";"Supermarine Aviation Works | Spitfire Mk.V | Type C Wing | Tropicalised";
+"spitfire_mk5c_1";"Spitfire Mk.VC(trop)";
+"spitfire_mk5c_2";"Spitfire Mk.VC(trop)";
+#
+"spitfire_mk5c_notrop_shop";"Spitfire Mk.VC";
+"spitfire_mk5c_notrop_0";"Supermarine Aviation Works | Spitfire Mk.V | Type C Wing";
+"spitfire_mk5c_notrop_1";"Spitfire Mk.VC";
+"spitfire_mk5c_notrop_2";"Spitfire Mk.VC";
+#
+"firefly_mk1_shop";"Firefly F.I";
+"firefly_mk1_0";"Fairey Aviation Company, Ltd. | Firefly | Fighter, Mk.I";
+"firefly_mk1_1";"Firefly F.I";
+"firefly_mk1_2";"Firefly F.I";
+#
+"firefly_mk5_shop";"Firefly FR.V";
+"firefly_mk5_0";"Fairey Aviation Company, Ltd. | Firefly | Fighter/Reconnaissance, Mk.V";
+"firefly_mk5_1";"Firefly FR.V";
+"firefly_mk5_2";"Firefly FR.V";
+#
+"mosquito_fb_mk6_shop";"Mosquito FB.VI";
+"mosquito_fb_mk6_0";"de Havilland Aircraft Company, Ltd. | Mosquito | Fighter/Bomber, Mk.VI";
+"mosquito_fb_mk6_1";"Mosquito FB.VI";
+"mosquito_fb_mk6_2";"Mosquito FB.VI";
+#
+"mosquito_fb_mk18_shop";"Mosquito FB.XVIII";
+"mosquito_fb_mk18_0";"de Havilland Aircraft Company, Ltd. | Mosquito | Fighter/Bomber, Mk.XVIII";
+"mosquito_fb_mk18_1";"Mosquito FB.XVIII";
+"mosquito_fb_mk18_2";"Mosquito FB.XVIII";
+#
+"halifax_mk3_shop";"Halifax B.IIIA";
+"halifax_mk3_0";"Handley Page, Ltd. | Halifax | Bomber, Mk.IIIA";
+"halifax_mk3_1";"Halifax B.IIIA";
+"halifax_mk3_2";"Halifax B.IIIA";
+#
+"stirling_mk1_shop";"Stirling B.I";
+"stirling_mk1_0";"Short Brothers plc | Stirling | Bomber, Mk.I";
+"stirling_mk1_1";"Stirling B.I";
+"stirling_mk1_2";"Stirling B.I";
+#
+"stirling_mk3_shop";"Stirling B.III";
+"stirling_mk3_0";"Short Brothers plc | Stirling | Bomber, Mk.III";
+"stirling_mk3_1";"Stirling B.III";
+"stirling_mk3_2";"Stirling B.III";
+#
+"hellcat_fmk1_shop";"Hellcat Mk.II";
+"hellcat_fmk1_0";"Grumman Aircraft Engineering Corporation | Hellcat Mk.II | F6F-5";
+"hellcat_fmk1_1";"Hellcat Mk.II";
+"hellcat_fmk1_2";"Hellcat Mk.II";
+#
+"whirlwind_p9_shop";"Whirlwind P.9";
+"whirlwind_p9_0";"Westland Aircraft | Whirlwind P.9 | 1938 Prototype";
+"whirlwind_p9_1";"Whirlwind P.9";
+"whirlwind_p9_2";"Whirlwind P.9";
+#
+"spitfire_mk9c_4cannons_shop";"Spitfire F.IXC";
+"spitfire_mk9c_4cannons_0";"Supermarine Aviation Works | Spitfire | Fighter, Mk.IX | Type C Wing";
+"spitfire_mk9c_4cannons_1";"Spitfire F.IXC";
+"spitfire_mk9c_4cannons_2";"Spitfire F.IXC";
+#
+"brigand_b1_shop";"Brigand B.I";
+"brigand_b1_0";"Bristol Aeroplane Company | Brigand | Bomber, Mk.I";
+"brigand_b1_1";"Brigand B.I";
+"brigand_b1_2";"Brigand B.I";
+#
+"whirlwind_mk1_shop";"Whirlwind Mk.I";
+"whirlwind_mk1_0";"Westland Aircraft | Whirlwind Mk.I";
+"whirlwind_mk1_1";"Whirlwind Mk.I";
+"whirlwind_mk1_2";"Whirlwind Mk.I";
+#
+"hurricanemkii_shop";"Hurricane Mk.IIB Trop.";
+"hurricanemkii_0";"Hawker Aircraft, Ltd. | Hurricane Mk.IIB | Tropicalised";
+"hurricanemkii_1";"Hurricane Mk.IIB Trop.";
+"hurricanemkii_2";"Hurricane Mk.IIB Trop.";
+#
+"hurricane_mk1_shop";"Hurricane Mk.I";
+"hurricane_mk1_0";"Hawker Aircraft, Ltd. | Hurricane Mk.I";
+"hurricane_mk1_1";"Hurricane Mk.I";
+"hurricane_mk1_2";"Hurricane Mk.I";
+#
+"spitfire_mk1_shop";"Spitfire Mk.IA";
+"spitfire_mk1_0";"Supermarine Aviation Works | Spitfire Mk.II | Type A Wing ";
+"spitfire_mk1_1";"Spitfire Mk.IA";
+"spitfire_mk1_2";"Spitfire Mk.IA";
+#
+"spitfiremkiia_shop";"Spitfire Mk.IIA";
+"spitfiremkiia_0";"Supermarine Aviation Works | Spitfire Mk.II | Type A Wing";
+"spitfiremkiia_1";"Spitfire Mk.IIA";
+"spitfiremkiia_2";"Spitfire Mk.IIA";
+#
+"spitfiremkii_shop";"Spitfire Mk.IIB";
+"spitfiremkii_0";"Supermarine Aviation Works | Spitfire Mk.II | Type B Wing ";
+"spitfiremkii_1";"Spitfire Mk.IIB";
+"spitfiremkii_2";"Spitfire Mk.IIB";
+#
+"spitfire_mk5b_shop";"Spitfire Mk.VB(trop)";
+"spitfire_mk5b_0";"Supermarine Aviation Works | Spitfire Mk.V | Type B Wing | Tropicalised";
+"spitfire_mk5b_1";"Spitfire Mk.VB(trop)";
+"spitfire_mk5b_2";"Spitfire Mk.VB(trop)";
+#
+"spitfire_mk5b_notrop_shop";"Spitfire Mk.VB";
+"spitfire_mk5b_notrop_0";"Supermarine Aviation Works | Spitfire Mk.V | Type B Wing";
+"spitfire_mk5b_notrop_1";"Spitfire Mk.VB";
+"spitfire_mk5b_notrop_2";"Spitfire Mk.VB";
+#
+"hurricane_mk1b_shop";"Sea Hurricane Mk.IB";
+"hurricane_mk1b_0";"Hawker Aircraft, Ltd. | Sea Hurricane Mk.IB";
+"hurricane_mk1b_1";"Sea Hurricane Mk.IB";
+"hurricane_mk1b_2";"Sea Hurricane Mk.IB";
+#
+"hurricane_mk1c_shop";"Sea Hurricane Mk.IC";
+"hurricane_mk1c_0";"Hawker Aircraft, Ltd. | Sea Hurricane Mk.IIC";
+"hurricane_mk1c_1";"Sea Hurricane Mk.IC";
+"hurricane_mk1c_2";"Sea Hurricane Mk.IC";
+#
+"firebrand_tf4_shop";"Firebrand TF.IV";
+"firebrand_tf4_0";"Blackburn Aircraft, Ltd. | Firebrand | Torpedo Fighter, Mk.IV";
+"firebrand_tf4_1";"Firebrand TF.IV";
+"firebrand_tf4_2";"Firebrand TF.IV";
+#
+"hurricane_mk4_shop";"Hurricane Mk.IV";
+"hurricane_mk4_0";"Hawker Aircraft, Ltd. | Hurricane Mk.IV";
+"hurricane_mk4_1";"Hurricane Mk.IV";
+"hurricane_mk4_2";"Hurricane Mk.IV";
+#
+"beaufighter_mk6c_shop";"Beaufighter Mk.VIC";
+"beaufighter_mk6c_0";"Bristol Aeroplane Company | Beaufighter Mk.VI | Coastal Command";
+"beaufighter_mk6c_1";"Beaufighter Mk.VIC";
+"beaufighter_mk6c_2";"Beaufighter Mk.VIC";
+#
+"beaufighter_mkx_shop";"Beaufighter TF.X";
+"beaufighter_mkx_0";"Bristol Aeroplane Company | Beaufighter | Torpedo Fighter, Mk.X";
+"beaufighter_mkx_1";"Beaufighter TF.X";
+"beaufighter_mkx_2";"Beaufighter TF.X";
+#
+"beaufighter_mk21_shop";"Beaufighter Mk.21";
+"beaufighter_mk21_0";"Bristol Aeroplane Company | Beaufighter Mk.21";
+"beaufighter_mk21_1";"Beaufighter Mk.21";
+"beaufighter_mk21_2";"Beaufighter Mk.21";
+#
+"sunderland_mk3a_shop";"Sunderland Mk.IIIA";
+"sunderland_mk3a_0";"Short Brothers plc | Sunderland Mk.IIIA";
+"sunderland_mk3a_1";"Sunderland Mk.IIIA";
+"sunderland_mk3a_2";"Sunderland Mk.IIIA";
+#
+"sunderland_mk5_shop";"Sunderland Mk.V";
+"sunderland_mk5_0";"Short Brothers plc | Sunderland Mk.V";
+"sunderland_mk5_1";"Sunderland Mk.V";
+"sunderland_mk5_2";"Sunderland Mk.V";
+#
+"wellington_mk1c_shop";"Wellington Mk.IC";
+"wellington_mk1c_0";"Vickers-Armstrongs, Ltd. | Wellington Mk.IC";
+"wellington_mk1c_1";"Wellington Mk.IC";
+"wellington_mk1c_2";"Wellington Mk.IC";
+#
+"wellington_mk1c_late_shop";"Wellington Mk.II";
+"wellington_mk1c_late_0";"Vickers-Armstrongs, Ltd. | Wellington Mk.II";
+"wellington_mk1c_late_1";"Wellington Mk.II";
+"wellington_mk1c_late_2";"Wellington Mk.II";
+#
+"wellington_mk3_shop";"Wellington Mk.III";
+"wellington_mk3_0";"Vickers-Armstrongs, Ltd. | Wellington Mk.III";
+"wellington_mk3_1";"Wellington Mk.III";
+"wellington_mk3_2";"Wellington Mk.III";
+#
+"wellington_mk10_shop";"Wellington Mk.X";
+"wellington_mk10_0";"Vickers-Armstrongs, Ltd. | Wellington Mk.X";
+"wellington_mk10_1";"Wellington Mk.X";
+"wellington_mk10_2";"Wellington Mk.X";
+#
+"avenger_mk1_shop";"Avenger GR.II";
+"avenger_mk1_0";"Grumman Aircraft Engineering Corporation | Avenger | Ground Attack/Reconnaissance, Mk.II | TBM-1C";
+"avenger_mk1_1";"Avenger GR.II";
+"avenger_mk1_2";"Avenger GR.II";
+#
+"b_48_firecrest_shop";"Firecrest";
+"b_48_firecrest_0";"Blackburn Aircraft, Ltd. | B.48 Firecrest | 1947 Prototype";
+"b_48_firecrest_1";"Firecrest";
+"b_48_firecrest_2";"Firecrest";
+#
+"corsair_fmk2_shop";"Corsair F.II";
+"corsair_fmk2_0";"Grumman Aircraft Engineering Corporation | Corsair | Fighter, Mk. II | F4U-1A";
+"corsair_fmk2_1";"Corsair F.II";
+"corsair_fmk2_2";"Corsair F.II";
+#
+"spitfiremkiia_ep_shop";"Spitfire Mk.IIA ""Venture I";
+"spitfiremkiia_ep_0";"Supermarine Aviation Works | Spitfire Mk.II ""Venture I"" | Type A Wing";
+"spitfiremkiia_ep_1";"Spitfire Mk.IIA ""Venture I""";
+"spitfiremkiia_ep_2";"Spitfire Mk.IIA ""Venture I""";
+#
+"beaufighter_mk1_40mm_shop";"DAP Beaufighter Mk.I (1940)";
+"beaufighter_mk1_40mm_0";"Bristol Aeroplane Company / Department of Aircraft Production (DAP) | Beaufighter Mk.I | Prototype R2055, 1940 Modification";
+"beaufighter_mk1_40mm_1";"DAP Beaufighter Mk.I (1940)";
+"beaufighter_mk1_40mm_2";"DAP Beaufighter Mk.I (1940)";
+#
+"boston_mk_1_shop";"Boston Mk.I";
+"boston_mk_1_0";"Douglas Aircraft Company | Boston Mk.I | DB-7";
+"boston_mk_1_1";"Boston Mk.I";
+"boston_mk_1_2";"Boston Mk.I";
+#
+"db_7_shop";"Boston Mk.III";
+"db_7_0";"Douglas Aircraft Company | Boston Mk.III | DB-7";
+"db_7_1";"Boston Mk.III";
+"db_7_2";"Boston Mk.III";
+#
+"f4f-4_martlet_mk4_shop";"Martlet Mk.IV";
+"f4f-4_martlet_mk4_0";"Grumman Aircraft Engineering Corporation | Martlet Mk.IV | F4F-4 Wildcat";
+"f4f-4_martlet_mk4_1";"Martlet Mk.IV";
+"f4f-4_martlet_mk4_2";"Martlet Mk.IV";
+#
+"boomerang_mki_shop";"Boomerang Mk.I";
+"boomerang_mki_0";"Commonwealth Aircraft Corporation | Boomerang Mk.I";
+"boomerang_mki_1";"Boomerang Mk.I";
+"boomerang_mki_2";"Boomerang Mk.I";
+#
+"boomerang_mkii_shop";"Boomerang Mk.II";
+"boomerang_mkii_0";"Commonwealth Aircraft Corporation | Boomerang Mk.II";
+"boomerang_mkii_1";"Boomerang Mk.II";
+"boomerang_mkii_2";"Boomerang Mk.II";
+#
+"fury_mk1_shop";"Fury Mk.I";
+"fury_mk1_0";"Hawker Aircraft, Ltd. | Fury Mk.I";
+"fury_mk1_1";"Fury Mk.I";
+"fury_mk1_2";"Fury Mk.I";
+#
+"fury_mk2_shop";"Fury Mk.II";
+"fury_mk2_0";"Hawker Aircraft, Ltd. | Fury Mk.II";
+"fury_mk2_1";"Fury Mk.II";
+"fury_mk2_2";"Fury Mk.II";
+#
+"gladiator_mk2_tuck_shop";"Gladiator Mk.II [Tuck]";
+"gladiator_mk2_tuck_0";"Gloster Aircraft Company, Ltd. | Tuck's Gladiator Mk.II";
+"gladiator_mk2_tuck_1";"Gladiator Mk.II [Tuck]";
+"gladiator_mk2_tuck_2";"Gladiator Mk.II [Tuck]";
+#
+"gladiator_mk2_shop";"Gladiator Mk.II";
+"gladiator_mk2_0";"Gloster Aircraft Company, Ltd. | Gladiator Mk.II";
+"gladiator_mk2_1";"Gladiator Mk.II";
+"gladiator_mk2_2";"Gladiator Mk.II";
+#
+"nimrod_mk1_shop";"Nimrod Mk.I";
+"nimrod_mk1_0";"Hawker Aircraft, Ltd. | Nimrod Mk.I";
+"nimrod_mk1_1";"Nimrod Mk.I";
+"nimrod_mk1_2";"Nimrod Mk.I";
+#
+"nimrod_mk2_shop";"Nimrod Mk.II";
+"nimrod_mk2_0";"Hawker Aircraft, Ltd. | Nimrod Mk.II";
+"nimrod_mk2_1";"Nimrod Mk.II";
+"nimrod_mk2_2";"Nimrod Mk.II";
+#
+"gladiator_mk2_navy_shop";"Sea Gladiator Mk.I";
+"gladiator_mk2_navy_0";"Gloster Aircraft Company, Ltd. | Sea Gladiator Mk.I";
+"gladiator_mk2_navy_1";"Sea Gladiator Mk.I";
+"gladiator_mk2_navy_2";"Sea Gladiator Mk.I";
+#
+"v_156_b1_shop";"Chesapeake Mk.I";
+"v_156_b1_0";"Chance Vought Corporation | Chesapeake Mk.I | V-156B-1";
+"v_156_b1_1";"Chesapeake Mk.I";
+"v_156_b1_2";"Chesapeake Mk.I";
+#
+"blenheim_mkiv_shop";"Blenheim Mm.IV";
+"blenheim_mkiv_0";"Bristol Aeroplane Company | Blenheim Mk.IV";
+"blenheim_mkiv_1";"Blenheim Mk.IV";
+"blenheim_mkiv_2";"Blenheim Mk.IV";
+#
+"beaufort_mkviii_shop";"DAP Beaufort Mk.VIII";
+"beaufort_mkviii_0";"Bristol Aeroplane Company / Department of Aircraft Production (DAP) | Beaufort Mk.VIII";
+"beaufort_mkviii_1";"DAP Beaufort Mk.VIII";
+"beaufort_mkviii_2";"DAP Beaufort Mk.VIII";
+#
+"swordfish_mk1_shop";"Swordfish Mk.I";
+"swordfish_mk1_0";"Fairey Aviation Company, Ltd. | Swordfish Mk.I";
+"swordfish_mk1_1";"Swordfish Mk.I";
+"swordfish_mk1_2";"Swordfish Mk.I";
+#
+"hp52_hampden_mk1_late_shop";"Hampden Mk.I";
+"hp52_hampden_mk1_late_0";"Handley Page, Ltd. | HP.52 Hampden Mk.I";
+"hp52_hampden_mk1_late_1";"Hampden Mk.I";
+"hp52_hampden_mk1_late_2";"Hampden Mk.I";
+#
+"hp52_hampden_tbmk1_shop";"Hampden TB.I";
+"hp52_hampden_tbmk1_0";"Handley Page, Ltd. | HP.52 Hampden | Torpedo Bomber, Mk.I";
+"hp52_hampden_tbmk1_1";"Hampden TB.I";
+"hp52_hampden_tbmk1_2";"Hampden TB.I";
+#
+"wirraway_shop";"Wirraway Mk.I";
+"wirraway_0";"Commonwealth Aircraft Corporation (CAC) | Wirraway Mk.I";
+"wirraway_1";"Wirraway Mk.I";
+"wirraway_2";"Wirraway Mk.I";
+#
+"pby-5a_raf_shop";"Catalina Mk.IIIA";
+"pby-5a_raf_0";"Consolidated Aircraft Corporation | Catalina Mk.IIIA | PBY-5A";
+"pby-5a_raf_1";"Catalina Mk.IIIA";
+"pby-5a_raf_2";"Catalina Mk.IIIA";
+#
+"tempest_mkv_vikkers_shop";"Tempest F.V (PV)";
+"tempest_mkv_vikkers_0";"Hawker Aircraft, Ltd. | Tempest | Fighter, Mk.V Series 2 (Class P, Vickers)";
+"tempest_mkv_vikkers_1";"Tempest F.V (PV)";
+"tempest_mkv_vikkers_2";"Tempest F.V (PV)";
+#
+"thunderbolt_mk1_shop";"▄P-47D-22 Thunderbolt Mk.1";
+"thunderbolt_mk1_0";"Republic Aviation Corporation | ▄P-47D Thunderbolt | Block 22, Mk.1";
+"thunderbolt_mk1_1";"▄P-47D-22 Thunderbolt Mk.1";
+"thunderbolt_mk1_2";"▄P-47D-22";
+#
+"p-51b_shop";"▄P-51B Mustang Mk.IA";
+"p-51b_0";"North American Aviation | ▄P-51B Mustang Mk.IA";
+"p-51b_1";"▄P-51B Mustang Mk.IA";
+"p-51b_2";"▄P-51B Mk.IA";
+#
+"seafire_mk3_shop";"Seafire L.III";
+"seafire_mk3_0";"Supermarine Aviation Works | Seafire | Low-Altitude Fighter, Mk.III";
+"seafire_mk3_1";"Seafire L.III";
+"seafire_mk3_2";"Seafire L.III";
+#
+"sea_fury_fb11_shop";"Sea Fury FB.11";
+"sea_fury_fb11_0";"Hawker Aircraft, Ltd. | Sea Fury | Fighter-Bomber, Mk.11";
+"sea_fury_fb11_1";"Sea Fury FB.11";
+"sea_fury_fb11_2";"Sea Fury FB.11";
+#
+"seafire_fr47_shop";"Seafire FR.47";
+"seafire_fr47_0";"Supermarine Aviation Works | Seafire | Fighter/Reconnaissance, Mk.47";
+"seafire_fr47_1";"Seafire FR.47";
+"seafire_fr47_2";"Seafire FR.47";
+#
+"seafire_mk17_shop";"Seafire F.XVII";
+"seafire_mk17_0";"Supermarine Aviation Works | Seafire | Fighter, Mk.XVII";
+"seafire_mk17_1";"Seafire F.XVII";
+"seafire_mk17_2";"Seafire F.XVII";
+#
+"hornet_mk1_shop";"Hornet F.1";
+"hornet_mk1_0";"de Havilland Aircraft Company, Ltd. | DH.103 Hornet | Fighter, Mk.1";
+"hornet_mk1_1";"Hornet F.1";
+"hornet_mk1_2";"Hornet F.1";
+#
+"hornet_mk3_shop";"Hornet F.3";
+"hornet_mk3_0";"de Havilland Aircraft Company, Ltd. | DH.103 Hornet | Fighter, Mk.3";
+"hornet_mk3_1";"Hornet F.3";
+"hornet_mk3_2";"Hornet F.3";
+#
+"spitfire_mk14e_shop";"Spitfire F.XIVe";
+"spitfire_mk14e_0";"Supermarine Aviation Works | Spitfire | Fighter, Mk.XIVe";
+"spitfire_mk14e_1";"Spitfire F.XIVe";
+"spitfire_mk14e_2";"Spitfire F.XIVe";
+#
+"spitfire_mk14c_shop";"Spitfire F.XIVc";
+"spitfire_mk14c_0";"Supermarine Aviation Works | Spitfire | Fighter, Mk.XIVc";
+"spitfire_mk14c_1";"Spitfire F.XIVc";
+"spitfire_mk14c_2";"Spitfire F.XIVc";
+#
+"spitfire_mk18e_shop";"Spitfire F.XVIIIe";
+"spitfire_mk18e_0";"Supermarine Aviation Works | Spitfire | Fighter, Mk.XVIIIe";
+"spitfire_mk18e_1";"Spitfire F.XVIIIe";
+"spitfire_mk18e_2";"Spitfire F.XVIIIe";
+#
+"spitfire_f22_shop";"Spitfire F.22";
+"spitfire_f22_0";"Supermarine Aviation Works | Spitfire | Fighter, Mk.22";
+"spitfire_f22_1";"Spitfire F.22";
+"spitfire_f22_2";"Spitfire F.22";
+#
+"spitfire_f24_shop";"Spitfire F.24";
+"spitfire_f24_0";"Supermarine Aviation Works | Spitfire | Fighter, Mk.24";
+"spitfire_f24_1";"Spitfire F.24";
+"spitfire_f24_2";"Spitfire F.24";
+#
+"spitfire_ix_plagis_shop";"Spitfire LF.IXc [Plagis]";
+"spitfire_ix_plagis_0";"Supermarine Aviation Works | Spitfire | Low-Altitude Fighter, Mk.IXc";
+"spitfire_ix_plagis_1";"Spitfire LF.IXc [Plagis]";
+"spitfire_ix_plagis_2";"Spitfire LF.IXc";
+#
+"spitfire_ix_shop";"Spitfire LF.IX";
+"spitfire_ix_0";"Supermarine Aviation Works | Plagis' Spitfire | Low-Altitude Fighter, Mk.IX";
+"spitfire_ix_1";"Spitfire LF.IX";
+"spitfire_ix_2";"Spitfire LF.IX";
+#
+"spitfire_ix_tutorial_shop";"Spitfire LF.IX";
+"spitfire_ix_tutorial_0";"Supermarine Aviation Works | Spitfire | Low-Altitude Fighter, Mk.IX";
+"spitfire_ix_tutorial_1";"Spitfire LF.IX";
+"spitfire_ix_tutorial_2";"Spitfire LF.IX";
+#
+"wyvern_s4_shop";"Wyvern S.4";
+"wyvern_s4_0";"Westland Aircraft | W.35 Wyvern | Strike, Mk.4";
+"wyvern_s4_1";"Wyvern S.4";
+"wyvern_s4_2";"Wyvern S.4";
+#
+"mb_5_shop";"MB.5";
+"mb_5_0";"Martin Baker Aircraft Company, Ltd. | MB.5";
+"mb_5_1";"MB.5";
+"mb_5_2";"MB.5";
+#
+"tempest_mk2_shop";"Tempest F.II";
+"tempest_mk2_0";"Hawker Aircraft, Ltd. | Tempest | Fighter, Mk.II";
+"tempest_mk2_1";"Tempest F.II";
+"tempest_mk2_2";"Tempest F.II";
+#
+"tempest_mkv_shop";"Tempest F.V";
+"tempest_mkv_0";"Hawker Aircraft, Ltd. | Tempest | Fighter, Mk.V Series 2";
+"tempest_mkv_1";"Tempest F.V";
+"tempest_mkv_2";"Tempest F.V";
+#
+"venom_fb4_shop";"Venom FB.4";
+"venom_fb4_0";"de Havilland Aircraft Company, Ltd. | DH.112 Venom | Fighter-Bomber, Mk.4";
+"venom_fb4_1";"Venom FB.4";
+"venom_fb4_2";"Venom FB.4";
+#
+"vampire_fb5_shop";"Vampire FB.5";
+"vampire_fb5_0";"de Havilland Aircraft Company, Ltd. | DH.100 Vampire | Fighter-Bomber, Mk.5";
+"vampire_fb5_1";"Vampire FB.5";
+"vampire_fb5_2";"Vampire FB.5";
+#
+"meteor_fmk3_shop";"Meteor F.3";
+"meteor_fmk3_0";"Gloster Aircraft Company, Ltd. | Meteor | Fighter, Mk.3";
+"meteor_fmk3_1";"Meteor F.3";
+"meteor_fmk3_2";"Meteor F.3";
+#
+"meteor_fmk3_navy_shop";"Sea Meteor F.3";
+"meteor_fmk3_navy_0";"Gloster Aircraft Company, Ltd. | Sea Meteor | Fighter, Mk.3";
+"meteor_fmk3_navy_1";"Sea Meteor F.3";
+"meteor_fmk3_navy_2";"Sea Meteor F.3";
+#
+"meteor_fmk4_lw_shop";"G.41F Meteor F.4";
+"meteor_fmk4_lw_0";"Gloster Aircraft Company, Ltd. | Meteor | Fighter, Mk.4, Type G.41F";
+"meteor_fmk4_lw_1";"G.41F Meteor F.4";
+"meteor_fmk4_lw_2";"G.41F Meteor F.4";
+#
+"meteor_fmk4_sw_shop";"G.41G Meteor F.4";
+"meteor_fmk4_sw_0";"Gloster Aircraft Company, Ltd. | Meteor | Fighter, Mk.4, Type G.41G";
+"meteor_fmk4_sw_1";"G.41G Meteor F.4";
+"meteor_fmk4_sw_2";"G.41G Meteor F.4";
+#
+"meteor_fmk8_shop";"G.41K Meteor F.8";
+"meteor_fmk8_0";"Gloster Aircraft Company, Ltd. | Meteor | Fighter, Mk.8, Type G.41K";
+"meteor_fmk8_1";"G.41K Meteor F.8";
+"meteor_fmk8_2";"G.41K Meteor F.8";
+#
+"attaker_fb1_shop";"Attacker FB.1";
+"attaker_fb1_0";"Supermarine Aviation Works | Attacker | Fighter-Bomber, Mk.1";
+"attaker_fb1_1";"Attacker FB.1";
+"attaker_fb1_2";"Attacker FB.1";
+#
+"attaker_fb2_shop";"Attacker FB.2";
+"attaker_fb2_0";"Supermarine Aviation Works | Attacker | Fighter-Bomber, Mk.2";
+"attaker_fb2_1";"Attacker FB.2";
+"attaker_fb2_2";"Attacker FB.2";
+#
+"sea_hawk_fga6_shop";"Sea Hawk FGA.6";
+"sea_hawk_fga6_0";"Hawker Aircraft, Ltd. | Sea Hawk | Fighter/Ground Attack, Mk.6";
+"sea_hawk_fga6_1";"Sea Hawk FGA.6";
+"sea_hawk_fga6_2";"Sea Hawk FGA.6";
+#
+"sea_venom_faw20_shop";"Sea Venom FAW.20";
+"sea_venom_faw20_0";"de Havilland Aircraft Company, Ltd. | DH.112 Sea Venom | Fighter All-Weather, Mk.20";
+"sea_venom_faw20_1";"Sea Venom FAW.20";
+"sea_venom_faw20_2";"Sea Venom FAW.20";
+#
+"swift_f1_shop";"Swift F.1";
+"swift_f1_0";"Supermarine Aviation Works | Swift | Fighter, Mk.1";
+"swift_f1_1";"Swift F.1";
+"swift_f1_2";"Swift F.1";
+#
+"swift_f7_shop";"Swift F.7";
+"swift_f7_0";"Supermarine Aviation Works | Swift | Fighter, Mk.7";
+"swift_f7_1";"Swift F.7";
+"swift_f7_2";"Swift F.7";
+#
+"canberra_bmk2_shop";"Canberra B.2";
+"canberra_bmk2_0";"The English Electric Company, Ltd. | Canberra | Bomber, Mk.2";
+"canberra_bmk2_1";"Canberra B.2";
+"canberra_bmk2_2";"Canberra B.2";
+#
+"canberra_bimk6_shop";"Canberra B(I).6";
+"canberra_bimk6_0";"The English Electric Company, Ltd. | Canberra | Bomber/Interdictor, Mk.6";
+"canberra_bimk6_1";"Canberra B(I).6";
+"canberra_bimk6_2";"Canberra B(I).6";
+#
+"meteor_fmk8_reaper_shop";"Meteor F.8 Reaper";
+"meteor_fmk8_reaper_0";"Gloster Aircraft Company, Ltd. | Meteor Reaper | Fighter, Mk.8";
+"meteor_fmk8_reaper_1";"Meteor F.8 Reaper";
+"meteor_fmk8_reaper_2";"Meteor F.8";
+#
+"marut_mk1_shop";"Marut Mk.1";
+"marut_mk1_0";"Hindustan Aeronautics, Ltd. (HAL) | HF-24 Marut Mk.1";
+"marut_mk1_1";"Marut Mk.1";
+"marut_mk1_2";"Marut Mk.1";
+#
+"dh_110_sea_vixen_shop";"Sea Vixen FAW.2";
+"dh_110_sea_vixen_0";"de Havilland Aircraft Company, Ltd. | DH.110 Sea Vixen | Fighter All-Weather, Mk.2";
+"dh_110_sea_vixen_1";"Sea Vixen FAW.2";
+"dh_110_sea_vixen_2";"Sea Vixen FAW.2";
+#
+"scimitar_f1_shop";"Scimitar F.1";
+"scimitar_f1_0";"Supermarine Aviation Works | Scimitar | Fighter, Mk.1";
+"scimitar_f1_1";"Scimitar F.1";
+"scimitar_f1_2";"Scimitar F.1";
+#
+"hunter_f1_shop";"Hunter F.1";
+"hunter_f1_0";"Hawker Aircraft, Ltd. | Hunter | Fighter, Mk.1";
+"hunter_f1_1";"Hunter F.1";
+"hunter_f1_2";"Hunter F.1";
+#
+"hunter_f6_shop";"Hunter F.6";
+"hunter_f6_0";"Hawker Aircraft, Ltd. | Hunter | Fighter, Mk.6";
+"hunter_f6_1";"Hunter F.6";
+"hunter_f6_2";"Hunter F.6";
+#
+"javelin_fmk9_shop";"Javelin FAW.9";
+"javelin_fmk9_0";"Gloster Aircraft Company, Ltd. | GA.5 Javelin | Fighter All-Weather, Mk.9";
+"javelin_fmk9_1";"Javelin FAW.9";
+"javelin_fmk9_2";"Javelin FAW.9";
+#
+"lightning_f6_shop";"Lightning F.6";
+"lightning_f6_0";"British Aircraft Corporation | Lightning | Fighter, Mk.6";
+"lightning_f6_1";"Lightning F.6";
+"lightning_f6_2";"Lightning F.6";
+#
+"lightning_f53_shop";"▌Lightning F.53";
+"lightning_f53_0";"British Aircraft Corporation | ▌Lightning | Fighter, Mk.53";
+"lightning_f53_1";"▌Lightning F.53";
+"lightning_f53_2";"▌Lightning F.53";
+#
+"buccaneer_s1_shop";"Buccaneer S.1";
+"buccaneer_s1_0";"Blackburn Aircraft, Ltd. | Buccaneer | Strike, Mk.1";
+"buccaneer_s1_1";"Buccaneer S.1";
+"buccaneer_s1_2";"Buccaneer S.1";
+#
+"buccaneer_s2_shop";"Buccaneer S.2";
+"buccaneer_s2_0";"Blackburn Aircraft, Ltd. | Buccaneer | Strike, Mk.2";
+"buccaneer_s2_1";"Buccaneer S.2";
+"buccaneer_s2_2";"Buccaneer S.2";
+#
+"harrier_gr1_shop";"Harrier GR.1";
+"harrier_gr1_0";"Hawker Siddeley Group, Ltd. | Harrier | Ground Attack/Reconnaissance, Mk.1";
+"harrier_gr1_1";"Harrier GR.1";
+"harrier_gr1_2";"Harrier GR.1";
+#
+"harrier_gr3_shop";"Harrier GR.3";
+"harrier_gr3_0";"Hawker Siddeley Group, Ltd. | Harrier | Ground Attack/Reconnaissance, Mk.3";
+"harrier_gr3_1";"Harrier GR.3";
+"harrier_gr3_2";"Harrier GR.3";
+#
+"jaguar_gr1_shop";"▄Jaguar GR.1";
+"jaguar_gr1_0";"Société Européenne de Production de l'avion Ecole de Combat et d'Appui Tactique (SEPECAT) | ▄Jaguar | Ground Attack/Reconnaissance, Mk.1";
+"jaguar_gr1_1";"▄Jaguar GR.1";
+"jaguar_gr1_2";"▄Jaguar GR.1";
+#
+"buccaneer_s2b_shop";"Buccaneer S.2B";
+"buccaneer_s2b_0";"Blackburn Aircraft, Ltd. | Buccaneer | Strike, Mk.2B";
+"buccaneer_s2b_1";"Buccaneer S.2B";
+"buccaneer_s2b_2";"Buccaneer S.2B";
+#
+"jaguar_gr1a_shop";"▄Jaguar GR.1A";
+"jaguar_gr1a_0";"Société Européenne de Production de l'avion Ecole de Combat et d'Appui Tactique (SEPECAT) | ▄Jaguar | Ground Attack/Reconnaissance, Mk.1A";
+"jaguar_gr1a_1";"▄Jaguar GR.1A";
+"jaguar_gr1a_2";"▄Jaguar GR.1A";
+#
+"jaguar_is_shop";"☸Jaguar IS";
+"jaguar_is_0";"Hindustan Aeronautics, Ltd. (HAL) | ☸Jaguar IS";
+"jaguar_is_1";"☸Jaguar IS";
+"jaguar_is_2";"☸Jaguar IS";
+#
+"harrier_frs1_early_shop";"Sea Harrier FRS.1 (1978)";
+"harrier_frs1_early_0";"British Aerospace PLC | Sea Harrier | Fighter/Reconnaissance/Strike, Mk.1 (1978)";
+"harrier_frs1_early_1";"Sea Harrier FRS.1 (1978)";
+"harrier_frs1_early_2";"Sea Harrier FRS.1";
+#
+"harrier_frs1_shop";"Sea Harrier FRS.1";
+"harrier_frs1_0";"British Aerospace PLC | Sea Harrier | Fighter/Reconnaissance/Strike, Mk.1";
+"harrier_frs1_1";"Sea Harrier FRS.1";
+"harrier_frs1_2";"Sea Harrier FRS.1";
+#
+"f-4m_fgr2_shop";"▄F-4M Phantom FGR.2";
+"f-4m_fgr2_0";"Hawker Siddeley Group, Ltd. | ▄F-4M Phantom | Fighter/Ground Attack/Reconnaissance, Mk.2";
+"f-4m_fgr2_1";"▄F-4M Phantom FGR.2";
+"f-4m_fgr2_2";"▄F-4M FGR.2";
+#
+"f-4k_shop";"▄F-4K Phantom FG.1";
+"f-4k_0";"McDonnell Douglas Corporation | ▄F-4K Phantom | Fighter/Ground Attack, Mk.1";
+"f-4k_1";"▄F-4K Phantom FG.1";
+"f-4k_2";"▄F-4K FG.1";
+#
+"f-4jk_shop";"▄F-4J Phantom F.3";
+"f-4jk_0";"McDonnell Douglas Corporation | ▄F-4J Phantom | Fighter, Mk.3";
+"f-4jk_1";"▄F-4J Phantom F.3";
+"f-4jk_2";"▄F-4J F.3";
+#
+"ef_2000_fgr4_shop";"▄Typhoon FGR.4 (C2)";
+"ef_2000_fgr4_0";"Eurofighter Jagdflugzeug GmbH | ▄Typhoon | Fighter/Ground Attack/Reconnaissance, Mk.4 | Centurion Phase 2 (2018)";
+"ef_2000_fgr4_1";"▄Typhoon FGR.4 (C2)";
+"ef_2000_fgr4_2";"▄Typhoon FGR.4 (C2)";
+#
+"harrier_gr7_shop";"Harrier GR.7";
+"harrier_gr7_0";"British Aerospace PLC | Harrier | Ground Attack/Reconnaissance, Mk.7";
+"harrier_gr7_1";"Harrier GR.7";
+"harrier_gr7_2";"Harrier GR.7";
+#
+"sea_harrier_fa2_shop";"Sea Harrier FA.2";
+"sea_harrier_fa2_0";"British Aerospace PLC | Sea Harrier | Fighter/Attack, Mk.2";
+"sea_harrier_fa2_1";"Sea Harrier FA.2";
+"sea_harrier_fa2_2";"Sea Harrier FA.2";
+#
+"harrier_t10_shop";"Harrier T.10";
+"harrier_t10_0";"Hawker Siddeley Group, Ltd. | Harrier | Training, Mk.10";
+"harrier_t10_1";"Harrier T.10";
+"harrier_t10_2";"Harrier T.10";
+#
+"saab_jas39c_south_africa_shop";"▄JAS 39C Gripen";
+"saab_jas39c_south_africa_0";"Saab AB | ▄JAS 39C Gripen";
+"saab_jas39c_south_africa_1";"▄JAS 39C Gripen";
+"saab_jas39c_south_africa_2";"▄JAS 39C";
+#
+"saab_jas39c_south_africa_missile_test_shop";"▄JAS 39C Gripen";
+"saab_jas39c_south_africa_missile_test_0";"Saab AB | ▄JAS 39C Gripen";
+"saab_jas39c_south_africa_missile_test_1";"▄JAS 39C Gripen";
+"saab_jas39c_south_africa__missile_test2";"▄JAS 39C";
+#
+"tornado_gr1_shop";"▄Tornado GR.1";
+"tornado_gr1_0";"Panavia Aircraft GmbH | ▄Tornado | Ground Attack/Reconnaissance, Mk.1";
+"tornado_gr1_1";"▄Tornado GR.1";
+"tornado_gr1_2";"▄Tornado GR.1";
+#
+"tornado_gr4_shop";"▄Tornado GR.4";
+"tornado_gr4_0";"BAE Systems | ▄Tornado | Ground Attack/Reconnaissance, Mk.4";
+"tornado_gr4_1";"▄Tornado GR.4";
+"tornado_gr4_2";"▄Tornado GR.4";
+#
+"tornado_f3_shop";"▄Tornado F.3 (1989)";
+"tornado_f3_0";"Panavia Aircraft GmbH | ▄Tornado | Fighter, Mk.3 (1989)";
+"tornado_f3_1";"▄Tornado F.3 (1989)";
+"tornado_f3_2";"▄Tornado F.3 (1989)";
+#
+"tornado_f3_late_shop";"▄Tornado F.3 AOP (2003)";
+"tornado_f3_late_0";"Panavia Aircraft GmbH | ▄Tornado | Fighter, Mk.3 | AMRAAM Optimization Programme (2003)";
+"tornado_f3_late_1";"▄Tornado F.3 AOP (2003)";
+"tornado_f3_late_2";"▄Tornado F.3 AOP (2003)";
+#
+"mig-21_bison_shop";"☸MiG-21UPG Bison";
+"mig-21_bison_0";"Hindustan Aeronautics, Ltd. (HAL) | ☸MiG-21UPG Bison";
+"mig-21_bison_1";"☸MiG-21UPG Bison";
+"mig-21_bison_2";"☸MiG-21UPG";
+#
+"cf_188a_canada_shop";"▄CF-188A Hornet";
+"cf_188a_canada_0";"McDonnell Douglas Corporation | ▄CF-188A Hornet";
+"cf_188a_canada_1";"▄CF-188A Hornet";
+"cf_188a_canada_2";"▄CF-188A";
+#
+"fa_18a_raaf_shop";"▄F/A-18A Hornet";
+"fa_18a_raaf_0";"Government Aircraft Factories (GAF) | ▄F/A-18A Hornet";
+"fa_18a_raaf_1";"▄F/A-18A Hornet";
+"fa_18a_raaf_2";"▄F/A-18A";
+#
+"fa_18a_hug_2_raaf_shop";"▄F/A-18A Hornet (HUG 2.4)";
+"fa_18a_hug_2_raaf_0";"Boeing Australia Holdings Pty, Ltd. | ▄F/A-18A Hornet | Hornet Upgrade Program, Phase 2.4";
+"fa_18a_hug_2_raaf_1";"▄F/A-18A Hornet (HUG 2.4)";
+"fa_18a_hug_2_raaf_2";"▄F/A-18A (HUG 2.4)";
+#
+"hawk_200_shop";"Hawk 200";
+"hawk_200_0";"British Aerospace plc | Hawk 200";
+"hawk_200_1";"Hawk 200";
+"hawk_200_2";"Hawk 200";
+#
+"hawk_200_rda_shop";"Hawk 200 (RDA)";
+"hawk_200_rda_0";"British Aerospace plc | Hawk 200 | Radar Development Aircraft";
+"hawk_200_rda_1";"Hawk 200 (RDA)";
+"hawk_200_rda_2";"Hawk 200 (RDA)";
+#
+tornado_ids_de_assta1_britain_killstreak_shop;☢Tornado GR.1;
+tornado_ids_de_assta1_britain_killstreak_0;Panavia Aircraft GmbH | ☢Tornado | Ground Attack/Reconnaissance, Mk.1;
+tornado_ids_de_assta1_britain_killstreak_1;☢Tornado GR.1;
+tornado_ids_de_assta1_britain_killstreak_2;☢Tornado GR.1;
+#
+mosquito_b_mk16_shop;Mosquito B.XVI;
+mosquito_b_mk16_0;de Havilland Aircraft Company, Ltd. | Mosquito | Bomber, Mk.XVI;
+mosquito_b_mk16_1;Mosquito B.XVI;
+mosquito_b_mk16_2;Mosquito B.XVI;
+#
+f_111c_raaf_shop;▄F-111C Aardvark (1986);
+f_111c_raaf_0;General Dynamics Corporation | ▄F-111C Aardvark | Pave Tack Modification (1986);
+f_111c_raaf_1;▄F-111C Aardvark (1986);
+f_111c_raaf_2;▄F-111C (1986);
+#
+ef_2000_typhoon_aesa_shop;▄Typhoon FGR.4 (ZK355);
+ef_2000_typhoon_aesa_0;Eurofighter Jagdflugzeug GmbH | ▄Typhoon | Fighter/Ground Attack/Reconnaissance, Mk.4 | ZK355 Testbed (2024);
+ef_2000_typhoon_aesa_1;▄Typhoon FGR.4 (ZK355);
+ef_2000_typhoon_aesa_2;▄Typhoon FGR.4 (ZK355);
+#
+fa_18f_block_2_raaf_shop;▄F/A-18F-2 Super Hornet;
+fa_18f_block_2_raaf_0;Boeing Defense, Space & Security | ▄F/A-18F-2 Super Hornet | Block 2;
+fa_18f_block_2_raaf_1;▄F/A-18F-2 Super Hornet;
+fa_18f_block_2_raaf_2;▄F/A-18F-2;
+#
+spitfire_mk5b_float_shop;Spitfire Mk.VB (1942);
+spitfire_mk5b_float_0;"Supermarine Aviation Works / Folland Aircraft
+Spitfire Mk.VB
+Floatplane Prototype | 1942";
+spitfire_mk5b_float_1;Spitfire Mk.VB (1942);
+spitfire_mk5b_float_2;Spitfire Mk.VB (1942);
+#
+mosquito_nf_mk2_shop;Mosquito NF.II;
+mosquito_nf_mk2_0;"de Havilland Aircraft Company, Ltd.
+Mosquito
+Night Fighter, Mk.II";
+mosquito_nf_mk2_1;Mosquito NF.II;
+mosquito_nf_mk2_2;Mosquito NF.II;
+#
+mosquito_tr_mk33_shop;Sea Mosquito TR.33;
+mosquito_tr_mk33_0;"de Havilland Aircraft Company, Ltd.
+Mosquito
+Torpedo/Reconnaissance, Mk.33";
+mosquito_tr_mk33_1;Sea Mosquito TR.33;
+mosquito_tr_mk33_2;Sea Mosquito TR.33;
+#
+spitfire_ix_early_shop;Spitfire F.IX;
+spitfire_ix_early_0;"Supermarine Aviation Works
+Spitfire
+Fighter, Mk.IX";
+spitfire_ix_early_1;Spitfire F.IX;
+spitfire_ix_early_2;Spitfire F.IX;
+#
+spitfire_xvi_shop;Spitfire F.XVI;
+spitfire_xvi_0;"Supermarine Aviation Works
+Spitfire
+Fighter, Mk.XVI";
+spitfire_xvi_1;Spitfire F.XVI;
+spitfire_xvi_2;Spitfire F.XVI;
+#
+welkin_fmk1_shop;Welkin F Mk.I;
+welkin_fmk1_0;"Westland Aircraft
+Welkin
+Fighter, Mk.I";
+welkin_fmk1_1;Welkin F Mk.I;
+welkin_fmk1_2;Welkin F Mk.I;
+#
+washington_b1_shop;▄Washington B.1;
+washington_b1_0;"Boeing Airplane Company
+▄Washington
+Bomber, Mk.1";
+washington_b1_1;▄Washington B.1;
+washington_b1_2;▄Washington B.1;
+#
+hunter_f9_rhodesia_shop;Hunter FGA.9;
+hunter_f9_rhodesia_0;"Hawker Aircraft, Ltd.
+Hunter
+Fighter/Ground Attack, Mk.9";
+hunter_f9_rhodesia_1;Hunter FGA.9;
+hunter_f9_rhodesia_2;Hunter FGA.9;
+#
+"shop/group/meteor3_group";"Meteor F.3";
+"shop/group/meteor4_group";"Meteor F.4";
+"shop/group/blenheim_group";"Blenheim/Beaufort";
+"shop/group/spitfire_mk1_group";"Spitfire (1938-1939)";
+"shop/group/sunderland_group";"Sunderland";
+"shop/group/beaufighter_group";"Beaufighter";
+"shop/group/spitfire_mk5b_group";"Spitfire Mk.VB";
+"shop/group/wellington_late_group";"Wellington (1942)";
+"shop/group/spitfire_mk5c_group";"Spitfire Mk.VC";
+"shop/group/brigand_group";"Brigand/Whirlwind";
+"shop/group/stirling_group";"Stirling";
+"shop/group/spitfire_mk9e_group";"Spitfire (1943-1947)";
+"shop/group/lincoln_group";"Lincoln/Shackleton";
+"shop/group/canberra_group";"Canberra";
+"shop/group/sea_hawk_group";"Sea Hawk/Sea Venom";
+"shop/group/hurricane_group";"Hurricane";
+"shop/group/firefly_group";"Firefly";
+"shop/group/seafire_group";"Seafire";
+"shop/group/spitfire_griffon_group";"Spitfire F.22/24";
+"shop/group/hawk_200_group";"Hawk 200/200 (RDA)";
+shop/group/fa_18a_raaf_group;▄F/A-18A Hornet;
+shop/group/spitfire_mk9_group;Spitfire Mk.IX;
 #
 #helicopters
-"ah_64e_britain_shop";"▄Apache AH.2";;
-"ah_64e_britain_0";"Boeing Defense, Space & Security | ▄Apache | Attack Helicopter, Mk.2";;
-"ah_64e_britain_1";"▄Apache AH.2";;
-"ah_64e_britain_2";"▄Apache AH.2";;
+"ah_64e_britain_shop";"▄Apache AH.2";
+"ah_64e_britain_0";"Boeing Defense, Space & Security | ▄Apache | Attack Helicopter, Mk.2";
+"ah_64e_britain_1";"▄Apache AH.2";
+"ah_64e_britain_2";"▄Apache AH.2";
