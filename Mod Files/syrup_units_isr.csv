@@ -198,5 +198,11 @@ mig_21_2000_iaf_0;"Israeli Aircraft Industries (IAI)
 mig_21_2000_iaf_1;MiG-21-2000 Fishbed;;
 mig_21_2000_iaf_2;MiG-21-2000;;
 #
+f-84f_israel_iaf_shop;F-84F Thunderstreak;;
+f-84f_israel_iaf_0;"Republic Aviation Corporation
+F-84F Thunderstreak";;
+f-84f_israel_iaf_1;F-84F Thunderstreak;;
+f-84f_israel_iaf_2;F-84F;;
+#
 shop/group/f_4e_f_15_iaf_group;F-4E-2000/F-15A;;
 shop/group/f_16d_iaf_group;F-16D/F-16I;;

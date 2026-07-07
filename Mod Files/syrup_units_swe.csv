@@ -340,6 +340,34 @@ tornado_ids_de_assta1_sweden_killstreak_0;Panavia Aircraft GmbH | ☢Tornado | I
 tornado_ids_de_assta1_sweden_killstreak_1;☢Tornado IDS (ASSTA 1.0);;
 tornado_ids_de_assta1_sweden_killstreak_2;☢Tornado IDS (ASSTA 1.0);;
 #
+mosquito_j30_sweden_shop;♛J 30 Mosquito;;
+mosquito_j30_sweden_0;"de Havilland Aircraft Company
+♛J 30 | Mosquito NF Mk.XIX";;
+mosquito_j30_sweden_1;♛J 30 Mosquito;;
+mosquito_j30_sweden_2;♛J 30;;
+#
+mosquito_f_mk2_norway_shop;◢Mosquito F Mk.II;;
+mosquito_f_mk2_norway_0;"de Havilland Aircraft Company
+◢Mosquito
+Fighter, Mk.II";;
+mosquito_f_mk2_norway_1;◢Mosquito F Mk.II;;
+mosquito_f_mk2_norway_2;◢Mosquito F Mk.II;;
+#
+mosquito_fb_mk6_ash_norway_shop;◢Mosquito FB Mk.VI (ASH);;
+mosquito_fb_mk6_ash_norway_0;"de Havilland Aircraft Company
+◢Mosquito
+Fighter/Bomber, Mk.VI
+ASH | Air-Surface-H Radar";;
+mosquito_fb_mk6_ash_norway_1;◢Mosquito FB Mk.VI (ASH);;
+mosquito_fb_mk6_ash_norway_2;◢Mosquito FB Mk.VI (ASH);;
+#
+mosquito_fb_mk6_norway_shop;◢Mosquito FB Mk.VI;;
+mosquito_fb_mk6_norway_0;"de Havilland Aircraft Company
+◢Mosquito
+Fighter/Bomber, Mk.VI";;
+mosquito_fb_mk6_norway_1;◢Mosquito FB Mk.VI;;
+mosquito_fb_mk6_norway_2;◢Mosquito FB Mk.VI;;
+#
 "shop/group/bf_109g_sweden_group";"▄Bf 109G Mersu";;
 "shop/group/saab_ja37d_group";"JA37D/DI Jaktviggen";;
 "shop/group/vampire_fb_group";"♛J 28B/Vampire Mk.52A";;

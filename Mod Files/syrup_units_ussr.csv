@@ -1,22 +1,28 @@
 "<ID|readonly|noverify>";"<English>"
 #
 "itp_m1_shop";"ITP (M-1)"
-"itp_m1_0";"N. Polikarpov OKB | Istrebitel Tyazholiy Pushechniy (ITP) | M-1 Prototype, 1942"
+"itp_m1_0";"N. Polikarpov OKB
+Istrebitel Tyazholiy Pushechniy (ITP)
+M-1 Prototype | 1942"
 "itp_m1_1";"ITP (M-1)"
 "itp_m1_2";"ITP (M-1)"
 #
 "tis_ma_shop";"TIS (MA)"
-"tis_ma_0";"N. Polikarpov OKB | Tyazholyy Istrebitel' Soprovozhdeniya (TIS) | MA Prototype, 1941"
+"tis_ma_0";"N. Polikarpov OKB
+Tyazholyy Istrebitel' Soprovozhdeniya (TIS)
+MA Prototype | 1941"
 "tis_ma_1";"TIS (MA)"
 "tis_ma_2";"TIS (MA)"
 #
 "il_8_1944_shop";"Il-8 Sturmovik (1944)"
-"il_8_1944_0";"OKB-39 ""Ilyushin"" | Il-8 Sturmovik | Obrazets 1944"
+"il_8_1944_0";"OKB-39 ""Ilyushin""
+Il-8 Sturmovik | Obrazets 1944"
 "il_8_1944_1";"Il-8 Sturmovik (1944)"
 "il_8_1944_2";"Il-8 (1944)"
 #
 "yak-3_eremin_shop";"Yak-3  (1944) [Eremin]"
-"yak-3_eremin_0";"OKB-115 ""Yakovlev"" | Eremin's Yak-3 | Obrazets 1944"
+"yak-3_eremin_0";"OKB-115 ""Yakovlev""
+Eremin's Yak-3 | Obrazets 1944"
 "yak-3_eremin_1";"Yak-3  (1944) [Eremin]"
 "yak-3_eremin_2";"Yak-3 (1944) [Eremin]"
 #
@@ -45,15 +51,19 @@
 "a_20g_30_ussr_1";"☭A-20G-30 Havoc"
 "a_20g_30_ussr_2";"☭A-20G-30"
 #
-"i_185_m71_standard_shop";"I-185/M-71"
-"i_185_m71_standard_0";"N. Polikarpov OKB | I-185 | Obrazets 1942, M-71 Engine"
-"i_185_m71_standard_1";"I-185/M-71"
-"i_185_m71_standard_2";"I-185/M-71"
+"i_185_m71_standard_shop";"I-185 (1942)"
+"i_185_m71_standard_0";"N. Polikarpov OKB
+I-185 | Obrazets 1942
+Shvetsov M-71 Engine"
+"i_185_m71_standard_1";"I-185 (1942)"
+"i_185_m71_standard_2";"I-185 (1942)"
 #
-"i_185_m82_shop";"I-185/M-82"
-"i_185_m82_0";"N. Polikarpov OKB | I-185 | 1940 Prototype, M-82 Engine"
-"i_185_m82_1";"I-185/M-82"
-"i_185_m82_2";"I-185/M-82"
+"i_185_m82_shop";"I-185 (1940)"
+"i_185_m82_0";"N. Polikarpov OKB
+I-185 | Obrazets 1940
+Shvetsov M-82 Engine"
+"i_185_m82_1";"I-185 (1940)"
+"i_185_m82_2";"I-185 (1940)"
 #
 "la-5fn_shop";"La-5FN"
 "la-5fn_0";"OKB-301 ""Lavochkin"" | La-5FN"
@@ -120,14 +130,16 @@
 "pe-8_m82_1";"Pe-8"
 "pe-8_m82_2";"Pe-8"
 #
-"er-2_ach30b_late_shop";"Yer-2/ACh-30B (1941)"
-"er-2_ach30b_late_0";"OKB-240 ""Yermolaev"" | Yer-2 | ACh-30B Engines | 1941 Model"
-"er-2_ach30b_late_1";"Yer-2/ACh-30B (1941)"
+"er-2_ach30b_late_shop";"Yer-2 (1941)"
+"er-2_ach30b_late_0";"OKB-240 ""Yermolaev""
+Yer-2 | Obrazets 1941"
+"er-2_ach30b_late_1";"Yer-2 (1941)"
 "er-2_ach30b_late_2";"Yer-2 (1941)"
 #
-"er-2_ach30b_early_shop";"Yer-2/ACh-30B (1940)"
-"er-2_ach30b_early_0";"OKB-240 ""Yermolaev"" | Yer-2 | ACh-30B Engines | 1940 Model"
-"er-2_ach30b_early_1";"Yer-2/ACh-30B (1940)"
+"er-2_ach30b_early_shop";"Yer-2 (1940)"
+"er-2_ach30b_early_0";"OKB-240 ""Yermolaev""
+Yer-2 | Obrazets 1940"
+"er-2_ach30b_early_1";"Yer-2 (1940)"
 "er-2_ach30b_early_2";"Yer-2 (1940)"
 #
 "yak-9t_shop";"Yak-9T "
@@ -141,7 +153,7 @@
 "yak-9k_2";"Yak-9K"
 #
 "yak-3_shop";"Yak-3 (1944)"
-"yak-3_0";"OKB-115 ""Yakovlev"" | Yak-3 (1944)"
+"yak-3_0";"OKB-115 ""Yakovlev"" | Yak-3 | Obrazets 1944"
 "yak-3_1";"Yak-3  (1944)"
 "yak-3_2";"Yak-3 (1944)"
 #
@@ -191,27 +203,35 @@
 "la-9_2";"La-9"
 #
 "la-7_shop";"La-7 (1944)"
-"la-7_0";"OKB-301 ""Lavochkin"" | La-7 | 1944 Izdeliyeion Standard"
+"la-7_0";"OKB-301 ""Lavochkin"" | La-7 | Obrazets 1944"
 "la-7_1";"La-7 (1944)"
 "la-7_2";"La-7 (1944)"
 #
 "la-7b-20_shop";"La-7 (1945)"
-"la-7b-20_0";"OKB-301 ""Lavochkin"" | La-7 | 1945 Izdeliyeion Standard"
+"la-7b-20_0";"OKB-301 ""Lavochkin"" | La-7 | Obrazets 1945"
 "la-7b-20_1";"La-7 (1945)"
 "la-7b-20_2";"La-7 (1945)"
 #
 "su-6_m71_shop";"Su-6 (1943)"
-"su-6_m71_0";"OKB-51 ""Sukhoi"" | Su-6 | Third Prototype, 1943"
+"su-6_m71_0";"OKB-51 ""Sukhoi""
+Su-6
+Third Prototype | 1943
+Shvetsov M-71 Engine"
 "su-6_m71_1";"Su-6 (1943)"
 "su-6_m71_2";"Su-6 (1943)"
 #
 "su-6_am42_shop";"Su-6 (1944)"
-"su-6_am42_0";"OKB-51 ""Sukhoi"" | Su-6 | Third Prototype, 1944"
+"su-6_am42_0";"OKB-51 ""Sukhoi""
+Su-6
+Third Prototype | 1944
+Mikulin AM-42 Engine"
 "su-6_am42_1";"Su-6 (1944)"
 "su-6_am42_2";"Su-6 (1944)"
 #
 "su_6_single_shop";"Su-6 (1942)"
-"su_6_single_0";"OKB-51 ""Sukhoi"" | Su-6 | Second Prototype, 1942"
+"su_6_single_0";"OKB-51 ""Sukhoi""
+Su-6
+Second Prototype | 1942"
 "su_6_single_1";"Su-6 (1942)"
 "su_6_single_2";"Su-6 (1942)"
 #
@@ -221,7 +241,7 @@
 "il-10_2";"Il-10"
 #
 "il-10_1946_shop";"Il-10 Beast (1946)"
-"il-10_1946_0";"OKB-39 ""Ilyushin"" | Il-10 Beast (1946)"
+"il-10_1946_0";"OKB-39 ""Ilyushin"" | Il-10 Beast | Obrazets 1946"
 "il-10_1946_1";"Il-10 Beast (1946)"
 "il-10_1946_2";"Il-10 (1946)"
 #
@@ -246,12 +266,12 @@
 "tu-2_postwar_late_2";"Tu-2S-59"
 #
 "yak-3_vk107_shop";"Yak-3 (1945)"
-"yak-3_vk107_0";"OKB-115 ""Yakovlev"" | Yak-3 (1945)"
+"yak-3_vk107_0";"OKB-115 ""Yakovlev"" | Yak-3 | Obrazets 1945"
 "yak-3_vk107_1";"Yak-3 (1945)"
 "yak-3_vk107_2";"Yak-3 (1945)"
 #
 "bi_shop";"BI-1"
-"bi_0";"Bereznyak-Isayev BI-1"
+"bi_0";"Bereznyak-Isayev | BI-1"
 "bi_1";"BI-1"
 "bi_2";"BI-1"
 #
@@ -640,10 +660,11 @@ NATO Designation: Beagle-B"
 "su-9_1";"Su-9 (1946)"
 "su-9_2";"Su-9 (1946)"
 #
-"l_39za_shop";"▂L-39ZA Albatros"
-"l_39za_0";"▂Aero L-39ZA Albatros"
-"l_39za_1";"▂L-39ZA Albatros"
-"l_39za_2";"▂L-39ZA"
+"l_39za_shop";"L-39ZA Albatros"
+"l_39za_0";"AERO Vodochody AEROSPACE a.s.
+L-39ZA Albatros"
+"l_39za_1";"L-39ZA Albatros"
+"l_39za_2";"L-39ZA"
 #
 "mig_27m_shop";"MiG-27M Flogger-J"
 "mig_27m_0";"OKB-155 ""A.I. Mikoyana""
@@ -914,10 +935,10 @@ NATO Designation: Flogger-J2"
 "lagg-3-66_1";"LaGG-3-66"
 "lagg-3-66_2";"LaGG-3-66"
 #
-"la-5_shop";"La-5"
-"la-5_0";"OKB-301 ""Lavochkin"" | La-5"
-"la-5_1";"La-5"
-"la-5_2";"La-5"
+"la-5_type37_early_shop";"La-5"
+"la-5_type37_early_0";"OKB-301 ""Lavochkin"" | La-5"
+"la-5_type37_early_1";"La-5"
+"la-5_type37_early_2";"La-5"
 #
 "la-5_type39_shop";"La-5F"
 "la-5_type39_0";"OKB-301 ""Lavochkin"" | La-5F"
@@ -1049,6 +1070,23 @@ nt_su_25t_0;"<color=@linkTextHoverColorLight>OKB-51 ""P.O. Sukhoi""</color>
 nt_su_25t_1;Su-25T Grach
 nt_su_25t_2;Su-25T
 #
+db_lk_shop;DB-LK
+db_lk_0;"<color=@linkTextHoverColorLight>Viktor Nikolayevich Belyaev</color>
+<color=@userlogColoredText>DB-LK</color> | Dahl'niy Bombardirovshchik-LK"
+db_lk_1;DB-LK
+db_lk_2;DB-LK
+#
+tu-1_shop;Tu-1
+tu-1_0;"OKB-156 ""Tupolev"" | Tu-1"
+tu-1_1;Tu-1
+tu-1_2;Tu-1
+#
+j_22m1a_shop;᛭J-22M1A Orao
+j_22m1a_0;"Soko Vazduhoplovna Industrija, RO Vazduhoplovstvo
+᛭J-22M1A Orao"
+j_22m1a_1;᛭J-22M1A Orao
+j_22m1a_2;᛭J-22M1A
+#
 "shop/group/ar_group";"Ar-2/SB-2"
 "shop/group/db_3_group";"DB-3B/Il-4 Bob"
 "shop/group/il-2i_group";"Il-2 Sturmovik"
@@ -1069,11 +1107,11 @@ nt_su_25t_2;Su-25T
 "shop/group/yak-9_group";"Yak-9/9B"
 "shop/group/yak-3_group";"Yak-3/9U"
 "shop/group/yak-9u_group";"Yak-9U"
-"shop/group/er-2_ach30b_group";"Yer-2/ACh-30B"
+"shop/group/er-2_ach30b_group";"Yer-2 (1940-41)"
 "shop/group/lagg-3_late_group";"LaGG-3-35/66"
 "shop/group/pe-2_early_group";"Pe-2 Peshka (Early)"
 "shop/group/pe-2_late_group";"Pe-2 Peshka (Late)"
 "shop/group/tu-2_group";"Tu-2"
-"shop/group/er-2_late_group";"Yer-2/ACh-30B"
+"shop/group/er-2_late_group";"Yer-2 (1940-41)"
 "shop/group/il-2m_group";"Il-2M Sturmovik"
 "shop/group/lagg-3_group";"LaGG-3-8/11"

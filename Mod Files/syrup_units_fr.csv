@@ -564,6 +564,12 @@ f_16am_block_20_mlu_netherlands_2;◘F-16AM-20;;
 "shop/group/d_500_group";"D.500";;
 "shop/group/maryland_group";"Martin 167/M.B.174A";;
 #
+sb_25j_netherlands_shop;◘SB-25J Strafer;;
+sb_25j_netherlands_0;"North American Aviation
+◘SB-25J Strafer";;
+sb_25j_netherlands_1;◘SB-25J Strafer;;
+sb_25j_netherlands_2;◘SB-25J;;
+#
 #helicopters
 #RANK 7
 ah_64e_netherlands_shop;◘AH-64E Guardian Apache (v6);;
