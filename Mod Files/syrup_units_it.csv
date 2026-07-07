@@ -20,8 +20,8 @@ Re.2005 Sagittario";;
 "re_2005_serie0_2";"Re.2005";;
 #
 re_2005_vdm_shop;Re.2005 Sagittario (9-12087A)
-re_2005_vdm_0;Officine Meccaniche Italiane S.p.A
-Re.2005 Sagittario
+re_2005_vdm_0;<color=@linkTextHoverColorLight>Officine Meccaniche Italiane S.p.A</color>
+<color=@userLogColoredText>Re.2005 Sagittario</color>
 9-12087A Modification
 MM.495
 re_2005_vdm_1;Re.2005 (9-12087A)
