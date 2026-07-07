@@ -1358,29 +1358,29 @@ us_m1a2_abrams_2;MBT;;
 us_m1a2_sep_abrams_shop;M1A2 Abrams SEP;;
 us_m1a2_sep_abrams_0;"<color=@linkTextHoverColorLight>General Dynamics Land Systems</color>
 Tank, Combat, Full-Tracked: 120mm Gun, <color=@userlogColoredText>M1A2 Abrams</color>
-SEP | Survivability Enhancement Package";;
+SEP | System Enhancement Package";;
 us_m1a2_sep_abrams_1;M1A2 Abrams SEP;;
 us_m1a2_sep_abrams_2;MBT;;
 #
 us_m1a2_sep2_abrams_shop;M1A2 Abrams SEPv2;;
 us_m1a2_sep2_abrams_0;"<color=@linkTextHoverColorLight>General Dynamics Land Systems</color>
 Tank, Combat, Full-Tracked: 120mm Gun, <color=@userlogColoredText>M1A2 Abrams</color>
-SEPv2 | Survivability Enhancement Package, Version 2";;
+SEPv2 | System Enhancement Package, Version 2";;
 us_m1a2_sep2_abrams_1;M1A2 Abrams SEPv2;;
 us_m1a2_sep2_abrams_2;MBT;;
 #
 us_m1a2_sep3_abrams_shop;M1A2 Abrams SEPv3;;
 us_m1a2_sep3_abrams_0;"<color=@linkTextHoverColorLight>General Dynamics Land Systems</color>
 Tank, Combat, Full-Tracked: 120mm Gun, <color=@userlogColoredText>M1A2 Abrams</color>
-SEPv3 | Survivability Enhancement Package, Version 3";;
+SEPv3 | System Enhancement Package, Version 3";;
 us_m1a2_sep3_abrams_1;M1A2 Abrams SEPv3;;
 us_m1a2_sep3_abrams_2;MBT;;
 #
-us_m1a1_aim_abrams_shop;M1A1 Abrams AIM;;
+us_m1a1_aim_abrams_shop;M1A1 Abrams AIM SA;;
 us_m1a1_aim_abrams_0;"<color=@linkTextHoverColorLight>General Dynamics Land Systems</color>
 Tank, Combat, Full-Tracked: 120mm Gun, <color=@userlogColoredText>M1A1 Abrams</color>
-AIM | Abrams Integrated Management";;
-us_m1a1_aim_abrams_1;M1A1 Abrams AIM;;
+AIM SA | Abrams Integrated Management, Situational Awareness";;
+us_m1a1_aim_abrams_1;M1A1 Abrams AIM SA;;
 us_m1a1_aim_abrams_2;MBT;;
 #
 us_m1a1_hc_usmc_shop;"M1A1HC Abrams (1st Tank BN)";;
@@ -1398,12 +1398,12 @@ HC | Heavy Common";;
 us_m1a1_hc_usmc_sm_1;◍M1A1HC Abrams;;
 us_m1a1_hc_usmc_sm_2;MBT;;
 #
-us_m1a2_sep2_abrams_trophy_shop;M1A2 Abrams SEPv2 (Trophy-HV);;
+us_m1a2_sep2_abrams_trophy_shop;M1A2 Abrams SEPv2 (Trophy HV);;
 us_m1a2_sep2_abrams_trophy_0;"<color=@linkTextHoverColorLight>General Dynamics Land Systems</color>
 Tank, Combat, Full-Tracked: 120mm Gun, <color=@userlogColoredText>M1A2 Abrams</color>
-SEPv2 | Survivability Enhancement Package, Version 2
-Trophy-HV Modification | 2021";;
-us_m1a2_sep2_abrams_trophy_1;M1A2 Abrams SEPv2 (Trophy-HV);;
+SEPv2 | System Enhancement Package, Version 2
+Trophy HV Modification | 2021";;
+us_m1a2_sep2_abrams_trophy_1;M1A2 Abrams SEPv2 (Trophy HV);;
 us_m1a2_sep2_abrams_trophy_2;MBT;;
 #
 us_nasams_launcher_shop;NASAMS 3 (TEL);;

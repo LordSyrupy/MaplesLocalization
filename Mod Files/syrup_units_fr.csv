@@ -365,10 +365,11 @@
 "f-84f_france_1";"⚜F-84F Thunderstreak";;
 "f-84f_france_2";"⚜F-84F";;
 #
-"f-100d_france_shop";"⚜F-100D Super Sabre";;
-"f-100d_france_0";"North American Aviation | ⚜F-100D Super Sabre";;
-"f-100d_france_1";"⚜F-100D Super Sabre";;
-"f-100d_france_2";"⚜F-100D";;
+"f-100d_france_shop";"⚜F-100D-10 Super Sabre";;
+"f-100d_france_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userLogColoredText>⚜F-100D-10 Super Sabre</color> | Block 10";;
+"f-100d_france_1";"⚜F-100D-10 Super Sabre";;
+"f-100d_france_2";"⚜F-100D-10";;
 #
 "so_4050_vautour_2a_shop";"Vautour IIA";;
 "so_4050_vautour_2a_0";"Société Nationale des Constructions Aéronautiques du Sud-Ouest (SNCASO) | S.O.4050 Vautour IIA";;
@@ -564,11 +565,11 @@ f_16am_block_20_mlu_netherlands_2;◘F-16AM-20;;
 "shop/group/d_500_group";"D.500";;
 "shop/group/maryland_group";"Martin 167/M.B.174A";;
 #
-sb_25j_netherlands_shop;◘SB-25J Strafer;;
-sb_25j_netherlands_0;"North American Aviation
-◘SB-25J Strafer";;
-sb_25j_netherlands_1;◘SB-25J Strafer;;
-sb_25j_netherlands_2;◘SB-25J;;
+sb_25j_netherlands_shop;◘B-25K Mitchell;;
+sb_25j_netherlands_0;"<color=@linkTextHoverColorLight>North American Aviation</color>
+<color=@userLogColoredText>◘B-25K Mitchell</color>";;
+sb_25j_netherlands_1;◘B-25K Mitchell;;
+sb_25j_netherlands_2;◘B-25K;;
 #
 #helicopters
 #RANK 7

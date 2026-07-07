@@ -1973,17 +1973,17 @@ weapons/110mm_spike_mr/short;Spike MR
 "weapons/us_500lbs";"AN-M64A1 General-Purpose High Explosve Bomb (500lb.)"
 "weapons/us_500lbs/short";"AN-M64A1 (500lb.)"
 #
-"weapons/us_500lb_mk_82_ldgp_air";"Mark 82 General-Purpose Ballute-Type Air-Retarded Bomb (500lb.)"
-"weapons/us_500lb_mk_82_ldgp_air/short";"Mk82 AIR (500lb.)"
+"weapons/us_500lb_mk_82_ldgp_air";"Mark 82 General-Purpose Ballute-Type Air-Retarded High Explosive Bomb (500lb.)"
+"weapons/us_500lb_mk_82_ldgp_air/short";"Mk 82 AIR (500lb.)"
 #
-"weapons/us_250lb_mk_81_ldgp_snakeye";"Mark 81 Snakeye High-Drag General-Purpose Tail-Fin Air-Retarded Bomb (250lb.)"
-"weapons/us_250lb_mk_81_ldgp_snakeye/short";"Mk81 Snakeye (250lb.)"
+"weapons/us_250lb_mk_81_ldgp_snakeye";"Mark 81 Snakeye High-Drag General-Purpose Tail-Fin Air-Retarded High Explosive Bomb (250lb.)"
+"weapons/us_250lb_mk_81_ldgp_snakeye/short";"Mk 81 Snakeye (250lb.)"
 #
-"weapons/us_500lb_mk_82_ldgp_snakeye";"Mark 82 Snakeye High-Drag General-Purpose Tail-Fin Air-Retarded Bomb (500lb.)"
-"weapons/us_500lb_mk_82_ldgp_snakeye/short";"Mk82 Snakeye (500lb.)"
+"weapons/us_500lb_mk_82_ldgp_snakeye";"Mark 82 Snakeye High-Drag General-Purpose Tail-Fin Air-Retarded High Explosive Bomb (500lb.)"
+"weapons/us_500lb_mk_82_ldgp_snakeye/short";"Mk 82 Snakeye (500lb.)"
 #
-"weapons/us_500lb_mk_82_ldgp_snakeye_default";"Mark 82 Snakeye High-Drag General-Purpose Tail-Fin Air-Retarded Bomb (500lb.)"
-"weapons/us_500lb_mk_82_ldgp_snakeye_default/short";"Mk82 Snakeye (500lb.)"
+"weapons/us_500lb_mk_82_ldgp_snakeye_default";"Mark 82 Snakeye High-Drag General-Purpose Tail-Fin Air-Retarded High Explosive Bomb (500lb.)"
+"weapons/us_500lb_mk_82_ldgp_snakeye_default/short";"Mk 82 Snakeye (500lb.)"
 #
 "weapons/us_1000lb_anm65a1";"AN-M65A1 Low-Drag General-Purpose Bomb (1000lb.)"
 "weapons/us_1000lb_anm65a1/short";"AN-M65A1 (1000lb.)"
@@ -2010,22 +2010,22 @@ weapons/110mm_spike_mr/short;Spike MR
 "weapons/us_500lb_anm64a1_rod/short";"AN-M64A1 (500lb.)"
 #
 "weapons/us_250lb_mk_81_ldgp";"Mark 81 Low-Drag General-Purpose Bomb (250lb.)"
-"weapons/us_250lb_mk_81_ldgp/short";"Mk81 (250lb.)"
+"weapons/us_250lb_mk_81_ldgp/short";"Mk 81 (250lb.)"
 #
 "weapons/us_500lb_mk_82_ldgp";"Mark 82 Low-Drag General-Purpose Bomb (500lb.)"
-"weapons/us_500lb_mk_82_ldgp/short";"Mk82 (500lb.)"
+"weapons/us_500lb_mk_82_ldgp/short";"Mk 82 (500lb.)"
 #
 "weapons/us_500lb_mk_82_ldgp_default";"Mark 82 Low-Drag General-Purpose Bomb (500lb.)"
-"weapons/us_500lb_mk_82_ldgp_default/short";"Mk82 (500lb.)"
+"weapons/us_500lb_mk_82_ldgp_default/short";"Mk 82 (500lb.)"
 #
-"weapons/us_1000lb_mk_83_ldgp";"Mk83 Low-Drag General-Purpose Bomb (1000lb.)"
-"weapons/us_1000lb_mk_83_ldgp/short";"Mk83 (1000lb.)"
+"weapons/us_1000lb_mk_83_ldgp";"Mk 83 Low-Drag General-Purpose Bomb (1000lb.)"
+"weapons/us_1000lb_mk_83_ldgp/short";"Mk 83 (1000lb.)"
 #
 "weapons/us_1000lb_mk_83_ldgp_default";"Mark 83 Low-Drag General-Purpose Bomb (1000lb.)"
-"weapons/us_1000lb_mk_83_ldgp_default/short";"Mk83 (1000lb.)"
+"weapons/us_1000lb_mk_83_ldgp_default/short";"Mk 83 (1000lb.)"
 #
 "weapons/us_2000lb_mk_84_ldgp";"Mark 84 Low-Drag General-Purpose Bomb (2000lb.)"
-"weapons/us_2000lb_mk_84_ldgp/short";"Mk84 (2000lb.)"
+"weapons/us_2000lb_mk_84_ldgp/short";"Mk 84 (2000lb.)"
 #
 "weapons/us_3000lb_m118";"M118 Low-Drag Demolition Bomb (3000lb.)"
 "weapons/us_3000lb_m118/short";"M118 (3000lb.)"
@@ -2033,8 +2033,8 @@ weapons/110mm_spike_mr/short;Spike MR
 "weapons/us_4000lb_anm56_box";"AN-M56 Light-Case General-Purpose Bomb (4000lb.)"
 "weapons/us_4000lb_anm56_box/short";"AN-M56 (4000lb.)"
 #
-"weapons/us_2000lb_mk_84_ldgp_air";"Mark 84 Low-Drag General-Purpose Ballute-Type Air-Retarded Bomb (2000lb.)"
-"weapons/us_2000lb_mk_84_ldgp_air/short";"Mk84 AIR (2000lb.)"
+"weapons/us_2000lb_mk_84_ldgp_air";"Mark 84 Low-Drag General-Purpose Ballute-Type Air-Retarded High Explosive Bomb (2000lb.)"
+"weapons/us_2000lb_mk_84_ldgp_air/short";"Mk 84 AIR (2000lb.)"
 #
 "weapons/us_500lb_gbu_62_jdam_er";"GBU-62 Joint Direct Attack Munition (Extended Range) GPS-Guided Glide Bomb (500lb.)"
 "weapons/us_500lb_gbu_62_jdam_er/short";"GBU-62 JDAM-ER (500lb.)"
@@ -2048,8 +2048,8 @@ weapons/110mm_spike_mr/short;Spike MR
 "weapons/us_750lb_m117_cone_45";"M117 Low-Drag Demolition Bomb, Cone 45 (750lb.)"
 "weapons/us_750lb_m117_cone_45/short";"M117 (750lb.)"
 #
-"weapons/us_1000lb_mk_83_ldgp_air";"Mark 83 Low-Drag General-Purpose Ballute-Type Air-Retarded Bomb (1000lb.)"
-"weapons/us_1000lb_mk_83_ldgp_air/short";"Mk83 AIR (1000lb.)"
+"weapons/us_1000lb_mk_83_ldgp_air";"Mark 83 Low-Drag General-Purpose Ballute-Type Air-Retarded High Explosive Bomb (1000lb.)"
+"weapons/us_1000lb_mk_83_ldgp_air/short";"Mk 83 AIR (1000lb.)"
 #
 "weapons/us_500lb_mk77_mod2";"Mark 77 Mod 2 Incendiary Napalm Bomb (750lb.)"
 "weapons/us_500lb_mk77_mod2/short";"Mk77 INC (750lb.)"
@@ -2701,6 +2701,45 @@ weapons/fr_500kg_aasm_500_hammer_laser/short;SBU-54 | AASM Hammer [500kg]
 #
 #Bombs, SWE
 #
+weapons/swd_50kg_sb_m37a;Minbomb m/37AT 50 kg High Explosive Bomb
+weapons/swd_50kg_sb_m37a/short;Mb m/37AT [50 kg]
+#
+weapons/swd_50kg_sb_m42;Sprängbomb m/42 50 kg High Explosive Bomb
+weapons/swd_50kg_sb_m42/short;Sb m/42 [50 kg]
+#
+weapons/swd_50kg_sb_m47;Sprängbomb m/47 50 kg High Explosive Bomb
+weapons/swd_50kg_sb_m47/short;Sb m/47 [50 kg]
+#
+weapons/swd_120kg_sb_m61;Sprängbomb m/61 120 kg High Explosive Bomb
+weapons/swd_120kg_sb_m61/short;Sb m/61 [120 kg]
+#
+weapons/swd_120kg_sb_m71;"Sprängbomb m/71 ""Virgo"" 120 kg High Explosive Bomb"
+weapons/swd_120kg_sb_m71/short;Sb m/71 [120 kg]
+#
+weapons/swd_120kg_sb_m71_retarded;"Sprängbomb m/71 ""Virgo"" 120 kg Air-Retarded High Explosive Bomb (Bombfallskärm m/61)"
+weapons/swd_120kg_sb_m71_retarded/short;Sb m/71 (Bfask m/61) [120 kg]
+#
+weapons/swd_250kg_minb_m37b;Minbomb m/37BT 250 kg High Explosive Bomb
+weapons/swd_250kg_minb_m37b/short;Mb m/37BT [250 kg]
+#
+weapons/swd_250kg_minb_m40;Minbomb m/40 250 kg High Explosive Bomb
+weapons/swd_250kg_minb_m40/short;Mb m/40 [250 kg]
+#
+weapons/swd_250kg_minb_m50;Minbomb m/50 250 kg High Explosive Bomb
+weapons/swd_250kg_minb_m50/short;Mb m/50 [250 kg]
+#
+weapons/swd_500kg_minb_m41;Minbomb m/41 500 kg High Explosive Bomb
+weapons/swd_500kg_minb_m41/short;Mb m/41 [500 kg]
+#
+weapons/swd_500kg_minb_m56;"Minbomb m/56 ""Lyra"" 500 kg High Explosive Bomb"
+weapons/swd_500kg_minb_m56/short;Mb m/56 [500 kg]
+#
+weapons/sw_500kg_brandbomb_m58;"Brandbomb m/58 ""Norma"" 500 kg Incendiary Napalm Bomb"
+weapons/sw_500kg_brandbomb_m58/short;Brandb m/58 [500 kg]
+#
+weapons/swd_600kg_minb_m50;"Minbomb m/50 ""Hercules"" 600 kg High Explosive Bomb"
+weapons/swd_600kg_minb_m50/short;Mb m/50 [600 kg]
+#
 #Bombs, ISR
 #
 weapons/il_spice_250;SPICE 250 | Smart, Precise Impact, Cost-Effective Electro-Optically Guided Glide Bomb [250lbs.]
@@ -2712,7 +2751,7 @@ weapons/il_spice_1000/short;SPICE 1000 [1000lbs.]
 weapons/il_spice_2000;SPICE 2000 | Smart, Precise Impact, Cost-Effective Electro-Optically Guided Bomb [2000lbs.]
 weapons/il_spice_2000/short;SPICE 2000 [2000lbs.]
 #
-#Rocket, USA
+#Rockets, USA
 "weapons/us_2_75_in_ffar_mighty_mouse";"Mk4 ""Mighty Mouse"" Folding-Fin Aerial Rocket"
 "weapons/us_2_75_in_ffar_mighty_mouse/short";"Mk4 FFAR"
 #
@@ -2788,7 +2827,7 @@ weapons/us_5_in_hvar_a_default/short;HVAR [SAP-HE]
 weapons/us_5_in_hvar_b_default;High-Velocity Aircraft Rocket (Semi-Armour Piercing High Explosive Warhead)
 weapons/us_5_in_hvar_b_default/short;HVAR [SAP-HE]
 #
-#Rocket, GER
+#Rockets, GER
 weapons/de_r4m_pb2_rocket;Panzerblitz 2 Anti-Tank Rocket
 weapons/de_r4m_pb2_rocket/short;PB 2
 #
@@ -2801,7 +2840,7 @@ weapons/de_rz65_rocket/short;RZ 65 Föhn
 weapons/sws_oerlikon_oe82;Oe85 80mm Anti-Tank Rocket [HEAT]
 weapons/sws_oerlikon_oe82/short;Oe85 [HEAT]
 #
-#Rocket, USSR
+#Rockets, USSR
 weapons/su_rbs132;RBS-132 132mm Semi Armor-Piercing High-Explosive Rocket
 weapons/su_rbs132/short;RBS-132 [SAP-HE]
 #
@@ -2889,7 +2928,7 @@ weapons/su_rs82/short;RS-82 [HE]
 #
 weapons/su_s_8kom_rocket;S-8KOM 80mm High-Explosive Rocket
 #
-#Rocket, GB
+#Rockets, GB
 #
 weapons/uk_2_inch_rocket;RP-2 2in High-Explosive Rocket
 weapons/uk_2_inch_rocket/short;RP-2 [HE]
@@ -2972,9 +3011,11 @@ weapons/uk_hvar/short;HVAR [SAP-HE]
 weapons/fr_sneb_type23_expo;SNEB Type 23 | Société Nouvelle des Établissements Edgar Brandt Type 23 68mm Anti-Tank Rocket
 weapons/fr_sneb_type23_expo/short;SNEB Type 23 [HEAT]
 #
-#Rocket, JP
+#Rockets, JP
 #
-#Rocket, IT
+#Rockets, CN
+#
+#Rockets, IT
 #
 weapons/tr_cirit_mpw_missile;Cirit 70mm Laser-Guided Anti-Tank Rocket
 weapons/tr_cirit_mpw_missile/short;Cirit [HEAT]
@@ -3017,9 +3058,37 @@ weapons/fr_tba_ecc/short;TBA 100 ECC [HEAT]
 weapons/fr_fz49;FZ-49 70mm Anti-Tank Rocket
 weapons/fr_fz49/short;FZ-49 [HEAT]
 #
-#Rocket, SWE
+#Rockets, SWE
 #
-#Rocket, ISR
+weapons/swd_75mm_frida;"Sprängraket m/55 ""Frida"" 7.5cm High-Explosive Rocket"
+weapons/swd_75mm_frida/short;Srak m/55 [HE]
+#
+weapons/swd_75mm_m57b;"Sprängraket m/57B ""Gerda"" 7.5cm High-Explosive Rocket"
+weapons/swd_75mm_m57b/short;Srak m/57B [HE]
+#
+weapons/swd_135mm_srak_m56d;Sprängraket m/56D 13.5cm Anti-Tank Rocket
+weapons/swd_135mm_srak_m56d/short;Srak m/56D [HEAT]
+#
+weapons/swd_135mm_psrak_m70_pshu;13,5cm Pansarsprängraket m/70 13.5cm Anti-Tank Rocket (Ögonblickligt högkänsligt spetsanslagsrör m/70)
+weapons/swd_135mm_psrak_m70_pshu/short;Psrak m/70 (Ö hk sar m/70) [HEAT]
+#
+weapons/swd_145mm_psrak_m49a;Pansarsprängraket m/49B 14.5cm Anti-Tank Rocket
+weapons/swd_145mm_psrak_m49a/short;Psrak m/49B [HEAT]
+weapons/swd_145mm_psrak_m49a_mount;Pansarsprängraket m/49B 14.5cm Anti-Tank Rocket
+weapons/swd_145mm_psrak_m49a_mount/short;Psrak m/49B [HEAT]
+#
+weapons/swd_145mm_psrak_m49_56;Pansarsprängraket m/49/56 14.5cm Anti-Tank Rocket
+weapons/swd_145mm_psrak_m49_56/short;Psrak m/49/56 [HEAT]
+#
+weapons/swd_150mm_srak_m51;Sprängraket m/51 15cm High-Explosive Rocket
+weapons/swd_150mm_srak_m51/short;Srak m/51 [SAP-HE]
+weapons/swd_150mm_srak_m51_mount;Sprängraket m/51 15cm High-Explosive Rocket
+weapons/swd_150mm_srak_m51_mount/short;Srak m/51 [SAP-HE]
+#
+weapons/swd_180mm_hpsrak_m49;Halvpansarraket m/49B 18cm High-Explosive Rocket
+weapons/swd_180mm_hpsrak_m49/short;Hprak m/49B [HE]
+#
+#Rockets, ISR
 #
 #Torpedoes, USA
 #
@@ -3034,6 +3103,7 @@ weapons/us_mk13_torpedo_no_case/short;Mk.13 Mod 6
 #
 weapons/us_mk13_torpedo_weak;Mark 13 Model 6 22.5in Torpedo
 weapons/us_mk13_torpedo_weak/short;Mk.13 Mod 6
+#
 #Torpedoes, UK
 #
 weapons/uk_mk15_torpedo;Mark XV 18in Torpedo
@@ -3042,6 +3112,17 @@ weapons/uk_mk15_torpedo_no_stab/short;Mk.XV
 #
 weapons/uk_mk12_torpedo;Mark XII 18in Torpedo
 weapons/uk_mk12_torpedo/short;Mk.XII
+#
+#Torpedoes, SWE
+#
+weapons/swd_m36_torpedo;Torped m/36 45cm Torpedo
+weapons/swd_m36_torpedo/short;Torp m/36
+#
+weapons/swd_m38_torpedo;Torped m/38 45cm Torpedo
+weapons/swd_m38_torpedo/short;Torp m/38
+#
+weapons/swd_m41_torpedo;Torped m/41 45cm Torpedo
+weapons/swd_m41_torpedo/short;Torp m/41
 #
 #Sensors, USA
 "weapons/us_sniper_atp_targeting_pod";"AN/AAQ-33 Sniper Advanced Targeting Pod"
@@ -3123,6 +3204,7 @@ weapons/su_apk_9/short;APK-9
 #Sensors, CN
 #
 #Sensors, IT
+#
 "weapons/it_pdlct_s_pod_targeting_pod";"Pod de Désignation Laser a Caméra Thermique (PDLCT) Targeting Pod"
 "weapons/it_pdlct_s_pod_targeting_pod/short";"PDLCT"
 #
@@ -3141,6 +3223,7 @@ weapons/su_apk_9/short;APK-9
 #Sensors, ISR
 #
 #Misc, USA
+#
 "weapons/us_750_gal_fastpack_f_15c_left";"Fuel And Sensor Tactical Pack"
 "weapons/us_750_gal_fastpack_f_15c_left/short";"FAST Pack"
 #
@@ -3148,6 +3231,7 @@ weapons/su_apk_9/short;APK-9
 "weapons/us_750_gal_fastpack_f_15c_right/short";"FAST Pack"
 #
 #Torpedoes, UK
+#
 weapons/uk_mk12_torpedo;18 inch Mark XII torpedo (1548 lbs)
 #
 weapons/uk_mk15_torpedo;18 inch Mark XV torpedo (1801 lbs)

@@ -19,6 +19,14 @@ Re.2005 Sagittario";;
 "re_2005_serie0_1";"Re.2005 Sagittario";;
 "re_2005_serie0_2";"Re.2005";;
 #
+re_2005_vdm_shop;Re.2005 Sagittario (9-12087A)
+re_2005_vdm_0;<color=@linkTextHoverColorLight>Officine Meccaniche Italiane S.p.A</color>
+<color=@userLogColoredText>Re.2005 Sagittario</color>
+9-12087A Modification
+MM.495
+re_2005_vdm_1;Re.2005 (9-12087A)
+re_2005_vdm_2;Re.2005 (9-12087A)
+#
 "mc-205_serie3_shop";"C.205V Veltro";;
 "mc-205_serie3_0";"Aeronautica Macchi
 C.205V Veltro | Serie 3";;
@@ -633,52 +641,52 @@ ef_2000a_aesa_1;⛨F-2000A Typhoon (ECRS Mk2);;
 ef_2000a_aesa_2;⛨F-2000A (ECRS Mk2);;
 #
 m_346fa_shop;M-346FA Master;;
-m_346fa_0;"Alenia Aermacchi S.p.A / Leonardo S.p.A
-M-346 Master
+m_346fa_0;"<color=@linkTextHoverColorLight>Alenia Aermacchi S.p.A / Leonardo S.p.A</color>
+<color=@userLogColoredText>M-346 Master</color>
 FA | Fighter Attack";;
 m_346fa_1;M-346FA Master;;
 m_346fa_2;M-346FA;;
 #
 me_210ca_1_hungary_shop;◔Me 210 Ca-1 Hornisse;;
-me_210ca_1_hungary_0;"Messerschmitt AG
-◔Me 210 Ca-1 Hornisse";;
+me_210ca_1_hungary_0;""<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userLogColoredText>◔Me 210 Ca-1 Hornisse</color>";;
 me_210ca_1_hungary_1;◔Me 210 Ca-1 Hornisse;;
 me_210ca_1_hungary_2;◔Me 210 Ca-1;;
 #
 me_210ca_1_40_mm_hungary_shop;◔Me 210 Ca-1 Hornisse (36.M);;
-me_210ca_1_40_mm_hungary_0;"Messerschmitt AG
-◔Me 210 Ca-1 Hornisse
+me_210ca_1_40_mm_hungary_0;"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userLogColoredText>◔Me 210 Ca-1 Hornisse</color>
 40mm 36.M Cannon Modification";;
 me_210ca_1_40_mm_hungary_1;◔Me 210 Ca-1 Hornisse (36.M);;
 me_210ca_1_40_mm_hungary_2;◔Me 210 Ca-1 (36.M);;
 #
-wm_21_shop;WM-21 Sólyom;;
-wm_21_0;"Weiss Manfréd Acél- és Fémművek
-WM-21 Sólyom";;
-wm_21_1;WM-21 Sólyom;;
-wm_21_2;WM-21;;
+wm_21_shop;W.M.21 Sólyom;;
+wm_21_0;"<color=@linkTextHoverColorLight>Weiss Manfréd Acél- és Fémművek</color>
+<color=@userLogColoredText>W.M.21 Sólyom</color>";;
+wm_21_1;W.M.21 Sólyom;;
+wm_21_2;W.M.21;;
 #
 re_2000_heja_1_shop;◔Héja I;;
-re_2000_heja_1_0;"Magyar Királyi Állami Vas-, Acél- és Gépgyárak (MÁVAG)
-◔Héja I | Re.2000 Falco";;
+re_2000_heja_1_0;""<color=@linkTextHoverColorLight>Magyar Királyi Állami Vas-, Acél- és Gépgyárak (MÁVAG)</color>
+<color=@userLogColoredText>◔Héja I</color> | Re.2000 Falco";;
 re_2000_heja_1_1;◔Héja I;;
 re_2000_heja_1_2;◔Héja I;;
 #
 re_2000_heja_2_shop;Héja II;;
-re_2000_heja_2_0;"Magyar Királyi Állami Vas-, Acél- és Gépgyárak (MÁVAG)
-Héja II";;
+re_2000_heja_2_0;""<color=@linkTextHoverColorLight>Magyar Királyi Állami Vas-, Acél- és Gépgyárak (MÁVAG)</color>
+<color=@userLogColoredText>Héja II</color>";;
 re_2000_heja_2_1;Héja II;;
 re_2000_heja_2_2;Héja II;;
 #
-wm_23_shop;WM-23 Ezüst Nyíl;;
-wm_23_0;"Weiss Manfréd Acél- és Fémművek
-WM-23";;
-wm_23_1;WM-23 Ezüst Nyíl;;
-wm_23_2;WM-23;;
+wm_23_shop;W.M.23 Ezüst Nyíl;;
+wm_23_0;""<color=@linkTextHoverColorLight>Weiss Manfréd Acél- és Fémművek</color>
+<color=@userLogColoredText>W.M.23 Ezüst Nyíl</color>";;
+wm_23_1;W.M.23 Ezüst Nyíl;;
+wm_23_2;W.M.23;;
 #
 fw_190f_8_hungary_shop;◔Fw 190 A-8 Würger;;
-fw_190f_8_hungary_0;"Focke-Wulf Flugzeugbau AG
-◔Fw 190 A-8 Würger";;
+fw_190f_8_hungary_0;""<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userLogColoredText>◔Fw 190 A-8 Würger</color>";;
 fw_190f_8_hungary_1;◔Fw 190 A-8 Würger;;
 fw_190f_8_hungary_2;◔Fw 190 A-8;;
 #

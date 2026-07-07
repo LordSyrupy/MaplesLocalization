@@ -282,12 +282,12 @@ Type 4 Fighter | Model 1 Jia";;
 "ki_84_ko_china_1";"☀Ki 84-I Jia";;
 "ki_84_ko_china_2";"☀Ki 84-I Jia";;
 #
-quing_6_shop;␗Qing-6 Madge;;
-quing_6_0;"OKB-49 ""Beriev""
-␗Qing-6
-NATO Reporting Name: Madge";;
-quing_6_1;␗Qing-6 Madge;;
-quing_6_2;␗Qing-6;;
+quing_6_shop;␗Qing 6 Madge;;
+quing_6_0;"<color=@linkTextHoverColorLight>OKB-49 ""Beriev""</color>
+<color=@userLogColoredText>␗Qing 6</color>
+<color=@commonTextColor>NATO Reporting Name: Madge"</color>;;
+quing_6_1;␗Qing 6 Madge;;
+quing_6_2;␗Qing 6;;
 #
 #RANK 5
 "f-86f-30_china_shop";"☀F-86F-30 Sabre";;

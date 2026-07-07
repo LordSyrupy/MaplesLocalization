@@ -115,10 +115,10 @@ typhoon_mk1a_2;Typhoon Mk.IA;
 "spitfiremkii_1";"Spitfire Mk.IIB";
 "spitfiremkii_2";"Spitfire Mk.IIB";
 #
-"spitfire_mk5b_shop";"Spitfire Mk.VB(trop)";
+"spitfire_mk5b_shop";"Spitfire Mk.VB (trop)";
 "spitfire_mk5b_0";"Supermarine Aviation Works | Spitfire Mk.V | Type B Wing | Tropicalised";
-"spitfire_mk5b_1";"Spitfire Mk.VB(trop)";
-"spitfire_mk5b_2";"Spitfire Mk.VB(trop)";
+"spitfire_mk5b_1";"Spitfire Mk.VB (trop)";
+"spitfire_mk5b_2";"Spitfire Mk.VB (trop)";
 #
 "spitfire_mk5b_notrop_shop";"Spitfire Mk.VB";
 "spitfire_mk5b_notrop_0";"Supermarine Aviation Works | Spitfire Mk.V | Type B Wing";
@@ -710,12 +710,13 @@ fa_18f_block_2_raaf_0;Boeing Defense, Space & Security | ▄F/A-18F-2 Super Horn
 fa_18f_block_2_raaf_1;▄F/A-18F-2 Super Hornet;
 fa_18f_block_2_raaf_2;▄F/A-18F-2;
 #
-spitfire_mk5b_float_shop;Spitfire Mk.VB (1942);
-spitfire_mk5b_float_0;"Supermarine Aviation Works / Folland Aircraft
-Spitfire Mk.VB
-Floatplane Prototype | 1942";
-spitfire_mk5b_float_1;Spitfire Mk.VB (1942);
-spitfire_mk5b_float_2;Spitfire Mk.VB (1942);
+spitfire_mk5b_float_shop;Spitfire Mk.VB (W3760);
+spitfire_mk5b_float_0;"<color=@linkTextHoverColorLight>Supermarine Aviation Works / Folland Aircraft</color>
+<color=@userLogColoredText>Spitfire Mk.VB</color>
+Floatplane Prototype | 1942
+W3760";
+spitfire_mk5b_float_1;Spitfire Mk.VB (W3760);
+spitfire_mk5b_float_2;Spitfire Mk.VB (W3760);
 #
 mosquito_nf_mk2_shop;Mosquito NF.II;
 mosquito_nf_mk2_0;"de Havilland Aircraft Company, Ltd.
