@@ -2,6 +2,13 @@
 #had to change the format of the file to include a bunch of hashtags where spaces normally are so that using Edit CSV doesn't fuck up the file.
 #file formats are gonna be a little jank until i get into each one to fix them up. sorry, addy. -maple (11/13/2025)
 #RANK 1
+#
+h-75m_china_shop;☀H-75M;;
+h-75m_china_0;"Curtiss-Wright Corporation
+☀H-75M";;
+h-75m_china_1;☀H-75M;;
+h-75m_china_2;☀H-75M;;
+#
 "gladiator_mk1_china_shop";"☀Gladiator Mk.I";;
 "gladiator_mk1_china_0";"Gloster Aircraft Company
 ☀Gladiator Mk. I ""Gé Jī""";;
@@ -274,6 +281,13 @@ NATO Designation: Bat";;
 Type 4 Fighter | Model 1 Jia";;
 "ki_84_ko_china_1";"☀Ki 84-I Jia";;
 "ki_84_ko_china_2";"☀Ki 84-I Jia";;
+#
+quing_6_shop;␗Qing-6 Madge;;
+quing_6_0;"OKB-49 ""Beriev""
+␗Qing-6
+NATO Reporting Name: Madge";;
+quing_6_1;␗Qing-6 Madge;;
+quing_6_2;␗Qing-6;;
 #
 #RANK 5
 "f-86f-30_china_shop";"☀F-86F-30 Sabre";;

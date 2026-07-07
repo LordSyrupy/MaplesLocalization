@@ -1,482 +1,614 @@
 "<ID|readonly|noverify>";"<English>";;
 #
 "g_56_shop";"G.56 Centauro";;
-"g_56_0";"Fiat Aviazone | G.56 Centauro | 1944 Prototype";;
+"g_56_0";"Fiat Aviazone
+G.56 Centauro
+Prototype | 1944";;
 "g_56_1";"G.56 Centauro ";;
 "g_56_2";"G.56";;
 #
 "g_55_serie1_shop";"G.55/1 Centauro";;
-"g_55_serie1_0";"Fiat Aviazone | G.55 Centauro | Serie 1";;
+"g_55_serie1_0";"Fiat Aviazone
+G.55 Centauro | Serie 1";;
 "g_55_serie1_1";"G.55/1 Centauro";;
 "g_55_serie1_2";"G.55/1";;
 #
 "re_2005_serie0_shop";"Re.2005 Sagittario";;
-"re_2005_serie0_0";"Officine Meccaniche Reggiane S.p.A | Re.2005 Sagittario";;
+"re_2005_serie0_0";"Officine Meccaniche Reggiane S.p.A
+Re.2005 Sagittario";;
 "re_2005_serie0_1";"Re.2005 Sagittario";;
 "re_2005_serie0_2";"Re.2005";;
 #
 "mc-205_serie3_shop";"C.205V Veltro";;
-"mc-205_serie3_0";"Aeronautica Macchi | C.205V Veltro | Serie 3";;
+"mc-205_serie3_0";"Aeronautica Macchi
+C.205V Veltro | Serie 3";;
 "mc-205_serie3_1";"C.205V Veltro";;
 "mc-205_serie3_2";"C.205V";;
 #
-"il-10_1946_hungary_shop";"◔Il-10 Beast";;
-"il-10_1946_hungary_0";"OKB-39 ""Ilyushin"" | ◔Il-10 Beast ""Párduc""";;
-"il-10_1946_hungary_1";"◔Il-10 Beast";;
+"il-10_1946_hungary_shop";"◔Il-10 Párduc";;
+"il-10_1946_hungary_0";"OKB-39 ""Ilyushin""
+◔Il-10 Párduc
+NATO Reporting Name: Beast";;
+"il-10_1946_hungary_1";"◔Il-10 Párduc";;
 "il-10_1946_hungary_2";"◔Il-10";;
 #
 "tu-2_postwar_late_hungary_shop";"◔Tu-2S-59 Bat";;
-"tu-2_postwar_late_hungary_0";"OKB-39 ""Ilyushin"" | ◔Tu-2S Bat | Series 59";;
+"tu-2_postwar_late_hungary_0";"OKB-39 ""Ilyushin""
+◔Tu-2S Bat | Series 59";;
 "tu-2_postwar_late_hungary_1";"◔Tu-2S-59 Bat";;
 "tu-2_postwar_late_hungary_2";"◔Tu-2S-59";;
 #
 "yak-9p_hungary_shop";"◔Yak-9P";;
-"yak-9p_hungary_0";"OKB-115 ""Yakovlev"" | ◔Yak-9P";;
+"yak-9p_hungary_0";"OKB-115 ""Yakovlev""
+◔Yak-9P";;
 "yak-9p_hungary_1";"◔Yak-9P";;
 "yak-9p_hungary_2";"◔Yak-9P";;
 #
 "g_55s_shop";"G.55/S Centauro";;
-"g_55s_0";"Fiat Aviazone | G.55 Centauro | Silurante";;
+"g_55s_0";"Fiat Aviazone
+G.55 Centauro
+S | Silurante";;
 "g_55s_1";"G.55/S Centauro";;
 "g_55s_2";"G.55/S";;
 #
 "g_55_serie1_ss0_shop";"G.55/0 Centauro";;
-"g_55_serie1_ss0_0";"Fiat Aviazone | G.55 Centauro | Sottoserie 0";;
+"g_55_serie1_ss0_0";"Fiat Aviazone
+G.55 Centauro | Sottoserie 0";;
 "g_55_serie1_ss0_1";"G.55/0 Centauro";;
 "g_55_serie1_ss0_2";"G.55/0";;
 #
 "re_2001_cn_shop";"Re.2001CN Falco II";;
-"re_2001_cn_0";"Officine Meccaniche Reggiane S.p.A | Re.2001 Falco II | Caccia Notturna";;
+"re_2001_cn_0";"Officine Meccaniche Reggiane S.p.A
+Re.2001 Falco II
+CN | Caccia Notturna";;
 "re_2001_cn_1";"Re.2001CN Falco II";;
 "re_2001_cn_2";"Re.2001CN";;
 #
 "mc-202_ec_shop";"C.202EC Folgore";;
-"mc-202_ec_0";"Aeronautica Macchi | C.202 Folgore | Esperimento Cannoni";;
+"mc-202_ec_0";"Aeronautica Macchi
+C.202 Folgore
+EC | Esperimento Cannoni";;
 "mc-202_ec_1";"C.202EC Folgore";;
 "mc-202_ec_2";"C.202EC";;
 #
 "mc-205_n2_shop";"C.205N2 Orione";;
-"mc-205_n2_0";"Aeronautica Macchi | C.205N2 Orione | 1943 Prototype";;
+"mc-205_n2_0";"Aeronautica Macchi
+C.205N2 Orione
+Prototype | 1943";;
 "mc-205_n2_1";"C.205N2 Orione";;
 "mc-205_n2_2";"C.205N2";;
 #
 "sm_92_shop";"SM.92";;
-"sm_92_0";"Società Anonima Costruzioni Aeronautiche Savoia-Marchetti | SM.92 | 1943 Prototype";;
+"sm_92_0";"Società Anonima Costruzioni Aeronautiche Savoia-Marchetti
+SM.92
+Prototype | 1943";;
 "sm_92_1";"SM.92";;
 "sm_92_2";"SM.92";;
 #
 "p_108b_serie1_shop";"P.108B I Bombardiere";;
-"p_108b_serie1_0";"Rinaldo Piaggio S.p.A | P.108B Bombardiere | Serie 1";;
+"p_108b_serie1_0";"Rinaldo Piaggio S.p.A
+P.108B Bombardiere | Serie 1";;
 "p_108b_serie1_1";"P.108B I Bombardiere";;
 "p_108b_serie1_2";"P.108B I";;
 #
 "p_108b_serie2_shop";"P.108B II Bombardiere";;
-"p_108b_serie2_0";"Rinaldo Piaggio S.p.A | P.108B Bombardiere | Serie 2";;
+"p_108b_serie2_0";"Rinaldo Piaggio S.p.A
+P.108B Bombardiere | Serie 2";;
 "p_108b_serie2_1";"P.108B II Bombardiere";;
 "p_108b_serie2_2";"P.108B II";;
 #
 "hs-129b-2_romania_italy_shop";"▄Hs 129 B-3";;
-"hs-129b-2_romania_italy_0";"Henschel Flugzeugwerke AG | ▄Hs 129 B-3";;
+"hs-129b-2_romania_italy_0";"Henschel Flugzeugwerke AG
+▄Hs 129 B-3";;
 "hs-129b-2_romania_italy_1";"▄Hs 129 B-3";;
 "hs-129b-2_romania_italy_2";"▄Hs 129 B-3";;
 #
 "spitfire_mk5b_italy_shop";"⛨Spitfire Mk.VB(trop)";;
-"spitfire_mk5b_italy_0";"Supermarine Aviation Works | ⛨Spitfire Mk.V | Type B Wing | Tropicalised";;
+"spitfire_mk5b_italy_0";"Supermarine Aviation Works
+⛨Spitfire Mk.V | Type B Wing | Tropicalised";;
 "spitfire_mk5b_italy_1";"⛨Spitfire Mk.VB(trop)";;
 "spitfire_mk5b_italy_2";"⛨Spitfire Mk.VB(trop)";;
 #
 "bf_110g_4_hungary_shop";"◐Bf 110 G-4";;
-"bf_110g_4_hungary_0";"Messerschmitt AG | ◐Bf 110 G-4";;
+"bf_110g_4_hungary_0";"Messerschmitt AG
+◐Bf 110 G-4";;
 "bf_110g_4_hungary_1";"◐Bf 110 G-4";;
 "bf_110g_4_hungary_2";"◐Bf 110 G-4";;
 #
 "re_2001_serie1_shop";"Re.2001 Falco II";;
-"re_2001_serie1_0";"Officine Meccaniche Reggiane S.p.A | Re.2001 Falco II | Serie 1";;
+"re_2001_serie1_0";"Officine Meccaniche Reggiane S.p.A
+Re.2001 Falco II | Serie 1";;
 "re_2001_serie1_1";"Re.2001 Falco II";;
 "re_2001_serie1_2";"Re.2001";;
 #
 "re_2001_serie1_ep_shop";"Re.2001 Falco II (22° G.)";;
-"re_2001_serie1_ep_0";"Officine Meccaniche Reggiane S.p.A | Re.2001 Falco II | Serie 1 | 22° Gruppo";;
+"re_2001_serie1_ep_0";"Officine Meccaniche Reggiane S.p.A
+Re.2001 Falco II | Serie 1
+22° Gruppo";;
 "re_2001_serie1_ep_1";"Re.2001 Falco II (22° G.)";;
 "re_2001_serie1_ep_2";"Re.2001 (22° G.)";;
 #
 "re_2001_cb_shop";"Re.2001CB Falco II";;
-"re_2001_cb_0";"Officine Meccaniche Reggiane S.p.A | Re.2001 Falco II | Caccia Bombardiere";;
+"re_2001_cb_0";"Officine Meccaniche Reggiane S.p.A
+Re.2001 Falco II
+CB | Caccia Bombardiere";;
 "re_2001_cb_1";"Re.2001CB Falco II";;
 "re_2001_cb_2";"Re.2001CB";;
 #
 "re_2002_early_shop";"Re.2002 Ariete (1942)";;
-"re_2002_early_0";"Officine Meccaniche Reggiane S.p.A | Re.2002 Ariete (1942)";;
+"re_2002_early_0";"Officine Meccaniche Reggiane S.p.A
+Re.2002 Ariete (1942)";;
 "re_2002_early_1";"Re.2002 Ariete (1942)";;
 "re_2002_early_2";"Re.2002 (1942)";;
 #
 "mc200_serie3_italy_shop";"C.200/3 Saetta";;
-"mc200_serie3_italy_0";"Aeronautica Macchi | C.200 Saetta | Serie 3";;
+"mc200_serie3_italy_0";"Aeronautica Macchi
+C.200 Saetta | Serie 3";;
 "mc200_serie3_italy_1";"C.200/3 Saetta";;
 "mc200_serie3_italy_2";"C.200/3";;
 #
 "mc200_serie7_italy_shop";"C.200/7 Saetta";;
-"mc200_serie7_italy_0";"Aeronautica Macchi | C.200 Saetta | Serie 7";;
+"mc200_serie7_italy_0";"Aeronautica Macchi
+C.200 Saetta | Serie 7";;
 "mc200_serie7_italy_1";"C.200/7 Saetta";;
 "mc200_serie7_italy_2";"C.200/7";;
 #
 "mc-202_italy_shop";"C.202 Folgore";;
-"mc-202_italy_0";"Aeronautica Macchi | C.202 Folgore";;
+"mc-202_italy_0";"Aeronautica Macchi
+C.202 Folgore";;
 "mc-202_italy_1";"C.202 Folgore";;
 "mc-202_italy_2";"C.202";;
 #
 "mc-205_serie1_shop";"C.205S Veltro";;
-"mc-205_serie1_0";"Aeronautica Macchi | C.205S Veltro | Serie 1";;
+"mc-205_serie1_0";"Aeronautica Macchi
+C.205S Veltro | Serie 1";;
 "mc-205_serie1_1";"C.205S Veltro";;
 "mc-205_serie1_2";"C.205S";;
 #
 "ju-87d-3_italy_shop";"⛨Ju 87 D-3 Stuka";;
-"ju-87d-3_italy_0";"Junkers Flugzeug- und Motorenwerke AG | ⛨Ju 87 D-3 Stuka";;
+"ju-87d-3_italy_0";"Junkers Flugzeug- und Motorenwerke AG
+⛨Ju 87 D-3 Stuka";;
 "ju-87d-3_italy_1";"⛨Ju 87 D-3 Stuka";;
 "ju-87d-3_italy_2";"⛨Ju 87 D-3";;
 #
 "sm_91_shop";"SM.91";;
-"sm_91_0";"Società Anonima Costruzioni Aeronautiche Savoia-Marchetti | SM.91 | 1943 Prototype";;
+"sm_91_0";"Società Anonima Costruzioni Aeronautiche Savoia-Marchetti
+SM.91
+Prototype | 1943";;
 "sm_91_1";"SM.91";;
 "sm_91_2";"SM.91";;
 #
 "sm_79_1941_italy_shop";"SM.79-I Sparviero";;
-"sm_79_1941_italy_0";"Società Anonima Costruzioni Aeronautiche Savoia-Marchetti | SM.79-I Sparviero";;
+"sm_79_1941_italy_0";"Società Anonima Costruzioni Aeronautiche Savoia-Marchetti
+SM.79-I Sparviero";;
 "sm_79_1941_italy_1";"SM.79-I Sparviero";;
 "sm_79_1941_italy_2";"SM.79-I";;
 #
 "sm_79_1942_italy_shop";"SM.79bis Sparviero (1942)";;
-"sm_79_1942_italy_0";"Società Anonima Costruzioni Aeronautiche Savoia-Marchetti | SM.79bis Sparviero (1942)";;
+"sm_79_1942_italy_0";"Società Anonima Costruzioni Aeronautiche Savoia-Marchetti
+SM.79bis Sparviero (1942)";;
 "sm_79_1942_italy_1";"SM.79bis Sparviero (1942)";;
 "sm_79_1942_italy_2";"SM.79bis (1942)";;
 #
 "sm_79_1943_italy_shop";"SM.79bis Sparviero (1943)";;
-"sm_79_1943_italy_0";"Società Anonima Costruzioni Aeronautiche Savoia-Marchetti | SM.79bis Sparviero (1943)";;
+"sm_79_1943_italy_0";"Società Anonima Costruzioni Aeronautiche Savoia-Marchetti
+SM.79bis Sparviero (1943)";;
 "sm_79_1943_italy_1";"SM.79bis Sparviero (1943)";;
 "sm_79_1943_italy_2";"SM.79bis (1943)";;
 #
 "sm_79_iar_italy_shop";"SM.79B Sparviero";;
-"sm_79_iar_italy_0";"Società Anonima Costruzioni Aeronautiche Savoia-Marchetti | SM.79B Sparviero";;
+"sm_79_iar_italy_0";"Società Anonima Costruzioni Aeronautiche Savoia-Marchetti
+SM.79B Sparviero";;
 "sm_79_iar_italy_1";"SM.79B Sparviero";;
 "sm_79_iar_italy_2";"SM.79B";;
 #
 "z_1007_bis_serie5_shop";"Z.1007bis Alcione (Serie 5)";;
-"z_1007_bis_serie5_0";"Cantieri Aeronautici e Navali Triestini | Z.1007bis Alcione | Serie 5";;
+"z_1007_bis_serie5_0";"Cantieri Aeronautici e Navali Triestini
+Z.1007bis Alcione | Serie 5";;
 "z_1007_bis_serie5_1";"Z.1007bis Alcione (Serie 5)";;
 "z_1007_bis_serie5_2";"Z.1007bis (Serie 5)";;
 #
 "z_1007_bis_serie3_shop";"Z.1007bis Alcione (Serie 3)";;
-"z_1007_bis_serie3_0";"Cantieri Aeronautici e Navali Triestini | Z.1007bis Alcione | Serie 3";;
+"z_1007_bis_serie3_0";"Cantieri Aeronautici e Navali Triestini
+Z.1007bis Alcione | Serie 3";;
 "z_1007_bis_serie3_1";"Z.1007bis Alcione (Serie 3)";;
 "z_1007_bis_serie3_2";"Z.1007bis (Serie 3)";;
 #
 "he_112b_1_italy_shop";"▄He 112 B-1/U2";;
-"he_112b_1_italy_0";"Heinkel Flugzeugwerke | ▄He 112 B-1 | Umrüstbausatz 2";;
+"he_112b_1_italy_0";"Heinkel Flugzeugwerke
+▄He 112 B-1
+U2 | Umrüstbausatz 2";;
 "he_112b_1_italy_1";"▄He 112 B-1/U2";;
 "he_112b_1_italy_2";"▄He 112 B-1/U2";;
 #
 "iar_81c_shop";"IAR 81C";;
-"iar_81c_0";"Industria Aeronautică Română | IAR 81C";;
+"iar_81c_0";"Industria Aeronautică Română
+IAR 81C";;
 "iar_81c_1";"IAR 81C";;
 "iar_81c_2";"IAR 81C";;
 #
 "re_2000_int_shop";"Re.2000 Falco I";;
-"re_2000_int_0";"Officine Meccaniche Reggiane S.p.A | Re.2000 Falco I | Serie 1";;
+"re_2000_int_0";"Officine Meccaniche Reggiane S.p.A
+Re.2000 Falco I | Serie 1";;
 "re_2000_int_1";"Re.2000 Falco I";;
 "re_2000_int_2";"Re.2000";;
 #
 "re_2000_ga_shop";"Re.2000GA Falco I";;
-"re_2000_ga_0";"Officine Meccaniche Reggiane S.p.A | Re.2000GA Falco I | Serie 3";;
+"re_2000_ga_0";"Officine Meccaniche Reggiane S.p.A
+Re.2000GA Falco I | Serie 3";;
 "re_2000_ga_1";"Re.2000GA Falco I";;
 "re_2000_ga_2";"Re.2000GA";;
 #
 "ro_44_shop";"Ro.44";;
-"ro_44_0";"Industrie Meccaniche e Aeronautiche Meridionali | Ro.44";;
+"ro_44_0";"Industrie Meccaniche e Aeronautiche Meridionali
+Ro.44";;
 "ro_44_1";"Ro.44";;
 "ro_44_2";"Ro.44";;
 #
 "fiat_g50_seria2_italy_shop";"G.50 Freccia";;
-"fiat_g50_seria2_italy_0";"Fiat Aviazone | G.50 Freccia | Serie 2";;
+"fiat_g50_seria2_italy_0";"Fiat Aviazone
+G.50 Freccia | Serie 2";;
 "fiat_g50_seria2_italy_1";"G.50 Freccia";;
 "fiat_g50_seria2_italy_2";"G.50";;
 #
 "fiat_g50_seria7as_italy_shop";"G.50bis/AS Freccia";;
-"fiat_g50_seria7as_italy_0";"Fiat Aviazone | G.50bis/AS Freccia | Serie 7";;
+"fiat_g50_seria7as_italy_0";"Fiat Aviazone
+G.50bis/AS Freccia | Serie 7";;
 "fiat_g50_seria7as_italy_1";"G.50bis/AS Freccia";;
 "fiat_g50_seria7as_italy_2";"G.50bis/AS";;
 #
 "fiat_cr42_italy_shop";"CR.42 Falco";;
-"fiat_cr42_italy_0";"Fiat Aviazone | CR.42 Falco";;
+"fiat_cr42_italy_0";"Fiat Aviazone
+CR.42 Falco";;
 "fiat_cr42_italy_1";"CR.42 Falco";;
 "fiat_cr42_italy_2";"CR.42";;
 #
 "cr_32_shop";"CR.32";;
-"cr_32_0";"Fiat Aviazone | CR.32";;
+"cr_32_0";"Fiat Aviazone
+CR.32";;
 "cr_32_1";"CR.32";;
 "cr_32_2";"CR.32";;
 #
 "cr_32_bis_shop";"CR.32bis";;
-"cr_32_bis_0";"Fiat Aviazone | CR.32bis";;
+"cr_32_bis_0";"Fiat Aviazone
+CR.32bis";;
 "cr_32_bis_1";"CR.32bis";;
 "cr_32_bis_2";"CR.32bis";;
 #
 "cr_32_quater_shop";"CR.32quater";;
-"cr_32_quater_0";"Fiat Aviazone | CR.32quater";;
+"cr_32_quater_0";"Fiat Aviazone
+CR.32quater";;
 "cr_32_quater_1";"CR.32quater";;
 "cr_32_quater_2";"CR.32quater";;
 #
 "ba_65_k14_l_shop";"Ba.65 K.14 L";;
-"ba_65_k14_l_0";"Società Italiana Ernesto Breda | Ba.65 K.14 | L-type Defensive Turret";;
+"ba_65_k14_l_0";"Società Italiana Ernesto Breda
+Ba.65 K.14
+L-type Defensive Turret";;
 "ba_65_k14_l_1";"Ba.65 K.14 L";;
 "ba_65_k14_l_2";"Ba.65 K.14 L";;
 #
 "ju-87r-2_italy_shop";"⛨Ju 87 R-2 Stuka";;
-"ju-87r-2_italy_0";"Junkers Flugzeug- und Motorenwerke | ⛨Ju 87 R-2 Stuka";;
+"ju-87r-2_italy_0";"Junkers Flugzeug- und Motorenwerke
+⛨Ju 87 R-2 Stuka";;
 "ju-87r-2_italy_1";"⛨Ju 87 R-2 Stuka ";;
 "ju-87r-2_italy_2";"⛨Ju 87 R-2";;
 #
 "fc_20_bis_shop";"FC.20bis";;
-"fc_20_bis_0";"Construzioni Aeronautiche Novaresi S.A. | FC.20bis";;
+"fc_20_bis_0";"Construzioni Aeronautiche Novaresi S.A.
+FC.20bis";;
 "fc_20_bis_1";"FC.20bis";;
 "fc_20_bis_2";"FC.20bis";;
 #
 "s_81_ar125_shop";"SM.81 Pipistrello";;
-"s_81_ar125_0";"Società Anonima Costruzioni Aeronautiche Savoia-Marchetti | SM.81 Pipistrello";;
+"s_81_ar125_0";"Società Anonima Costruzioni Aeronautiche Savoia-Marchetti
+SM.81 Pipistrello";;
 "s_81_ar125_1";"SM.81 Pipistrello ";;
 "s_81_ar125_2";"SM.81";;
 #
 "br_20_dr_shop";"BR.20DR Cicogna";;
-"br_20_dr_0";"Fiat Aviazone | BR.20DR Cicogna";;
+"br_20_dr_0";"Fiat Aviazone
+BR.20DR Cicogna";;
 "br_20_dr_1";"BR.20 Cicogna";;
 "br_20_dr_2";"BR.20DR";;
 #
 "br_20m_m1_shop";"BR.20M Cicogna";;
-"br_20m_m1_0";"Fiat Aviazone | BR.20M Cicogne";;
+"br_20m_m1_0";"Fiat Aviazone
+BR.20M Cicogne";;
 "br_20m_m1_1";"BR.20M Cicogne";;
 "br_20m_m1_2";"BR.20M";;
 #
 "sm_79_1936_italy_shop";"SM.79 Sparviero (1936)";;
-"sm_79_1936_italy_0";"Società Anonima Costruzioni Aeronautiche Savoia-Marchetti | SM.79 Sparviero (1936)";;
+"sm_79_1936_italy_0";"Società Anonima Costruzioni Aeronautiche Savoia-Marchetti
+SM.79 Sparviero (1936)";;
 "sm_79_1936_italy_1";"SM.79 Sparviero (1936)";;
 "sm_79_1936_italy_2";"SM.79 Sparviero (1936)";;
 #
 "sm_79_1939_italy_shop";"SM.79 (1939)";;
-"sm_79_1939_italy_0";"Società Anonima Costruzioni Aeronautiche Savoia-Marchetti | SM.79 Sparviero (1939)";;
+"sm_79_1939_italy_0";"Società Anonima Costruzioni Aeronautiche Savoia-Marchetti
+SM.79 Sparviero (1939)";;
 "sm_79_1939_italy_1";"SM.79 Sparviero (1939)";;
 "sm_79_1939_italy_2";"SM.79 (1939)";;
 #
 "fiat_cr42_marcolin_italy_shop";"CR.42CN Falco [Marcolin]";;
-"fiat_cr42_marcolin_italy_0";"Fiat Aviazone | Marcolin's CR.42 Falco | Caccia Notturne";;
+"fiat_cr42_marcolin_italy_0";"Fiat Aviazone
+Marcolin's CR.42 Falco
+CN | Caccia Notturne";;
 "fiat_cr42_marcolin_italy_1";"CR.42CN Falco [Marcolin]";;
 "fiat_cr42_marcolin_italy_2";"CR.42CN [Marcolin]";;
 #
 "breda_88_shop";"Ba.88 Lince";;
-"breda_88_0";"Società Italiana Ernesto Breda | Ba.88 Lince";;
+"breda_88_0";"Società Italiana Ernesto Breda
+Ba.88 Lince";;
 "breda_88_1";"Ba.88 Lince";;
 "breda_88_2";"Ba.88";;
 #
 "p_108a_serie2_shop";"P.108A Bombardiere";;
-"p_108a_serie2_0";"Rinaldo Piaggio S.p.A | P.108A Bombardiere | Serie 2";;
+"p_108a_serie2_0";"Rinaldo Piaggio S.p.A
+P.108A Bombardiere | Serie 2";;
 "p_108a_serie2_1";"P.108A Bombardiere";;
 "p_108a_serie2_2";"P.108A";;
 #
 "p-47d_30_italy_shop";"⛨P-47D-30 Thunderbolt";;
-"p-47d_30_italy_0";"Republic Aviation Corporation |⛨P-47D-30 Thunderbolt | Block 30";;
+"p-47d_30_italy_0";"Republic Aviation Corporation
+⛨P-47D-30 Thunderbolt | Block 30";;
 "p-47d_30_italy_1";"⛨P-47D-30 Thunderbolt";;
 "p-47d_30_italy_2";"⛨P-47D-30";;
 #
 "bf-109f-4_hungary_shop";"◔Bf 109 F-4 Messer";;
-"bf-109f-4_hungary_0";"Messerschmitt AG | ◔Bf 109 F-4 Messer";;
+"bf-109f-4_hungary_0";"Messerschmitt AG
+◔Bf 109 F-4 Messer";;
 "bf-109f-4_hungary_1";"◔Bf 109 F-4 Messer";;
 "bf-109f-4_hungary_2";"◔Bf 109 F-4";;
 #
 "bf-109g-2_hungary_shop";"◔Bf 109 G-2 Messer";;
-"bf-109g-2_hungary_0";"Messerschmitt AG | ◔Bf 109 G-2 Messer";;
+"bf-109g-2_hungary_0";"Messerschmitt AG
+◔Bf 109 G-2 Messer";;
 "bf-109g-2_hungary_1";"◔Bf 109 G-2 Messer";;
 "bf-109g-2_hungary_2";"◔Bf 109 G-2";;
 #
 "bf-109g-14as_shop";"⛨Bf 109 G-14/AS Messer";;
-"bf-109g-14as_0";"Messerschmitt AG | ⛨Bf 109 G-14/AS Messer";;
+"bf-109g-14as_0";"Messerschmitt AG
+⛨Bf 109 G-14/AS Messer";;
 "bf-109g-14as_1";"⛨Bf 109 G-14/AS Messer";;
 "bf-109g-14as_2";"⛨Bf 109 G-14/AS";;
 #
 "f-84g_italy_shop";"⛨F-84G-21 Thunderjet";;
-"f-84g_italy_0";"Republic Aviation Corporation | ⛨F-84G-21 Thunderjet | Block 21";;
+"f-84g_italy_0";"Republic Aviation Corporation
+⛨F-84G-21 Thunderjet | Block 21";;
 "f-84g_italy_1";"⛨F-84G-21 Thunderjet";;
 "f-84g_italy_2";"⛨F-84G-21";;
 #
 "f-84f_italy_shop";"⛨F-84F Thunderstreak";;
-"f-84f_italy_0";"Republic Aviation Corporation | ⛨F-84F Thunderstreak";;
+"f-84f_italy_0";"Republic Aviation Corporation
+⛨F-84F Thunderstreak";;
 "f-84f_italy_1";"⛨F-84F Thunderstreak";;
 "f-84f_italy_2";"⛨F-84F";;
 #
-"il_28_hungary_shop";"◔Il-28 Beagle";;
-"il_28_hungary_0";"OKB-39 ""Ilyushin"" | ◔Il-28 Beagle";;
-"il_28_hungary_1";"◔Il-28 Beagle";;
+"il_28_hungary_shop";"◔Il-28 Beagle-A";;
+"il_28_hungary_0";"OKB-39 ""Ilyushin""
+◔Il-28
+NATO Reporting Name: Beagle-A";;
+"il_28_hungary_1";"◔Il-28 Beagle-A";;
 "il_28_hungary_2";"◔Il-28";;
 #
 "vampire_fb52a_italy_shop";"⛨Vampire Mk.52A";;
-"vampire_fb52a_italy_0";"de Havilland Aircraft Company, Ltd. | ⛨DH.100 Vampire Mk.52A";;
+"vampire_fb52a_italy_0";"de Havilland Aircraft Company, Ltd.
+⛨DH.100 Vampire Mk.52A";;
 "vampire_fb52a_italy_1";"⛨Vampire Mk.52A";;
 "vampire_fb52a_italy_2";"⛨Vampire Mk.52A";;
 #
 "mig-15bis_nr23_hungary_shop";"◔MiG-15bis Fagot-B";;
-"mig-15bis_nr23_hungary_0";"OKB-155 ""Mikoyan i Gurevich"" | ◔MiG-15bis Fagot-B";;
+"mig-15bis_nr23_hungary_0";"OKB-155 ""Mikoyan i Gurevich""
+◔MiG-15bis
+NATO Reporting Name: Fagot-B";;
 "mig-15bis_nr23_hungary_1";"◔MiG-15bis Fagot-B";;
 "mig-15bis_nr23_hungary_2";"◔MiG-15bis";;
 #
-"fiat_g91_ps_shop";"G.91 Gina (1958)";;
-"fiat_g91_ps_0";"Fiat Aviazone | G.91 Gina (1958)";;
-"fiat_g91_ps_1";"G.91 Gina (1958)";;
+"fiat_g91_ps_shop";"G.91 (1958)";;
+"fiat_g91_ps_0";"Fiat Aviazone
+G.91
+Pre-Production Model | 1958";;
+"fiat_g91_ps_1";"G.91 (1958)";;
 "fiat_g91_ps_2";"G.91 (1958)";;
 #
-"fiat_g91_r1_shop";"G.91 R/1 Gina";;
-"fiat_g91_r1_0";"Fiat Aviazone | G.91 R/1";;
-"fiat_g91_r1_1";"G.91 R/1 Gina";;
+"fiat_g91_r1_shop";"G.91 R/1";;
+"fiat_g91_r1_0";"Fiat Aviazone
+G.91 R/1";;
+"fiat_g91_r1_1";"G.91 R/1";;
 "fiat_g91_r1_2";"G.91 R/1";;
 #
-"fiat_g91_r4_shop";"◡G.91 R/4 Gina";;
-"fiat_g91_r4_0";"Fiat Aviazone | ◡G.91 R/4 Gina";;
-"fiat_g91_r4_1";"◡G.91 R/4 Gina";;
+"fiat_g91_r4_shop";"◡G.91 R/4";;
+"fiat_g91_r4_0";"Fiat Aviazone
+◡G.91 R/4";;
+"fiat_g91_r4_1";"◡G.91 R/4";;
 "fiat_g91_r4_2";"◡G.91 R/4";;
 #
 "mig-17pf_hungary_shop";"◔MiG-17PF Fresco-D";;
-"mig-17pf_hungary_0";"OKB-155 ""Mikoyan i Gurevich"" | ◔MiG-17PF Fresco-D";;
+"mig-17pf_hungary_0";"OKB-155 ""Mikoyan i Gurevich""
+◔MiG-17PF
+NATO Reporting Name: Fresco-D";;
 "mig-17pf_hungary_1";"◔MiG-17PF Fresco-D";;
 "mig-17pf_hungary_2";"◔MiG-17PF";;
 #
 "f-86_cl_13_mk4_italy_shop";"⛨CL-13 Mk.4 Sabre";;
-"f-86_cl_13_mk4_italy_0";"Canadair, Ltd. | ⛨CL-13 Mk.4 Sabre ";;
+"f-86_cl_13_mk4_italy_0";"Canadair, Ltd.
+⛨CL-13 Mk.4 Sabre ";;
 "f-86_cl_13_mk4_italy_1";"⛨CL-13 Mk.4 Sabre";;
 "f-86_cl_13_mk4_italy_2";"⛨CL-13 Mk.4";;
 #
 "f-86k_late_italy_shop";"⛨F-86K Sabre";;
-"f-86k_late_italy_0";"North American Aviation | ⛨F-86K Sabre";;
+"f-86k_late_italy_0";"North American Aviation
+⛨F-86K Sabre";;
 "f-86k_late_italy_1";"⛨F-86K Sabre";;
 "f-86k_late_italy_2";"⛨F-86K";;
 #
 "sagittario_2_shop";"Sagittario 2";;
-"sagittario_2_0";"Costruzioni Aeronautiche e Ferroviarie (AerFer) | Sagittario 2";;
+"sagittario_2_0";"Costruzioni Aeronautiche e Ferroviarie (AerFer)
+Sagittario 2";;
 "sagittario_2_1";"Sagittario 2";;
 "sagittario_2_2";"Sagittario 2";;
 #
 "ariete_shop";"Ariete";;
-"ariete_0";"Costruzioni Aeronautiche e Ferroviarie (AerFer) | Ariete";;
+"ariete_0";"Costruzioni Aeronautiche e Ferroviarie (AerFer)
+Ariete";;
 "ariete_1";"Ariete";;
 "ariete_2";"Ariete";;
 #
 "iar_93b_shop";"IAR-93B Vultur";;
-"iar_93b_0";"Avioane Craiova S.A. | IAR-93B Vultur";;
+"iar_93b_0";"Avioane Craiova S.A.
+IAR-93B Vultur";;
 "iar_93b_1";"IAR-93B Vultur";;
 "iar_93b_2";"IAR-93B";;
 #
-"fiat_g91_y_shop";"G.91Y Yankee";;
-"fiat_g91_y_0";"Fiat Aviazone | G.91Y Yankee";;
-"fiat_g91_y_1";"G.91Y Yankee";;
+"fiat_g91_y_shop";"G.91Y";;
+"fiat_g91_y_0";"Fiat Aviazone
+G.91Y";;
+"fiat_g91_y_1";"G.91Y";;
 "fiat_g91_y_2";"G.91Y";;
 #
-"fiat_g91_ys_shop";"G.91YS Yankee";;
-"fiat_g91_ys_0";"Fiat Aviazone | G.91YS Yankee";;
-"fiat_g91_ys_1";"G.91YS Yankee";;
+"fiat_g91_ys_shop";"G.91YS";;
+"fiat_g91_ys_0";"Fiat Aviazone
+G.91YS";;
+"fiat_g91_ys_1";"G.91YS";;
 "fiat_g91_ys_2";"G.91YS";;
 #
 "f-104g_italy_shop";"⛨F-104G Starfighter";;
-"f-104g_italy_0";"Fiat Aviazone | ⛨F-104G Starfighter";;
+"f-104g_italy_0";"Fiat Aviazone
+⛨F-104G Starfighter";;
 "f-104g_italy_1";"⛨F-104G Starfighter";;
 "f-104g_italy_2";"⛨F-104G";;
 #
 "f-104s_cb_shop";"▄F-104S/CB Starfighter";;
-"f-104s_cb_0";"Aeritalia | ▄F-104S Starfighter | Caccia Bombardiere";;
+"f-104s_cb_0";"Aeritalia
+▄F-104S Starfighter
+CB | Caccia Bombardiere";;
 "f-104s_cb_1";"▄F-104S/CB Starfighter";;
 "f-104s_cb_2";"▄F-104S/CB";;
 #
 "f-104s_shop";"⛨F-104S/CI Starfighter";;
-"f-104s_0";"Aeritalia | ⛨F-104S Starfighter | Caccia Intercettore";;
+"f-104s_0";"Aeritalia
+⛨F-104S Starfighter
+CI | Caccia Intercettore";;
 "f-104s_1";"⛨F-104S/CI Starfighter";;
 "f-104s_2";"⛨F-104S/CI";;
 #
 "amx_shop";"A-11 Ghibli";;
-"amx_0";"AMX International, Ltd. | A-11 Ghibli";;
+"amx_0";"AMX International, Ltd.
+A-11 Ghibli";;
 "amx_1";"A-11 Ghibli";;
 "amx_2";"A-11";;
 #
 "amx_a_1a_brazil_shop";"◡A-1A Ghibli";;
-"amx_a_1a_brazil_0";"Embraer S.A. | ◡A-1A Ghibli";;
+"amx_a_1a_brazil_0";"Embraer S.A.
+◡A-1A Ghibli";;
 "amx_a_1a_brazil_1";"◡A-1A Ghibli";;
 "amx_a_1a_brazil_2";"◡A-1A";;
 #
 "su_22m3_hungary_shop";"◔Su-22M3 Fitter-G";;
-"su_22m3_hungary_0";"OKB-51 ""Sukhoi"" | ◔Su-22M3 Fitter-G";;
+"su_22m3_hungary_0";"OKB-51 ""Sukhoi""
+◔Su-22M3
+NATO Reporting Name: Fitter-G";;
 "su_22m3_hungary_1";"◔Su-22M3 Fitter-G";;
 "su_22m3_hungary_2";"◔Su-22M3";;
 #
 "mig-21_mf_hungary_shop";"◔MiG-21MF Fishbed-J";;
-"mig-21_mf_hungary_0";"OKB-155 ""Mikoyan i Gurevich"" | ◔MiG-21MF Fishbed-J | Izdeliye 96F";;
+"mig-21_mf_hungary_0";"OKB-155 ""Mikoyan i Gurevich""
+◔MiG-21MF | Izdeliye 96F
+NATO Reporting Name: Fishbed-J";;
 "mig-21_mf_hungary_1";"◔MiG-21MF Fishbed-J";;
 "mig-21_mf_hungary_2";"◔MiG-21MF";;
 #
 "mig-21_bis_sau_hungary_shop";"◔MiG-21bis Fishbed-N";;
-"mig-21_bis_sau_hungary_0";"OKB-155 ""Mikoyan i Gurevich"" | ◔MiG-21bis Fishbed-N | Izdeliye 75B";;
+"mig-21_bis_sau_hungary_0";"OKB-155 ""Mikoyan i Gurevich""
+◔MiG-21bis | Izdeliye 75B
+NATO Reporting Name: Fishbed-N";;
 "mig-21_bis_sau_hungary_1";"◔MiG-21bis Fishbed-N";;
 "mig-21_bis_sau_hungary_2";"◔MiG-21bis";;
 #
 "mig_23mf_hungary_shop";"◔MiG-23MF Flogger-B";;
-"mig_23mf_hungary_0";"OKB-155 ""Mikoyan i Gurevich"" | ◔MiG-23MF Flogger-B | Izdeliye 23-11M";;
+"mig_23mf_hungary_0";"OKB-155 ""Mikoyan i Gurevich""
+◔MiG-23MF | Izdeliye 23-11M
+NATO Reporting Name: Flogger-B";;
 "mig_23mf_hungary_1";"◔MiG-23MF Flogger-B";;
 "mig_23mf_hungary_2";"◔MiG-23MF";;
 #
 "f-104s_asa_shop";"⛨F-104S-ASA Starfighter";;
-"f-104s_asa_0";"Aeritalia | ⛨F-104S Starfighter | Aggiornamento Sistemi d'Arma";;
+"f-104s_asa_0";"Aeritalia
+⛨F-104S Starfighter
+ASA | Aggiornamento Sistemi d'Arma";;
 "f-104s_asa_1";"⛨F-104S-ASA Starfighter";;
 "f-104s_asa_2";"⛨F-104S-ASA";;
 #
 "f_16a_block_15_adf_italy_shop";"⛨F-16A-15ADF Viper";;
-"f_16a_block_15_adf_italy_0";"General Dynamics Corporation | ⛨F-16A-15 Viper | Block 15, Air Defense Fighter";;
+"f_16a_block_15_adf_italy_0";"General Dynamics Corporation
+⛨F-16A-15 Viper | Block 15
+ADF | Air Defense Fighter";;
 "f_16a_block_15_adf_italy_1";"⛨F-16A-15ADF Viper";;
 "f_16a_block_15_adf_italy_2";"⛨F-16A-15ADF";;
 #
 "mig_29_9_12b_hungary_shop";"◔MiG-29A Fulcrum-A";;
-"mig_29_9_12b_hungary_0";"OKB-155 ""Mikoyan"" | ◔MiG-29A Fulcrum-A | Izdeliye 9-12B";;
+"mig_29_9_12b_hungary_0";"OKB-155 ""Mikoyan""
+◔MiG-29A | Izdeliye 9-12B
+NATO Reporting Name: Fulcrum-A";;
 "mig_29_9_12b_hungary_1";"◔MiG-29A Fulcrum-A";;
 "mig_29_9_12b_hungary_2";"◔MiG-29A";;
 #
 "tornado_ids_it_shop";"⛨A-200A Tornado IDS (1982)";;
-"tornado_ids_it_0";"Panavia Aircraft GmbH | ⛨A-200A Tornado | Interdictor/Strike (1982)";;
+"tornado_ids_it_0";"Panavia Aircraft GmbH
+⛨A-200A Tornado (1982)
+IDS | Interdictor/Strike";;
 "tornado_ids_it_1";"⛨A-200A Tornado IDS (1982)";;
 "tornado_ids_it_2";"⛨A-200A (1982)";;
 #
 "tornado_ids_it_mod95_shop";"⛨A-200A Tornado IDS (1995)";;
-"tornado_ids_it_mod95_0";"Panavia Aircraft GmbH | ⛨A-200A Tornado | Interdictor/Strike (1995)";;
+"tornado_ids_it_mod95_0";"Panavia Aircraft GmbH
+⛨A-200A Tornado (1995)
+IDS | Interdictor/Strike ";;
 "tornado_ids_it_mod95_1";"⛨A-200A Tornado IDS (1995)";;
 "tornado_ids_it_mod95_2";"⛨A-200A (1995)";;
 #
 "tornado_ids_it_ret8_shop";"⛨A-200C Tornado IDS MLU (2012)";;
-"tornado_ids_it_ret8_0";"Panavia Aircraft GmbH | ⛨A-200C Tornado | Interdictor/Strike | Mid-Life Upgrade | MLU Full, Retro Enabling Task 8 (2012)";;
+"tornado_ids_it_ret8_0";"Panavia Aircraft GmbH
+⛨A-200C Tornado
+IDS | Interdictor/Strike
+MLU Full | Mid-Life Update
+RET8 | Retro Enabling Task 8 | 2012";;
 "tornado_ids_it_ret8_1";"⛨A-200C Tornado IDS MLU (2012)";;
 "tornado_ids_it_ret8_2";"⛨A-200C MLU (2012)";;
 #
 "av_8b_plus_italy_shop";"⛨AV-8B+ Harrier II";;
-"av_8b_plus_italy_0";"McDonnell Douglas Corporation | ⛨AV-8B+ Harrier II";;
+"av_8b_plus_italy_0";"McDonnell Douglas Corporation
+⛨AV-8B+ Harrier II";;
 "av_8b_plus_italy_1";"⛨AV-8B+ Harrier II";;
 "av_8b_plus_italy_2";"⛨AV-8B+";;
 #
 "tornado_adv_shop";"⛨Tornado ADV";;
-"tornado_adv_0";"Panavia Aircraft GmbH | ⛨Tornado | Air Defense Variant";;
+"tornado_adv_0";"Panavia Aircraft GmbH
+⛨Tornado
+ADV | Air Defense Variant";;
 "tornado_adv_1";"⛨Tornado ADV";;
 "tornado_adv_2";"⛨Tornado ADV";;
 #
 "ef_2000a_shop";"⛨F-2000A Typhoon (P3Ea)";;
-"ef_2000a_0";"Eurofighter Jagdflugzeug GmbH | ⛨F-2000A Typhoon | Tranche 2 | Block 10 | Phase 3, Enhancement A";;
+"ef_2000a_0";"Eurofighter Jagdflugzeug GmbH
+⛨F-2000A Typhoon
+Tranche 2 | Block 10
+Phase 3, Enhancement A";;
 "ef_2000a_1";"⛨F-2000A Typhoon (P3Ea)";;
 "ef_2000a_2";"⛨F-2000A (P3Ea)";;
 #
 "saab_jas39c_hungary_shop";"◔JAS 39C EBS Gripen ";;
-"saab_jas39c_hungary_0";"Saab AB | ◔JAS 39C Gripen | Export Baseline Standard";;
+"saab_jas39c_hungary_0";"Saab AB
+◔JAS 39C Gripen
+EBS | Export Baseline Standard";;
 "saab_jas39c_hungary_1";"◔JAS 39C EBS Gripen";;
 "saab_jas39c_hungary_2";"◔JAS 39C EBS";;
 #
 "mig_29_9_12_sniper_shop";"▄MiG-29A Sniper";;
-"mig_29_9_12_sniper_0";"Aerostar S.A. / DASA / Elbit Systems, Ltd. | ▄MiG-29A Fulcrum-A | Izdeliye 9-12A | Sniper Modernization Program (1997)";;
+"mig_29_9_12_sniper_0";"Aerostar S.A. / DASA / Elbit Systems, Ltd.
+▄MiG-29A Fulcrum-A | Izdeliye 9-12A
+Sniper Modernization Program | 1997";;
 "mig_29_9_12_sniper_1";"▄MiG-29A Sniper";;
 "mig_29_9_12_sniper_2";"▄MiG-29A Sniper";;
 #
@@ -507,6 +639,49 @@ FA | Fighter Attack";;
 m_346fa_1;M-346FA Master;;
 m_346fa_2;M-346FA;;
 #
+me_210ca_1_hungary_shop;◔Me 210 Ca-1 Hornisse;;
+me_210ca_1_hungary_0;"Messerschmitt AG
+◔Me 210 Ca-1 Hornisse";;
+me_210ca_1_hungary_1;◔Me 210 Ca-1 Hornisse;;
+me_210ca_1_hungary_2;◔Me 210 Ca-1;;
+#
+me_210ca_1_40_mm_hungary_shop;◔Me 210 Ca-1 Hornisse (36.M);;
+me_210ca_1_40_mm_hungary_0;"Messerschmitt AG
+◔Me 210 Ca-1 Hornisse
+40mm 36.M Cannon Modification";;
+me_210ca_1_40_mm_hungary_1;◔Me 210 Ca-1 Hornisse (36.M);;
+me_210ca_1_40_mm_hungary_2;◔Me 210 Ca-1 (36.M);;
+#
+wm_21_shop;WM-21 Sólyom;;
+wm_21_0;"Weiss Manfréd Acél- és Fémművek
+WM-21 Sólyom";;
+wm_21_1;WM-21 Sólyom;;
+wm_21_2;WM-21;;
+#
+re_2000_heja_1_shop;◔Héja I;;
+re_2000_heja_1_0;"Magyar Királyi Állami Vas-, Acél- és Gépgyárak (MÁVAG)
+◔Héja I | Re.2000 Falco";;
+re_2000_heja_1_1;◔Héja I;;
+re_2000_heja_1_2;◔Héja I;;
+#
+re_2000_heja_2_shop;Héja II;;
+re_2000_heja_2_0;"Magyar Királyi Állami Vas-, Acél- és Gépgyárak (MÁVAG)
+Héja II";;
+re_2000_heja_2_1;Héja II;;
+re_2000_heja_2_2;Héja II;;
+#
+wm_23_shop;WM-23 Ezüst Nyíl;;
+wm_23_0;"Weiss Manfréd Acél- és Fémművek
+WM-23";;
+wm_23_1;WM-23 Ezüst Nyíl;;
+wm_23_2;WM-23;;
+#
+fw_190f_8_hungary_shop;◔Fw 190 A-8 Würger;;
+fw_190f_8_hungary_0;"Focke-Wulf Flugzeugbau AG
+◔Fw 190 A-8 Würger";;
+fw_190f_8_hungary_1;◔Fw 190 A-8 Würger;;
+fw_190f_8_hungary_2;◔Fw 190 A-8;;
+#
 "shop/group/mig-21_hungary_group";"◔MiG-21 Fishbed";;
 "shop/group/fiat_g91_group";"G.91 Gina";;
 "shop/group/fiat_g91y_group";"G.91Y Yankee";;
@@ -524,3 +699,4 @@ m_346fa_2;M-346FA;;
 "shop/group/ba_65_group";"Ba.65/⛨Ju 87";;
 "shop/group/br_20_dr_group";"BR.20 Cigona";;
 "shop/group/breda_group";"Ba.88/P.108";;
+shop/group/me_210ca_1_hungary_group;◔Me 210 Ca-1 Hornisse;;

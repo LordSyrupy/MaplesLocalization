@@ -510,7 +510,7 @@ Type 97 Heavy Bomber | Model 1 Hei";;
 "ki_21_1hei_2";"Ki 21-I Hei";;
 #
 "f4u-1a_japan_shop";"▅F4U-1A Korusea";;
-"f4u-1a_japan_0";"Vought-Sikorsky Aircraft
+;"Vought-Sikorsky Aircraft
 ▅F4U-1A Korusea ""Shikorusukī""";;
 "f4u-1a_japan_1";"▅F4U-1A Korusea";;
 "f4u-1a_japan_2";"▅F4U-1A";;
@@ -936,6 +936,13 @@ RTAF Designation: B.KhF.1";;
 l_39za_art_thailand_1;▄L-39ZA/ART Albatros;;
 l_39za_art_thailand_2;▄L-39ZA/ART;;
 #
+me_210_v22_japan_shop;▅Me 210 V22 Hornisse;;
+me_210_v22_japan_0;"esserschmitt AG
+▅Me 210 Hornisse
+V22 Prototype";;
+me_210_v22_japan_1;▅Me 210 V22 Hornisse;;
+me_210_v22_japan_2;▅Me 210 V22;;
+#
 "shop/group/f-86_japan_group";"▅F-86F Sabre";;
 "shop/group/f-86_japan_group";"▅F-86F Sabre";;
 "shop/group/r2y2_group";"R2Y2-G Keiun Kai";;
@@ -976,6 +983,7 @@ f_111f_japan_killstreak_2;☢F-111F;;
 #
 jp_type_87_rcv_prot_shop;Type 87 RCV (1983);;
 jp_type_87_rcv_prot_0;"<color=@linkTextHoverColorLight>Komatsu, Ltd.</color>
+<color=@userlogColoredText>87RCV</color>
 <color=@userlogColoredText>Type 87 Reconnaissance Combat Vehicle</color> ""Burakkuai""
 Prototype | 1983";;
 jp_type_87_rcv_prot_1;Type 87 RCV (1983);;
@@ -983,6 +991,7 @@ jp_type_87_rcv_prot_2;Light tank;;
 #
 jp_type_87_rcv_shop;Type 87 RCV (1987);;
 jp_type_87_rcv_0;"<color=@linkTextHoverColorLight>Komatsu, Ltd.</color>
+<color=@userlogColoredText>87RCV</color>
 <color=@userlogColoredText>Type 87 Reconnaissance Combat Vehicle</color> ""Burakkuai""
 Production Model | 1987";;
 jp_type_87_rcv_1;Type 87 RCV (1987);;
@@ -990,18 +999,21 @@ jp_type_87_rcv_2;Light tank;;
 #
 jp_type_87_shop;Type 87 SPAAG;;
 jp_type_87_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>87AW</color>
 <color=@userlogColoredText>Type 87 Self-Propelled Anti-Aircraft Gun</color> ""Guntank""";;
 jp_type_87_1;Type 87 SPAAG;;
 jp_type_87_2;SPAA;;
 #
 jp_type_89_shop;Type 89 IFV;;
 jp_type_89_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>89FV</color>
 <color=@userlogColoredText>Type 89 Infantry Fighting Vehicle</color> ""Raitotaiga""";;
 jp_type_89_1;Type 89 IFV;;
 jp_type_89_2;Light tank;;
 #
 jp_type_74_f_shop;Type 74 (F);;
 jp_type_74_f_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>74TK (F)</color>
 <color=@userlogColoredText>Type 74 Tank</color> ""Nanayon"" | Type F";;
 jp_type_74_f_1;Type 74 (F);;
 jp_type_74_f_2;MBT;;
@@ -1014,6 +1026,7 @@ jp_type_74_c_2;MBT;;
 #
 jp_type_74_red_star_shop;"Type 74 (C) ""Red Star""";;
 jp_type_74_red_star_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>74TK (C)</color>
 <color=@userlogColoredText>Type 74 Tank</color> ""Nanayon"" | Type C
 ""Red Star"" Opposing Force Specification";;
 jp_type_74_red_star_1;"Type 74 (C) ""Red Star""";;
@@ -1021,34 +1034,39 @@ jp_type_74_red_star_2;MBT;;
 #
 jp_type_74_shop;Type 74 (E);;
 jp_type_74_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>74TK (E)</color>
 <color=@userlogColoredText>Type 74 Tank</color> ""Nanayon"" | Type E";;
 jp_type_74_1;Type 74 (E);;
 jp_type_74_2;MBT;;
 #
 jp_type_74_mod_g_kai_shop;Type 74 (G);;
 jp_type_74_mod_g_kai_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>74TK (G)</color>
 <color=@userlogColoredText>Type 74 Tank</color> ""Nanayon"" | Type G";;
 jp_type_74_mod_g_kai_1;Type 74 (G);;
 jp_type_74_mod_g_kai_2;MBT;;
 #
 jp_type_61_shop;Type 61;;
 jp_type_61_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>61TK</color>
 <color=@userlogColoredText>Type 61 Tank</color>";;
 jp_type_61_1;Type 61;;
 jp_type_61_2;Medium tank;;
 #
-jp_type_61_mod_shop;Type 61 (B);;
+jp_type_61_mod_shop;Type 61 (C);;
 jp_type_61_mod_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
-<color=@userlogColoredText>Type 61 Tank</color> | Type B";;
-jp_type_61_mod_1;Type 61 (B);;
+<color=@userlogColoredText>61TK (C)</color>
+<color=@userlogColoredText>Type 61 Tank</color> | Type C";;
+jp_type_61_mod_1;Type 61 (C);;
 jp_type_61_mod_2;Medium tank;;
 #
-jp_type_16_mod_shop;Type 16 MCV (14 BDE);;
+jp_type_16_mod_shop;Type 16 MCV (15 RDR);;
 jp_type_16_mod_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>16MCV</color>
 <color=@userlogColoredText>Type 16 Maneuver Combat Vehicle</color> ""Kidosen""
 14th Brigade, 15th Rapid Deployment Regiment
 Pre-Production Model | 2016";;
-jp_type_16_mod_1;Type 16 MCV (14 BDE);;
+jp_type_16_mod_1;Type 16 MCV (15 RDR);;
 jp_type_16_mod_2;Light tank;;
 #
 jp_type_16_mcv_prot_shop;MCV;;
@@ -1060,6 +1078,7 @@ jp_type_16_mcv_prot_2;Light tank;;
 #
 jp_type_16_shop;Type 16 MCV;;
 jp_type_16_0;"<color=@linkTextHoverColorLight>Mitsubishi Heavy Industries, Ltd.</color>
+<color=@userlogColoredText>16MCV</color>
 <color=@userlogColoredText>Type 16 Maneuver Combat Vehicle</color> ""Kidosen""";;
 jp_type_16_1;Type 16 MCV;;
 jp_type_16_2;Light tank;;
