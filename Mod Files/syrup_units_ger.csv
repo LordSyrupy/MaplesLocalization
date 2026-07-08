@@ -1,822 +1,1035 @@
 "<ID|readonly|
 noverify>";"<English>";;
 "bf-109a_1_shop";"Bf 109 A-1 Messer [Flegel]";;
-"bf-109a_1_0";"Messerschmitt AG | Flegel's Bf 109 A-1 Messer";;
+"bf-109a_1_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Flegel's Bf 109 A-1 Messer</color>";;
 "bf-109a_1_1";"Bf 109 A-1 Messer [Flegel]";;
 "bf-109a_1_2";"Bf 109 A-1";;
 #
 "bf-109b_2_shop";"Bf 109 B-1 Messer (1938)";;
-"bf-109b_2_0";"Messerschmitt AG | Bf 109 B-1 Messer (1938)";;
+"bf-109b_2_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 109 B-1 Messer (1938)</color>";;
 "bf-109b_2_1";"Bf 109 B-1 Messer (1938)";;
 "bf-109b_2_2";"Bf 109 B-1 (1938)";;
 #
 "bf-109c_1_shop";"Bf 109 C-1 Messer";;
-"bf-109c_1_0";"Messerschmitt AG | Bf 109 C-1 Messer";;
+"bf-109c_1_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 109 C-1 Messer</color>";;
 "bf-109c_1_1";"Bf 109 C-1 Messer";;
 "bf-109c_1_2";"Bf 109 C-1";;
 #
 "bf-109c_1_promo_shop";"Bf 109 C-1 Messer";;
-"bf-109c_1_promo_0";"Messerschmitt AG | Bf 109 C-1 Messer";;
+"bf-109c_1_promo_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 109 C-1 Messer</color>";;
 "bf-109c_1_promo_1";"Bf 109 C-1 Messer";;
 "bf-109c_1_promo_2";"Bf 109 C-1";;
 #
 "bf-109e-4_shop";"Bf 109 E-4 Messer";;
-"bf-109e-4_0";"Messerschmitt AG | Bf 109 E-4 Messer";;
+"bf-109e-4_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 109 E-4 Messer</color>";;
 "bf-109e-4_1";"Bf 109 E-4 Messer";;
 "bf-109e-4_2";"Bf 109 E-4";;
 #
 "bf-109e-7_shop";"Bf 109 E-7/U2 Messer";;
-"bf-109e-7_0";"Messerschmitt AG | Bf 109 E-7 Messer | Umrüstbausatz 2";;
+"bf-109e-7_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 109 E-7 Messer</color>
+U2 | Umrüstbausatz 2";;
 "bf-109e-7_1";"Bf 109 E-7/U2 Messer";;
 "bf-109e-7_2";"Bf 109 E-7/U2";;
 #
 "bf-109e-1_shop";"Bf 109 E-1 Messer";;
-"bf-109e-1_0";"Messerschmitt AG | Bf 109 E-1 Messer";;
+"bf-109e-1_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 109 E-1 Messer</color>";;
 "bf-109e-1_1";"Bf 109 E-1 Messer";;
 "bf-109e-1_2";"Bf 109 E-1";;
 #
 "bf-109e-3_shop";"Bf 109 E-3 Messer";;
-"bf-109e-3_0";"Messerschmitt AG | Bf 109 E-3 Messer";;
+"bf-109e-3_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 109 E-3 Messer</color>";;
 "bf-109e-3_1";"Bf 109 E-3 Messer";;
 "bf-109e-3_2";"Bf 109 E-3";;
 #
 "bf-109f-1_shop";"Bf 109 F-1 Messer";;
-"bf-109f-1_0";"Messerschmitt AG | Bf 109 F-1 Messer";;
-"bf-109f-1_1";"Bf 109 F-1 Messer";;
+"bf-109f-1_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 109 F-1 Messer</color>";;
+"bf-109f-1_1";"Bf 109 F-1 Messer";;
 "bf-109f-1_2";"Bf 109 F-1";;
 #
 "bf-109f-2_shop";"Bf 109 F-2 Messer";;
-"bf-109f-2_0";"Messerschmitt AG | Bf 109 F-2 Messer";;
+"bf-109f-2_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 109 F-2 Messer</color>";;
 "bf-109f-2_1";"Bf 109 F-2 Messer";;
 "bf-109f-2_2";"Bf 109 F-2";;
 #
 "bf-109f-4_shop";"Bf 109 F-4 Messer";;
-"bf-109f-4_0";"Messerschmitt AG | Bf 109 F-4 Messer";;
+"bf-109f-4_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 109 F-4 Messer</color>";;
 "bf-109f-4_1";"Bf 109 F-4 Messer";;
 "bf-109f-4_2";"Bf 109 F-4";;
 #
 "bf-109g-2_shop";"Bf 109 G-2/trop Messer";;
-"bf-109g-2_0";"Messerschmitt AG | Bf 109 G-2/trop Messer";;
+"bf-109g-2_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 109 G-2/trop Messer</color>";;
 "bf-109g-2_1";"Bf 109 G-2 Messer";;
 "bf-109g-2_2";"Bf 109 G-2";;
 #
 "bf-109g-6_shop";"Bf 109 G-6 Messer";;
-"bf-109g-6_0";"Messerschmitt AG | Bf 109 G-6 Messer";;
+"bf-109g-6_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 109 G-6 Messer</color>";;
 "bf-109g-6_1";"Bf 109 G-6 Messer";;
 "bf-109g-6_2";"Bf 109 G-6";;
 #
 "bf-109g-10_shop";"Bf 109 G-10 Messer";;
-"bf-109g-10_0";"Messerschmitt AG | Bf 109 G-10 Messer";;
+"bf-109g-10_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 109 G-10 Messer</color>";;
 "bf-109g-10_1";"Bf 109 G-10 Messer";;
 "bf-109g-10_2";"Bf 109 G-10";;
 #
 "bf-109k-4_shop";"Bf 109 K-4 Messer";;
-"bf-109k-4_0";"Messerschmitt AG | Bf 109 K-4 Messer";;
+"bf-109k-4_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 109 K-4 Messer</color>";;
 "bf-109k-4_1";"Bf 109 K-4 Messer";;
 "bf-109k-4_2";"Bf 109 K-4";;
 #
 "bf-109f-4_trop_shop";"Bf 109 F-4/trop Messer";;
-"bf-109f-4_trop_0";"Messerschmitt AG | Bf 109 F-4/trop Messer";;
+"bf-109f-4_trop_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 109 F-4/trop Messer</color>";;
 "bf-109f-4_trop_1";"Bf 109 F-4/trop Messer";;
 "bf-109f-4_trop_2";"Bf 109 F-4/trop";;
 #
 "bf-109g-14_shop";"Bf 109 G-14 Messer";;
-"bf-109g-14_0";"Messerschmitt AG | Bf 109 G-14 Messer";;
+"bf-109g-14_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 109 G-14 Messer</color>";;
 "bf-109g-14_1";"Bf 109 G-14 Messer";;
 "bf-109g-14_2";"Bf 109 G-14";;
 #
 "fw-190a-1_shop";"Fw 190 A-1 Würger";;
-"fw-190a-1_0";"Focke-Wulf Flugzeugbau AG | Fw 190 A-1 Würger";;
+"fw-190a-1_0";"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Fw 190 A-1 Würger</color>";;
 "fw-190a-1_1";"Fw 190 A-1 Würger";;
 "fw-190a-1_2";"Fw 190 A-1";;
 #
 "fw-190a-4_shop";"Fw 190 A-4 Würger";;
-"fw-190a-4_0";"Focke-Wulf Flugzeugbau AG | Fw 190 A-4 Würger";;
+"fw-190a-4_0";"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Fw 190 A-4 Würger</color>";;
 "fw-190a-4_1";"Fw 190 A-4 Würger";;
 "fw-190a-4_2";"Fw 190 A-4";;
 #
 "fw_190a_5_u14_shop";"Fw 190 A-5/U14 Würger";;
-"fw_190a_5_u14_0";"Focke-Wulf Flugzeugbau AG | Fw 190 A-5 Würger | Umrüstbausatz 14";;
+"fw_190a_5_u14_0";"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Fw 190 A-5 Würger</color>
+U14 | Umrüstbausatz 14";;
 "fw_190a_5_u14_1";"Fw 190 A-5/U14 Würger";;
 "fw_190a_5_u14_2";"Fw 190 A-5/U14";;
 #
 "fw-190a-5_shop";"Fw 190 A-5/U12 Würger";;
-"fw-190a-5_0";"Focke-Wulf Flugzeugbau AG | Fw 190 A-5 Würger | Umrüstbausatz 12";;
+"fw-190a-5_0";"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Fw 190 A-5 Würger</color>
+U12 | Umrüstbausatz 12";;
 "fw-190a-5_1";"Fw 190 A-5/U12 Würger";;
 "fw-190a-5_2";"Fw 190 A-5/U12";;
 #
 "fw-190a-5_u2_shop";"Fw 190 A-5/U2 Würger Jabo-Rei";;
-"fw-190a-5_u2_0";"Focke-Wulf Flugzeugbau AG | Fw 190 A-5 Würger | Jagdbomber mit vergrösserter Reichweite, Umrüstbausatz 2";;
+"fw-190a-5_u2_0";"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Fw 190 A-5 Würger</color> | Jagdbomber mit vergrösserter Reichweite
+U2 | Umrüstbausatz 2";;
 "fw-190a-5_u2_1";"Fw 190 A-5/U2 Würger Jabo-Rei";;
 "fw-190a-5_u2_2";"Fw 190 A-5/U2";;
 #
 "fw-190a-5_cannons_shop";"Fw 190 A-5 Würger";;
-"fw-190a-5_cannons_0";"Focke-Wulf Flugzeugbau AG | Fw 190 A-5 Würger";;
+"fw-190a-5_cannons_0";"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Fw 190 A-5 Würger</color>";;
 "fw-190a-5_cannons_1";"Fw 190 A-5 Würger";;
 "fw-190a-5_cannons_2";"Fw 190 A-5";;
 #
 "fw-190a-5_cannons_tutorial_shop";"Fw 190 A-5 Würger";;
-"fw-190a-5_cannons_tutorial_0";"Focke-Wulf Flugzeugbau AG | Fw 190 A-5 Würger";;
+"fw-190a-5_cannons_tutorial_0";"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Fw 190 A-5 Würger</color>";;
 "fw-190a-5_cannons_tutorial_1";"Fw 190 A-5 Würger";;
 "fw-190a-5_cannons_tutorial_2";"Fw 190 A-5";;
 #
 "fw-190A-5_shop";"Fw 190 A-5 Würger";;
-"fw-190A-5_0";"Focke-Wulf Flugzeugbau AG | Fw 190 A-5 Würger";;
+"fw-190A-5_0";"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Fw 190 A-5 Würger</color>";;
 "fw-190A-5_1";"Fw 190 A-5 Würger";;
 "fw-190A-5_2";"Fw 190 A-5";;
 #
 "fw-190c_shop";"Fw 190 C Würger";;
-"fw-190c_0";"Focke-Wulf Flugzeugbau AG | Fw 190 C Würger";;
+"fw-190c_0";"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Fw 190 C Würger</color>";;
 "fw-190c_1";"Fw 190 C Würger";;
 "fw-190c_2";"Fw 190 C";;
 #
 "fw-190d-9_shop";"Fw 190 D-9 Würger";;
-"fw-190d-9_0";"Focke-Wulf Flugzeugbau AG | Fw 190 D-9 Würger";;
+"fw-190d-9_0";"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Fw 190 D-9 Würger</color>";;
 "fw-190d-9_1";"Fw 190 D-9 Würger";;
 "fw-190d-9_2";"Fw 190 D-9";;
 #
 "fw-190a-8_shop";"Fw 190 A-8 Würger";;
-"fw-190a-8_0";"Focke-Wulf Flugzeugbau AG | Fw 190 A-8 Würger";;
+"fw-190a-8_0";"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Fw 190 A-8 Würger</color>";;
 "fw-190a-8_1";"Fw 190 A-8 Würger";;
 "fw-190a-8_2";"Fw 190 A-8";;
 #
 "fw-190f-8_shop";"Fw 190 F-8/R3 Würger";;
-"fw-190f-8_0";"Focke-Wulf Flugzeugbau AG | Fw 190 F-8 Würger | Rüstsatz 3";;
+"fw-190f-8_0";"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Fw 190 F-8 Würger</color>
+R3 | Rüstsatz 3";;
 "fw-190f-8_1";"Fw 190 F-8/R3 Würger";;
 "fw-190f-8_2";"Fw 190 F-8/R3";;
 #
 "fw-190d-12_shop";"Fw 190 D-12 Würger";;
-"fw-190d-12_0";"Focke-Wulf Flugzeugbau AG | Fw 190 D-12 Würger";;
+"fw-190d-12_0";"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Fw 190 D-12 Würger</color>";;
 "fw-190d-12_1";"Fw 190 D-12 Würger";;
 "fw-190d-12_2";"Fw 190 D-12";;
 #
 "fw-190d-13_shop";"Fw 190 D-13 Würger ";;
-"fw-190d-13_0";"Focke-Wulf Flugzeugbau AG | Fw 190 D-13 Würger";;
+"fw-190d-13_0";"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Fw 190 D-13 Würger</color>";;
 "fw-190d-13_1";"Fw 190 D-13 Würger";;
 "fw-190d-13_2";"Fw 190 D-13";;
 #
 "ta-152h-1_shop";"Ta 152 H-1 Höhenjäger";;
-"ta-152h-1_0";"Focke-Wulf Flugzeugbau AG | Ta 152 H-1 Höhenjäger";;
+"ta-152h-1_0";"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Ta 152 H-1 Höhenjäger</color>";;
 "ta-152h-1_1";"Ta 152 H-1 Höhenjäger";;
 "ta-152h-1_2";"Ta 152 H-1";;
 #
 "ta-152c_shop";"Ta 152 C-3";;
-"ta-152c_0";"Focke-Wulf Flugzeugbau AG | Ta 152 C-3";;
+"ta-152c_0";"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Ta 152 C-3</color>";;
 "ta-152c_1";"Ta 152 C-3";;
 "ta-152c_2";"Ta 152 C-3";;
 #
 "p-47d_16_re_germany_shop";"▀P-47D-16 Thunderbolt";;
-"p-47d_16_re_germany_0";"Republic Aviation Corporation | ▀P-47D Thunderbolt | Block 16";;
+"p-47d_16_re_germany_0";"<color=@linkTextHoverColorLight>Republic Aviation Corporation</color>
+ ▀<color=@userlogColoredText>P-47D-16 Thunderbolt</color> | Block 16";;
 "p-47d_16_re_germany_1";"▀P-47D-16 Thunderbolt";;
 "p-47d_16_re_germany_2";"▀P-47D-16";;
 #
 "p-47d_luftwaffe_shop";"▀P-47D Thunderbolt";;
-"p-47d_luftwaffe_0";"Republic Aviation Corporation | ▀P-47D Thunderbolt";;
+"p-47d_luftwaffe_0";"<color=@linkTextHoverColorLight>Republic Aviation Corporation</color>
+▀<color=@userlogColoredText>P-47D Thunderbolt</color>";;
 "p-47d_luftwaffe_1";"▀P-47D Thunderbolt";;
 "p-47d_luftwaffe_2";"▀P-47D";;
 #
 "me-262a-1a_shop";"Me 262A-1a Schwalbe";;
-"me-262a-1a_0";"Messerschmitt AG | Me 262A-1a Schwalbe";;
+"me-262a-1a_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Me 262A-1a Schwalbe</color>";;
 "me-262a-1a_1";"Me 262A-1a";;
 "me-262a-1a_2";"Me 262A-1a";;
 #
 "me-262a1_u1_shop";"Me 262 A-1a/U1 Scwhalbe";;
-"me-262a1_u1_0";"Messerschmitt AG | Me 262 A-1a Schwalbe | Umrüstbausatz 1";;
+"me-262a1_u1_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Me 262 A-1a Schwalbe</color>
+U1 | Umrüstbausatz 1";;
 "me-262a1_u1_1";"Me 262 A-1a/U1 Schwalbe";;
 "me-262a1_u1_2";"Me 262 A-1a/U1";;
 #
 "me-262a-1a_u4_shop";"Me 262 A-1a/U4 Pulkzerstörer";;
-"me-262a-1a_u4_0";"Messerschmitt AG | Me 262 A-1a Scwhalbe | Umrüstbausatz 4 ""Pulkzerstörer""";;
+"me-262a-1a_u4_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Me 262 A-1a Scwhalbe</color>
+U4 | Umrüstbausatz 4 ""Pulkzerstörer""";;
 "me-262a-1a_u4_1";"Me 262 A-1a/U4 Pulkzerstörer";;
 "me-262a-1a_u4_2";"Me 262 A-1a/U4";;
 #
 "me-262a-1a_early_shop";"Me 262 A-1a/R6 Schwalbe Jabo";;
-"me-262a-1a_early_0";"Messerschmitt AG | Me 262 A-1a Schwalbe | Jagdbomber, Rüstsatz 6";;
+"me-262a-1a_early_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Me 262 A-1a Schwalbe</color> | Jagdbomber
+R6 | Rüstsatz 6";;
 "me-262a-1a_early_1";"Me 262 A-1a/R6 Schwalbe Jabo";;
 "me-262a-1a_early_2";"Me 262 A-1a/R6";;
 #
 "me-262a-2a_shop";"Me 262 A-2a Sturmvogel";;
-"me-262a-2a_0";"Messerschmitt AG | Me 262 A-2a Sturmvogel";;
+"me-262a-2a_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Me 262 A-2a Sturmvogel</color>";;
 "me-262a-2a_1";"Me 262 A-2a Sturmvogel";;
 "me-262a-2a_2";"Me 262 A-2a";;
 #
 "me-262c-1a_shop";"Me 262 C-1a Heimatschützer I";;
-"me-262c-1a_0";"Messerschmitt AG | Me 262 C-1a Heimatschützer I";;
+"me-262c-1a_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Me 262 C-1a Heimatschützer I</color>";;
 "me-262c-1a_1";"Me 262 C-1a Heimatschützer I";;
 "me-262c-1a_2";"Me 262 C-1a";;
 #
 "me-262c-2b_shop";"Me 262 C-2b Heimatschützer II";;
-"me-262c-2b_0";"Messerschmitt AG | Me 262 C-2b Heimatschützer II";;
+"me-262c-2b_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Me 262 C-2b Heimatschützer II</color>";;
 "me-262c-2b_1";"Me 262 C-2b Heimatschützer II";;
 "me-262c-2b_2";"Me 262 C-2b";;
 #
 "f-86_canadair_german_shop";"◄CL-13A Mk.5 Sabre";;
-"f-86_canadair_german_0";"Canadair, Ltd. | ◄CL-13A Mk.5 Sabre";;
+"f-86_canadair_german_0";"<color=@linkTextHoverColorLight>Canadair, Ltd.</color>
+◄<color=@userlogColoredText>CL-13A Mk.5 Sabre</color>";;
 "f-86_canadair_german_1";"◄CL-13A Mk.5 Sabre";;
 "f-86_canadair_german_2";"◄CL-13A Mk.5";;
 #
 "f-86_cl_13b_mk6_shop";"◄CL-13B Mk.6 Sabre";;
-"f-86_cl_13b_mk6_0";"Canadair, Ltd. | ◄CL-13B Mk.6 Sabre";;
+"f-86_cl_13b_mk6_0";"<color=@linkTextHoverColorLight>Canadair, Ltd.</color>
+◄<color=@userlogColoredText>CL-13B Mk.6 Sabre</color>";;
 "f-86_cl_13b_mk6_1";"◄CL-13B Mk.6 Sabre";;
 "f-86_cl_13b_mk6_2";"◄CL-13B Mk.6";;
 #
 "he-162a-1_shop";"He 162 A-1 Volksjäger";;
-"he-162a-1_0";"Heinkel Flugzeugwerke | He 162 A-1 Volksjäger";;
+"he-162a-1_0";"<color=@linkTextHoverColorLight>Heinkel Flugzeugwerke</color>
+<color=@userlogColoredText>He 162 A-1 Volksjäger</color>";;
 "he-162a-1_1";"He 162 A-1 Volksjäger";;
 "he-162a-1_2";"He 162 A-1";;
 #
 "he-162a-2_shop";"He 162 A-2 Volksjäger";;
-"he-162a-2_0";"Heinkel Flugzeugwerke | He 162 A-2 Volksjäger";;
+"he-162a-2_0";"<color=@linkTextHoverColorLight>Heinkel Flugzeugwerke</color>
+<color=@userlogColoredText>He 162 A-2 Volksjäger</color>";;
 "he-162a-2_1";"He 162 A-2 Volksjäger";;
 "he-162a-2_2";"He 162 A-2";;
 #
 "mig-15bis_nr23_german_shop";"◊MiG-15bis Fagot-B";;
-"mig-15bis_nr23_german_0";"OKB-155 ""Mikoyan i Gurevich"" | ◊MiG-15bis Fagot-B";;
+"mig-15bis_nr23_german_0";"<color=@linkTextHoverColorLight>OKB-155 ""Mikoyan i Gurevich""</color>
+◊<color=@userlogColoredText>MiG-15bis</color>
+NATO Designation: Fagot-B";;
 "mig-15bis_nr23_german_1";"◊MiG-15bis Fagot-B";;
 "mig-15bis_nr23_german_2";"◊MiG-15bis";;
 #
 "il_28_german_shop";"◊Il-28 Beagle";;
-"il_28_german_0";"OKB-39 ""Ilyushin"" | ◊Il-28 Beagle";;
+"il_28_german_0";"<color=@linkTextHoverColorLight>OKB-39 ""Ilyushin""</color>
+◊<color=@userlogColoredText>Il-28</color>
+NATO Designation: Beagle";;
 "il_28_german_1";"◊Il-28 Beagle";;
 "il_28_german_2";"◊Il-28";;
 #
 "me-163b_shop";"Me 163 B-1 Komet";;
-"me-163b_0";"Messerschmitt AG | Me 163 B-1 Komet";;
+"me-163b_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Me 163 B-1 Komet</color>";;
 "me-163b_1";"Me 163 B-1 Komet";;
 "me-163b_2";"Me 163 B-1";;
 #
 "me-163b-0_shop";"Me 163 B-0 Komet";;
-"me-163b-0_0";"Messerschmitt AG | Me 163 B-0 Komet";;
+"me-163b-0_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Me 163 B-0 Komet</color>";;
 "me-163b-0_1";"Me 163 B-0 Komet";;
 "me-163b-0_2";"Me 163 B-0";;
 #
 "go229_v3_shop";"Ho 229 V3";;
-"go229_v3_0";"Horten | Ho 229 V3";;
+"go229_v3_0";"<color=@linkTextHoverColorLight>Horten</color>
+<color=@userlogColoredText>Ho 229 V3</color>";;
 "go229_v3_1";"Ho 229 V3";;
 "go229_v3_2";"Ho 229 V3";;
 #
 "f-86k_late_german_shop";"◄F-86K Sabre";;
-"f-86k_late_german_0";"North American Aviation | ◄F-86K Sabre";;
+"f-86k_late_german_0";"<color=@linkTextHoverColorLight>North American Aviation</color>
+◄<color=@userlogColoredText>F-86K Sabre</color>";;
 "f-86k_late_german_1";"◄F-86K Sabre";;
 "f-86k_late_german_2";"◄F-86K";;
 #
 "mig-17p_lim_5p_shop";"◊Lim-5P Fresco-D";;
-"mig-17p_lim_5p_0";"PZL-Mielec | ◊Lim-5P Fresco-D";;
+"mig-17p_lim_5p_0";"<color=@linkTextHoverColorLight>PZL-Mielec</color>
+◊<color=@userlogColoredText>Lim-5P</color>
+NATO Designation: Fresco-D";;
 "mig-17p_lim_5p_1";"◊Lim-5P Fresco-D";;
 "mig-17p_lim_5p_2";"◊Lim-5P";;
 #
 "mig-19s_shop";"◊MiG-19S Farmer-C";;
-"mig-19s_0";"OKB-155 ""Mikoyan i Gurevich"" | ◊MiG-19S Farmer-C";;
+"mig-19s_0";"<color=@linkTextHoverColorLight>OKB-155 ""Mikoyan i Gurevich""</color>
+◊<color=@userlogColoredText>MiG-19S</color>
+NATO Designation: Farmer-C";;
 "mig-19s_1";"◊MiG-19S Farmer-C";;
 "mig-19s_2";"◊MiG-19S";;
 #
-"fiat_g91_r3_shop";"◄G.91R/3 Gina";;
-"fiat_g91_r3_0";"Fiat Aviazone | ◄G.91R/3 Gina";;
-"fiat_g91_r3_1";"◄G.91R/3 Gina";;
+"fiat_g91_r3_shop";"◄G.91R/3";;
+"fiat_g91_r3_0";"<color=@linkTextHoverColorLight>Fiat Aviazone</color>
+◄<color=@userlogColoredText>G.91R/3</color>";;
+"fiat_g91_r3_1";"◄G.91R/3";;
 "fiat_g91_r3_2";"◄G.91R/3";;
 #
-"fiat_g91_r4_german_shop";"◄G.91R/4 Gina";;
-"fiat_g91_r4_german_0";"Fiat Aviazone | ◄G.91R/4 Gina";;
-"fiat_g91_r4_german_1";"◄G.91R/4 Gina";;
+"fiat_g91_r4_german_shop";"◄G.91R/4";;
+"fiat_g91_r4_german_0";"<color=@linkTextHoverColorLight>Fiat Aviazone</color>
+◄<color=@userlogColoredText>G.91R/4</color>";;
+"fiat_g91_r4_german_1";"◄G.91R/4";;
 "fiat_g91_r4_german_2";"◄G.91R/4";;
 #
 "alpha_jet_a_shop";"◄Alpha Jet A";;
-"alpha_jet_a_0";"Société des Avions Marcel Dassault / Dornier | ◄Alpha Jet A";;
+"alpha_jet_a_0";"<color=@linkTextHoverColorLight>Société des Avions Marcel Dassault / Dornier</color>
+◄<color=@userlogColoredText>Alpha Jet A</color>";;
 "alpha_jet_a_1";"◄Alpha Jet A";;
 "alpha_jet_a_2";"◄Alpha Jet A";;
 #
 "f-84f_germany_shop";"◄F-84F Thunderstreak";;
-"f-84f_germany_0";"Republic Aviation Corporation | ◄F-84F Thunderstreak";;
+"f-84f_germany_0";"<color=@linkTextHoverColorLight>Republic Aviation Corporation</color>
+◄<color=@userlogColoredText>F-84F Thunderstreak</color>";;
 "f-84f_germany_1";"◄F-84F Thunderstreak";;
 "f-84f_germany_2";"◄F-84F";;
 #
 "mig_23bn_shop";"◊MiG-23BN Flogger-H";;
-"mig_23bn_0";"OKB-155 ""Mikoyan i Gurevich"" | ◊MiG-23BN Flogger-H | Izdeliye 32-24B";;
+"mig_23bn_0";"<color=@linkTextHoverColorLight>OKB-155 ""Mikoyan i Gurevich""</color>
+◊<color=@userlogColoredText>MiG-23BN</color> | Izdeliye 32-24B
+NATO Designation: Flogger-H";;
 "mig_23bn_1";"◊MiG-23BN Flogger-H";;
 "mig_23bn_2";"◊MiG-23BN";;
 #
 "hunter_f58_switzerland_shop";"◌Hunter Mk.58";;
-"hunter_f58_switzerland_0";"Hawker Aircraft, Ltd. | ◌Hunter Mk.58";;
+"hunter_f58_switzerland_0";"<color=@linkTextHoverColorLight>Hawker Aircraft, Ltd.</color>
+◌<color=@userlogColoredText>Hunter Mk.58</color>";;
 "hunter_f58_switzerland_1";"◌Hunter Mk.58";;
 "hunter_f58_switzerland_2";"◌Hunter Mk.58";;
 #
 "f-104g_shop";"◄F-104G Starfighter";;
-"f-104g_0";"Messerschmitt-Bölkow-Blohm | ◄F-104G Starfighter";;
+"f-104g_0";"<color=@linkTextHoverColorLight>Messerschmitt-Bölkow-Blohm</color>
+◄<color=@userlogColoredText>F-104G Starfighter</color>";;
 "f-104g_1";"◄F-104G Starfighter";;
 "f-104g_2";"◄F-104G";;
 #
 "f-4f_shop";"◄F-4F Phantom II (1973)";;
-"f-4f_0";"McDonnell Douglas Corporation | ◄F-4F Phantom II (1973)";;
+"f-4f_0";"<color=@linkTextHoverColorLight>McDonnell Douglas Corporation</color>
+◄<color=@userlogColoredText>F-4F Phantom II (1973)</color>";;
 "f-4f_1";"◄F-4F Phantom II (1973)";;
 "f-4f_2";"◄F-4F (1973)";;
 #
 "f-4f_late_shop";"◄F-4F Phantom II";;
-"f-4f_late_0";"McDonnell Douglas Corporation | ◄F-4F Phantom II";;
+"f-4f_late_0";"<color=@linkTextHoverColorLight>McDonnell Douglas Corporation</color>
+◄<color=@userlogColoredText>F-4F Phantom II</color>";;
 "f-4f_late_1";"◄F-4F Phantom II";;
 "f-4f_late_2";"◄F-4F";;
 #
 "mig-21_mf_shop";"◊MiG-21MF Fishbed-J";;
-"mig-21_mf_0";"OKB-155 ""Mikoyan i Gurevich"" | ◊MiG-21MF Fishbed-J | Izdeliye 96F";;
+"mig-21_mf_0";"<color=@linkTextHoverColorLight>OKB-155 ""Mikoyan i Gurevich""</color>
+◊<color=@userlogColoredText>MiG-21MF</color> | Izdeliye 96F
+NATO Designation: Fishbed-J";;
 "mig-21_mf_1";"◊MiG-21MF Fishbed-J";;
 "mig-21_mf_2";"◊MiG-21MF";;
 #
 "mig-21_sps_k_shop";"◄MiG-21SPS-K Fishbed-F";;
-"mig-21_sps_k_0";"OKB-155 ""Mikoyan i Gurevich"" | ◄MiG-21SPS-K Fishbed-F  | Izdeliye 94A";;
+"mig-21_sps_k_0";"<color=@linkTextHoverColorLight>OKB-155 ""Mikoyan i Gurevich""</color>
+◄<color=@userlogColoredText>MiG-21SPS-K</color> | Izdeliye 94A
+NATO Designation: Fishbed-F ";;
 "mig-21_sps_k_1";"◄MiG-21SPS-K Fishbed-F";;
 "mig-21_sps_k_2";"◄MiG-21SPS-K";;
 #
 "mig-21_bis_sau_shop";"◊MiG-21bis-SAU Fishbed-N";;
-"mig-21_bis_sau_0";"OKB-155 ""Mikoyan i Gurevich"" | ◊MiG-21bis-SAU Fishbed-N | Izdeliye 75B";;
+"mig-21_bis_sau_0";"<color=@linkTextHoverColorLight>OKB-155 ""Mikoyan i Gurevich""</color>
+◊<color=@userlogColoredText>MiG-21bis-SAU</color> | Izdeliye 75B
+NATO Designation: Fishbed-N";;
 "mig-21_bis_sau_1";"◊MiG-21bis-SAU Fishbed-N";;
 "mig-21_bis_sau_2";"◊MiG-21bis-SAU";;
 #
 "mig-21_bis_lazur_shop";"◊MiG-21bis-Lazur Fishbed-L";;
-"mig-21_bis_lazur_0";"OKB-155 ""Mikoyan i Gurevich"" | ◊MiG-21bis-Lazur Fishbed-L | Izdeliye 75A";;
+"mig-21_bis_lazur_0";"<color=@linkTextHoverColorLight>OKB-155 ""Mikoyan i Gurevich""</color>
+◊<color=@userlogColoredText>MiG-21bis-Lazur</color> | Izdeliye 75A
+NATO Designation: Fishbed-L";;
 "mig-21_bis_lazur_1";"◊MiG-21bis-Lazur Fishbed-L";;
 "mig-21_bis_lazur_2";"◊MiG-21bis-Lazur";;
 #
 "mig_23mla_shop";"◊MiG-23MLA Flogger-G";;
-"mig_23mla_0";"OKB-155 ""Mikoyan i Gurevich"" | ◊MiG-23MLA Flogger-G | Izdeliye 23-12A";;
+"mig_23mla_0";"<color=@linkTextHoverColorLight>OKB-155 ""Mikoyan i Gurevich""</color>
+◊<color=@userlogColoredText>MiG-23MLA</color> | Izdeliye 23-12A
+NATO Designation: Flogger-G ";;
 "mig_23mla_1";"◊MiG-23MLA Flogger-G";;
 "mig_23mla_2";"◊MiG-23MLA";;
 #
 "mig_23mf_germany_shop";"◊MiG-23MF Flogger-B";;
-"mig_23mf_germany_0";"OKB-155 ""Mikoyan i Gurevich"" | ◊MiG-23MF Flogger-B | Izdeliye 23-11M";;
+"mig_23mf_germany_0";"<color=@linkTextHoverColorLight>OKB-155 ""Mikoyan i Gurevich""</color>
+◊<color=@userlogColoredText>MiG-23MF</color> | Izdeliye 23-11M
+NATO Designation: Flogger-B";;
 "mig_23mf_germany_1";"◊MiG-23MF Flogger-B";;
 "mig_23mf_germany_2";"◊MiG-23MF";;
 #
 "su_22um3k_shop";"◊Su-22UM3K Fitter-G";;
-"su_22um3k_0";"OKB-51 ""Sukhoi"" | ◊Su-22UM3K Fitter-G";;
+"su_22um3k_0";"<color=@linkTextHoverColorLight>OKB-51 ""Sukhoi""</color>
+◊<color=@userlogColoredText>Su-22UM3K</color>
+NATO Designation: Fitter-G";;
 "su_22um3k_1";"◊Su-22UM3K Fitter-G";;
 "su_22um3k_2";"◊Su-22UM3K";;
 #
 "su_22m4_shop";"◊Su-22M4 Fitter-K";;
-"su_22m4_0";"OKB-51 ""Sukhoi"" | ◊Su-22M4 Fitter-K";;
+"su_22m4_0";"<color=@linkTextHoverColorLight>OKB-51 ""Sukhoi""</color>
+◊<color=@userlogColoredText>Su-22M4</color>
+NATO Designation: Fitter-K";;
 "su_22m4_1";"◊Su-22M4 Fitter-K";;
 "su_22m4_2";"◊Su-22M4";;
 #
 "su_22m4_de_wtd61_shop";"◄Su-22M4 Fitter-K (WTD 61)";;
-"su_22m4_de_wtd61_0";"OKB-51 ""Sukhoi"" | ◄Su-22M4 Fitter-K | Wehrtechnische Dienststelle 61";;
+"su_22m4_de_wtd61_0";"<color=@linkTextHoverColorLight>OKB-51 ""Sukhoi""</color>
+◄<color=@userlogColoredText>Su-22M4</color>
+NATO Designation: Fitter-K
+Wehrtechnische Dienststelle 61";;
 "su_22m4_de_wtd61_1";"◄Su-22M4 Fitter-K (WTD 61)";;
 "su_22m4_de_wtd61_2";"◄Su-22M4 (WTD 61)";;
 #
 "tornado_ids_de_wtd61_shop";"◄IDS-Tornado (WTD 61)";;
-"tornado_ids_de_wtd61_0";"Panavia Aircraft GmbH | ◄Tornado | Interdictor/Strike | Wehrtechnische Dienststelle 61";;
+"tornado_ids_de_wtd61_0";"<color=@linkTextHoverColorLight>Panavia Aircraft GmbH</color>
+◄<color=@userlogColoredText>Tornado</color>
+IDS | Interdictor/Strike
+Wehrtechnische Dienststelle 61";;
 "tornado_ids_de_wtd61_1";"◄IDS-Tornado (WTD 61)";;
 "tornado_ids_de_wtd61_2";"◄IDS-Tornado (WTD 61)";;
 #
 "f-4f_kws_lv_shop";"◄F-4F Phantom II (KWS-LV)";;
-"f-4f_kws_lv_0";"McDonnell Douglas Corporation | ◄F-4F Phantom II | Kampfwertsteigerung Luftverteidigung";;
+"f-4f_kws_lv_0";"<color=@linkTextHoverColorLight>McDonnell Douglas Corporation</color>
+◄<color=@userlogColoredText>F-4F Phantom II</color>
+KWS-LV | Kampfwertsteigerung Luftverteidigung";;
 "f-4f_kws_lv_1";"◄F-4F Phantom II (KWS-LV)";;
 "f-4f_kws_lv_2";"◄F-4F (KWS-LV)";;
 #
 "tornado_ids_de_assta1_shop";"◄IDS-Tornado (ASSTA 1.0)";;
-"tornado_ids_de_assta1_0";"Panavia Aircraft GmbH | ◄Tornado | Interdictor/Strike | Avionics System Software Tornado in Ada, Version 1.0";;
+"tornado_ids_de_assta1_0";"<color=@linkTextHoverColorLight>Panavia Aircraft GmbH</color>
+◄<color=@userlogColoredText>Tornado</color>
+IDS | Interdictor/Strike
+ASSTA 1.0 | Avionics System Software Tornado in Ada, Version 1.0";;
 "tornado_ids_de_assta1_1";"◄IDS-Tornado (ASSTA 1.0)";;
 "tornado_ids_de_assta1_2";"◄IDS-Tornado (ASSTA 1.0)";;
 #
 tornado_ids_de_assta1_killstreak_shop;☢IDS-Tornado (ASSTA 1.0);;
-tornado_ids_de_assta1_killstreak_0;Panavia Aircraft GmbH | ☢Tornado | Interdictor/Strike | Avionics System Software Tornado in Ada, Version 1.0;;
+tornado_ids_de_assta1_killstreak_0;"<color=@linkTextHoverColorLight>Panavia Aircraft GmbH</color>
+☢<color=@userlogColoredText>Tornado</color>
+IDS | Interdictor/Strike
+ASSTA 1.0 | Avionics System Software Tornado in Ada, Version 1.0";;
 tornado_ids_de_assta1_killstreak_1;☢IDS-Tornado (ASSTA 1.0);;
 tornado_ids_de_assta1_killstreak_2;☢IDS-Tornado (ASSTA 1.0);;
 #
 "tornado_ids_de_mfg_shop";"◄IDS-Tornado (MFG)";;
-"tornado_ids_de_mfg_0";"Panavia Aircraft GmbH | ◄Tornado | Interdictor/Strike (Marineflieger)";;
+"tornado_ids_de_mfg_0";"<color=@linkTextHoverColorLight>Panavia Aircraft GmbH</color>
+◄<color=@userlogColoredText>Tornado</color>
+IDS | Interdictor/Strike
+MFG | Marineflieger";;
 "tornado_ids_de_mfg_1";"◄IDS-Tornado (MFG)";;
 "tornado_ids_de_mfg_2";"◄IDS-Tornado (MFG)";;
 #
 "ef_2000_block_10_shop";"◄EF-2000 Typhoon (P3Ea)";;
-"ef_2000_block_10_0";"Eurofighter Jagdflugzeug GmbH | ◄EF-2000 Typhoon | Tranche 2 | Block 10 | Phase 3, Enhancement A";;
+"ef_2000_block_10_0";"<color=@linkTextHoverColorLight>Eurofighter Jagdflugzeug GmbH</color>
+◄<color=@userlogColoredText>EF-2000 Typhoon</color>
+Tranche 2 | Block 10
+Phase 3, Enhancement A";;
 "ef_2000_block_10_1";"◄EF-2000 Typhoon (P3Ea)";;
 "ef_2000_block_10_2";"◄EF-2000 (P3Ea)";;
 #
 "mig_29_9_12_germany_shop";"◊MiG-29A Fulcrum-A";;
-"mig_29_9_12_germany_0";"◊OKB-155 ""Mikoyan"" | MiG-29A Fulcrum-A | Izdeliye 9-12A";;
+"mig_29_9_12_germany_0";"<color=@linkTextHoverColorLight>OKB-155 ""Mikoyan""</color>
+◊<color=@userlogColoredText>MiG-29A</color> | Izdeliye 9-12A
+NATO Designation: Fulcrum-A";;
 "mig_29_9_12_germany_1";"◊MiG-29A Fulcrum-A";;
 "mig_29_9_12_germany_2";"◊MiG-29A";;
 #
 "mig_29_9_12g_shop";"◄MiG-29G Fulcrum-A";;
-"mig_29_9_12g_0";"◄OKB-155 ""Mikoyan"" | MiG-29G Fulcrum-A | Izdeliye 9-12A";;
+"mig_29_9_12g_0";"<color=@linkTextHoverColorLight>OKB-155 ""Mikoyan""</color>
+◄<color=@userlogColoredText>MiG-29G</color> | Izdeliye 9-12A
+NATO Designation: Fulcrum-A";;
 "mig_29_9_12g_1";"◄MiG-29G Fulcrum-A";;
 "mig_29_9_12g_2";"◄MiG-29G";;
 #
 "hunter_f58a_1971_switzerland_shop";"◌Hunter Mk.58A (1971)";;
-"hunter_f58a_1971_switzerland_0";"◌Hawker Aircraft, Ltd. | Hunter Mk.58A (1971)";;
+"hunter_f58a_1971_switzerland_0";"<color=@linkTextHoverColorLight>Hawker Aircraft, Ltd.</color>
+◌<color=@userlogColoredText>Hunter Mk.58A (1971)</color>";;
 "hunter_f58a_1971_switzerland_1";"◌Hunter Mk.58A (1971)";;
 "hunter_f58a_1971_switzerland_2";"◌Hunter Mk.58A (1971)";;
 #
 "mirage_3s_c70_switzerland_shop";"◌Mirage III S C.70";;
-"mirage_3s_c70_switzerland_0";"◌Société des Avions Marcel Dassault | Mirage III S | FW C.70 Canard";;
+"mirage_3s_c70_switzerland_0";"<color=@linkTextHoverColorLight>Société des Avions Marcel Dassault</color>
+◌<color=@userlogColoredText>Mirage III S</color>
+FW C.70 Canard";;
 "mirage_3s_c70_switzerland_1";"◌Mirage III S C.70";;
 "mirage_3s_c70_switzerland_2";"◌Mirage III S";;
 #
 "f-5e_switzerland_shop";"◌F-5E Tiger II";;
-"f-5e_switzerland_0";"◌Northrop Corporation | F-5E Tiger II";;
+"f-5e_switzerland_0";"<color=@linkTextHoverColorLight>Northrop Corporation</color>
+◌<color=@userlogColoredText>F-5E Tiger II</color>";;
 "f-5e_switzerland_1";"◌F-5E Tiger II";;
 "f-5e_switzerland_2";"◌F-5E";;
 #
 "fa_18c_switzerland_shop";"◌F/A-18C Hornet";;
-"fa_18c_switzerland_0";"◌RUAG Defence | F/A-18C Hornet";;
+"fa_18c_switzerland_0";"<color=@linkTextHoverColorLight>RUAG Defence</color>
+◌<color=@userlogColoredText>F/A-18C Hornet</color>";;
 "fa_18c_switzerland_1";"◌F/A-18C Hornet";;
 "fa_18c_switzerland_2";"◌F/A-18C";;
 #
 "fa_18c_late_switzerland_shop";"◌F/A-18C Hornet (UG21)";;
-"fa_18c_late_switzerland_0";"◌RUAG Defence | F/A-18C Hornet | Upgrade 21 Program";;
+"fa_18c_late_switzerland_0";"<color=@linkTextHoverColorLight>RUAG Defence</color>
+◌<color=@userlogColoredText>F/A-18C Hornet</color>
+UG21 | Upgrade 21 Program";;
 "fa_18c_late_switzerland_1";"◌F/A-18C Hornet (UG21)";;
 "fa_18c_late_switzerland_2";"◌F/A-18C (UG21)";;
 #
 "me-410b-6_r3_shop";"Me 410 B-6/R3 Hornisse";;
-"me-410b-6_r3_0";"Messerschmitt AG | Me 410 B-6 Hornisse | Rüstsatz 3";;
+"me-410b-6_r3_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Me 410 B-6 Hornisse</color>
+R3 | Rüstsatz 3";;
 "me-410b-6_r3_1";"Me 410 B-6/R3 Hornisse";;
 "me-410b-6_r3_2";"Me 410 B-6/R3";;
 #
 "arado-234_shop";"Ar 234 B-2 Blitz";;
-"arado-234_0";"Arado Flugzeugwerke | Ar 234 B-2 Blitz";;
+"arado-234_0";"<color=@linkTextHoverColorLight>Arado Flugzeugwerke</color>
+<color=@userlogColoredText>Ar 234 B-2 Blitz</color>";;
 "arado-234_1";"Ar 234 B-2 Blitz";;
 "arado-234_2";"Ar 234 B-2";;
 #
 "arado-234c-3_shop";"Ar 234 C-3 Blitz";;
-"arado-234c-3_0";"Arado Flugzeugwerke | Ar 234 C-3 Blitz";;
+"arado-234c-3_0";"<color=@linkTextHoverColorLight>Arado Flugzeugwerke</color>
+<color=@userlogColoredText>Ar 234 C-3 Blitz</color>";;
 "arado-234c-3_1";"Ar 234 C-3 Blitz";;
 "arado-234c-3_2";"Ar 234 C-3";;
 #
 "he-177a-3_shop";"He 177 A-3/R3 Greif";;
-"he-177a-3_0";"Heinkel Flugzeugwerke | He 177 A-3 Greif | Rüstsatz 3";;
+"he-177a-3_0";"<color=@linkTextHoverColorLight>Heinkel Flugzeugwerke</color>
+<color=@userlogColoredText>He 177 A-3 Greif</color>
+R3 | Rüstsatz 3";;
 "he-177a-3_1";"He 177 A-3/R3 Greif";;
 "he-177a-3_2";"He 177 A-3/R3";;
 #
 "he-177a-5_shop";"He 177 A-5 Greif";;
-"he-177a-5_0";"Heinkel Flugzeugwerke | He 177 A-5 Greif";;
+"he-177a-5_0";"<color=@linkTextHoverColorLight>Heinkel Flugzeugwerke</color>
+<color=@userlogColoredText>He 177 A-5 Greif</color>";;
 "he-177a-5_1";"He 177 A-5 Greif";;
 "he-177a-5_2";"He 177 A-5";;
 #
 "ju-188a-2_shop";"Ju 188 A-2 Rächer";;
-"ju-188a-2_0";"Junkers Flugzeug- und Motorenwerke AG | Ju 188 A-2 Rächer";;
+"ju-188a-2_0";"<color=@linkTextHoverColorLight>Junkers Flugzeug- und Motorenwerke AG</color>
+<color=@userlogColoredText>Ju 188 A-2 Rächer</color>";;
 "ju-188a-2_1";"Ju 188 A-2 Rächer";;
 "ju-188a-2_2";"Ju 188 A-2";;
 #
 "do_217e_2_shop";"Do 217 E-2";;
-"do_217e_2_0";"Dornier Flugzeugwerke | Do 217 E-2";;
+"do_217e_2_0";"<color=@linkTextHoverColorLight>Dornier Flugzeugwerke</color>
+<color=@userlogColoredText>Do 217 E-2</color>";;
 "do_217e_2_1";"Do 217 E-2";;
 "do_217e_2_2";"Do 217 E-2";;
 #
 "do_217e_4_shop";"Do 217 E-4";;
-"do_217e_4_0";"Dornier Flugzeugwerke | Do 217 E-4";;
+"do_217e_4_0";"<color=@linkTextHoverColorLight>Dornier Flugzeugwerke</color>
+<color=@userlogColoredText>Do 217 E-4</color>";;
 "do_217e_4_1";"Do 217 E-4";;
 "do_217e_4_2";"Do 217 E-4";;
 #
 "do_217j_1_shop";"Do 217 J-1";;
-"do_217j_1_0";"Dornier Flugzeugwerke | Do 217 J-1";;
+"do_217j_1_0";"<color=@linkTextHoverColorLight>Dornier Flugzeugwerke</color>
+<color=@userlogColoredText>Do 217 J-1</color>";;
 "do_217j_1_1";"Do 217 J-1";;
 "do_217j_1_2";"Do 217 J-1";;
 #
 "do_217j_2_shop";"Do 217 J-2";;
-"do_217j_2_0";"Dornier Flugzeugwerke | Do 217 J-2";;
+"do_217j_2_0";"<color=@linkTextHoverColorLight>Dornier Flugzeugwerke</color>
+<color=@userlogColoredText>Do 217 J-2</color>";;
 "do_217j_2_1";"Do 217 J-2";;
 "do_217j_2_2";"Do 217 J-2";;
 #
 "do_217k_1_shop";"Do 217 K-1";;
-"do_217k_1_0";"Dornier Flugzeugwerke | Do 217 K-1";;
+"do_217k_1_0";"<color=@linkTextHoverColorLight>Dornier Flugzeugwerke</color>
+<color=@userlogColoredText>Do 217 K-1</color>";;
 "do_217k_1_1";"Do 217 K-1";;
 "do_217k_1_2";"Do 217 K-1";;
 #
 "do_217m_1_shop";"Do 217 K-1";;
-"do_217m_1_0";"Dornier Flugzeugwerke | Do 217 K-1";;
+"do_217m_1_0";"<color=@linkTextHoverColorLight>Dornier Flugzeugwerke</color>
+<color=@userlogColoredText>Do 217 K-1</color>";;
 "do_217m_1_1";"Do 217 K-1";;
 "do_217m_1_2";"Do 217 K-1";;
 #
-"do_217n_1_shop";"Do 217 N-1 Nachtjäger";;
-"do_217n_1_0";"Dornier Flugzeugwerke | Do 217 N-1 Nachtjäger";;
-"do_217n_1_1";"Do 217 N-1 Nachtjäger";;
+"do_217n_1_shop";"Do 217 N-1";;
+"do_217n_1_0";"<color=@linkTextHoverColorLight>Dornier Flugzeugwerke</color>
+<color=@userlogColoredText>Do 217 N-1</color>";;
+"do_217n_1_1";"Do 217 N-1";;
 "do_217n_1_2";"Do 217 N-1";;
 #
-"do_217n_2_shop";"Do 217 N-2 Nachtjäger";;
-"do_217n_2_0";"Dornier Flugzeugwerke | Do 217 N-2 Nachtjäger";;
-"do_217n_2_1";"Do 217 N-2 Nachtjäger";;
-"do_217n_2_2";"Do 217 N-2 Nachtjäger";;
+"do_217n_2_shop";"Do 217 N-2";;
+"do_217n_2_0";"<color=@linkTextHoverColorLight>Dornier Flugzeugwerke</color>
+<color=@userlogColoredText>Do 217 N-2</color>";;
+"do_217n_2_1";"Do 217 N-2";;
+"do_217n_2_2";"Do 217 N-2";;
 #
-"ju-288c_shop";"Ju 288 C-1 Bomber B";;
-"ju-288c_0";"Junkers Flugzeug- und Motorenwerke AG | Ju 288 C-1 Bomber B";;
-"ju-288c_1";"Ju 288 C-1 Bomber B";;
+"ju-288c_shop";"Ju 288 C-1";;
+"ju-288c_0";"<color=@linkTextHoverColorLight>Junkers Flugzeug- und Motorenwerke AG</color>
+<color=@userlogColoredText>Ju 288 C-1</color>";;
+"ju-288c_1";"Ju 288 C-1";;
 "ju-288c_2";"Ju 288 C-1";;
 #
 "do_335a_0_shop";"Do 335 A-0 Pfeil";;
-"do_335a_0_0";"Dornier Flugzeugwerke | Do 335 A-0 Pfiel";;
+"do_335a_0_0";"<color=@linkTextHoverColorLight>Dornier Flugzeugwerke</color>
+<color=@userlogColoredText>Do 335 A-0 Pfiel</color>";;
 "do_335a_0_1";"Do 335 A-0 Pfeil";;
 "do_335a_0_2";"Do 335 A-0";;
 #
 "do_335a_1_shop";"Do 335 A-1 Pfeil";;
-"do_335a_1_0";"Dornier Flugzeugwerke | Do 335 A-1 Pfiel";;
+"do_335a_1_0";"<color=@linkTextHoverColorLight>Dornier Flugzeugwerke</color>
+<color=@userlogColoredText>Do 335 A-1 Pfiel</color>";;
 "do_335a_1_1";"Do 335 A-1 Pfeil";;
 "do_335a_1_2";"Do 335 A-1";;
 #
 "do_335b_2_shop";"Do 335 B-2 Pfeil";;
-"do_335b_2_0";"Dornier Flugzeugwerke | Do 335 B-2 Pfiel";;
+"do_335b_2_0";"<color=@linkTextHoverColorLight>Dornier Flugzeugwerke</color>
+<color=@userlogColoredText>Do 335 B-2 Pfiel</color>";;
 "do_335b_2_1";"Do 335 B-2 Pfeil";;
 "do_335b_2_2";"Do 335 B-2";;
 #
 "ju-388j_shop";"Ju 388 J-1 Störtebeker";;
-"ju-388j_0";"Junkers Flugzeug- und Motorenwerke AG | Ju 388 J-1 Störtebeker";;
+"ju-388j_0";"<color=@linkTextHoverColorLight>Junkers Flugzeug- und Motorenwerke AG</color>
+<color=@userlogColoredText>Ju 388 J-1 Störtebeker</color>";;
 "ju-388j_1";"Ju 388 J-1 Störtebeker";;
 "ju-388j_2";"Ju 388 J-1";;
 #
 "me-410a-1_shop";"Me 410 A-1 Hornisse";;
-"me-410a-1_0";"Messerschmitt AG | Me 410 A-1 Hornisse";;
+"me-410a-1_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Me 410 A-1 Hornisse</color>";;
 "me-410a-1_1";"Me 410 A-1 Hornisse";;
 "me-410a-1_2";"Me 410 A-1";;
 #
 "me-410a-1_u2_shop";"Me 410 A-1/U2 Hornisse";;
-"me-410a-1_u2_0";"Messerschmitt AG | Me 410 A-1 Hornisse | Umrüstbausatz 2";;
+"me-410a-1_u2_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Me 410 A-1 Hornisse</color>
+U2 | Umrüstbausatz 2";;
 "me-410a-1_u2_1";"Me 410 A-1/U2 Hornisse";;
 "me-410a-1_u2_2";"Me 410 A-1/U2";;
 #
 "me-410a-1_u4_shop";"Me 410 A-1/U4 Hornisse";;
-"me-410a-1_u4_0";"Messerschmitt AG | Me 410 A-1 Hornisse | Umrüstbausatz 4";;
+"me-410a-1_u4_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Me 410 A-1 Hornisse</color>
+U4 | Umrüstbausatz 4";;
 "me-410a-1_u4_1";"Me 410 A-1/U4 Hornisse";;
 "me-410a-1_u4_2";"Me 410 A-1/U4";;
 #
 "me-410b-1_shop";"Me 410 B-1 Hornisse";;
-"me-410b-1_0";"Messerschmitt AG | Me 410 B-1 Hornisse";;
+"me-410b-1_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Me 410 B-1 Hornisse</color>";;
 "me-410b-1_1";"Me 410 B-1 Hornisse";;
 "me-410b-1_2";"Me 410 B-1";;
 #
 "me-410b-1_u2_shop";"Me 410 B-1/U2 Hornisse";;
-"me-410b-1_u2_0";"Messerschmitt AG | Me 410 B-1 Hornisse | Umrüstbausatz 2";;
+"me-410b-1_u2_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Me 410 B-1 Hornisse</color>
+U2 | Umrüstbausatz 2";;
 "me-410b-1_u2_1";"Me 410 B-1/U2 Hornisse";;
 "me-410b-1_u2_2";"Me 410 B-1/U2";;
 #
 "me-410b-2_u4_shop";"Me 410 B-2/U4 Hornisse";;
-"me-410b-2_u4_0";"Messerschmitt AG | Me 410 B-2 Hornisse | Umrüstbausatz 4";;
+"me-410b-2_u4_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Me 410 B-2 Hornisse</color>
+U4 | Umrüstbausatz 4";;
 "me-410b-2_u4_1";"Me 410 B-2/U4 Hornisse";;
 "me-410b-2_u4_2";"Me 410 B-2/U4";;
 #
-"bf-110c-4_shop";"Bf 110 C-7 Jagdbomber";;
-"bf-110c-4_0";"Messerschmitt AG | Bf 110 C-7 Jagdbomber";;
-"bf-110c-4_1";"Bf 110 C-7 Jagdbomber";;
+"bf-110c-4_shop";"Bf 110 C-7";;
+"bf-110c-4_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 110 C-7</color>";;
+"bf-110c-4_1";"Bf 110 C-7";;
 "bf-110c-4_2";"Bf 110 C-7";;
 #
-"bf-110c-6_shop";"Bf 110 C-6 Zerstörer";;
-"bf-110c-6_0";"Messerschmitt AG | Bf 110 C-6 Zerstörer";;
-"bf-110c-6_1";"Bf 110 C-6 Zerstörer";;
+"bf-110c-6_shop";"Bf 110 C-6";;
+"bf-110c-6_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 110 C-6</color>";;
+"bf-110c-6_1";"Bf 110 C-6";;
 "bf-110c-6_2";"Bf 110 C-6";;
 #
-"bf-110f-2_shop";"Bf 110 F-2 Zerstörer";;
-"bf-110f-2_0";"Messerschmitt AG | Bf 110 F-2 Zerstörer";;
-"bf-110f-2_1";"Bf 110 F-2 Zerstörer";;
+"bf-110f-2_shop";"Bf 110 F-2";;
+"bf-110f-2_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 110 F-2</color>";;
+"bf-110f-2_1";"Bf 110 F-2";;
 "bf-110f-2_2";"Bf 110 F-2";;
 #
 "bf-110g-2_shop";"Bf 110 G-2 Jagdbomber";;
-"bf-110g-2_0";"Messerschmitt AG | Bf 110 G-2 Jagdbomber";;
+"bf-110g-2_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 110 G-2</color>";;
 "bf-110g-2_1";"Bf 110 G-2 Jagdbomber";;
 "bf-110g-2_2";"Bf 110 G-2";;
 #
-"bf_110g_4_shop";"Bf 110 G-4 Nachtjäger";;
-"bf_110g_4_0";"Messerschmitt AG | Bf 110 G-4 Nachtjäger";;
-"bf_110g_4_1";"Bf 110 G-4 Nachtjäger";;
+"bf_110g_4_shop";"Bf 110 G-4";;
+"bf_110g_4_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 110 G-4</color>";;
+"bf_110g_4_1";"Bf 110 G-4";;
 "bf_110g_4_2";"f 110 G-4";;
 #
 "me_264_shop";"Me 264 Amerikabomber";;
-"me_264_0";"Messerschmitt AG | Me 264 Amerikabomber";;
+"me_264_0";"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Me 264 Amerikabomber</color>";;
 "me_264_1";"Me 264 Amerikabomber";;
 "me_264_2";"Me 264";;
 #
 "ta_154a_1_shop";"Ta 154 A-1 Moskito";;
-"ta_154a_1_0";"Focke-Wulf Flugzeugbau AG | Ta 154 A-1 Moskito";;
+"ta_154a_1_0";"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Ta 154 A-1 Moskito</color>";;
 "ta_154a_1_1";"Ta 154 A-1 Moskito";;
 "ta_154a_1_2";"Ta 154 A-1";;
 #
 "bv-155b-1_shop";"BV 155 B-1";;
-"bv-155b-1_0";"Abteilung Flugzeugbau der Schiffswerft Blohm & Voss | BV 155 B-1 | Prototype V2";;
+"bv-155b-1_0";"<color=@linkTextHoverColorLight>Abteilung Flugzeugbau der Schiffswerft Blohm & Voss</color>
+<color=@userlogColoredText>BV 155 B-1</color>
+Prototype V2";;
 "bv-155b-1_1";"BV 155 B-1";;
 "bv-155b-1_2";"BV 155 B-1";;
 #
 "bv-238_shop";"BV 238 V1";;
-"bv-238_0";"Abteilung Flugzeugbau der Schiffswerft Blohm & Voss | BV 238 | Prototype V1";;
+"bv-238_0";"<color=@linkTextHoverColorLight>Abteilung Flugzeugbau der Schiffswerft Blohm & Voss</color>
+<color=@userlogColoredText>BV 238</color>
+Prototype V1";;
 "bv-238_1";"BV 238 V1";;
 "bv-238_2";"BV 238 V1";;
 #
 "yak-1b_luftwaffe_shop";"▀Yak-1 (1942)";;
-"yak-1b_luftwaffe_0";"▀OKB-115 ""Yakovlev"" | Yak-1 (1942)";;
+"yak-1b_luftwaffe_0";"<color=@linkTextHoverColorLight>OKB-115 ""Yakovlev""</color>
+▀<color=@userlogColoredText>Yak-1</color> | Obrazets 1942";;
 "yak-1b_luftwaffe_1";"▀Yak-1 (1942)";;
 "yak-1b_luftwaffe_2";"▀Yak-1 (1942)";;
 #
 "h-75a-2_finland_shop";"▄H-75A-2";;
-"h-75a-2_finland_0";"▄Curtiss-Wright Corporation | Hawk 75A-2";;
+"h-75a-2_finland_0";"<color=@linkTextHoverColorLight>Curtiss-Wright Corporation</color>
+▄<color=@userlogColoredText>Hawk 75A-2</color>";;
 "h-75a-2_finland_1";"▄H-75A-2";;
 "h-75a-2_finland_2";"▄H-75A-2";;
 #
 "he_112b_2_shop";"▄He 112 B-2/U2";;
-"he_112b_2_0";"▄Heinkel Flugzeugwerke | He 112 B-2 | Umrüstbausatz 2";;
+"he_112b_2_0";"<color=@linkTextHoverColorLight>Heinkel Flugzeugwerke</color>
+▄<color=@userlogColoredText>He 112 B-2</color>
+U2 | Umrüstbausatz 2";;
 "he_112b_2_1";"▄He 112 B-2/U2";;
 "he_112b_2_2";"▄He 112 B-2/U2";;
 #
 "il_2_1942_luftwaffe_shop";"▀Il-2 Sturmovik (1942)";;
-"il_2_1942_luftwaffe_0";"▀OKB-39 ""Ilyushin"" | Il-2 Sturmovik (1942)";;
+"il_2_1942_luftwaffe_0";"<color=@linkTextHoverColorLight>OKB-39 ""Ilyushin""</color>
+▀<color=@userlogColoredText>Il-2 Sturmovik</color> | Obrazets 1942";;
 "il_2_1942_luftwaffe_1";"▀Il-2 Sturmovik (1942)";;
 "il_2_1942_luftwaffe_2";"▀Il-2 (1942)";;
 #
 "he_112b_0_shop";"He 112 B-0";;
-"he_112b_0_0";"Heinkel Flugzeugwerke | He 112 B-0";;
+"he_112b_0_0";"<color=@linkTextHoverColorLight>Heinkel Flugzeugwerke</color>
+<color=@userlogColoredText>He 112 B-0</color>";;
 "he_112b_0_1";"He 112 B-0";;
 "he_112b_0_2";"He 112 B-0";;
 #
-"c_3604_shop";"◌С-3604";;
-"c_3604_0";"◌Eidgenössische Konstruktionswerkstätte | С-3604";;
-"c_3604_1";"◌С-3604";;
-"c_3604_2";"◌С-3604";;
+"c_3604_shop";"С-3604";;
+"c_3604_0";"<color=@linkTextHoverColorLight>Eidgenössische Konstruktionswerkstätte</color>
+<color=@userlogColoredText>С-3604</color>";;
+"c_3604_1";"С-3604";;
+"c_3604_2";"С-3604";;
 #
 "ju-88a-1_shop";"Ju 88 A-1 Schnellbomber";;
-"ju-88a-1_0";"Junkers Flugzeug- und Motorenwerke AG | Ju 88 A-1 Schnellbomber";;
+"ju-88a-1_0";"<color=@linkTextHoverColorLight>Junkers Flugzeug- und Motorenwerke AG</color>
+<color=@userlogColoredText>Ju 88 A-1</color>";;
 "ju-88a-1_1";"Ju 88 A-1 Schnellbomber";;
 "ju-88a-1_2";"Ju 88 A-1";;
 #
 "ju-88a-4_shop";"Ju 88 A-4 Schnellbomber";;
-"ju-88a-4_0";"Junkers Flugzeug- und Motorenwerke AG | Ju 88 A-4 Schnellbomber";;
+"ju-88a-4_0";"<color=@linkTextHoverColorLight>Junkers Flugzeug- und Motorenwerke AG</color>
+<color=@userlogColoredText>Ju 88 A-4</color>";;
 "ju-88a-4_1";"Ju 88 A-4 Schnellbomber";;
 "ju-88a-4_2";"Ju 88 A-4";;
 #
 "ju-88c-6_shop";"Ju 88 C-6";;
-"ju-88c-6_0";"Junkers Flugzeug- und Motorenwerke AG | Ju 88 C-6";;
+"ju-88c-6_0";"<color=@linkTextHoverColorLight>Junkers Flugzeug- und Motorenwerke AG</color>
+<color=@userlogColoredText>Ju 88 C-6</color>";;
 "ju-88c-6_1";"Ju 88 C-6";;
 "ju-88c-6_2";"Ju 88 C-6";;
 #
 "hs-129b-3_shop";"Hs 129 B-3";;
-"hs-129b-3_0";"Henschel Flugzeugwerke | Hs 129 B-3";;
+"hs-129b-3_0";"<color=@linkTextHoverColorLight>Henschel Flugzeugwerke</color>
+<color=@userlogColoredText>Hs 129 B-3</color>";;
 "hs-129b-3_1";"Hs 129 B-3";;
 "hs-129b-3_2";"Hs 129 B-3";;
 #
 "hs-129b-2_shop";"Hs 129 B-2";;
-"hs-129b-2_0";"Henschel Flugzeugwerke | Hs 129 B-2";;
+"hs-129b-2_0";"<color=@linkTextHoverColorLight>Henschel Flugzeugwerke</color>
+<color=@userlogColoredText>Hs 129 B-2</color>";;
 "hs-129b-2_1";"Hs 129 B-2";;
 "hs-129b-2_2";"Hs 129 B-2";;
 #
 "fw_200c_1_shop";"Fw 200 C-1 Condor";;
-"fw_200c_1_0";"Focke-Wulf Flugzeugbau AG | Fw 200 C-1 Condor";;
+"fw_200c_1_0";"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Fw 200 C-1 Condor</color>";;
 "fw_200c_1_1";"Fw 200 C-1 Condor";;
 "fw_200c_1_2";"Fw 200 C-1";;
 #
 "ju-87d-3_shop";"Ju 87 D-3 Stuka";;
-"ju-87d-3_0";"Junkers Flugzeug- und Motorenwerke AG | Ju 87 D-3 Stuka";;
+"ju-87d-3_0";"<color=@linkTextHoverColorLight>Junkers Flugzeug- und Motorenwerke AG</color>
+<color=@userlogColoredText>Ju 87 D-3 Stuka</color>";;
 "ju-87d-3_1";"Ju 87 D-3 Stuka";;
 "ju-87d-3_2";"Ju 87 D-3";;
 #
 "ju-87d-5_shop";"Ju 87 D-5 Stuka";;
-"ju-87d-5_0";"Junkers Flugzeug- und Motorenwerke AG | Ju 87 D-5 Stuka";;
+"ju-87d-5_0";"<color=@linkTextHoverColorLight>Junkers Flugzeug- und Motorenwerke AG</color>
+<color=@userlogColoredText>Ju 87 D-5 Stuka</color>";;
 "ju-87d-5_1";"Ju 87 D-5 Stuka";;
 "ju-87d-5_2";"Ju 87 D-5";;
 #
 "he-111h-6_shop";"He 111 H-6";;
-"he-111h-6_0";"Heinkel Flugzeugwerke | He 111 H-6";;
+"he-111h-6_0";"<color=@linkTextHoverColorLight>Heinkel Flugzeugwerke</color>
+<color=@userlogColoredText>He 111 H-6</color>";;
 "he-111h-6_1";"He 111 H-6";;
 "he-111h-6_2";"He 111 H-6";;
 #
 "he-111h-16_winter_shop";"He 111 H-16";;
-"he-111h-16_winter_0";"Heinkel Flugzeugwerke | He 111 H-16";;
+"he-111h-16_winter_0";"<color=@linkTextHoverColorLight>Heinkel Flugzeugwerke</color>
+<color=@userlogColoredText>He 111 H-16</color>";;
 "he-111h-16_winter_1";"He 111 H-16";;
 "he-111h-16_winter_2";"He 111 H-16";;
 #
 "he-111h-2_shop";"He 111 H-3";;
-"he-111h-2_0";"Heinkel Flugzeugwerke | He 111 H-3";;
+"he-111h-2_0";"<color=@linkTextHoverColorLight>Heinkel Flugzeugwerke</color>
+<color=@userlogColoredText>He 111 H-3</color>";;
 "he-111h-2_1";"He 111 H-3";;
 "he-111h-2_2";"He 111 H-3";;
 #
 "ju-87r-2_snake_shop";"Ju 87 R-2 Stuka (Libya)";;
-"ju-87r-2_snake_0";"Junkers Flugzeug- und Motorenwerke AG | Ju 87 R-2 Stuka (Libya)";;
+"ju-87r-2_snake_0";"<color=@linkTextHoverColorLight>Junkers Flugzeug- und Motorenwerke AG</color>
+<color=@userlogColoredText>Ju 87 R-2 Stuka</color> (Libya)";;
 "ju-87r-2_snake_1";"Ju 87 R-2 Stuka (Libya)";;
 "ju-87r-2_snake_2";"Ju 87 R-2";;
 #
 "ju-87g_1_shop";"Ju 87 G-1 Stuka";;
-"ju-87g_1_0";"Junkers Flugzeug- und Motorenwerke AG | Ju 87 G-1 Stuka";;
+"ju-87g_1_0";"<color=@linkTextHoverColorLight>Junkers Flugzeug- und Motorenwerke AG</color>
+<color=@userlogColoredText>Ju 87 G-1 Stuka</color>";;
 "ju-87g_1_1";"Ju 87 G-1 Stuka";;
 "ju-87g_1_2";"Ju 87 G-1";;
 #
 "ju-87g_2_shop";"Ju 87 G-2 Stuka";;
-"ju-87g_2_0";"Junkers Flugzeug- und Motorenwerke AG | Ju 87 G-2 Stuka";;
+"ju-87g_2_0";"<color=@linkTextHoverColorLight>Junkers Flugzeug- und Motorenwerke AG</color>
+<color=@userlogColoredText>Ju 87 G-2 Stuka</color>";;
 "ju-87g_2_1";"Ju 87 G-2 Stuka";;
 "ju-87g_2_2";"Ju 87 G-2";;
 #
 "ju-87b-2_shop";"Ju 87 B-2 Stuka";;
-"ju-87b-2_0";"Junkers Flugzeug- und Motorenwerke AG | Ju 87 B-2 Stuka";;
+"ju-87b-2_0";"<color=@linkTextHoverColorLight>Junkers Flugzeug- und Motorenwerke AG</color>
+<color=@userlogColoredText>Ju 87 B-2 Stuka</color>";;
 "ju-87b-2_1";"Ju 87 B-2 Stuka";;
 "ju-87b-2_2";"Ju 87 B-2";;
 #
 "ju-87r-2_shop";"Ju 87 R-2 Stuka";;
-"ju-87r-2_0";"Junkers Flugzeug- und Motorenwerke AG | Ju 87 R-2 Stuka";;
+"ju-87r-2_0";"<color=@linkTextHoverColorLight>Junkers Flugzeug- und Motorenwerke AG</color>
+<color=@userlogColoredText>Ju 87 R-2 Stuka</color>";;
 "ju-87r-2_1";"Ju 87 R-2 Stuka";;
 "ju-87r-2_2";"Ju 87 R-2";;
 #
 "hs-123a-1_shop";"Hs 123 A-1";;
-"hs-123a-1_0";"Henschel Flugzeugwerke | Hs 123 A-1";;
+"hs-123a-1_0";"<color=@linkTextHoverColorLight>Henschel Flugzeugwerke</color>
+<color=@userlogColoredText>Hs 123 A-1</color>";;
 "hs-123a-1_1";"Hs 123 A-1";;
 "hs-123a-1_2";"Hs 123 A-1";;
 #
 "he_115c_1_shop";"He 115 C-1";;
-"he_115c_1_0";"Heinkel Flugzeugwerke | He 115 C-1";;
+"he_115c_1_0";"<color=@linkTextHoverColorLight>Heinkel Flugzeugwerke</color>
+<color=@userlogColoredText>He 115 C-1</color>";;
 "he_115c_1_1";"He 115 C-1";;
 "he_115c_1_2";"He 115 C-1";;
 #
 "bv-138c-1_shop";"BV 138 C-1";;
-"bv-138c-1_0";"Abteilung Flugzeugbau der Schiffswerft Blohm & Voss | BV 138 C-1";;
+"bv-138c-1_0";"<color=@linkTextHoverColorLight>Abteilung Flugzeugbau der Schiffswerft Blohm & Voss</color>
+<color=@userlogColoredText>BV 138 C-1</color>";;
 "bv-138c-1_1";"BV 138 C-1";;
 "bv-138c-1_2";"BV 138 C-1";;
 #
 "do_17e_1_shop";"Do 17 E-1 Schnellbomber";;
-"do_17e_1_0";"Dornier Flugzeugwerke | Do 17 E-1 Schnellbomber";;
+"do_17e_1_0";"<color=@linkTextHoverColorLight>Dornier Flugzeugwerke</color>
+<color=@userlogColoredText>Do 17 E-1</color>";;
 "do_17e_1_1";"Do 17 E-1 Schnellbomber";;
 "do_17e_1_2";"Do 17 E-1";;
 #
 "do_17z_2_shop";"Do 17 Z-2 Schnellbomber";;
-"do_17z_2_0";"Dornier Flugzeugwerke | Do 17 Z-2 Schnellbomber";;
+"do_17z_2_0";"<color=@linkTextHoverColorLight>Dornier Flugzeugwerke</color>
+<color=@userlogColoredText>Do 17 Z-2</color>";;
 "do_17z_2_1";"Do 17 Z-2 Schnellbomber";;
 "do_17z_2_2";"Do 17 Z-2";;
 #
 "do_17z_7_shop";"Do 17 Z-7 Kauz I";;
-"do_17z_7_0";"Dornier Flugzeugwerke | Do 17 Z-7 Kauz I";;
+"do_17z_7_0";"<color=@linkTextHoverColorLight>Dornier Flugzeugwerke</color>
+<color=@userlogColoredText>Do 17 Z-7 Kauz I</color>";;
 "do_17z_7_1";"Do 17 Z-7 Kauz I";;
 "do_17z_7_2";"Do 17 Z-7";;
 #
 "he_100d_1_shop";"He 100 D-1";;
-"he_100d_1_0";"Heinkel Flugzeugwerke | He 100 D-1";;
+"he_100d_1_0";"<color=@linkTextHoverColorLight>Heinkel Flugzeugwerke</color>
+<color=@userlogColoredText>He 100 D-1</color>";;
 "he_100d_1_1";"He 100 D-1";;
 "he_100d_1_2";"He 100 D-1";;
 #
 "he_112a_0_shop";"He 112 A-0 V4 Kanonenvogel";;
-"he_112a_0_0";"Heinkel Flugzeugwerke | He 112 A-0 | Prototype V4 ""Kanonenvogel""";;
+"he_112a_0_0";"<color=@linkTextHoverColorLight>Heinkel Flugzeugwerke</color>
+<color=@userlogColoredText>He 112 A-0</color>
+Prototype V4 ""Kanonenvogel""";;
 "he_112a_0_1";"He 112 A-0 V4 Kanonenvogel";;
 "he_112a_0_2";"He 112 A-0 V4";;
 #
 "he_112v_5_shop";"He 112 A-0 V5";;
-"he_112v_5_0";"Heinkel Flugzeugwerke | He 112 A-0 | Prototype V5";;
+"he_112v_5_0";"<color=@linkTextHoverColorLight>Heinkel Flugzeugwerke</color>
+<color=@userlogColoredText>He 112 A-0</color>
+Prototype V5";;
 "he_112v_5_1";"He 112 A-0 V5";;
 "he_112v_5_2";"He 112 A-0 V5";;
 #
 "he51a1_shop";"He 51 A-1";;
-"he51a1_0";"Heinkel Flugzeugwerke | He 51 A-1";;
+"he51a1_0";"<color=@linkTextHoverColorLight>Heinkel Flugzeugwerke</color>
+<color=@userlogColoredText>He 51 A-1</color>";;
 "he51a1_1";"He 51 A-1";;
 "he51a1_2";"He 51 A-1";;
 #
 "he51b_2w_shop";"He 51 B-2";;
-"he51b_2w_0";"Heinkel Flugzeugwerke | He 51 B-2";;
+"he51b_2w_0";"<color=@linkTextHoverColorLight>Heinkel Flugzeugwerke</color>
+<color=@userlogColoredText>He 51 B-2</color>";;
 "he51b_2w_1";"He 51 B-2";;
 "he51b_2w_2";"He 51 B-2";;
 #
 "he51b1_shop";"He 51 B-1";;
-"he51b1_0";"Heinkel Flugzeugwerke | He 51 B-1";;
+"he51b1_0";"<color=@linkTextHoverColorLight>Heinkel Flugzeugwerke</color>
+<color=@userlogColoredText>He 51 B-1</color>";;
 "he51b1_1";"He 51 B-1";;
 "he51b1_2";"He 51 B-1";;
 #
 "he51c1_shop";"He 51 C-1";;
-"he51c1_0";"Heinkel Flugzeugwerke | He 51 C-1";;
+"he51c1_0";"<color=@linkTextHoverColorLight>Heinkel Flugzeugwerke</color>
+<color=@userlogColoredText>He 51 C-1</color>";;
 "he51c1_1";"He 51 C-1";;
 "he51c1_2";"He 51 C-1";;
 #
 "fw-189a-1_shop";"Fw 189 A-1 Uhu";;
-"fw-189a-1_0";"Focke-Wulf Flugzeugbau AG | Fw 189 A-1 Uhu";;
+"fw-189a-1_0";"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Fw 189 A-1 Uhu</color>";;
 "fw-189a-1_1";"Fw 189 A-1 Uhu";;
 "fw-189a-1_2";"Fw 189 A-1";;
 #
-"ffa_p16_shop";"◌P-16 Mk.III";;
-"ffa_p16_0";"◌Flug- und Fahrzeugwerke Altenrhein (FFA) AG | P-16 Mk.III";;
-"ffa_p16_1";"◌P-16 Mk.III";;
-"ffa_p16_2";"◌P-16 Mk.III";;
+"ffa_p16_shop";"P-16 Mk.III";;
+"ffa_p16_0";"<color=@linkTextHoverColorLight>Flug- und Fahrzeugwerke Altenrhein (FFA) AG</color>
+<color=@userlogColoredText>P-16 Mk.III</color>";;
+"ffa_p16_1";"P-16 Mk.III";;
+"ffa_p16_2";"P-16 Mk.III";;
 #
 "tornado_ids_de_assta3_sle_shop";"◄IDS-Tornado (SLE)";;
-"tornado_ids_de_assta3_sle_0";"Panavia Aircraft GmbH | ◄Tornado | Interdictor/Strike | Service Life Enhancement Program";;
+"tornado_ids_de_assta3_sle_0";"<color=@linkTextHoverColorLight>Panavia Aircraft GmbH</color>
+◄<color=@userlogColoredText>Tornado</color>
+IDS | Interdictor/Strike
+SLE | Service Life Enhancement Program";;
 "tornado_ids_de_assta3_sle_1";"◄IDS-Tornado (SLE)";;
 "tornado_ids_de_assta3_sle_2";"◄IDS-Tornado (SLE)";;
 #
 ef_2000_aesa_shop;◄EF-2000 Typhoon (P3Ec1);;
-ef_2000_aesa_0;Eurofighter Jagdflugzeug GmbH | ◄EF-2000 Typhoon | Tranche 3A | Phase 3, Enhancement C, Step 1;;
+ef_2000_aesa_0;"<color=@linkTextHoverColorLight>Eurofighter Jagdflugzeug GmbH</color>
+◄<color=@userlogColoredText>EF-2000 Typhoon</color>
+Tranche 3A
+Phase 3, Enhancement C, Step 1";;
 ef_2000_aesa_1;◄EF-2000 Typhoon (P3Ec1);;
 ef_2000_aesa_2;◄EF-2000 (P3Ec1);;
 #
 alpha_jet_a_jabog41_shop;◄Alpha Jet A (JaboG 41);;
-alpha_jet_a_jabog41_0;Dassault / Dornier | ◄Alpha Jet A | Jagdbombergeschwader 41;;
+alpha_jet_a_jabog41_0;"<color=@linkTextHoverColorLight>Dassault / Dornier</color>
+◄<color=@userlogColoredText>Alpha Jet A</color>
+Jagdbombergeschwader 41";;
 alpha_jet_a_jabog41_1;◄Alpha Jet A (JaboG 41);;
 alpha_jet_a_jabog41_2;◄Alpha Jet A (JaboG 41);;
 #
 fw_189c_0_shop;Fw 189 C V6 Uhu;;
-fw_189c_0_0;"Focke-Wulf Flugzeugbau AG
-Fw 189 C Uhu
+fw_189c_0_0;"<color=@linkTextHoverColorLight>Focke-Wulf Flugzeugbau AG</color>
+<color=@userlogColoredText>Fw 189 C Uhu</color>
 V6 Prototype";;
 fw_189c_0_1;Fw 189 C V6 Uhu;;
 fw_189c_0_2;Fw 189 C V6;;
 #
 bf_109t_2_shop;Bf 109 T-2 Messer;;
-bf_109t_2_0;"Messerschmitt AG
-Bf 109 T-2 Messer";;
+bf_109t_2_0;"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Bf 109 T-2 Messer</color>";;
 bf_109t_2_1;Bf 109 T-2 Messer;;
 bf_109t_2_2;Bf 109 T-2;;
 #
 me_210a_1_shop;Me 210 A-1 Hornisse;;
-me_210a_1_0;"Messerschmitt AG
-Me 210 A-1 Hornisse";;
+me_210a_1_0;"<color=@linkTextHoverColorLight>Messerschmitt AG</color>
+<color=@userlogColoredText>Me 210 A-1 Hornisse</color>";;
 me_210a_1_1;Me 210 A-1 Hornisse;;
 me_210a_1_2;Me 210 A-1;;
 #
 ia_58a_pucara_shop;IA 58A Pucara;;
-ia_58a_pucara_0;"Fábrica Argentina de Aviones SA (FAdeA)
-IA 58A Pucara";;
+ia_58a_pucara_0;"<color=@linkTextHoverColorLight>Fábrica Argentina de Aviones SA (FAdeA)</color>
+<color=@userlogColoredText>IA 58A Pucara</color>";;
 ia_58a_pucara_1;IA 58A Pucara;;
 ia_58a_pucara_2;IA 58A;;
 #
