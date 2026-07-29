@@ -204,11 +204,11 @@ SM.79bis Sparviero (1943)";;
 "sm_79_1943_italy_1";"SM.79bis Sparviero (1943)";;
 "sm_79_1943_italy_2";"SM.79bis (1943)";;
 #
-"sm_79_iar_italy_shop";"SM.79B Sparviero";;
+"sm_79_iar_italy_shop";"S. 79 B";;
 "sm_79_iar_italy_0";"Società Anonima Costruzioni Aeronautiche Savoia-Marchetti
-SM.79B Sparviero";;
-"sm_79_iar_italy_1";"SM.79B Sparviero";;
-"sm_79_iar_italy_2";"SM.79B";;
+S. 79 B";;
+"sm_79_iar_italy_1";"S. 79 B";;
+"sm_79_iar_italy_2";"S. 79 B";;
 #
 "z_1007_bis_serie5_shop";"Z.1007bis Alcione (Serie 5)";;
 "z_1007_bis_serie5_0";"Cantieri Aeronautici e Navali Triestini
@@ -229,11 +229,18 @@ U2 | Umrüstbausatz 2";;
 "he_112b_1_italy_1";"▄He 112 B-1/U2";;
 "he_112b_1_italy_2";"▄He 112 B-1/U2";;
 #
-"iar_81c_shop";"IAR 81C";;
-"iar_81c_0";"Industria Aeronautică Română
-IAR 81C";;
-"iar_81c_1";"IAR 81C";;
-"iar_81c_2";"IAR 81C";;
+"iar_81c_shop";"I.A.R. 81 C";;
+"iar_81c_0";"<color=@linkTextHoverColorLight>Industria Aeronautică Română</color>
+<color=@userLogColoredText>I.A.R. 81 C</color>";;
+"iar_81c_1";"I.A.R. 81 C";;
+"iar_81c_2";"I.A.R. 81 C";;
+#
+"iar_81c_db_605_shop";"I.A.R. 81 C (DB 605 A)";;
+"iar_81c_db_605_0";"<color=@linkTextHoverColorLight>Industria Aeronautică Română</color>
+<color=@userLogColoredText>I.A.R. 81 C</color>
+DB 9-605 A Engine";;
+"iar_81c_db_605_1";"I.A.R. 81 C (DB 605 A)";;
+"iar_81c_db_605_2";"I.A.R. 81 C (DB 605 A)";;
 #
 "re_2000_int_shop";"Re.2000 Falco I";;
 "re_2000_int_0";"Officine Meccaniche Reggiane S.p.A
@@ -463,11 +470,14 @@ Ariete";;
 "ariete_1";"Ariete";;
 "ariete_2";"Ariete";;
 #
-"iar_93b_shop";"IAR-93B Vultur";;
-"iar_93b_0";"Avioane Craiova S.A.
-IAR-93B Vultur";;
-"iar_93b_1";"IAR-93B Vultur";;
-"iar_93b_2";"IAR-93B";;
+<color=@linkTextHoverColorLight>Officine Meccaniche Italiane S.p.A</color>
+<color=@userLogColoredText>Re.2005 Sagittario</color>
+
+"iar_93b_shop";"I.A.R. 93 B Vultur";;
+"iar_93b_0";"<color=@linkTextHoverColorLight>Avioane Craiova S.A.</color>
+<color=@userLogColoredText>I.A.R. 93 B Vultur</color>";;
+"iar_93b_1";"I.A.R. 93 B Vultur";;
+"iar_93b_2";"I.A.R. 93 B";;
 #
 "fiat_g91_y_shop";"G.91Y";;
 "fiat_g91_y_0";"Fiat Aviazone
