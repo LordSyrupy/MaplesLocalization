@@ -325,9 +325,9 @@ typhoon_mk1a_2;Typhoon Mk.IA;
 "thunderbolt_mk1_1";"▄P-47D-22 Thunderbolt Mk.1";
 "thunderbolt_mk1_2";"▄P-47D-22";
 #
-"p-51b_shop";"▄P-51B Mustang Mk.IA";
-"p-51b_0";"North American Aviation | ▄P-51B Mustang Mk.IA";
-"p-51b_1";"▄P-51B Mustang Mk.IA";
+"p-51b_shop";"▄P-51B Mustang Mk.IA";
+"p-51b_0";"North American Aviation | ▄P-51B Mustang Mk.IA";
+"p-51b_1";"▄P-51B Mustang Mk.IA";
 "p-51b_2";"▄P-51B Mk.IA";
 #
 "seafire_mk3_shop";"Seafire L.III";
@@ -385,20 +385,20 @@ typhoon_mk1a_2;Typhoon Mk.IA;
 "spitfire_f24_1";"Spitfire F.24";
 "spitfire_f24_2";"Spitfire F.24";
 #
-"spitfire_ix_plagis_shop";"Spitfire LF.IXc [Plagis]";
+"spitfire_ix_plagis_shop";"Spitfire LF.IXc [Plagis]";
 "spitfire_ix_plagis_0";"Supermarine Aviation Works | Spitfire | Low-Altitude Fighter, Mk.IXc";
-"spitfire_ix_plagis_1";"Spitfire LF.IXc [Plagis]";
-"spitfire_ix_plagis_2";"Spitfire LF.IXc";
+"spitfire_ix_plagis_1";"Spitfire LF.IXc [Plagis]";
+"spitfire_ix_plagis_2";"Spitfire LF.IXc";
 #
-"spitfire_ix_shop";"Spitfire LF.IX";
+"spitfire_ix_shop";"Spitfire LF.IX";
 "spitfire_ix_0";"Supermarine Aviation Works | Plagis' Spitfire | Low-Altitude Fighter, Mk.IX";
-"spitfire_ix_1";"Spitfire LF.IX";
-"spitfire_ix_2";"Spitfire LF.IX";
+"spitfire_ix_1";"Spitfire LF.IX";
+"spitfire_ix_2";"Spitfire LF.IX";
 #
-"spitfire_ix_tutorial_shop";"Spitfire LF.IX";
+"spitfire_ix_tutorial_shop";"Spitfire LF.IX";
 "spitfire_ix_tutorial_0";"Supermarine Aviation Works | Spitfire | Low-Altitude Fighter, Mk.IX";
-"spitfire_ix_tutorial_1";"Spitfire LF.IX";
-"spitfire_ix_tutorial_2";"Spitfire LF.IX";
+"spitfire_ix_tutorial_1";"Spitfire LF.IX";
+"spitfire_ix_tutorial_2";"Spitfire LF.IX";
 #
 "wyvern_s4_shop";"Wyvern S.4";
 "wyvern_s4_0";"Westland Aircraft | W.35 Wyvern | Strike, Mk.4";
@@ -420,6 +420,13 @@ typhoon_mk1a_2;Typhoon Mk.IA;
 "tempest_mkv_1";"Tempest F.V";
 "tempest_mkv_2";"Tempest F.V";
 #
+strikemaster_mk88_shop;Strikemaster Mk. 88
+strikemaster_mk88_0;"British Aircraft Corporation
+BAC 167
+Strikemaster Mk. 88 ""Blunty"""
+strikemaster_mk88_1;Strikemaster Mk. 88
+strikemaster_mk88_2;Strikemaster Mk. 88
+#
 "venom_fb4_shop";"Venom FB.4";
 "venom_fb4_0";"de Havilland Aircraft Company, Ltd. | DH.112 Venom | Fighter-Bomber, Mk.4";
 "venom_fb4_1";"Venom FB.4";
@@ -440,7 +447,7 @@ typhoon_mk1a_2;Typhoon Mk.IA;
 "meteor_fmk3_navy_1";"Sea Meteor F.3";
 "meteor_fmk3_navy_2";"Sea Meteor F.3";
 #
-"meteor_fmk4_lw_shop";"G.41F Meteor F.4";
+"meteor_fmk4_lw_shop";"G.41F Meteor F.4";
 "meteor_fmk4_lw_0";"Gloster Aircraft Company, Ltd. | Meteor | Fighter, Mk.4, Type G.41F";
 "meteor_fmk4_lw_1";"G.41F Meteor F.4";
 "meteor_fmk4_lw_2";"G.41F Meteor F.4";
@@ -450,9 +457,9 @@ typhoon_mk1a_2;Typhoon Mk.IA;
 "meteor_fmk4_sw_1";"G.41G Meteor F.4";
 "meteor_fmk4_sw_2";"G.41G Meteor F.4";
 #
-"meteor_fmk8_shop";"G.41K Meteor F.8";
+"meteor_fmk8_shop";"G.41K Meteor F.8";
 "meteor_fmk8_0";"Gloster Aircraft Company, Ltd. | Meteor | Fighter, Mk.8, Type G.41K";
-"meteor_fmk8_1";"G.41K Meteor F.8";
+"meteor_fmk8_1";"G.41K Meteor F.8";
 "meteor_fmk8_2";"G.41K Meteor F.8";
 #
 "attaker_fb1_shop";"Attacker FB.1";
